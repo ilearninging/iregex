@@ -1,0 +1,1 @@
+{"id":"180649","urlID":"3c2tr","name":"Regex Untuk Splitter JS {123}","description":"Untuk spliitin commonline array cl4 & cl5","content":"erwrer{123}werwer{3343}werwer{12}werwerwer{234}","weightedVote":"2.5","numVotes":"0","author":"irul","community":"1","dateAdded":"2015-10-27","pattern":"(\\{\\d+\\})","replace":"$1","state":"{\"substEnabled\":true}"}

@@ -1,0 +1,1 @@
+{"id":"162158","urlID":"3acoa","name":"horizontal and vertical","description":"matching horizontal and vertical multiple whitespaces","content":"\n\n    \n\t ","weightedVote":"2.5","numVotes":"0","author":"n","community":"1","dateAdded":"2015-02-09","pattern":"[\\n|\\n\\r|\\r|\\v|\\f|\\t]+","replace":"","state":""}

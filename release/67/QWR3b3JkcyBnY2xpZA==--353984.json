@@ -1,0 +1,1 @@
+{"id":"178218","urlID":"3brpu","name":"Adwords gclid","description":"Find the Adwords gclid Parameter","content":"\"http:\/\/www.example.com\/?gclid=TeSter-123#bookmark\",","weightedVote":"2.5","numVotes":"0","author":"atcen","community":"1","dateAdded":"2015-09-24","pattern":"\\?*\\&*gclid=[a-z A-Z \\- 0-9 \\_]*","replace":"","state":"{\"substEnabled\":false}"}

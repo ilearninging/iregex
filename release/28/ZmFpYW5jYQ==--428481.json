@@ -1,0 +1,1 @@
+{"id":"147361","urlID":"391d3","name":"faianca","description":"date value","content":"18-06-2014 12:00:00 220.6","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-20","pattern":"(((0[1-9]|[12][0-9]|3[01])-(0[1-9]|1[012])-(19|20)\\d\\d)\\s((\\d{2}:?){3})|(\\d+\\.?\\d+))","replace":"","state":""}

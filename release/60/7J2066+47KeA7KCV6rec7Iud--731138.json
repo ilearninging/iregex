@@ -1,0 +1,1 @@
+{"id":"172893","urlID":"3bc6n","name":"\uc774\ubbf8\uc9c0\uc815\uaddc\uc2dd","description":"","content":"<img src=\"test.jpg\" \/>","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-10","pattern":"<img [^>]*src=\"([^\"]+)\"[^>]*>","replace":"","state":"{\"substEnabled\":false}"}

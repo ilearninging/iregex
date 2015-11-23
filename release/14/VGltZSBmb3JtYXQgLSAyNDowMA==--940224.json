@@ -1,0 +1,1 @@
+{"id":"3073","urlID":"2rqm3","name":"Time format - 24:00","description":"HH:MM\r\rFrom 00:00 to 24:00","content":"","weightedVote":"2.62245","numVotes":"2","author":"Mouse","community":"1","dateAdded":"2010-07-20","pattern":"^(([0-1]{1}[0-9]{1})|([2]{1}[0-4]{1})):(([0-5]{1}[0-9]{1})|60)$\/","replace":"","state":""}

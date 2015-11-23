@@ -1,0 +1,1 @@
+{"id":"14782","urlID":"2ssvq","name":"YoutubeID","description":"youtube video ID (works for youtube.com and youtu.be)","content":"","weightedVote":"3.26389","numVotes":"1","author":"Nemesis-studio.com","community":"1","dateAdded":"2011-01-14","pattern":"(?:youtube.[a-z]+\/[a-z\\?\\&]*v[\/|=]|youtu.be\/)([0-9a-zA-Z-_]+)","replace":"","state":""}

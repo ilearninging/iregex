@@ -1,0 +1,1 @@
+{"id":"430","urlID":"2riua","name":"Beuth HRZ Account","description":"checks if it is a valid hrz account\r\r- starts with an s\r- followed by 6 numbers","content":"","weightedVote":"2.5","numVotes":"0","author":"kibotu","community":"1","dateAdded":"2010-03-26","pattern":"^s?[0-9]{6}$","replace":"","state":""}

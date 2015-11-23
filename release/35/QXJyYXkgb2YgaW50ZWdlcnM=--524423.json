@@ -1,0 +1,1 @@
+{"id":"152215","urlID":"39fk5","name":"Array of integers","description":"Array of numbers in the square brackets","content":"[57,56,273648,34634,-43,-526,-56323526,2]","weightedVote":"2.5","numVotes":"0","author":"Wohlstand","community":"1","dateAdded":"2014-09-10","pattern":"^\\[(\\-?\\d+,?)*\\]$","replace":"","state":""}

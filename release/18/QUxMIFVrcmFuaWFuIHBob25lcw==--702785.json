@@ -1,0 +1,1 @@
+{"id":"52967","urlID":"30crl","name":"ALL Ukranian phones","description":"xxx-xxxxxxx\rxxxx-xxxxxx\rxxxxx-xxxxx","content":"","weightedVote":"2.5","numVotes":"0","author":"M.Kornienko","community":"1","dateAdded":"2012-03-20","pattern":"^0[1-9]\\d\\-\\d{7}|0[1-9]\\d{2}\\-\\d{6}|0[1-9]\\d{3}\\-\\d{5}$","replace":"","state":""}

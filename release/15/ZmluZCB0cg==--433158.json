@@ -1,0 +1,1 @@
+{"id":"466","urlID":"2rj1m","name":"find tr","description":"find tr in html","content":"","weightedVote":"2.5","numVotes":"0","author":"jim","community":"1","dateAdded":"2010-04-18","pattern":"\\s*<tr[^]*>","replace":"","state":""}

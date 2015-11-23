@@ -1,0 +1,1 @@
+{"id":"150019","urlID":"39969","name":"SSN Non Consecutive","description":"","content":"111111111\n222222222\n641850201","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-08-05","pattern":"(?!\\b(\\d)\\1+(\\d)\\1+(\\d)\\1+\\b)(?!123456789|219099999|078051120)(?!666|000|9\\d{2})\\d{3}(?!00)\\d{2}(?!0{4})\\d{4}","replace":"","state":""}

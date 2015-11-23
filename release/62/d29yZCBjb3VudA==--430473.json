@@ -1,0 +1,1 @@
+{"id":"174340","urlID":"3bgec","name":"word count","description":"","content":"Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet a","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-30","pattern":"^(?:\\b\\w+\\b[\\s\\r\\n]*){1,10}$","replace":"","state":"{\"substEnabled\":false}"}

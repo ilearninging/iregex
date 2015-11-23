@@ -1,0 +1,1 @@
+{"id":"150707","urlID":"39b6p","name":"EDict parsing","description":"Parses records from EDict file","content":"\u5f1f [\u304a\u3068\u3046\u3068] \/(n) brother\/\n\u3042\u308a\u304c\u3068\u3046 \/(v) thank you\/","weightedVote":"2.5","numVotes":"0","author":"Kazarp","community":"1","dateAdded":"2014-08-17","pattern":"^([^ ]+)(?: \\[(.*)\\])? \/(.*)\/$","replace":"","state":""}

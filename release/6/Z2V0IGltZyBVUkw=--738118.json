@@ -1,0 +1,1 @@
+{"id":"105962","urlID":"3583u","name":"get img URL","description":"source: <img src=\"http:\/\/www.somesite.com\/somepicture.jpg\">\r\r\rresult: http:\/\/www.somesite.com\/somepicture.jpg","content":"","weightedVote":"3.26389","numVotes":"1","author":"Burak BASTEMUR","community":"1","dateAdded":"2013-06-15","pattern":"img (src=\"http:\/\/.*?\")\/gsm","replace":"","state":""}

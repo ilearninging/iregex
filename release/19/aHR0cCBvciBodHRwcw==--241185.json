@@ -1,0 +1,1 @@
+{"id":"68820","urlID":"31r9s","name":"http or https","description":"Match http or https url","content":"","weightedVote":"2.5","numVotes":"0","author":"oldno7","community":"1","dateAdded":"2012-08-14","pattern":"https?:\/\/\\w.*[\\w]","replace":"","state":""}

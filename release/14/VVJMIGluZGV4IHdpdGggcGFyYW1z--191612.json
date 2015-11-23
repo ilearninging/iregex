@@ -1,0 +1,1 @@
+{"id":"310","urlID":"2rij2","name":"URL index with params","description":"Matches the index files in PHP, with or without parameters.\rUseful for google analytics","content":"","weightedVote":"2.5","numVotes":"0","author":"Juan Pablo Mattenet","community":"1","dateAdded":"2010-01-07","pattern":"\/index[0-9]*.php(([\\&\\?]([-a-zA-Z%_]+=[-a-zA-Z0-9]*))+)*","replace":"","state":""}

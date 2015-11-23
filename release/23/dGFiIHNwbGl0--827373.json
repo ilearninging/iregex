@@ -1,0 +1,1 @@
+{"id":"137852","urlID":"385hk","name":"tab split","description":"Split line on tab","content":"","weightedVote":"2.5","numVotes":"0","author":"cocs","community":"1","dateAdded":"2014-01-29","pattern":"(?:^|\\t)(\\\"(?:[^\\\"]+|\\\"\\\")*\\\"|[^\\t]*)","replace":"","state":""}

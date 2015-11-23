@@ -1,0 +1,1 @@
+{"id":"166483","urlID":"3apdp","name":"Global domain name validator","description":"You can validate any domain by using this pattern","content":"*.s.s","weightedVote":"3.26389","numVotes":"1","author":"Meer Zohaib","community":"1","dateAdded":"2015-04-08","pattern":"^([a-zA-Z0-9\\-\\*\\.]+[\\.]{1,}[a-zA-Z0-9\\-\\*]{1,})$\/","replace":"","state":"{\"substEnabled\":false}"}

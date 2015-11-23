@@ -1,0 +1,1 @@
+{"id":"170970","urlID":"3b6ie","name":"vtigermailconverterfail","description":"failing regex in vtiger mailconverter","content":"vtiger.testing7","weightedVote":"2.5","numVotes":"0","author":"Chris","community":"1","dateAdded":"2015-06-11","pattern":"^[\\w _\\-]+$","replace":"","state":"{\"substEnabled\":false}"}

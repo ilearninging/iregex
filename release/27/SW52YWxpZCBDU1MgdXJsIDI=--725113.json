@@ -1,0 +1,1 @@
+{"id":"146450","urlID":"38unm","name":"Invalid CSS url 2","description":"","content":"background-image:url(..\/img\/entete_echange_expert.png)","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-04","pattern":"(\\(['|\"]?)(.*?)(?:['|\"]?\\))","replace":"(\"$1\")","state":""}

@@ -1,0 +1,1 @@
+{"id":"159297","urlID":"3a4c3","name":"CPF Validator","description":"An expression to validate Brazilian CPF","content":"000.000.000-00\n12345678901\n123456789-01","weightedVote":"2.5","numVotes":"0","author":"Bruno Geronimo","community":"1","dateAdded":"2014-12-23","pattern":"^([0-9]{3}.[0-9]{3}.[0-9]{3}-[0-9]{2})|([0-9]{11})|([0-9]{9}-[0-9]{2})$","replace":"","state":""}

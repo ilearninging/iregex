@@ -1,0 +1,1 @@
+{"id":"138612","urlID":"387os","name":"Flickr API Key","description":"Limit string to 32 characters with at least 12 numbers and 6 lowercase letters.","content":"","weightedVote":"2.88194","numVotes":"1","author":"Toddsby","community":"1","dateAdded":"2014-02-06","pattern":"(?=^.{32}$)(?=(.*[0-9]){12,})(?=(.*[a-z]){6,})(?!(.*[A-Z])+)^.*\/","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"151657","urlID":"39dvr","name":"URL regex test","description":"","content":"\/region_123\/","weightedVote":"2.5","numVotes":"0","author":"GNi33","community":"1","dateAdded":"2014-09-01","pattern":"\\\/(([\\w-]+)_([1-9]+))*\\\/?(([\\w-]+)_([1-9]+))*\\\/?(([\\w-]+)_([1-9]+))*\/","replace":"","state":""}

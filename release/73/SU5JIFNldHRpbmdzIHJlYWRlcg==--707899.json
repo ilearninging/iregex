@@ -1,0 +1,1 @@
+{"id":"36733","urlID":"2ut9n","name":"INI Settings reader","description":"Read config files in simple INI format","content":"","weightedVote":"2.11806","numVotes":"1","author":"Angelo Verona","community":"1","dateAdded":"2011-10-10","pattern":"(.+?)=?\\\"(.*)\\\"","replace":"","state":""}

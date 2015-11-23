@@ -1,0 +1,1 @@
+{"id":"156886","urlID":"39ta2","name":"Dollar Amounts","description":"Dollar amounts and strings","content":"$352,408.33 Hello","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-13","pattern":"(^\\$\\d+\\W\\w\\S+)","replace":"","state":""}

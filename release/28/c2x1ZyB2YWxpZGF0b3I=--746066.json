@@ -1,0 +1,1 @@
+{"id":"146730","urlID":"38vhu","name":"slug validator","description":"to detect slug of post variables with - _ characters","content":"monslug \nmon-slug\nmon-super-slug-26-'-sd\nmon_slug-avec_different-separateurs","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-09","pattern":"([-_]*[a-zA-Z0-9]+([-_]*[a-zA-Z0-9]+)*)","replace":"","state":""}

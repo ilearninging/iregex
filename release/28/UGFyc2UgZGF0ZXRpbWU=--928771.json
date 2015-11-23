@@ -1,0 +1,1 @@
+{"id":"147057","urlID":"390gj","name":"Parse datetime","description":"Splits the date time using delimiters ","content":"DD\/MM\/YY HH24:mm:SS.s\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-15","pattern":"[\\\/\\\/:.\\s]","replace":"","state":""}

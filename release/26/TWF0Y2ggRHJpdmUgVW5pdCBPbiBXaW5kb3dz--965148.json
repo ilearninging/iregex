@@ -1,0 +1,1 @@
+{"id":"145413","urlID":"38rmf","name":"Match Drive Unit On Windows","description":"Match Drive Unit On Windows","content":"c:\\yourpath\\anotherfolder","weightedVote":"2.5","numVotes":"0","author":"Julio Sampaio","community":"1","dateAdded":"2014-05-15","pattern":"^([A-Z|a-z][:])|^\\\/\\\/(.*?)(?=\\\/)","replace":"","state":""}

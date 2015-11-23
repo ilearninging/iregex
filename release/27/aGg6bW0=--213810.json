@@ -1,0 +1,1 @@
+{"id":"146422","urlID":"38ul2","name":"hh:mm","description":"Grabs anything formatted like a time (no filter)","content":"Time: (\"hh:mm\")\n14:00\n08:00\n8:00\n12:57\n27:00","weightedVote":"2.5","numVotes":"0","author":"IronWombat","community":"1","dateAdded":"2014-06-03","pattern":"\\d{2}:\\d{2}","replace":"","state":""}

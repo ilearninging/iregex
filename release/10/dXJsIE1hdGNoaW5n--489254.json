@@ -1,0 +1,1 @@
+{"id":"289","urlID":"2rih3","name":"url Matching","description":"matches urls","content":"","weightedVote":"3.07292","numVotes":"1","author":"Rush-me","community":"1","dateAdded":"2009-12-15","pattern":"https?:\\\/\\\/([-\\w\\.]+)+(:\\d+)?(\\\/([\\w\\\/_\\.]*(\\?\\S+)?)?)?\/","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"165912","urlID":"3ano8","name":"nospace8,20","description":"","content":"fffffff ","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-31","pattern":"^[^-\\s]{8,20}$","replace":"","state":"{\"substEnabled\":false}"}

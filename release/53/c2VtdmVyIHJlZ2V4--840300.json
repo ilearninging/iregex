@@ -1,0 +1,1 @@
+{"id":"167557","urlID":"3asif","name":"semver regex","description":"semver regex","content":"1\n1.2.3\n1.2.3-asdkhjgf\n1-asdjkfg\n1.2-1.2.3.4-asdfasdf","weightedVote":"2.5","numVotes":"0","author":"AbrarSyed","community":"1","dateAdded":"2015-04-23","pattern":"[\\d.]+.?-?(.*)?","replace":"","state":"{\"substEnabled\":false}"}

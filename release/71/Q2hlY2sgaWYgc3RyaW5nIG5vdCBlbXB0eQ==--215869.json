@@ -1,0 +1,1 @@
+{"id":"181253","urlID":"3c4mf","name":"Check if string not empty","description":"It will not say ok if the skrig is empty or just have space(s)","content":"gggggggggggg                              ","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-11-04","pattern":".*\\S.*\/","replace":"","state":"{\"substEnabled\":false}"}

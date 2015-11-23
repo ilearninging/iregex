@@ -1,0 +1,1 @@
+{"id":"146982","urlID":"3909i","name":"Text inside <div>","description":"","content":"<div class=\"someClass\" moreattr=\"attr\">Some text with <issues><\/div>        <div class=\"anotherClass>Test<\/div>","weightedVote":"3.26389","numVotes":"1","author":"Aniket Pant","community":"1","dateAdded":"2014-06-13","pattern":"<div[^>]*>(.*?)<\\\/div>","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"104574","urlID":"3541q","name":"Domain Pattern","description":"This regular expression accept domain name as \"www.mysite.com\"","content":"","weightedVote":"2.5","numVotes":"0","author":"Carmine De Fusco","community":"1","dateAdded":"2013-06-04","pattern":"[www]+\\.[a-z]+\\.[a-z]{2,3}","replace":"","state":""}

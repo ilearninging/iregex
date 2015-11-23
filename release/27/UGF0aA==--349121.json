@@ -1,0 +1,1 @@
+{"id":"146697","urlID":"38ver","name":"Path","description":"","content":"\/foo\/bar\/baz\/\n\/baz\/\n\/foo\/bar\/","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-08","pattern":"^(?:\\\/[^\/]+\\\/[^\/]+)?\\\/([^\/]+)\/?$","replace":"","state":""}

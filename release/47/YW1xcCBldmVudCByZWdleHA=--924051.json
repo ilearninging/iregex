@@ -1,0 +1,1 @@
+{"id":"163150","urlID":"3afla","name":"amqp event regexp","description":"checks if an amqp topic routing key is valid","content":"a.b.c\na\na.b\na..b\na.","weightedVote":"2.5","numVotes":"0","author":"jksdua@gmail.com","community":"1","dateAdded":"2015-02-21","pattern":"^(([a-z])(\\.[a-z]+)*){1,255}$","replace":"","state":""}

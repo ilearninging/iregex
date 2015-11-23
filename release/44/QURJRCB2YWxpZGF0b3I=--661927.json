@@ -1,0 +1,1 @@
+{"id":"160221","urlID":"3a72n","name":"ADID validator","description":"","content":"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-13","pattern":"^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$","replace":"","state":""}

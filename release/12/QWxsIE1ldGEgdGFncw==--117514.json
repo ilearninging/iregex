@@ -1,0 +1,1 @@
+{"id":"234","urlID":"2ribu","name":"All Meta tags","description":"Matches all html and XHTML Meta tags","content":"","weightedVote":"2.88194","numVotes":"1","author":"Danny O'Brian","community":"1","dateAdded":"2009-11-13","pattern":"<meta.*\/>","replace":"","state":""}

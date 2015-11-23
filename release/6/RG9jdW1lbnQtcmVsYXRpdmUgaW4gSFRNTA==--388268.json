@@ -1,0 +1,1 @@
+{"id":"134304","urlID":"37r50","name":"Document-relative in HTML","description":"This Pattern will match a document-relative link in HTML code.","content":"","weightedVote":"3.26389","numVotes":"1","author":"Guillermo Arellano","community":"1","dateAdded":"2013-12-31","pattern":"\\.\\.\/(.*?)\/","replace":"","state":""}

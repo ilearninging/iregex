@@ -1,0 +1,1 @@
+{"id":"579","urlID":"2rjc9","name":"[a-zA-Z0-9]","description":"Matches only alphanumerics. Or \/[^a-zA-Z0-9]\/g for everything (including spaces) but alphanumerics.","content":"","weightedVote":"2.69097","numVotes":"1","author":"Mike","community":"1","dateAdded":"2010-06-15","pattern":"[a-zA-Z0-9]","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"178751","urlID":"3btbt","name":"Remove mailto: in email","description":"Removes the Mailto: before the email in an email link","content":"mailto:info@youngmedicalspa-lansdale.com","weightedVote":"2.5","numVotes":"0","author":"Keegan","community":"1","dateAdded":"2015-10-01","pattern":"(?![\\w]*\\:)[\\w]*\\@[\\s\\S]+\/","replace":"","state":"{\"substEnabled\":false}"}

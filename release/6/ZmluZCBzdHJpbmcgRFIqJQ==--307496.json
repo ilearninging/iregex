@@ -1,0 +1,1 @@
+{"id":"130552","urlID":"37g58","name":"find string DR*%","description":"sample text :\rJohn : 1000 Second(s) on a (100X100) grid with 2 Mine(s) DR: 10.00%\r06:34:23","content":"","weightedVote":"3.26389","numVotes":"1","author":"penjepitkertasku","community":"1","dateAdded":"2013-12-03","pattern":"DR: .*%","replace":"","state":""}

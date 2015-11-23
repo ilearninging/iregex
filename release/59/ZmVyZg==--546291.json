@@ -1,0 +1,1 @@
+{"id":"172519","urlID":"3bb3l","name":"ferf","description":"gergw","content":"\n","weightedVote":"2.5","numVotes":"0","author":"erg","community":"1","dateAdded":"2015-07-06","pattern":"(,\"\")+$","replace":"","state":"{\"substEnabled\":false}"}

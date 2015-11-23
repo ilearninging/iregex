@@ -1,0 +1,1 @@
+{"id":"181316","urlID":"3c4sc","name":"not working","description":"not working","content":"Sample text for testing:\n\n19\n1998\n1998-\n1998-20\n1998-2015","weightedVote":"2.5","numVotes":"0","author":"XByte","community":"1","dateAdded":"2015-11-05","pattern":"^((\\d{4})([-]{1})(\\d{4})?)$","replace":"","state":"{\"substEnabled\":false}"}

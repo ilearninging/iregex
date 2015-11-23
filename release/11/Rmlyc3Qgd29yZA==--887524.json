@@ -1,0 +1,1 @@
+{"id":"128717","urlID":"37ap7","name":"First word","description":"Returns whole string until first space.","content":"","weightedVote":"2.95833","numVotes":"1","author":"Zoran Vidakovi\u0107","community":"1","dateAdded":"2013-11-22","pattern":"^[^\\s]+\/","replace":"","state":""}

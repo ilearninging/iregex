@@ -1,0 +1,1 @@
+{"id":"160752","urlID":"3a8kg","name":"Bundle id","description":"Bundle id for mobile applications","content":"com.jungl.android.App","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-21","pattern":"^[a-zA-Z0-9]+\\.[a-zA-Z0-9]+(\\.[a-zA-Z0-9]+)+$","replace":"","state":""}

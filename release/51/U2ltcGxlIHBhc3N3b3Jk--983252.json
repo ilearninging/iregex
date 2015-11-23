@@ -1,0 +1,1 @@
+{"id":"166099","urlID":"3ao9p","name":"Simple password","description":"Alphanumeric with at least 1 number and 1 character.","content":"asdf4A","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-02","pattern":"^(?=.*[0-9])(?=.*[a-z])([a-z0-9]+)$","replace":"","state":"{\"substEnabled\":false}"}

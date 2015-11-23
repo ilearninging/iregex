@@ -1,0 +1,1 @@
+{"id":"177062","urlID":"3bodi","name":"Full name to short name","description":"Capture the first initial and last name.","content":"Edward Benn","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-09-09","pattern":"^(.)(\\w+) ([A-Z][a-z]*)","replace":"$`","state":"{\"substEnabled\":true}"}

@@ -1,0 +1,1 @@
+{"id":"452","urlID":"2rj0c","name":"ISBN finder in a file name","description":"find atleast 10 digits from end of a pattern\rcan be isbn number at the end of filename","content":"","weightedVote":"2.5","numVotes":"0","author":"Peji Kokabi","community":"1","dateAdded":"2010-04-13","pattern":"([0-9]{10,13})$","replace":"","state":""}

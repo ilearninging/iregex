@@ -1,0 +1,1 @@
+{"id":"176823","urlID":"3bnn5","name":"Link","description":"","content":"He is the link with <a href=\"http:\/\/csgodices.com\/ackgift\/sadspsp\">","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-09-04","pattern":"<a [^>]*\\bhref\\s*=\\s*\"([^\"]*ackgift[^\"]*)\/","replace":"","state":"{\"substEnabled\":false}"}

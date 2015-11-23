@@ -1,0 +1,1 @@
+{"id":"120841","urlID":"36jmr","name":"YYYY-MM-DD_HH-MM-SS","description":"Matches standard date\/time of log file names.","content":"","weightedVote":"2.5","numVotes":"0","author":"Teejay","community":"1","dateAdded":"2013-10-04","pattern":"\\d{4}-(0(?!0)|1(?=[0-2]))\\d-(0(?!0)|[1-2]|3(?=[0-1]))\\d_([0-1]|2(?=[0-3]))\\d(-[0-5]\\d){2}\\.db","replace":"","state":""}

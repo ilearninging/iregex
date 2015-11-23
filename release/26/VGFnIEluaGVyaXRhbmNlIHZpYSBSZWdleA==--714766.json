@@ -1,0 +1,1 @@
+{"id":"145833","urlID":"38str","name":"Tag Inheritance via Regex","description":"","content":"US::California::Westminster\nUS::Colorado::Westminster","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-05-23","pattern":"US::.+::Westminster","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"71555","urlID":"323a9","name":"pppp","description":"ppp","content":"","weightedVote":"2.5","numVotes":"0","author":"pppp","community":"1","dateAdded":"2012-09-08","pattern":"regex = re.findall(r'<a href=\"\/(.*)\/\">(.*)<\/a>',page)for text in regex:title = text[1]url = text[0] ","replace":"","state":""}

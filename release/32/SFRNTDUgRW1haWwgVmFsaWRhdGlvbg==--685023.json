@@ -1,0 +1,1 @@
+{"id":"150016","urlID":"39960","name":"HTML5 Email Validation","description":"","content":"matt@mATT","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-08-05","pattern":"^[a-zA-Z0-9.!#$%&'*+\/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$\/","replace":"","state":""}

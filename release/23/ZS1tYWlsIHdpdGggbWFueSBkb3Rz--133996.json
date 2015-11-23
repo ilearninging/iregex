@@ -1,0 +1,1 @@
+{"id":"130307","urlID":"37fe9","name":"e-mail with many dots","description":"get email with many dots","content":"","weightedVote":"2.5","numVotes":"0","author":"Herbert de Oliveira","community":"1","dateAdded":"2013-12-02","pattern":"([a-zA-Z0-9-]{3,}.)?[a-zA-Z0-9-]{1,}@([a-zA-Z\\.])?[a-zA-Z]{1,}\\.[a-zA-Z]{1,4}(.[a-zA-Z]{1,})?(.[a-zA-Z]{1,})?","replace":"","state":""}

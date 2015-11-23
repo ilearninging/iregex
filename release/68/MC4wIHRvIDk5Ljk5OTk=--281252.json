@@ -1,0 +1,1 @@
+{"id":"179340","urlID":"3bv34","name":"0.0 to 99.9999","description":"macth with integer and real numbers from range 0 to 99.999","content":"99.9999","weightedVote":"2.5","numVotes":"0","author":"Paulo Filipe","community":"1","dateAdded":"2015-10-09","pattern":"^[0-9]{1,2}(\\.[0-9]{1,4}){0,1}$","replace":"","state":"{\"substEnabled\":false}"}

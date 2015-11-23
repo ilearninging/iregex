@@ -1,0 +1,1 @@
+{"id":"4048","urlID":"2rthg","name":"Generalize CSS","description":"Strip out all CSS selectors that involve IDs or classes. Leaves only simple element selectors.\r","content":"","weightedVote":"2.5","numVotes":"0","author":"Dan","community":"1","dateAdded":"2010-08-05","pattern":"[^}]*[\\#\\.][^{}]*{.*?}\/gis","replace":"","state":""}

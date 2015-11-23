@@ -1,0 +1,1 @@
+{"id":"5","urlID":"2rhmf","name":"CDATA Tags","description":"Will match any cdata tags in a string.","content":"","weightedVote":"3.21429","numVotes":"2","author":"Ryan Matsikas","community":"1","dateAdded":"2009-05-26","pattern":"(\\<|<)\\!\\[[\\w\\s]*?\\[(.|\\s)*?\\]\\](\\>|>)","replace":"","state":""}

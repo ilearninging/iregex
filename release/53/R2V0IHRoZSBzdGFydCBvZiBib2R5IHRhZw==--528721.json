@@ -1,0 +1,1 @@
+{"id":"167333","urlID":"3artf","name":"Get the start of body tag","description":"for html email - ability to inject text at the top ","content":"<body re=\"\"><test><\/test>\n\n<\/body>","weightedVote":"2.5","numVotes":"0","author":"dan","community":"1","dateAdded":"2015-04-21","pattern":"<body.*?>","replace":"","state":"{\"substEnabled\":false}"}

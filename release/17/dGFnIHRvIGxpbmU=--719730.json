@@ -1,0 +1,1 @@
+{"id":"33153","urlID":"2uiq3","name":"tag to line","description":"html tag to line","content":"","weightedVote":"2.5","numVotes":"0","author":"green13","community":"1","dateAdded":"2011-08-30","pattern":"\\n|\\r|\\t|^\\s*(?=\\<)|^\\s*(?=)","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"172329","urlID":"3bahr","name":"First \/ Last name","description":"First \/ Last name","content":"","weightedVote":"4.21181","numVotes":"7","author":"Benjamin","community":"1","dateAdded":"2015-07-01","pattern":"^([A-Z][a-z]+([ ]?[a-z]?['-]?[A-Z][a-z]+)*)$\/","replace":"","state":"{\"substEnabled\":false}"}

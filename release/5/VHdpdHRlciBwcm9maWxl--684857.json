@@ -1,0 +1,1 @@
+{"id":"37986","urlID":"2v0v6","name":"Twitter profile","description":"Twitter profile url pattern.\r\rRustam Irzaev (irzaevrustam@gmail.com)","content":"","weightedVote":"3.26389","numVotes":"1","author":"Rustam Irzaev","community":"1","dateAdded":"2011-10-25","pattern":"^(http(s)?:\/\/)?(www.)?twitter.com\/#!\/([a-zA-Z0-9_]{1,15})$","replace":"","state":""}

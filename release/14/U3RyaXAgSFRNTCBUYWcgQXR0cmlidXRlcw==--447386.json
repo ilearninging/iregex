@@ -1,0 +1,1 @@
+{"id":"536","urlID":"2rj88","name":"Strip HTML Tag Attributes","description":"Strips all attributes from all tags in HTML source file.","content":"","weightedVote":"2.65306","numVotes":"2","author":"nn2","community":"1","dateAdded":"2010-05-23","pattern":"(<[a-zA-Z]+) [^>]*","replace":"$1","state":""}

@@ -1,0 +1,1 @@
+{"id":"526","urlID":"2rj7a","name":"Split on Semicolons unless In Quotes","description":"Leaves the SemiColon for spliting on a RegExpr. Splits on a SemiColon unless it is inside quotes.","content":"","weightedVote":"3.07292","numVotes":"1","author":"Justin K Kazmierczak","community":"1","dateAdded":"2010-05-18","pattern":"[^;\"']+|\"([^\"]*)\"|'([^']*)'","replace":"","state":""}

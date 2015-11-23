@@ -1,0 +1,1 @@
+{"id":"297","urlID":"2rihr","name":"CDATA Tags Remover","description":"Remove manually CDATA Tags from response.","content":"","weightedVote":"2.5","numVotes":"0","author":"Nahun Olivares","community":"1","dateAdded":"2009-12-18","pattern":"<!\\[CDATA\\[(.*?)]]>\/gsm","replace":"$1","state":""}

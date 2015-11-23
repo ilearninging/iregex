@@ -1,0 +1,1 @@
+{"id":"64923","urlID":"31fsh","name":"Ip address","description":"alternative way of finding the Ip address","content":"","weightedVote":"2.5","numVotes":"1","author":"kamal","community":"1","dateAdded":"2012-07-09","pattern":"([0-9]*\\.[0-9]*\\.[0-9]*\\.[0-9]*)","replace":"","state":""}

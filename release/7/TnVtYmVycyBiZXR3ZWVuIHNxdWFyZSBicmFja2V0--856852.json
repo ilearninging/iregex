@@ -1,0 +1,1 @@
+{"id":"149438","urlID":"397fq","name":"Numbers between square bracket","description":"Get the number between the opening bracket and the closing bracket","content":"minlength[9]","weightedVote":"3.26389","numVotes":"1","author":"jnijstad","community":"1","dateAdded":"2014-07-25","pattern":"(?!\\[)\\d*?(?=\\])\/","replace":"","state":""}

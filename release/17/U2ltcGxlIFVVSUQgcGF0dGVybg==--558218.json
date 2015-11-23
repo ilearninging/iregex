@@ -1,0 +1,1 @@
+{"id":"25216","urlID":"2tri0","name":"Simple UUID pattern","description":"Very simple pattern to uuids like '485ecfda-1990-4c08-9daa-659d8eea019f'","content":"","weightedVote":"2.5","numVotes":"0","author":"Jrcconstela <jose@jrcconstela.co","community":"1","dateAdded":"2011-05-26","pattern":"\\w{8}-\\w{4}-\\w{4}-\\w{4}-\\w{12}","replace":"","state":""}

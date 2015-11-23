@@ -1,0 +1,1 @@
+{"id":"164106","urlID":"3aieu","name":"Quick Year","description":"Grab the year from the data command","content":"Sat Mar 7 22:31:34 UTC 2015","weightedVote":"2.5","numVotes":"0","author":"alin","community":"1","dateAdded":"2015-03-07","pattern":"[1,2]\\d{3}","replace":"","state":"{\"substEnabled\":false}"}

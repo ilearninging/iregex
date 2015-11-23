@@ -1,0 +1,1 @@
+{"id":"91848","urlID":"33uoo","name":"Find last space of line","description":"This one find the last space character that preceed a line break","content":"","weightedVote":"2.5","numVotes":"0","author":"Christophe","community":"1","dateAdded":"2013-02-28","pattern":" (?=[^ ]*\\r)\/gsm","replace":"t","state":""}

@@ -1,0 +1,1 @@
+{"id":"167249","urlID":"3arlj","name":"howtodothis","description":"","content":"myurl.com\/search\/nesto\/3","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-20","pattern":"search\/([^\/]*)\/([0-9]+)","replace":"search\/?query=$matches[1]&paged=$matches[2]","state":"{\"substEnabled\":true}"}

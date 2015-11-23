@@ -1,0 +1,1 @@
+{"id":"15837","urlID":"2t02n","name":"HTML Table","description":"Find table tags in HTML data","content":"","weightedVote":"2.5","numVotes":"0","author":"cpill","community":"1","dateAdded":"2011-01-28","pattern":"<\/?table[^>]*>|<\/?tr[^>]*>|<\/?td[^>]*>|<\/?thead[^>]*>|<\/?tbody[^>]*>|<\/?font[^>]*>\/gism","replace":"","state":""}

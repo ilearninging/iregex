@@ -1,0 +1,1 @@
+{"id":"39323","urlID":"2v4sh","name":"murthy required","description":"accepts comma seperated combinations of three constants","content":"","weightedVote":"2.5","numVotes":"1","author":"sheffali","community":"1","dateAdded":"2011-11-07","pattern":"^([a|b|c]?)+([,]?([a|b|c]?)+)*$\/gixm","replace":"","state":""}

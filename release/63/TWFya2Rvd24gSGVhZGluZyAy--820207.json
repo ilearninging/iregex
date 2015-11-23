@@ -1,0 +1,1 @@
+{"id":"175127","urlID":"3bio5","name":"Markdown Heading 2","description":"","content":"This is an H1\n=============\n\nThis is an H2\n-------------","weightedVote":"2.5","numVotes":"0","author":"IbrahimIslam","community":"1","dateAdded":"2015-08-12","pattern":"^(([0-9a-zA-Z]\\s*)+)$\\n[\\=|\\-]+","replace":"","state":"{\"substEnabled\":false}"}

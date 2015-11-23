@@ -1,0 +1,1 @@
+{"id":"162190","urlID":"3acra","name":"Stackoverflow 28423919","description":"","content":"lorem ipsum [Urgent: do something] lorem ipsum [Critical: do something else] lorem ipsum","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-02-09","pattern":"\\[(Critical|Urgent):\\s?(.*?)\\]","replace":"","state":""}

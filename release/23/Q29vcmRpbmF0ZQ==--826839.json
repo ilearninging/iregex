@@ -1,0 +1,1 @@
+{"id":"142353","urlID":"38inj","name":"Coordinate","description":"need to get valid Coordinates ?\rhere is a Good Pattern.\r\rexample \r34.352456\r-29.254835\r","content":"","weightedVote":"2.5","numVotes":"0","author":"Moshe Amsalem","community":"1","dateAdded":"2014-03-20","pattern":" \/^[+\\-]?[0-9]{1,3}\\.[0-9]{3,}\\z\/","replace":"","state":""}

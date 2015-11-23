@@ -1,0 +1,1 @@
+{"id":"162465","urlID":"3adl3","name":"Add Space After Commas","description":"Adds a space after any comma that requires one for proper code formatting.","content":"MsgBox,4096,Title,Main text\nMouseClick,Left,,,,,U","weightedVote":"2.5","numVotes":"0","author":"WSNHapps","community":"1","dateAdded":"2015-02-12","pattern":"([^\\s]),([^\\s,])","replace":"$1, $2","state":""}

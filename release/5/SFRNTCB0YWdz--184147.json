@@ -1,0 +1,1 @@
+{"id":"9761","urlID":"2se93","name":"HTML tags","description":"Complete and bullet-proof HTML tags detection.","content":"","weightedVote":"3.26389","numVotes":"1","author":"Xannax","community":"1","dateAdded":"2010-10-26","pattern":"<\/?\\w+((\\s+\\w+(\\s*=\\s*(?:\".*?\"|'.*?'|[^'\">\\s]+))?)+\\s*|\\s*)\/?>","replace":"","state":""}

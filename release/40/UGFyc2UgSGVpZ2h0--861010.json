@@ -1,0 +1,1 @@
+{"id":"157335","urlID":"39uk5","name":"Parse Height","description":"","content":"6'33\"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-20","pattern":"(\\d)'(\\d\\d?)\"","replace":"\\n# $&:\\n\\t","state":""}

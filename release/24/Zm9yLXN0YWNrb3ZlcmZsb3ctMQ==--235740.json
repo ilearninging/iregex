@@ -1,0 +1,1 @@
+{"id":"143262","urlID":"38lcq","name":"for-stackoverflow-1","description":"a regex i am working on","content":" hit -hit +hit nohit and another hit and yet notahit hitnotpossible xyz at the end a hit\n ","weightedVote":"2.5","numVotes":"0","author":"Lupo","community":"1","dateAdded":"2014-04-02","pattern":"\\bhit\\b","replace":"","state":""}

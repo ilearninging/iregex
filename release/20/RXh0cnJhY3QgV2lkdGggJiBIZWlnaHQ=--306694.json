@@ -1,0 +1,1 @@
+{"id":"85157","urlID":"33b5f","name":"Extrract Width & Height","description":"Extract the width and height attributes from the html style property.","content":"","weightedVote":"2.5","numVotes":"0","author":"Karan","community":"1","dateAdded":"2013-01-08","pattern":"\\s*width\\s*:\\s*([^;]*);\\s\\s*\\s*height\\s*:\\s*([^;]*);\\s\\s*","replace":"","state":""}

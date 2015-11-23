@@ -1,0 +1,1 @@
+{"id":"146740","urlID":"38vis","name":"fone9digitos","description":"","content":"(31) 2345-9988\n(31)2345-9988\n(31) 92345-9988\n(31)92345-9988\n(31) 2345.9988\n(31)2345.9988\n(31) 92345.9988\n(31)92345.9988","weightedVote":"2.5","numVotes":"0","author":"moacsjr","community":"1","dateAdded":"2014-06-09","pattern":"\\(\\d{2}\\)[ ]?(\\d){3,5}[-\\.](\\d){4}","replace":"","state":""}

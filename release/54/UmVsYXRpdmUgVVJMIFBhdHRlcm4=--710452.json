@@ -1,0 +1,1 @@
+{"id":"168309","urlID":"3auov","name":"Relative URL Pattern","description":"","content":"\/ddddd\/dddd.pdf","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-06","pattern":"^\\\/([\\w-]+.)+[\\w-]+(\\\/[\\w- .\\\/?%&=])?\\S$\/","replace":"","state":"{\"substEnabled\":false}"}

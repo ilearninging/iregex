@@ -1,0 +1,1 @@
+{"id":"165015","urlID":"3al45","name":"Escape word between $ symbol","description":"Find words between two dollar ($) symbols","content":"Dai $cazzo$ gianluca!","weightedVote":"3.26389","numVotes":"1","author":"Giovanni Fiore","community":"1","dateAdded":"2015-03-20","pattern":"(\\$[a-z\\d][\\w-]*\\$)","replace":"","state":"{\"substEnabled\":false}"}

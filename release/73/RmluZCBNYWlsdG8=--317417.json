@@ -1,0 +1,1 @@
+{"id":"159","urlID":"2ri4t","name":"Find Mailto","description":"Finds A tags with mailtos in ","content":"","weightedVote":"2.30903","numVotes":"1","author":"Ian","community":"1","dateAdded":"2009-09-04","pattern":"<[aA] [hH][rR][eE][fF]=\\\"[mM][aA][iI][lL][tT][oO]:.*\\\">[^<]*<\\\/a>","replace":"","state":""}

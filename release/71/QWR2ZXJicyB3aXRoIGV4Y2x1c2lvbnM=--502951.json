@@ -1,0 +1,1 @@
+{"id":"181552","urlID":"3c5ig","name":"Adverbs with exclusions","description":"","content":"quickly brown fox loudly jumped only partly belly bully fly quiety slowly","weightedVote":"2.5","numVotes":"0","author":"mikepurvis","community":"1","dateAdded":"2015-11-08","pattern":"\\b(?!on|foo|bar|f|bul|bel)\\w+ly\\b","replace":"","state":"{\"substEnabled\":false}"}

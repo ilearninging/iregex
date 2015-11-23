@@ -1,0 +1,1 @@
+{"id":"147535","urlID":"391td","name":"SQL bind values","description":"","content":"SELECT * \nFROM foo \nWHERE \n\tsite_ids = :site_id\n\t&& publish_date BETWEEN :start AND :stop\n\t&& user_ids IN(:user_ids)","weightedVote":"2.5","numVotes":"0","author":"Jake A. Smith","community":"1","dateAdded":"2014-06-23","pattern":":([a-zA-Z])\\w+","replace":"","state":""}

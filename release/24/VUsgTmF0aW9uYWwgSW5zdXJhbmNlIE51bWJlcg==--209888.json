@@ -1,0 +1,1 @@
+{"id":"143210","urlID":"38l7u","name":"UK National Insurance Number","description":"UK NI Number","content":"QQ 123456 A\n","weightedVote":"2.5","numVotes":"0","author":"alan","community":"1","dateAdded":"2014-04-01","pattern":"^\\s*[a-zA-Z]{2}(?:\\s*\\d\\s*){6}[a-zA-Z]?\\s*$","replace":"","state":""}

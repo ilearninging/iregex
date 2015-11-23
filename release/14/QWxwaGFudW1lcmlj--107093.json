@@ -1,0 +1,1 @@
+{"id":"82","urlID":"2rhtm","name":"Alphanumeric","description":"Match alphanumeric (letters, numbers, whitespace)\r\r^[a-zA-Z\\s0-9]+$","content":"","weightedVote":"2.62245","numVotes":"2","author":"William","community":"1","dateAdded":"2009-07-08","pattern":"^[a-zA-Z\\s0-9]+$\/","replace":"","state":""}

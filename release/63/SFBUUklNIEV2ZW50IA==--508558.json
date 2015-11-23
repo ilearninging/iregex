@@ -1,0 +1,1 @@
+{"id":"175130","urlID":"3bioe","name":"HPTRIM Event ","description":"HP TRIM EVENT","content":"'date' changed from 'to' to ''","weightedVote":"2.5","numVotes":"0","author":"tylar","community":"1","dateAdded":"2015-08-12","pattern":"^'.+?'(?=\\schanged)|'.+?'(?=\\sto)|'.*'$","replace":"","state":"{\"substEnabled\":false}"}

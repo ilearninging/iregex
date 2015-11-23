@@ -1,0 +1,1 @@
+{"id":"176106","urlID":"3blju","name":"ChrisMiller","description":"JSON Match","content":"{ \"success\": true, \"msg\": \"Message sent.\" }","weightedVote":"2.5","numVotes":"0","author":"Todd Gould","community":"1","dateAdded":"2015-08-26","pattern":"\"success\": (true|false), \"msg\": \"(.*?)\"","replace":"","state":"{\"substEnabled\":false}"}

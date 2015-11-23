@@ -1,0 +1,1 @@
+{"id":"164901","urlID":"3akpf","name":"Dat","description":"test regex","content":"bb01.syd02\nbb01.sgn02\nbb01.lax02","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-18","pattern":"bb01.(syd|sgn)02","replace":"","state":"{\"substEnabled\":false}"}

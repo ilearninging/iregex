@@ -1,0 +1,1 @@
+{"id":"166885","urlID":"3aqjf","name":"DNI","description":"DNI Espa\u00f1ol","content":"6997855-K\n\n\n09197560-k\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n","weightedVote":"2.5","numVotes":"0","author":"Juan Carlos Romero","community":"1","dateAdded":"2015-04-14","pattern":"[0-9]{7,8}\\-?[A-z]{1}\\b","replace":"","state":"{\"substEnabled\":false}"}

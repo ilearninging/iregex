@@ -1,0 +1,1 @@
+{"id":"146511","urlID":"38utd","name":"Match resolution","description":"Match resolutions like\n400x300\n1600x200 etc ","content":"1x0","weightedVote":"2.5","numVotes":"0","author":"NohponeX","community":"1","dateAdded":"2014-06-04","pattern":"^[1-9][0-9]{0,}x[1-9][0-9]{0,}$","replace":"","state":""}

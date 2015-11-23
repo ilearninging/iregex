@@ -1,0 +1,1 @@
+{"id":"128","urlID":"2ri20","name":"E-mail subjects with extras!","description":"^[a-zA-Z\\s0-9\\.\\,\\;\\-\\!\\?\\@\\'\\:\\\u2014\\(\\)\\\"]+$","content":"","weightedVote":"2.29592","numVotes":"2","author":"shuriko","community":"1","dateAdded":"2009-08-08","pattern":"^[a-zA-Z\\s0-9\\.\\,\\;\\-\\!\\?\\@\\'\\:\\\u2014\\(\\)\\\"]+$\/","replace":"","state":""}

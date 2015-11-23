@@ -1,0 +1,1 @@
+{"id":"495","urlID":"2rj4d","name":"match all script tags with a src attribute","description":"This will match all script tags that have a src attribute, and ignores inline scripts.","content":"","weightedVote":"3.26389","numVotes":"1","author":"Mark Booth","community":"1","dateAdded":"2010-05-03","pattern":"<script[^<]+src+[^<]+<\/script>","replace":"","state":""}

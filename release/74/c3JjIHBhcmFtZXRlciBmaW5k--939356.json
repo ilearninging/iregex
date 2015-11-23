@@ -1,0 +1,1 @@
+{"id":"39","urlID":"2rhpl","name":"src parameter find","description":"Finds the src parameter in a body of text.","content":"","weightedVote":"1.73611","numVotes":"1","author":"Ben Reeves","community":"1","dateAdded":"2009-06-08","pattern":"src=['|\"][^'|\"]*?['|\"]","replace":"","state":""}

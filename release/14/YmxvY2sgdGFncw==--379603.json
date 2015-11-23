@@ -1,0 +1,1 @@
+{"id":"134","urlID":"2ri2i","name":"block tags","description":"Select block tags only","content":"","weightedVote":"2.5","numVotes":"0","author":"Edwin","community":"1","dateAdded":"2009-08-17","pattern":"<\\\/?[h{1-6}|p|div|pre|table|tr|td|address|dl|form|ul|ol|br][^>]*>","replace":"","state":""}

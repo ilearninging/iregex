@@ -1,0 +1,1 @@
+{"id":"142925","urlID":"38kd7","name":"Hungarian date","description":"Magyar d\u00e1tum ","content":"","weightedVote":"2.5","numVotes":"0","author":"Horv\u00e1th Zolt\u00e1n","community":"1","dateAdded":"2014-03-26","pattern":"[0-9]{4}[.](([0-2][0-9])|(3[0-1]))[.]((1[0-2])|(0[1-9]))","replace":"","state":""}

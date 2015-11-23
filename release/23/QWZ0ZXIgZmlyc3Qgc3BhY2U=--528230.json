@@ -1,0 +1,1 @@
+{"id":"128718","urlID":"37apa","name":"After first space","description":"Returns everything after first space.","content":"","weightedVote":"2.5","numVotes":"0","author":"Zoran Vidakovich","community":"1","dateAdded":"2013-11-22","pattern":"\\s(.+)\/","replace":"","state":""}

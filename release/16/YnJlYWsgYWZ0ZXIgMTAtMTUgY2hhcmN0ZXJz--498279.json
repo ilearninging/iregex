@@ -1,0 +1,1 @@
+{"id":"19359","urlID":"2tact","name":"break after 10-15 charcters","description":"break after 10-15 charcters","content":"","weightedVote":"2.5","numVotes":"0","author":"mattan dor","community":"1","dateAdded":"2011-03-15","pattern":"([a-zA-Z\u05d0-\u05ea]{10,15})","replace":"$1<br>","state":""}

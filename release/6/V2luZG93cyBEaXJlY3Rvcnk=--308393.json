@@ -1,0 +1,1 @@
+{"id":"58094","urlID":"30rsa","name":"Windows Directory","description":"Wrote this expression to validate windows folder directories.","content":"","weightedVote":"3.26389","numVotes":"1","author":"Paul V Johnson III","community":"1","dateAdded":"2012-05-04","pattern":"(([A-Z]|[a-z]):\\\\){1}((-|\\w|\\s|\\.|\\(|\\))+\\\\)*","replace":"","state":""}

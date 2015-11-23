@@ -1,0 +1,1 @@
+{"id":"172467","urlID":"3baup","name":"link","description":"","content":"check [this](http:\/\/microsoft.com) out!","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-03","pattern":"\\[([^\\]]+)\\]\\(([^\\)]+)\\)","replace":"<a href=\"$2\">$1<\/a>","state":"{\"substEnabled\":true}"}

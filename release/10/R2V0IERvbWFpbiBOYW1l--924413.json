@@ -1,0 +1,1 @@
+{"id":"69255","urlID":"31sil","name":"Get Domain Name","description":"grabs the DOMAIN part of any URL. that is, anything that is www.example.com\r\rvery simple. easy to use.","content":"","weightedVote":"3.07292","numVotes":"1","author":"Inbar Rose","community":"1","dateAdded":"2012-08-19","pattern":"\\b(?:https?:\/\/)?(.+)(?:\/.*?)?\\b","replace":"","state":""}

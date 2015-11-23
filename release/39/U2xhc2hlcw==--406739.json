@@ -1,0 +1,1 @@
+{"id":"156552","urlID":"39sao","name":"Slashes","description":"","content":"\n\n\/path\/to\/a\/\\solver\/\/\/\/file\\\\\\hh\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-07","pattern":"(\/+|\\\\+)","replace":"","state":""}

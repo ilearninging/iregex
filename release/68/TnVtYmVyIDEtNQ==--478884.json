@@ -1,0 +1,1 @@
+{"id":"178699","urlID":"3bt71","name":"Number 1-5","description":"Match if only one digit between 1 and 5 inclusive","content":"2","weightedVote":"2.5","numVotes":"0","author":"Tsaukpaetra","community":"1","dateAdded":"2015-09-30","pattern":"^[1-5]$","replace":"","state":"{\"substEnabled\":false}"}

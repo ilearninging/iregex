@@ -1,0 +1,1 @@
+{"id":"171222","urlID":"3b7a2","name":"testdn","description":"","content":"CN=ZM-GS-FS-NNL-Strafrecht-Algemeen-C,OU=Noord-Nederland,OU=Global_Groups,OU=Groups,DC=o-rechtspraak,DC=minjus,DC=nl ","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-16","pattern":"([^CN=])(.*)","replace":"","state":"{\"substEnabled\":false}"}

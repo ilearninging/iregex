@@ -1,0 +1,1 @@
+{"id":"143047","urlID":"38kol","name":"Alphanumeric Match Count","description":"Detect only alphanumeric characters with a character limit.","content":"345345","weightedVote":"3.26389","numVotes":"1","author":"Derek O'Brien","community":"1","dateAdded":"2014-03-27","pattern":"^[a-zA-Z0-9]{6}$","replace":"[$&]","state":""}

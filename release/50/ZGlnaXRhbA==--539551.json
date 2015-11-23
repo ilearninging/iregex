@@ -1,0 +1,1 @@
+{"id":"165111","urlID":"3ald5","name":"digital","description":"","content":"that tested test is testing the tester's tests\n\n.\n\n[128] 54 [fdgh] dfg [] [256] [;]\n\nnew Arr[256];","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-22","pattern":"\\bnew\\b.+\\[(\\d*?)\\]+?.","replace":"","state":"{\"substEnabled\":false}"}

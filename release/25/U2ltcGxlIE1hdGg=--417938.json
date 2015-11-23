@@ -1,0 +1,1 @@
+{"id":"144285","urlID":"38ocn","name":"Simple Math","description":"Matches a simple mathematical expression","content":"(1)+5+9*8\n2root9\n3root(54*2^4)+59","weightedVote":"2.5","numVotes":"0","author":"seabeast","community":"1","dateAdded":"2014-04-23","pattern":"^[\\+\\-]?[\\(]?(?:(?:(?:\\d+\\.)?\\d+)[\\)]?(?:\\^|root|\\*|\\\/|\\+|\\-)?[\\(]?)+$","replace":"","state":""}

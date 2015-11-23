@@ -1,0 +1,1 @@
+{"id":"96126","urlID":"34b9q","name":"TinyDNS Log Parse","description":"Parse 2nd level domain from tinydns log file.","content":"","weightedVote":"3.26389","numVotes":"1","author":"inc595","community":"1","dateAdded":"2013-03-30","pattern":".*\\+ (?:[0-9A-Fa-f]{4}) (?:.*\\.)?([0-9a-z\\-]{4,}\\.[a-z]{2,4}$|[0-9a-z\\-]+\\.[\\.a-z]{2}\\.[a-z]{2}$)","replace":"","state":""}

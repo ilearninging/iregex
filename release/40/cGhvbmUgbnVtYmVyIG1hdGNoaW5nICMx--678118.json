@@ -1,0 +1,1 @@
+{"id":"157595","urlID":"39vch","name":"phone number matching #1","description":"simple phone matching","content":"555-123-4567\t(800)-555-2468\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-25","pattern":"\\(?\\d{3}\\)?[- ]\\d{3}[- ]\\d{4}","replace":"","state":""}

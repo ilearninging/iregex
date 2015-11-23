@@ -1,0 +1,1 @@
+{"id":"59","urlID":"2rhrh","name":"\/^\\s+|\\s+$\/","description":"trim from specified string.","content":"","weightedVote":"1.88776","numVotes":"2","author":"trim","community":"1","dateAdded":"2009-06-20","pattern":"\\w\\d\\w\\#?[0-9A-Fa-f]{6}s?\\d\\w\\","replace":"","state":""}

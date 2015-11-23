@@ -1,0 +1,1 @@
+{"id":"144572","urlID":"38p7k","name":"Create google name step2","description":"Step 2 in creating a google name with php preg_replace('\/\\s\/', '-', $var);","content":"my-product-title","weightedVote":"3.26389","numVotes":"1","author":"Thomasje","community":"1","dateAdded":"2014-04-29","pattern":"\\s","replace":"","state":""}

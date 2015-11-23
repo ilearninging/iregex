@@ -1,0 +1,1 @@
+{"id":"76417","urlID":"32hi3","name":"Email validator by Rabadan","description":"apande@yandex.ru","content":"","weightedVote":"2.5","numVotes":"0","author":"Rabadan Izabakarov","community":"1","dateAdded":"2012-10-21","pattern":"[a-z0-9A-Z._]+@[a-z0-9A-Z._]+[.]\\w{2,4}\\b","replace":"","state":""}

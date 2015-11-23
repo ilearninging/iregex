@@ -1,0 +1,1 @@
+{"id":"156385","urlID":"39rr3","name":"mention","description":"twitter user mention","content":"","weightedVote":"2.5","numVotes":"0","author":"juliocanares","community":"1","dateAdded":"2014-11-05","pattern":"\\B@[a-z0-9_-]+","replace":"","state":""}

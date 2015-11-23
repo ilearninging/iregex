@@ -1,0 +1,1 @@
+{"id":"181","urlID":"2ri6v","name":"Smile","description":"Find and replace smile","content":"","weightedVote":"2.30903","numVotes":"1","author":"TUNCAYS","community":"1","dateAdded":"2009-09-30","pattern":":(d|D|\\(|\\))","replace":"<b>$&<\/b>","state":""}

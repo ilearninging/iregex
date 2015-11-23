@@ -1,0 +1,1 @@
+{"id":"8070","urlID":"2s9ai","name":"split string by comma or semicolon or whitespace","description":"split string by comma or semicolon or whitespace","content":"","weightedVote":"2.5","numVotes":"0","author":"Mancy","community":"1","dateAdded":"2010-10-04","pattern":"(,|;|\\s)\\s*","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"28076","urlID":"2u3u4","name":"Find all image html tags","description":"Find all image html tags including attributes","content":"","weightedVote":"2.69097","numVotes":"1","author":"Fabio Ottaviani","community":"1","dateAdded":"2011-06-29","pattern":"<img((?:[^<>])*)>","replace":"","state":""}

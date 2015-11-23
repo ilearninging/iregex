@@ -1,0 +1,1 @@
+{"id":"172389","urlID":"3banf","name":"Match HTML","description":"Matches HTML tags.","content":"","weightedVote":"2.5","numVotes":"0","author":"Simon","community":"1","dateAdded":"2015-07-02","pattern":"<\\\/?\\s?.*\\s?\\\/?>","replace":"","state":"{\"substEnabled\":false}"}

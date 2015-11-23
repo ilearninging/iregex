@@ -1,0 +1,1 @@
+{"id":"143107","urlID":"38ku9","name":"Postal Code - France","description":"Matches the french zip codes.\n54300\nF-06800","content":"54300\n06000\nF-57200\nF-1000\nF 48645\n1200\n600000","weightedVote":"4.05556","numVotes":"4","author":"neirda","community":"1","dateAdded":"2014-03-28","pattern":"^(F-)?\\d{5}$","replace":"","state":""}

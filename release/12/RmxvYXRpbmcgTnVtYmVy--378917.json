@@ -1,0 +1,1 @@
+{"id":"464","urlID":"2rj1g","name":"Floating Number","description":"Matches floating numbers with point or comma.","content":"","weightedVote":"2.88194","numVotes":"1","author":"iflow","community":"1","dateAdded":"2010-04-17","pattern":"[0-9]+([.|,][0-9]+)?\/","replace":"","state":""}

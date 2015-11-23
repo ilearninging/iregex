@@ -1,0 +1,1 @@
+{"id":"180177","urlID":"3c1hj","name":"aa","description":"","content":".get_asdasd()","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-21","pattern":"(get_{1})(\\w)+(\\(\\))","replace":"","state":"{\"substEnabled\":false}"}

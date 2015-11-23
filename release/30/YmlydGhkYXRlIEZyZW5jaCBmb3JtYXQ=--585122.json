@@ -1,0 +1,1 @@
+{"id":"148997","urlID":"3966f","name":"birthdate French format","description":"Birthdate dd\/mm\/YYYY format. Accept \/ or - or nospace as separator.","content":"03-01-1979\n03\/01\/1979\n03011979","weightedVote":"2.5","numVotes":"0","author":"vince.DB","community":"1","dateAdded":"2014-07-18","pattern":"(\\d{2})(|-|\\\/|)(\\d{2})(|-|\\\/|)(\\d{4})","replace":"","state":""}

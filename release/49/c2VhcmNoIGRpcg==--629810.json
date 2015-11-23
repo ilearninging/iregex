@@ -1,0 +1,1 @@
+{"id":"164598","urlID":"3ajt2","name":"search dir","description":"","content":"listare D:\\Programe\\NetBeans\\Proiecte NetBeans\\PATema3Ex2","weightedVote":"2.5","numVotes":"0","author":"roy","community":"1","dateAdded":"2015-03-13","pattern":"^(listare)\\s[A-Z]:(\\\\([^\\\\]+))+$","replace":"","state":"{\"substEnabled\":false}"}

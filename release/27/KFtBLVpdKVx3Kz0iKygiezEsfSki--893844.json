@@ -1,0 +1,1 @@
+{"id":"146519","urlID":"38uu5","name":"([A-Z])\\w+=\"+(\"{1,})\"","description":"","content":"<xylem ABC=\"\"\"\" \/>","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-04","pattern":"([A-Z])\\w+=\"+(\"{1,})\"","replace":"","state":""}

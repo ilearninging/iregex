@@ -1,0 +1,1 @@
+{"id":"178343","urlID":"3bs5l","name":"brand node","description":"","content":"\/sd-0123\/brand\/node\/\/\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-09-25","pattern":"^\\\/(sd-[0-9]+)\\\/([^\/?#]+)\\\/([^\/?#]+)(\\\/+)(.+)$","replace":"","state":"{\"substEnabled\":false}"}

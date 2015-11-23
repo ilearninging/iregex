@@ -1,0 +1,1 @@
+{"id":"149475","urlID":"397j9","name":"number matching","description":"","content":"1\n2\n1-2\n34-45\n-2\n1-\n-\nany letters","weightedVote":"2.5","numVotes":"0","author":"eithedog","community":"1","dateAdded":"2014-07-26","pattern":"^\\d+(\\.\\d+|\\d*)(-?\\d+(\\.\\d+|\\d*)|\\d*)$\/","replace":"","state":""}

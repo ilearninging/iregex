@@ -1,0 +1,1 @@
+{"id":"164835","urlID":"3akj9","name":"domain","description":"","content":"http:\/\/www.google.com\/\n","weightedVote":"2.5","numVotes":"0","author":"polas","community":"1","dateAdded":"2015-03-18","pattern":"(\\w*?\\.\\w{2,5})(\\\/|\\s|$)|(.com)","replace":"","state":"{\"substEnabled\":false}"}

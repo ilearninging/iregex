@@ -1,0 +1,1 @@
+{"id":"62436","urlID":"318jc","name":"Find Image Tag in HTML","description":"Find the images tags with spaces here and there from html doc","content":"","weightedVote":"2.5","numVotes":"0","author":"ITcutives","community":"1","dateAdded":"2012-06-13","pattern":"<\\s*img [^\\>]*src\\s*=\\s*([\\\"|\\'])(.*?)[\\\"|\\'][^']*?>","replace":"***>","state":""}

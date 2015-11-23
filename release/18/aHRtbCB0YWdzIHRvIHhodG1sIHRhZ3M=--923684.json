@@ -1,0 +1,1 @@
+{"id":"60205","urlID":"31227","name":"html tags to xhtml tags","description":"eg:   <div><\/div>   ->    <xhtml:div><\/xhtml:div>","content":"","weightedVote":"2.5","numVotes":"0","author":"sean","community":"1","dateAdded":"2012-05-23","pattern":"<(\\\/)?(\\b\\w+)","replace":"<$1xhtml:$2","state":""}

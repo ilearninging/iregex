@@ -1,0 +1,1 @@
+{"id":"157248","urlID":"39uc0","name":"matchSelectores","description":"","content":"#div:nth-child(3)\n#div[name=name-ad_wdea]\n<div class=\"adb\"><\/div>\ndiv","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-19","pattern":"([#.:]\\w+([\\[:]*[\\w\\-\\(\\)]+(=[\\w_-]+)?[\\]]?)?)","replace":"","state":""}

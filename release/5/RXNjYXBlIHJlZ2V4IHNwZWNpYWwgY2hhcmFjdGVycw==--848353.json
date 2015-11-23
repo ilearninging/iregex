@@ -1,0 +1,1 @@
+{"id":"7414","urlID":"2s7d2","name":"Escape regex special characters","description":"Escapes regex characters from a string","content":"","weightedVote":"3.26389","numVotes":"1","author":"Philip Bulley","community":"1","dateAdded":"2010-09-24","pattern":"[\\[\\\\\\^\\$\\.\\|\\?\\*\\+\\(\\)\\{\\}]","replace":"$&","state":""}

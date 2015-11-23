@@ -1,0 +1,1 @@
+{"id":"160587","urlID":"3a851","name":"Particular File Extension","description":"Validates the file extension, against the specified extensions.","content":"C:\\Foldername\\Filename.xlsx","weightedVote":"4.38662","numVotes":"16","author":"Andrew Morpurgo","community":"1","dateAdded":"2015-01-19","pattern":"^.*\\.(xls|xlsx|doc|docx)$","replace":"","state":""}

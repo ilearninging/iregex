@@ -1,0 +1,1 @@
+{"id":"43","urlID":"2rhq1","name":"Removes blank characters","description":"Removes all the blank characters in a String (spaces, tabs, return....)","content":"","weightedVote":"3.41837","numVotes":"2","author":"Gus","community":"1","dateAdded":"2009-06-09","pattern":"[ \\t\\r\\n\\v\\f]","replace":"[[$&$&]]","state":""}

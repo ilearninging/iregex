@@ -1,0 +1,1 @@
+{"id":"21456","urlID":"2tghg","name":"M\/YY or MM\/YY","description":"this is the format for Month\/year in two digits month and yer, or one month digit and two digits year.","content":"","weightedVote":"2.5","numVotes":"0","author":"Pedro","community":"1","dateAdded":"2011-04-08","pattern":"([1-9]|0[1-9]|1[012])\/([0-9][0-9])","replace":"","state":""}

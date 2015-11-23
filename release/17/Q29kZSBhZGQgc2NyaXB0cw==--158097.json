@@ -1,0 +1,1 @@
+{"id":"27188","urlID":"2u1as","name":"Code add scripts","description":"Include scripts name: {... .ext}","content":"","weightedVote":"2.5","numVotes":"0","author":"Sedov Stas","community":"1","dateAdded":"2011-06-18","pattern":"(?:{[\\w\\\/\\-\\_]*?)\\.([a-z]*?})","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"179319","urlID":"3bv15","name":"vivek","description":"","content":"analytics","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-09","pattern":"(\\w+)\\s+(tics)","replace":"\\n# $&:\\n\\t","state":"{\"substEnabled\":true}"}

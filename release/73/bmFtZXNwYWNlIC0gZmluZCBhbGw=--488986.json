@@ -1,0 +1,1 @@
+{"id":"143","urlID":"2ri3d","name":"namespace - find all","description":"Find all namespaces","content":"","weightedVote":"2.11806","numVotes":"1","author":"Flashblocks.com","community":"1","dateAdded":"2009-08-24","pattern":"xmlns:([\\w]*)\\b|xmlns:","replace":"","state":""}

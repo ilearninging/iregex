@@ -1,0 +1,1 @@
+{"id":"106495","urlID":"359lt","name":"Alphanumeric w\/ Spaces","description":"Allows for entire string to contain characters, numbers and spaces.","content":"","weightedVote":"2.88194","numVotes":"1","author":"Corey Prater","community":"1","dateAdded":"2013-06-19","pattern":"^[A-Za-z0-9\\s]+[A-Za-z0-9\\s]+$(\\.0-9+)?","replace":"","state":""}

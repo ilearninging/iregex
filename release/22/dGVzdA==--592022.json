@@ -1,0 +1,1 @@
+{"id":"121913","urlID":"36mrb","name":"test","description":"trying to parse bus lines and bus stops to look upa schedule","content":"","weightedVote":"2.5","numVotes":"0","author":"Sam","community":"1","dateAdded":"2013-10-11","pattern":"^\/s*(\\d+)\\s*(\\d\\d\\d\\d)\\s*$\/","replace":"","state":""}

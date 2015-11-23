@@ -1,0 +1,1 @@
+{"id":"12731","urlID":"2smvh","name":"Full US Street Address","description":"Validates the full street address down to the state and allows for commas","content":"","weightedVote":"1.82653","numVotes":"2","author":"kazeltine","community":"1","dateAdded":"2010-12-08","pattern":"\\d+ [\\w ]+,? [\\w ]+,? ?\\w{2}\/","replace":"","state":""}

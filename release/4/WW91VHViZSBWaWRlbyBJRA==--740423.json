@@ -1,0 +1,1 @@
+{"id":"334","urlID":"2rila","name":"YouTube Video ID","description":"Gets the YouTube video ID from a link or an object\/embed tag.","content":"","weightedVote":"3.26389","numVotes":"1","author":"Ross Brown","community":"1","dateAdded":"2010-01-30","pattern":"youtube.[a-z]+\/[a-z\\?\\&]*v[\/|=](\\w+)","replace":"","state":""}

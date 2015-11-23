@@ -1,0 +1,1 @@
+{"id":"179232","urlID":"3bup0","name":"Regex to","description":"regex to match json object","content":"{\"index\": {\"_id\": \"5256eddbf858e54ba672791b\"}}","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-08","pattern":"\\{\\s*\"index\"\\s*:\\s\\{\"_id\":\\s\"(.+?)\"\\}\\}","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,0 +1,1 @@
+{"id":"146571","urlID":"38v31","name":"After \/ before ?","description":"Matches everything after last slash, before question mark. ","content":"http:\/\/some.com\/path\/somefile.xml?bsdfadf","weightedVote":"3.26389","numVotes":"1","author":"glyph","community":"1","dateAdded":"2014-06-05","pattern":"([^\/]+)(?=\\?)","replace":"","state":""}

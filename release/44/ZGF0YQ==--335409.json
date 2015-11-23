@@ -1,0 +1,1 @@
+{"id":"160848","urlID":"3a8tg","name":"data","description":"","content":"dasdas #GT_DATE|NOW+1D# dasdas #GT_DATE|NOW+10Y# dasdas #GT_DATE|NOW+99M# asdsa #GT_DATE|NOW-1D#","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-22","pattern":"(\\#[GLTE_DATE|NOW]+([\\+\\-]+[0-9]+[MYD])?\\#)","replace":"","state":""}

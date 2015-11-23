@@ -1,0 +1,1 @@
+{"id":"168619","urlID":"3avm1","name":"Escape Characters","description":"","content":"\\t\n\\n\n\\a\nHello\\tWorld\\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-10","pattern":"\\\\[t,n]","replace":"","state":"{\"substEnabled\":false}"}

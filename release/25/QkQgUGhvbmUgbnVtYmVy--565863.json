@@ -1,0 +1,1 @@
+{"id":"144563","urlID":"38p6p","name":"BD Phone number","description":"Phone number format for Bangladesh","content":"8801717579731","weightedVote":"2.5","numVotes":"0","author":"Jalal Uddin","community":"1","dateAdded":"2014-04-28","pattern":"^(88)?((011)|(015)|(016)|(017)|(018)|(019))\\d{8,8}$\/","replace":"","state":""}
