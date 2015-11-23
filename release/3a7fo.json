@@ -1,0 +1,1 @@
+{"id":"160360","urlID":"3a7fo","name":"test","description":"test","content":"CAT20020101.TdT\nCAT20020101.ABC\nCAT20020101.TXT\n\n\n\n","weightedVote":"2.5","numVotes":"0","author":"test","community":"1","dateAdded":"2015-01-14","pattern":"\/(([A-Z]{3})([0-9]{8})([\\.TXT]))\\w+\/g","replace":"","state":""}

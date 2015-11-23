@@ -1,0 +1,1 @@
+{"id":"144716","urlID":"38pl4","name":"WP array data","description":"Fint","content":"'desc' => 'pepe'\n'desc'=>'pepe'\n'desc'=>__('pepe',PEPE)","weightedVote":"2.5","numVotes":"0","author":"aps","community":"1","dateAdded":"2014-05-01","pattern":"\/('desc'\\s*?=>\\s*?)'(.+)?'\/g","replace":"$1__('$2', APS_LB_LANG) ","state":""}

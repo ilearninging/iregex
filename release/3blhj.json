@@ -1,0 +1,1 @@
+{"id":"176081","urlID":"3blhj","name":"Example","description":"Example of date ","content":"2015-09-09.tar.gz","weightedVote":"2.5","numVotes":"0","author":"Daniel@CNC","community":"1","dateAdded":"2015-08-25","pattern":"\/^20[0-9]{2}-[0-9]{2}-[0-9]{2}.tar.gz$\/g","replace":"","state":"{\"substEnabled\":false}"}

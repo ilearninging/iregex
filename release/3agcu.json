@@ -1,0 +1,1 @@
+{"id":"163402","urlID":"3agcu","name":"codice fiscale","description":"","content":"","weightedVote":"2.65278","numVotes":"1","author":"","community":"1","dateAdded":"2015-02-25","pattern":"\/^(([a-z]|[A-Z]){6})(\\d{2})([a-z]|[A-Z])(\\d{2})([a-z]|[A-Z])(\\d{3})([a-z]|[A-Z])$\/g","replace":"","state":""}

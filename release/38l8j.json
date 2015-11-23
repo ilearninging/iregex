@@ -1,0 +1,1 @@
+{"id":"143217","urlID":"38l8j","name":"Text Within Brackets","description":"Find text within parentheses tags.","content":"http:\/\/www.google.com\/test(test1)(test2)","weightedVote":"2.9898","numVotes":"2","author":"Travis P.","community":"1","dateAdded":"2014-04-01","pattern":"\/\\([^)]*\\)\/g","replace":"","state":""}

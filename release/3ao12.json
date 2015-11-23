@@ -1,0 +1,1 @@
+{"id":"166006","urlID":"3ao12","name":"http:\/\/...\/","description":"","content":"\nhttps:\/\/www.fasdfasdf.com\/\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-01","pattern":"\/^(https?:\\\/\\\/)?([\\da-z\\.-]+)\\.([a-z\\.]{2,6})([\\\/\\w \\.-]*)*\\\/?$\/g","replace":"","state":"{\"substEnabled\":false}"}

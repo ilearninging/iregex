@@ -1,0 +1,1 @@
+{"id":"128640","urlID":"37ai0","name":"Url Match","description":"Url Matching expression","content":"","weightedVote":"3.26389","numVotes":"1","author":"Man Programmer","community":"1","dateAdded":"2013-11-22","pattern":"\/(http:\\\/\\\/+[www]+[.]|https:\\\/\\\/+[www]|http:\\\/\\\/+(?!(www))|(www)+[.])([0-9A-Za-z]+\\.)+[0-9A-Za-z]+\/gi","replace":"","state":""}

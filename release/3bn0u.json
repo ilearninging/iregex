@@ -1,0 +1,1 @@
+{"id":"176586","urlID":"3bn0u","name":"expression for session search","description":"","content":"$_SESSION[adsfasdfasd4565464.324reaffdsafdfsa]=","weightedVote":"2.5","numVotes":"0","author":"Davide Di Domenico","community":"1","dateAdded":"2015-09-02","pattern":"\/\\$_SESSION\\[.*\\]=\/g","replace":"","state":"{\"substEnabled\":false}"}

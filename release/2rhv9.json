@@ -1,0 +1,1 @@
+{"id":"99","urlID":"2rhv9","name":"ddd","description":"dddddd","content":"","weightedVote":"1.27551","numVotes":"2","author":"dd","community":"1","dateAdded":"2009-07-20","pattern":"\/\\s*([@{}:;,]|\\)\\s|\\s\\()\\s*|\\\/\\*([^*\\\\\\\\]|\\*(?!\\\/))+\\*\\\/|[\\n\\r\\t]|(px)\/g","replace":"","state":""}

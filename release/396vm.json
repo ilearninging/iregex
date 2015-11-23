@@ -1,0 +1,1 @@
+{"id":"149266","urlID":"396vm","name":"Double-newline","description":"","content":"Hiya\nThat was a newline\n\nPointless double-line break","weightedVote":"2.5","numVotes":"0","author":"jsafive","community":"1","dateAdded":"2014-07-23","pattern":"\/\\n\\n\/g","replace":"","state":""}

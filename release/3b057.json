@@ -1,0 +1,1 @@
+{"id":"168781","urlID":"3b057","name":"postal code + zip code","description":"","content":"12444","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-12","pattern":"\/^([A-Z][0-9][A-Z][0-9][A-Z][0-9]|\\d{5})$\/g","replace":"","state":"{\"substEnabled\":false}"}

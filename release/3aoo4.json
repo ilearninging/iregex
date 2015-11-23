@@ -1,0 +1,1 @@
+{"id":"166252","urlID":"3aoo4","name":"Find duplicate words","description":"Find duplicate, sequential words.","content":"Here is the the test. How is is it working?\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-05","pattern":"\/\\b(\\w+)\\b\\s+\\b\\1\\b\/g","replace":"","state":"{\"substEnabled\":false}"}

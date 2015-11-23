@@ -1,0 +1,1 @@
+{"id":"169010","urlID":"3b0qm","name":"number macht","description":"","content":"123","weightedVote":"2.5","numVotes":"0","author":"cbertelegni","community":"1","dateAdded":"2015-05-15","pattern":"\/[0-9]\\w+\/g","replace":"\\n# $&:\\n\\t","state":"{\"substEnabled\":true}"}

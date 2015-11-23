@@ -1,0 +1,1 @@
+{"id":"15","urlID":"2rhnd","name":"Email Validation","description":"Email Validation","content":"","weightedVote":"2.50001","numVotes":"3","author":"Luis Teixeira","community":"1","dateAdded":"2009-05-27","pattern":"\/\\w+([.-_]\\w+)*@\\w+([.-_]\\w+)*\\.\\w{2,4}\/g","replace":"ze","state":""}

@@ -1,0 +1,1 @@
+{"id":"162692","urlID":"3aeac","name":"pw","description":"","content":"system=blah, user=stevedave, password=1234$32@a, mylocation=amsterdam","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-02-16","pattern":"\/(?:password\\s*=\\s*)([A-Za-z0-9@$]+)\/","replace":"","state":""}

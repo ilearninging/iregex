@@ -1,0 +1,1 @@
+{"id":"157125","urlID":"39u0f","name":"fear of childbirth","description":"","content":"Tokophobiafear of childbirth, pregnancy","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-17","pattern":"\/(fear)\\ of\\ [^]+\/g","replace":"\\n# $&:\\n\\t","state":""}

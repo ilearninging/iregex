@@ -1,0 +1,1 @@
+{"id":"165947","urlID":"3anrh","name":"test23423","description":"","content":"<html>\n\n<img src=\\\"test\\\">\n\nabc\n\n<img\n\n  src=\\\"a\\\" src=\\'a\\' a=b>\n\n<\/html>","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-01","pattern":"\/<img\\s.*>\/","replace":"\\n# $&:\\n\\t","state":"{\"substEnabled\":true}"}

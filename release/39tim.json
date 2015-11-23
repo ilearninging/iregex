@@ -1,0 +1,1 @@
+{"id":"156978","urlID":"39tim","name":"TestExcludeForHtml","description":"","content":"http:\/\/linsuptst01.corp.company.com:8080\/D2E96E9B-D732-4F31-BDF3-23E22555578E.html","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-14","pattern":"\/.*[A-Z0-9]{8}-[A-Z0-9]{4}-[A-Z0-9]{4}-[A-Z0-9]{4}-[A-Z0-9]{12}\/g","replace":"","state":""}

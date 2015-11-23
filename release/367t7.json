@@ -1,0 +1,1 @@
+{"id":"116813","urlID":"367t7","name":"c functions","description":"find c function definition","content":"","weightedVote":"2.5","numVotes":"0","author":"amin.amani","community":"1","dateAdded":"2013-09-06","pattern":"\/([a-zA-Z0-9]*)\\s*\\([^()]*\\)\\s*{\/g","replace":"","state":""}

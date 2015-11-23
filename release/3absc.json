@@ -1,0 +1,1 @@
+{"id":"161860","urlID":"3absc","name":"Testing","description":"just testing","content":"error opening file pathinfo()\nerror opening file pathinfo() asdf sdaf\nerror opening file\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-02-04","pattern":"\/error.*file.*[pathinfo]\/g","replace":"","state":""}

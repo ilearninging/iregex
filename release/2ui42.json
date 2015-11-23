@@ -1,0 +1,1 @@
+{"id":"32918","urlID":"2ui42","name":"NL Postcode","description":"Matches Dutch postal codes with optional space between the number and letter parts.","content":"","weightedVote":"2.88194","numVotes":"1","author":"Zsub","community":"1","dateAdded":"2011-08-26","pattern":"\/\\b[0-9]{4} ?[a-zA-Z]{2}\\b\/g","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"146060","urlID":"38tj4","name":"TestRegExp1","description":"Testing regExp","content":"5002 Inc dba SNAX #6\n#1 Latino Music\nabc # 1","weightedVote":"2.5","numVotes":"0","author":"Marco Antonio","community":"1","dateAdded":"2014-05-28","pattern":"\/(?:#[0-9])|(?:#\\s[0-9])\/g","replace":"","state":""}

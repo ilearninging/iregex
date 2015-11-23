@@ -1,0 +1,1 @@
+{"id":"170063","urlID":"3b3td","name":"Add procid","description":"","content":"select tal.tal from hell","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-29","pattern":"\/(select)(.+)(from )(\\w+)\/g","replace":"$1 $4.Processo_Id $2$3$4","state":"{\"substEnabled\":true}"}

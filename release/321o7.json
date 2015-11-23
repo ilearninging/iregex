@@ -1,0 +1,1 @@
+{"id":"71021","urlID":"321o7","name":"Decima Number","description":"Checks a string to see if it is a valid decimal number.\rhttp:\/\/bheesham.com\/","content":"","weightedVote":"2.5","numVotes":"0","author":"Bheesham Persaud <http:\/\/bheesha","community":"1","dateAdded":"2012-09-04","pattern":"\/^\\d(\\.{0,1}\\d){0,1}$\/","replace":"$1","state":""}

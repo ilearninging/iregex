@@ -1,0 +1,1 @@
+{"id":"412","urlID":"2risk","name":"Substr with full words","description":"Cut string with 33 symbols without breaking words","content":"","weightedVote":"3.26389","numVotes":"1","author":"gimcnuk","community":"1","dateAdded":"2010-03-14","pattern":"\/(^.{0,33}[\\x20\\.])(.*)\/gm","replace":"$1","state":""}

@@ -1,0 +1,1 @@
+{"id":"158922","urlID":"3a38u","name":"CBN","description":"","content":"OF\u00cdCIO\/CBN\/SPX\/N\u00ba11\/2010\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-12-16","pattern":"\/OF\u00cdCIO\\\/CBN\\\/([^\\\/]{3,})\\\/N\u00ba(\\d+)\\\/(\\d{2,4})\/g","replace":"Of\u00edcio $1 n\u00ba $2 de $3","state":""}

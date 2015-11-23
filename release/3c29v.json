@@ -1,0 +1,1 @@
+{"id":"180437","urlID":"3c29v","name":"Hungarian bank account number","description":"It does not work, yet.","content":"12345678-12345678-12345678","weightedVote":"2.5","numVotes":"0","author":"pfm","community":"1","dateAdded":"2015-10-25","pattern":"\/^([\\d\\w] {8}-){1,2}[\\d\\w]{8}$\/g","replace":"","state":"{\"substEnabled\":false}"}

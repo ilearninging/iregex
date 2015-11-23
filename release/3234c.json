@@ -1,0 +1,1 @@
+{"id":"71492","urlID":"3234c","name":"Postal Code - Canada","description":"Postal Code - canada","content":"","weightedVote":"2.5","numVotes":"0","author":"not","community":"1","dateAdded":"2012-09-07","pattern":"\/[a-z]\\d[a-z][ \\-]?\\d[a-z]\\d\/g","replace":"","state":""}

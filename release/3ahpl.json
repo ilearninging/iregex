@@ -1,0 +1,1 @@
+{"id":"163879","urlID":"3ahpl","name":"matching ranges","description":"\nMatching standalone a1 values using regex","content":"a1 +a1 +a1:a10 + a1:a1 +a1+ a1 + a1","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-04","pattern":"\/a1(?!:)\/igm","replace":"","state":"{\"substEnabled\":false}"}

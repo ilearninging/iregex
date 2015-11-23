@@ -1,0 +1,1 @@
+{"id":"161923","urlID":"3ac29","name":"Money Value","description":"A money value with allowed commas for numbers > 1,000 and cents.  Commas must be properly placed with 3 digits afterward.","content":"2,598.52","weightedVote":"2.5","numVotes":"0","author":"Glenn Martin","community":"1","dateAdded":"2015-02-05","pattern":"\/^(\\d|,\\d{3})+(\\.\\d{2})?$\/g","replace":"","state":""}

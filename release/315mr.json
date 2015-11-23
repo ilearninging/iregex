@@ -1,0 +1,1 @@
+{"id":"61449","urlID":"315mr","name":"link to none","description":"ghvn\r","content":"","weightedVote":"2.5","numVotes":"0","author":"Bryan","community":"1","dateAdded":"2012-06-04","pattern":"\/<a (.*)href=\"\/(.*)\">\/g","replace":"<a>","state":""}

@@ -1,0 +1,1 @@
+{"id":"150737","urlID":"39b9j","name":"Title Id","description":"8CAN R2 Title id regex.","content":"test-test-te55","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-08-18","pattern":"\/([a-z])+([a-z][-])\\w\\S+$\/g","replace":"","state":""}

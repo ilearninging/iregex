@@ -1,0 +1,1 @@
+{"id":"172085","urlID":"3b9qv","name":"aorb","description":"a or b","content":"aaa\nbbbbb\nabababab\nabababababs\nsabababa\nabab\nadsd\naaa","weightedVote":"2.5","numVotes":"0","author":"rajdeep","community":"1","dateAdded":"2015-06-29","pattern":"\/^(a|b)*?$\/gm","replace":"","state":"{\"substEnabled\":false}"}

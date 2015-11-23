@@ -1,0 +1,1 @@
+{"id":"167820","urlID":"3atb4","name":"why???","description":"","content":"http:\/\/api.geonames.org\/postalCodeLookupJSON?postalcode=6600&country=AT&username=ferran.vila\n\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-28","pattern":"\/https?\\:\\\/\\\/(.*)+.google.(.*)\/g","replace":"","state":"{\"substEnabled\":false}"}

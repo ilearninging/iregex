@@ -1,0 +1,1 @@
+{"id":"104224","urlID":"35310","name":"Google Image Search Sanitize","description":"Sanitize Image Search URL's - remove browser & personal information","content":"","weightedVote":"2.5","numVotes":"0","author":"Ascend4nt","community":"1","dateAdded":"2013-06-01","pattern":"\/(.*\/search\\?q=[^&]+).*\/gi","replace":"$1&tbm=isch","state":""}

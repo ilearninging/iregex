@@ -1,0 +1,1 @@
+{"id":"176323","urlID":"3bm89","name":"pan","description":"","content":"<response status=\"success\"><result><key>gJlQWE56987nBxIqyfa62sZeRtYuIo2BgzEA9UOnlZBhU<\/key><\/result><\/response>","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-28","pattern":"\/<key>(.+?)<\/key>\/m","replace":"","state":"{\"substEnabled\":false}"}

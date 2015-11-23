@@ -1,0 +1,1 @@
+{"id":"179983","urlID":"3c0vd","name":"img files","description":"","content":"hello\nhello.\nhello.csv\nhello.bmp\nhello.png\nhello.shtml\nhello.csv\nhello.htm.jpg\nhello.jpg.csv.htm","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-19","pattern":"\/\\.(jpg|gif|bmp|png)$\/gm","replace":"","state":"{\"substEnabled\":false}"}

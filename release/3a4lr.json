@@ -1,0 +1,1 @@
+{"id":"159401","urlID":"3a4lr","name":"Sql Parameter","description":"This regex match sql parameter like @userId","content":"select * from table\nwhere id = @id","weightedVote":"2.5","numVotes":"0","author":"Yoza Wiratama","community":"1","dateAdded":"2014-12-25","pattern":"\/\\@([^=<>\\s\\'\\,]+)\/g","replace":"","state":""}

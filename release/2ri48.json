@@ -1,0 +1,1 @@
+{"id":"152","urlID":"2ri48","name":"All HTML Tags","description":"Matches all HTML Tags.","content":"","weightedVote":"2.62245","numVotes":"2","author":"nutzleistung.de","community":"1","dateAdded":"2009-08-31","pattern":"\/<\/?\\w+((\\s+\\w+(\\s*=\\s*(?:\".*?\"|'.*?'|[^'\">\\s]+))?)+\\s*|\\s*)\/?>\/gm","replace":"","state":""}

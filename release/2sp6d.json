@@ -1,0 +1,1 @@
+{"id":"13487","urlID":"2sp6d","name":"hostname domain list v2","description":"matches urls without protocol","content":"","weightedVote":"2.5","numVotes":"1","author":"Haggini","community":"1","dateAdded":"2010-12-21","pattern":"\/\\b[.a-zA-Z0-9]{1,999}\\b\\.(com|org|net|eu)\\b[?\/]{0,1}[\/?a-zA-Z0-9]{0,999}\\b\/g","replace":"","state":""}

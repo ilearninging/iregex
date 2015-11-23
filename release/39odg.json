@@ -1,0 +1,1 @@
+{"id":"155216","urlID":"39odg","name":"css safe name","description":"Can remove all spaces and not css safe characters from a string","content":"JOSIPA MAJI\u0106 & ANA BURICA","weightedVote":"2.5","numVotes":"0","author":"Mattie J","community":"1","dateAdded":"2014-10-16","pattern":"\/[^\\w]\/g","replace":"","state":""}

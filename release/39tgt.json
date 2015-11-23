@@ -1,0 +1,1 @@
+{"id":"156959","urlID":"39tgt","name":"trung","description":"","content":"05554\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-14","pattern":"\/$\\d{5}\/","replace":"\\n#{5} $&:\\n\\t","state":""}

@@ -1,0 +1,1 @@
+{"id":"176160","urlID":"3blp0","name":"USD","description":"Find USD with $","content":"vsdvsdvsdvsdvsdvsdvsdv\n\t\t\t\t\n\t\t\t\t$0.08\n\t\t\t\n\t\t\tvsvsdvsdvsd","weightedVote":"2.5","numVotes":"0","author":"bkw","community":"1","dateAdded":"2015-08-26","pattern":"\/[$.](?:\\d*\\.)?\\d+\/g","replace":"","state":"{\"substEnabled\":false}"}

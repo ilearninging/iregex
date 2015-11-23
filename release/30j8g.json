@@ -1,0 +1,1 @@
+{"id":"55152","urlID":"30j8g","name":"Find all <script> entity","description":"Find all <script> entity (xss) in text.","content":"","weightedVote":"2.5","numVotes":"0","author":"rpiskarev","community":"1","dateAdded":"2012-04-09","pattern":"\/<(\\\/)?script(.*?)?>\/gis","replace":"","state":""}

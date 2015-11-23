@@ -1,0 +1,1 @@
+{"id":"171812","urlID":"3b91c","name":"carls","description":"","content":"brought to you by Carl's Junior","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-24","pattern":"\/([A-Z,',a-z])\\w+\/g","replace":"","state":"{\"substEnabled\":false}"}

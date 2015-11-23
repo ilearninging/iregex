@@ -1,0 +1,1 @@
+{"id":"166935","urlID":"3aqo5","name":"altima","description":"","content":"","weightedVote":"2.5","numVotes":"0","author":"DCK","community":"1","dateAdded":"2015-04-15","pattern":"\/^(.*www\\.campagnes-france.com\\.com\\\/landings\\\/ligatus_fun\\\/fin\\.php\\?lead_email.*&lead_phone=.*)$ \/g","replace":"","state":"{\"substEnabled\":false}"}

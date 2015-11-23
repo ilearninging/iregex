@@ -1,0 +1,1 @@
+{"id":"158237","urlID":"3a18n","name":"mail","description":"","content":"ms@ex.com\n!3@sxd.c@1\nm@m.com\nmy@email.com\ne@mail.com\nsome@email.com\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-12-05","pattern":"\/(\\w+){2,}@(\\w+){2,}\\.(\\w+){2,}\/g","replace":"","state":""}

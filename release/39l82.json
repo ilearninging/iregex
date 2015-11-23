@@ -1,0 +1,1 @@
+{"id":"154134","urlID":"39l82","name":"MrSmithr","description":"UK Mobile\/Telephone Format","content":"p:444-555-1234 f:246.555.8888 m:1235554567\nt:01754 830 663\nt:01754830663\nm:07840637302","weightedVote":"2.5","numVotes":"0","author":"MrSmithr","community":"1","dateAdded":"2014-10-07","pattern":"\/(\\b\\d{5}[\\s]?\\d{3}[\\s]?\\d{3}\\b)\/g","replace":"","state":""}

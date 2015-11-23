@@ -1,0 +1,1 @@
+{"id":"149158","urlID":"396li","name":"doctitle","description":"","content":"car = document.title = \"Some text\"\ndocument.title = \"Some text\"","weightedVote":"2.5","numVotes":"0","author":"ALex_hha","community":"1","dateAdded":"2014-07-22","pattern":"\/(?!\\w*\\s=\\s)(?:.*(\\bdocument\\.title\\s=\\s*\"))\/g","replace":"","state":""}

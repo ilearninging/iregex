@@ -1,0 +1,1 @@
+{"id":"92396","urlID":"340c4","name":"identificacion espa\u00f1a","description":"identificaciones (nif,cif,nie,pasaporte)","content":"","weightedVote":"2.5","numVotes":"0","author":"Marc Mu\u00f1i","community":"1","dateAdded":"2013-03-04","pattern":"\/\\d{8}[a-zA-Z]|[a-zA-Z]\\d{8}|[a-zA-Z]\\d{7}[a-zA-Z]|[a-zA-Z]{2}\\d{6}\/g","replace":"","state":""}

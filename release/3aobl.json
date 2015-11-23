@@ -1,0 +1,1 @@
+{"id":"166119","urlID":"3aobl","name":"DIM filename match","description":"","content":"some_filename_123_123_2234_3423.docx\nsome_filename_123_123.docx\n","weightedVote":"2.5","numVotes":"0","author":"pgtaboada","community":"1","dateAdded":"2015-04-02","pattern":"\/(.+)(\\_\\d+\\_\\d+)*\\.docx\/g","replace":"","state":"{\"substEnabled\":false}"}

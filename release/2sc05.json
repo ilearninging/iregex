@@ -1,0 +1,1 @@
+{"id":"8983","urlID":"2sc05","name":"Get all css rules with a certain property in them.","description":"get all css rules containing a specified property name.","content":"","weightedVote":"2.69097","numVotes":"1","author":"gday12","community":"1","dateAdded":"2010-10-16","pattern":"\/([^}]+)({[^{}]+(property-name)[^{}]+})\/g","replace":"","state":""}

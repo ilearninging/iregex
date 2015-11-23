@@ -1,0 +1,1 @@
+{"id":"49305","urlID":"3024b","name":"Phone number","description":"replace nuber +38067xxxxxxx to \r38 (067) xx xx xxx\r","content":"","weightedVote":"2.5","numVotes":"0","author":"sasha konovalov","community":"1","dateAdded":"2012-02-18","pattern":"\/^(\\+)(38)(\\d{3})(\\d{2})(\\d{2})(\\d{3})\/","replace":"$2 ($3) $4 $5 $6","state":""}

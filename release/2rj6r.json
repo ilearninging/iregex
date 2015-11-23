@@ -1,0 +1,1 @@
+{"id":"521","urlID":"2rj6r","name":"Remove HTML Tags","description":"Should remove all HTML tags from a block of text. Not thoroughly tested; please test before using.","content":"","weightedVote":"2.5","numVotes":"0","author":"Ryan Frederick","community":"1","dateAdded":"2010-05-13","pattern":"<[^>]*>([\\s]?)*<[^>]*>","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"171430","urlID":"3b7ti","name":"PhoneNumberforTR","description":"","content":"0 (544) 801-6756","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-18","pattern":"\/^0 \\(\\d{3}\\) \\d{3}-\\d{4}$\/g","replace":"","state":"{\"substEnabled\":false}"}

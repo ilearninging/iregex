@@ -1,0 +1,1 @@
+{"id":"45493","urlID":"2vmuv","name":"International Phone Number Validation","description":"32 476 1234567\r32 3 1234567\r49 4869 654654\r1 15 123456789","content":"","weightedVote":"2.5","numVotes":"0","author":"JFS","community":"1","dateAdded":"2012-01-12","pattern":"\/^\\d{2,3}\\s[1-9]\\d{0,3}\\s\\d{6,12}\\z\/g","replace":"","state":""}

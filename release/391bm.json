@@ -1,0 +1,1 @@
+{"id":"147346","urlID":"391bm","name":"Special Chars","description":"","content":"te@#st#tY","weightedVote":"2.5","numVotes":"0","author":"dikkini","community":"1","dateAdded":"2014-06-19","pattern":"\/[^\\w]{2,}\/g","replace":"","state":""}

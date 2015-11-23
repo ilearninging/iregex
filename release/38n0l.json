@@ -1,0 +1,1 @@
+{"id":"143815","urlID":"38n0l","name":"Sub","description":"sub","content":"<div id=\"content\" class=\"content-index\">text<\/div>","weightedVote":"2.5","numVotes":"0","author":"babawy","community":"1","dateAdded":"2014-04-14","pattern":"\/<div id=\"content\" class=\"content-index\">(.+)<\\\/div>\/g","replace":"","state":""}

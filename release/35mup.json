@@ -1,0 +1,1 @@
+{"id":"111027","urlID":"35mup","name":"htmlTag","description":"group1 = tagname\rgroup2 = attributes","content":"","weightedVote":"2.5","numVotes":"0","author":"south.kin","community":"1","dateAdded":"2013-07-24","pattern":"\/<\/?([^<\/ ]+) *([^<\/]*)\/?>\/g","replace":"tagname=$1;attributes=$2","state":""}

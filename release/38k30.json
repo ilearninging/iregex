@@ -1,0 +1,1 @@
+{"id":"142816","urlID":"38k30","name":"BIC (SWIFT) bank code","description":"ISO 9362","content":"","weightedVote":"2.5","numVotes":"0","author":"Janez T","community":"1","dateAdded":"2014-03-25","pattern":"\/[A-Z]{6,6}[A-Z2-9][A-NP-Z0-9]([A-Z0-9]{3,3}){0,1} \/","replace":"","state":""}

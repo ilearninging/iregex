@@ -1,0 +1,1 @@
+{"id":"581","urlID":"2rjcf","name":"get email body","description":"get email message body","content":"","weightedVote":"2.88194","numVotes":"1","author":"me","community":"1","dateAdded":"2010-06-16","pattern":"\/[\\r|\\n|\\r\\n]{2}.*\/s","replace":"","state":""}

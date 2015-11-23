@@ -1,0 +1,1 @@
+{"id":"515","urlID":"2rj69","name":"Brazil Time (hh:mm:ss)","description":"Matches 24 times separated by :\r\rhh:mm:ss\r","content":"","weightedVote":"2.2551","numVotes":"2","author":"Helton Marinho","community":"1","dateAdded":"2010-05-11","pattern":"\/(([0-2][0-3])(:)([0-5][0-9]))((:)([0-5][0-9]))\/g","replace":"","state":""}

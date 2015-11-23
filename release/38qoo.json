@@ -1,0 +1,1 @@
+{"id":"145096","urlID":"38qoo","name":"URL_check","description":"supported formats:\nhttp:\/\/www.[url]\nhttp:\/\/[url]\nwww.[url]\n[url]","content":"","weightedVote":"1.76531","numVotes":"2","author":"dexterdd","community":"1","dateAdded":"2014-05-09","pattern":"\/^(http:\\\/\\\/)?(www\\.)?(?!www|ww|http|).+\\..{2,4}(\\\/.*)?$\/g","replace":"","state":""}

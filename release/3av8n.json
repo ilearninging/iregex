@@ -1,0 +1,1 @@
+{"id":"168477","urlID":"3av8n","name":"path-matcher-2","description":"","content":"\/some\/path\/here.html","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-08","pattern":"\/\/([^\/]+)$\/g","replace":"","state":"{\"substEnabled\":false}"}

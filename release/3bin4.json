@@ -1,0 +1,1 @@
+{"id":"175116","urlID":"3bin4","name":"dsf","description":"","content":"viewBox=\"0 0 100 500\"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-12","pattern":"\/viewBox=\"[0-9]*\\.?[0-9]+\\s[0-9]*\\.?[0-9]+\\s[0-9]*\\.?[0-9]+\\s[0-9]*\\.?[0-9]+\"\/g","replace":"","state":"{\"substEnabled\":false}"}

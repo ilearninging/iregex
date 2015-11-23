@@ -1,0 +1,1 @@
+{"id":"19510","urlID":"2tar2","name":"HTML.de Strip-Tags Pattern","description":"Entfernt HTML, XML, PHP-Tags aus Strings","content":"","weightedVote":"2.5","numVotes":"0","author":"Timmer","community":"1","dateAdded":"2011-03-17","pattern":"\/(<.+?>)\/g","replace":"","state":""}

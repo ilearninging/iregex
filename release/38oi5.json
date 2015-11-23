@@ -1,0 +1,1 @@
+{"id":"144343","urlID":"38oi5","name":"Extract Domain Names","description":"Takes the tld of a given host","content":"mail.amazon.google.com.uk.org.lk","weightedVote":"3.26389","numVotes":"1","author":"Bryce Larkin","community":"1","dateAdded":"2014-04-23","pattern":"\/\\.((?:[^\\.]+\\.)?([^\\.]+\\.[^\\.]+)?)?$\/","replace":"","state":""}

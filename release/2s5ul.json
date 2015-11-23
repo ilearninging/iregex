@@ -1,0 +1,1 @@
+{"id":"6919","urlID":"2s5ul","name":"US Street Address","description":"This will validate a US Street Address\rEX: 21213 street ave\rEX: 456 place st\r\r","content":"","weightedVote":"3.10494","numVotes":"4","author":"the1johnson","community":"1","dateAdded":"2010-09-16","pattern":"\/\\d+\\w+\\s\\w+\\s\\w+\/","replace":"","state":""}

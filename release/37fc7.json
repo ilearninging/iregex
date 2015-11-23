@@ -1,0 +1,1 @@
+{"id":"130285","urlID":"37fc7","name":"price (germay)","description":"Matches any german price from 0 - 99.999,99","content":"","weightedVote":"2.5","numVotes":"0","author":"Alex Lung","community":"1","dateAdded":"2013-12-02","pattern":"^(\\d{1,5})$|^(\\d{1,5},\\d{1,2})$|^(\\d{1,2}\\.\\d{3,3})$|^(\\d{1,2}\\.\\d{3,3},\\d{1,2})$","replace":"","state":""}

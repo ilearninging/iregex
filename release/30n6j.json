@@ -1,0 +1,1 @@
+{"id":"56497","urlID":"30n6j","name":"escape metacharacters","description":"escape all metacharacters","content":"","weightedVote":"2.5","numVotes":"0","author":"ogresto","community":"1","dateAdded":"2012-04-20","pattern":"\/[\\^\\.\\$\\{\\}\\*\\(\\)\\|\\+\\?\\<\\>\\[\\]\\\\]\/g","replace":"$&","state":""}

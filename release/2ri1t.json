@@ -1,0 +1,1 @@
+{"id":"127","urlID":"2ri1t","name":"E-mail subjects","description":"^[a-zA-Z\\s0-9\\.\\,\\;\\-\\!\\?\\@\\'\\:\\\u2014]+$","content":"","weightedVote":"2.5","numVotes":"1","author":"shuriko","community":"1","dateAdded":"2009-08-08","pattern":"\/^[a-zA-Z\\s0-9\\.\\,\\;\\-\\!\\?\\@\\'\\:\\\u2014]+$\/","replace":"","state":""}

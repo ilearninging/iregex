@@ -1,0 +1,1 @@
+{"id":"22318","urlID":"2tj2a","name":"Finding in comma seperated list","description":"Finding in comma seperated list. Need to work more.","content":"","weightedVote":"3.52041","numVotes":"2","author":"DELL","community":"1","dateAdded":"2011-04-19","pattern":"\/[^,\\\\w][^\\\\,]*[^,]\/gixm","replace":"","state":""}

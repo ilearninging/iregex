@@ -1,0 +1,1 @@
+{"id":"501","urlID":"2rj4v","name":"ISMN regexp","description":"no checksum test included","content":"","weightedVote":"2.5","numVotes":"0","author":"Oliver","community":"1","dateAdded":"2010-05-06","pattern":"\/^979(-| )0(-| )\\d{3,7}(-| )\\d{1,5}(-| )([\\dx]){1}$\/gim","replace":"","state":""}

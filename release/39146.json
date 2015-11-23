@@ -1,0 +1,1 @@
+{"id":"147266","urlID":"39146","name":"Ends with vowels","description":"","content":"ansiu abad ansid xyaz ansid ansia ansid","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-18","pattern":"\/\\b(\\w+)[aeiou]\\b\/g","replace":"","state":""}

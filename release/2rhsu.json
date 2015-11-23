@@ -1,0 +1,1 @@
+{"id":"74","urlID":"2rhsu","name":"url and wildcards part 1","description":"URL which can accept wildcards","content":"","weightedVote":"2.5","numVotes":"1","author":"And","community":"1","dateAdded":"2009-07-01","pattern":"\/((([0-9a-z\\?][0-9a-z-\\?]*)?[0-9a-z\\?])|(([0-9a-z\\?][0-9a-z-\\?]*)?\\*(([0-9a-z\\?][0-9a-z-\\?]*)?[0-9a-z\\?])?))\/g","replace":"","state":""}

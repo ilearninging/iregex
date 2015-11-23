@@ -1,0 +1,1 @@
+{"id":"145869","urlID":"38t17","name":"Email","description":"Basic email validation","content":"This is (a simple) sentence","weightedVote":"2.04167","numVotes":"1","author":"RegExr","community":"1","dateAdded":"2014-05-23","pattern":"\/([\\w-\\.]+)@((?:[\\w]+\\.)+)([a-zA-Z]{2,4})\\be(\\w*)s\\b\/ig","replace":"","state":""}

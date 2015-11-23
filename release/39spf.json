@@ -1,0 +1,1 @@
+{"id":"156709","urlID":"39spf","name":"check date 1900-9999","description":"format from 1900 to 9999","content":"31-12-1900","weightedVote":"2.5","numVotes":"0","author":"Jhonjhon_123","community":"1","dateAdded":"2014-11-11","pattern":"\/^([0]?[1-9]|[1|2][0-9]|[3][0|1])-([0]?[1-9]|[1][0-2])-(19[0-9]{2}|[2-9][0-9]{3})$\/gm","replace":"","state":""}

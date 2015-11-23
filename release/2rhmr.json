@@ -1,0 +1,1 @@
+{"id":"9","urlID":"2rhmr","name":"Multiline Comment","description":"Will match all multiline (\/* *\/) comments.","content":"","weightedVote":"3.74967","numVotes":"10","author":"Ryan Matsikas","community":"1","dateAdded":"2009-05-26","pattern":"\/\\\/\\*[\\s\\S]*?\\*\\\/\/gm","replace":"","state":""}

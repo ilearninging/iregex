@@ -1,0 +1,1 @@
+{"id":"85081","urlID":"33aub","name":"allstrings","description":"To check all query data","content":"","weightedVote":"2.5","numVotes":"0","author":"Hugh Mc Bride","community":"1","dateAdded":"2013-01-07","pattern":"\/\\be(\\w*)s\\b\/gi","replace":"","state":""}

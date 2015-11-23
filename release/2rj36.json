@@ -1,0 +1,1 @@
+{"id":"482","urlID":"2rj36","name":"URL Similar","description":"Matches things that look like URLs, even small things. ","content":"","weightedVote":"3.98049","numVotes":"97","author":"Mengel","community":"1","dateAdded":"2010-04-28","pattern":"\/[-a-zA-Z0-9@:%_\\+.~#?&\/\/=]{2,256}\\.[a-z]{2,4}\\b(\\\/[-a-zA-Z0-9@:%_\\+.~#?&\/\/=]*)?\/gi","replace":"","state":""}

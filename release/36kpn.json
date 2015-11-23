@@ -1,0 +1,1 @@
+{"id":"121213","urlID":"36kpn","name":"Adds Paragraph into text, by peplacing carriage return","description":"Add html tags start and end of a paragraph based on the carriage return","content":"","weightedVote":"3.52041","numVotes":"2","author":"d@zstyle.com.ua","community":"1","dateAdded":"2013-10-07","pattern":"\/([^\\r]+)\/g","replace":"<p>$&<\/p>","state":""}

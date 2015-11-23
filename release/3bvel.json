@@ -1,0 +1,1 @@
+{"id":"179463","urlID":"3bvel","name":"Check Blank Space","description":"","content":"Please check your answer.","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-12","pattern":"\/(\\s)\/g","replace":"","state":"{\"substEnabled\":false}"}

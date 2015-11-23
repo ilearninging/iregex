@@ -1,0 +1,1 @@
+{"id":"34226","urlID":"2ulum","name":"Filtro3bis - Tesauro","description":"Convierte los saltos de l\u00ednea en comas, generando una lista de t\u00e9rminos","content":"","weightedVote":"2.88194","numVotes":"1","author":"Manuel Bl\u00e1zquez Ochando","community":"1","dateAdded":"2011-09-12","pattern":"\/ \\r\/g","replace":", ","state":""}

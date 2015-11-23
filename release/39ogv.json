@@ -1,0 +1,1 @@
+{"id":"155253","urlID":"39ogv","name":"PL Phonenumber","description":"Polish phone numbers","content":"61 842 35 76","weightedVote":"2.5","numVotes":"0","author":"Czesieq","community":"1","dateAdded":"2014-10-17","pattern":"\/^([\\d]{9})|([\\d]{3})((?: |-)[\\d]{3}){2}|([\\d]{2}(?: |-)(([\\d]{7})|([\\d]{3}((?: |-)[\\d]{2}){2})))$\/","replace":"","state":""}

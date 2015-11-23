@@ -1,0 +1,1 @@
+{"id":"113882","urlID":"35vae","name":"Skype Username","description":"Skype Username pattern","content":"","weightedVote":"2.90817","numVotes":"2","author":"Shamil Yakupov","community":"1","dateAdded":"2013-08-15","pattern":"\/^[a-zA-Z]([a-zA-Z0-9]|[_\\.-](?!_|\\.|-|$)){5,31}$\/","replace":"","state":""}

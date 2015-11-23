@@ -1,0 +1,1 @@
+{"id":"176616","urlID":"3bn3o","name":"Test","description":"Test","content":"2Boston1New York3New Brunswick","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-09-02","pattern":"\/[0-9]+([^0-9]*)\/g","replace":"","state":"{\"substEnabled\":false}"}

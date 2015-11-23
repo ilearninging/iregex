@@ -1,0 +1,1 @@
+{"id":"152171","urlID":"39fg1","name":"Period thousands-separated","description":"Validates decimal numbers that are thousands-separated with a period.","content":"4.129.000,599","weightedVote":"2.5","numVotes":"0","author":"Erwin","community":"1","dateAdded":"2014-09-10","pattern":"\/^(?:0|[1-9][0-9]{0,2}(?:\\.[0-9]{3})*)(?:,\\d+){0,1}$\/g","replace":"","state":""}

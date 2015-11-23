@@ -1,0 +1,1 @@
+{"id":"232","urlID":"2ribo","name":"File Name Extractor","description":"can extract filenames from urls\reg: www.google.com\/filename.xml\r\rfilename.xml","content":"","weightedVote":"3.07129","numVotes":"3","author":"sg","community":"1","dateAdded":"2009-11-11","pattern":"\/(\\w|[-.])+$\/","replace":"","state":""}

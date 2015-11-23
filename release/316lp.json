@@ -1,0 +1,1 @@
+{"id":"61779","urlID":"316lp","name":"Many <br \/> to one","description":"Replaces multiple <br> tags (<br>, <br \/>, <br\/>) followed by new line with one <br> and new line.","content":"","weightedVote":"4.09375","numVotes":"7","author":"Oleg Gromov","community":"1","dateAdded":"2012-06-07","pattern":"\/(\\<br\\s*\\\/?\\>\\s*)+\/gi","replace":"<br \/>n","state":""}

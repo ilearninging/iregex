@@ -1,0 +1,1 @@
+{"id":"284","urlID":"2rigk","name":"ewgmms","description":"check id","content":"","weightedVote":"2.11806","numVotes":"1","author":"raaji","community":"1","dateAdded":"2009-12-14","pattern":"\/[A-Z0-9]{3}_[ !#$%()*+,\\\\-\\\\.\/0-9:;=\\\\?@A-Z\\\\[\\\\\\\\\\\\]\\\\^_`a-z{|}~&><\"\"]{1,28}\/g","replace":"","state":""}

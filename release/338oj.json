@@ -1,0 +1,1 @@
+{"id":"84337","urlID":"338oj","name":"a href title between \" \"","description":"Match title","content":"","weightedVote":"2.5","numVotes":"0","author":"Aytekin","community":"1","dateAdded":"2012-12-28","pattern":"\"><[^<]+[\\w\u00f6\u00e7\u015f\u011f\u0131\u00fc?]+[^\\r]+\\r","replace":"r","state":""}

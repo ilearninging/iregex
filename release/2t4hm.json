@@ -1,0 +1,1 @@
+{"id":"17362","urlID":"2t4hm","name":"Belgian Cellphone number formatting","description":"Used to check a belgian way of formatting cellphone numbers.","content":"","weightedVote":"2.5","numVotes":"0","author":"DreamersDelight","community":"1","dateAdded":"2011-02-17","pattern":"\/[0-9]{4}\/[0-9]{2}.[0-9]{2}.[09]{2}\/g","replace":"","state":""}

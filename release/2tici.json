@@ -1,0 +1,1 @@
+{"id":"22086","urlID":"2tici","name":"TrimWhiteSpace","description":"lazy trim leading and tailing whitespace by replacement with empty string","content":"","weightedVote":"2.34694","numVotes":"2","author":"Bart","community":"1","dateAdded":"2011-04-15","pattern":"\/^\\s*|\\s*$\/g","replace":"","state":""}

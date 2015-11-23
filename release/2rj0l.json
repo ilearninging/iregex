@@ -1,0 +1,1 @@
+{"id":"455","urlID":"2rj0l","name":"IBAN","description":"IBAN Number","content":"","weightedVote":"2.80612","numVotes":"2","author":"emrah","community":"1","dateAdded":"2010-04-14","pattern":"[a-zA-Z]{2}[0-9]{2}[a-zA-Z0-9]{4}[0-9]{7}([a-zA-Z0-9]?){0,16}","replace":"","state":""}

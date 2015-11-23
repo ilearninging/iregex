@@ -1,0 +1,1 @@
+{"id":"467","urlID":"2rj1p","name":"find all tr tags","description":"match all tr tags and their contents in a html document","content":"","weightedVote":"2.69097","numVotes":"1","author":"kayak.jiang@gmail.com","community":"1","dateAdded":"2010-04-19","pattern":"<tr.*?>.*?<\/tr>\/mui","replace":"","state":""}

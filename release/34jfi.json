@@ -1,0 +1,1 @@
+{"id":"98918","urlID":"34jfi","name":"detects URI with exe extension","description":"This RegEx detects exe URI starting with href=\"http:\/\/","content":"","weightedVote":"2.88194","numVotes":"1","author":"Chris Tripp","community":"1","dateAdded":"2013-04-19","pattern":"\/href=\"http:\/\/.*?.exe\/g","replace":"","state":""}

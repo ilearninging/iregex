@@ -1,0 +1,1 @@
+{"id":"160537","urlID":"3a80b","name":"avatar match","description":"","content":"\/avatars\/piotr@zduniak.net.svg\n\/avatars\/piotr@zduniak.net.svg?width=150","weightedVote":"2.5","numVotes":"0","author":"piggyslasher","community":"1","dateAdded":"2015-01-17","pattern":"\/\/avatars\/(.*?)\\.([^.]*).[a-z]*\/g","replace":"","state":""}

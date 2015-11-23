@@ -1,0 +1,1 @@
+{"id":"546","urlID":"2rj96","name":"valid birthdate (YYYY-MM-DD)","description":"Help you to see if a user inputs a valid birthdate","content":"","weightedVote":"2.5","numVotes":"2","author":"golonka","community":"1","dateAdded":"2010-05-29","pattern":"\/(\\d{4})-(\\d{2})-(\\d{2})\/g","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"176236","urlID":"3bm04","name":"Ticket extraction","description":"","content":"Ticket;110144106100;1;169.99,Ticket;110144156100;5;159.99\n\n\nResult  = 110144106100,110144156100","weightedVote":"2.5","numVotes":"0","author":"Troy Forster","community":"1","dateAdded":"2015-08-27","pattern":"\/Ticket;[0-9]{12};([0-9])\/g","replace":"","state":"{\"substEnabled\":false}"}

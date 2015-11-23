@@ -1,0 +1,1 @@
+{"id":"143994","urlID":"38nhe","name":"Email","description":"validates email addresses","content":"drink beer, it's very nice!","weightedVote":"3.21094","numVotes":"3","author":"gskinner","community":"1","dateAdded":"2014-04-16","pattern":"\/([\\w-\\.]+)@((?:[\\w]+\\.)+)([a-zA-Z]{2,4})\/g","replace":"","state":""}

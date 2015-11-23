@@ -1,0 +1,1 @@
+{"id":"139276","urlID":"389n4","name":"RPG Dice Rolls","description":"RegExp that matches any dice roll, including Fudge dice.\rExample:\r3d6-4\r4dF+2\rd100\r2d20-7","content":"","weightedVote":"2.88194","numVotes":"1","author":"Windstalker","community":"1","dateAdded":"2014-02-13","pattern":"\/(\\d*)?d(?:(\\d+|F))(?:([\\+-]\\d*))?\/","replace":"","state":""}

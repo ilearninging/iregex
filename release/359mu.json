@@ -1,0 +1,1 @@
+{"id":"106506","urlID":"359mu","name":"Facebook ID extractor","description":"Facebook uses @[facebook_id] for notifications, this will extract just the facebook_id from a notification template.","content":"","weightedVote":"2.5","numVotes":"0","author":"Drewry","community":"1","dateAdded":"2013-06-19","pattern":"\/(?!@\\[)(\\d+)(?=\\])\/g","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"520","urlID":"2rj6o","name":"Get Text Between HTML Tags","description":"Will grab text between 2 HTML tags\r(ex. will get \"hello\" from <div>hello<\/div>","content":"","weightedVote":"2.82645","numVotes":"3","author":"Nimado","community":"1","dateAdded":"2010-05-13","pattern":"\/[^<>]+(?=[<])\/g","replace":"","state":""}

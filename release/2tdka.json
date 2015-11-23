@@ -1,0 +1,1 @@
+{"id":"20462","urlID":"2tdka","name":"Match on the base of thease characters","description":"This RegExp match chrecters like , . ; \" ' \\s ! & + `\ryou can extend character in [].","content":"","weightedVote":"2.5","numVotes":"1","author":"Sohail ahmad","community":"1","dateAdded":"2011-03-29","pattern":"\/[,\"';\\s!`&+]\/","replace":"","state":""}

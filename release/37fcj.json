@@ -1,0 +1,1 @@
+{"id":"130289","urlID":"37fcj","name":"CSS","description":"A regular expression to match a css property and value","content":"","weightedVote":"2.5","numVotes":"0","author":"Jacques Marais","community":"1","dateAdded":"2013-12-02","pattern":"\/background|color|font[\\s]?\\:([\\s\\S]*?(?=([;|\\}])))\/gm","replace":"value of the property: $1","state":""}

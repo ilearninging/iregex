@@ -1,0 +1,1 @@
+{"id":"172833","urlID":"3bc13","name":"No Lazy","description":"","content":"<b>Welcome<\/b> to <b>RegExr v2.0<\/b> by gskinner.com!\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-09","pattern":"\/<b>(.*)<\\\/b>\/g","replace":"","state":"{\"substEnabled\":false}"}

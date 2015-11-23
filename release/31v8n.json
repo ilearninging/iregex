@@ -1,0 +1,1 @@
+{"id":"70173","urlID":"31v8n","name":"A sentence of 10 words","description":"a sentence of 10 words, include spaces white spaces and punctuation","content":"","weightedVote":"2.5","numVotes":"0","author":"Simone Bernacchia","community":"1","dateAdded":"2012-08-27","pattern":"\/(\\w+[\\s,;:.!?]+){1,10}\\w+[\\s'.,;:?!]\/","replace":"","state":""}

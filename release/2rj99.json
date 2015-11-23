@@ -1,0 +1,1 @@
+{"id":"547","urlID":"2rj99","name":"Nested curly brackets","description":"Finds nested curly brackets.","content":"","weightedVote":"2.62245","numVotes":"2","author":"Josh Iverson","community":"1","dateAdded":"2010-05-29","pattern":"\/(\\{(?:\\{.*\\}|[^\\{])*\\})\/m","replace":"","state":""}

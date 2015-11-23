@@ -1,0 +1,1 @@
+{"id":"5923","urlID":"2s319","name":"SQL to Java String","description":"Wraps a SQL string with double quotes and concatenates them together to form a valid Java String.","content":"","weightedVote":"4.05553","numVotes":"17","author":"Steven Wagner","community":"1","dateAdded":"2010-09-02","pattern":"\/^\\s*(.*?);?\\s*$\/gm","replace":"+\"$1 \"","state":""}

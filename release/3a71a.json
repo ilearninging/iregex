@@ -1,0 +1,1 @@
+{"id":"160206","urlID":"3a71a","name":"Test","description":"","content":"!!!John Smith???","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-12","pattern":"\/(?<=!!!)\\K\\s*\\K[^\\n\\r?]+?(?=\\s*\\?\\?\\?)\/g","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"143120","urlID":"38kvg","name":"only float numbers with comma","description":"Accept only float numbers separeted by comma","content":"","weightedVote":"3.26389","numVotes":"1","author":"Luiz  Aquino","community":"1","dateAdded":"2014-03-28","pattern":"\/^[0-9]+([.|,][0-9]+)?$\/g","replace":"","state":""}

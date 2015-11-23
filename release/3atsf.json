@@ -1,0 +1,1 @@
+{"id":"168005","urlID":"3atsf","name":"not match <br>","description":"","content":"http:\/\/fitbay.com\/lold\/<\\<f<\nddadad","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-30","pattern":"\/(http|https):\\\/\\\/([a-z-]+\\.)?fitbay.com([^\\s<]*)\/ig","replace":"","state":"{\"substEnabled\":false}"}

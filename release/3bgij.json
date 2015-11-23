@@ -1,0 +1,1 @@
+{"id":"174385","urlID":"3bgij","name":"test","description":"","content":"Research\/Reports\/Louisiana-K-12---School-Choice-Survey.aspx","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-31","pattern":"\/Research\\\/Reports\\\/(.*).(.*)\/","replace":"\/$1","state":"{\"substEnabled\":true}"}

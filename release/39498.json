@@ -1,0 +1,1 @@
+{"id":"148344","urlID":"39498","name":"test multi lines","description":"test multi lines","content":"line1\nline2\nline3 59800 line4\nline5\nline6\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-07-07","pattern":"\/.{1,25}59800.{1,25}\/igm","replace":"","state":""}

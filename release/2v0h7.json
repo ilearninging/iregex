@@ -1,0 +1,1 @@
+{"id":"37837","urlID":"2v0h7","name":"Extract host nmae from URI","description":"Extract host nmae from URI( encoded and not encoded uris)","content":"","weightedVote":"2.5","numVotes":"0","author":"Manas","community":"1","dateAdded":"2011-10-23","pattern":"\/^.*?(%3a%2f%2f|:\/\/)([\\w\\.]*)?(%2f|\/){0,1}.*$\/g","replace":"","state":""}

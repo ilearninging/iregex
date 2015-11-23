@@ -1,0 +1,1 @@
+{"id":"48733","urlID":"300en","name":"multi-line","description":"xc","content":"","weightedVote":"2.5","numVotes":"0","author":"SD","community":"1","dateAdded":"2012-02-13","pattern":"\/\\\/\\*[\\s\\S]*?\\*\\\/\/gm","replace":"","state":""}

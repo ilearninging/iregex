@@ -1,0 +1,1 @@
+{"id":"144320","urlID":"38og0","name":"US Zip code","description":"Can be 5 digits(88888) or \nnine(88888-8888)\n- is required","content":"17517\n17517-9898\n14677-4443","weightedVote":"2.5","numVotes":"0","author":"jweiler","community":"1","dateAdded":"2014-04-23","pattern":"\/(\\d{5}-\\d{4})|(\\d{5})\/g","replace":"","state":""}

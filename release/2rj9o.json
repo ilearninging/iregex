@@ -1,0 +1,1 @@
+{"id":"552","urlID":"2rj9o","name":"Strip HTML","description":"Removes all HTML Tags and returns just the text.","content":"","weightedVote":"2.67284","numVotes":"4","author":"AC - Regex","community":"1","dateAdded":"2010-06-10","pattern":"\/[^<>]+(?=[<])\/g","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"22625","urlID":"2tjv3","name":"Adobe Flash Version Check","description":"This will verify the version of Adobe Flash is greater than 10.2.135.*","content":"","weightedVote":"2.5","numVotes":"1","author":"Zabel","community":"1","dateAdded":"2011-04-22","pattern":"\/^10,(2,(15[3-9]|1[6-9]\\d|[2-9])|[3-9]).*\/gm","replace":"","state":""}

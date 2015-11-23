@@ -1,0 +1,1 @@
+{"id":"167283","urlID":"3arop","name":"new french phone number","description":"adding 07 mobile number support","content":"0245875632\n0654789563\n0705632252\n0956324587","weightedVote":"2.5","numVotes":"0","author":"AirCraft","community":"1","dateAdded":"2015-04-20","pattern":"\/^(0|\\+33 )[1-6897]([ .-]?\\d{2}){4}$\/gm","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,0 +1,1 @@
+{"id":"106894","urlID":"35ara","name":"12345.687","description":"asdf","content":"","weightedVote":"2.5","numVotes":"0","author":"asdf","community":"1","dateAdded":"2013-06-23","pattern":"\/\\d{1,3}(?=(\\d{3})+(?!\\d))\/g","replace":"[[$&$&]]","state":""}

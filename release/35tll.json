@@ -1,0 +1,1 @@
+{"id":"113319","urlID":"35tll","name":"String Does Not Contain","description":"Test a string for a character excluding capitals, lowercase, numbers, whitespace","content":"","weightedVote":"2.5","numVotes":"0","author":"Walkerbo","community":"1","dateAdded":"2013-08-11","pattern":"[^A-Za-z0-9\\\\s]","replace":"","state":""}

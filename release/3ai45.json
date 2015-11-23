@@ -1,0 +1,1 @@
+{"id":"163991","urlID":"3ai45","name":"RD664","description":"special character regex","content":"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-05","pattern":"\/[^a-zA-Z0-9\\s]\/g","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,0 +1,1 @@
+{"id":"179283","urlID":"3butp","name":"foo","description":"","content":"netflix.com\nfdasfsd.netflix.com","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-09","pattern":"\/(.+\\.)?netflix\\.com\/g","replace":"","state":"{\"substEnabled\":false}"}

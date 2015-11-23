@@ -1,0 +1,1 @@
+{"id":"146020","urlID":"38tfc","name":"Phone Number","description":"Detect if a Spain phone number have more than 6 numbers repeated. (Maybe an error or non-human)","content":"645555524","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-05-27","pattern":"\/([0-9])\\1{4}\/","replace":"","state":""}

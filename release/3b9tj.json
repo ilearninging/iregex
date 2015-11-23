@@ -1,0 +1,1 @@
+{"id":"172113","urlID":"3b9tj","name":"url until a space","description":"","content":"ftp:\/\/eclipse.sucks hello world, foo https:\/\/www.google.com bar baz","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-29","pattern":"\/([A-Za-z]+:\/\/([^\\s]+))\/g","replace":"<a href=\"$1\">$2<\/a>","state":"{\"substEnabled\":true}"}

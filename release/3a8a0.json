@@ -1,0 +1,1 @@
+{"id":"160640","urlID":"3a8a0","name":"email","description":"","content":"nhan@gmail.com","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-19","pattern":"\/(^[\\w-\\.]+@([\\w-]+\\.)+[\\w-]{2,4}$)\/g","replace":"","state":""}

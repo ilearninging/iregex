@@ -1,0 +1,1 @@
+{"id":"64820","urlID":"31fis","name":"C Like comment selector","description":"Selects the C like comments:\r\r\/\/this is a comment\r\r\/*this is a comment*\/","content":"","weightedVote":"3.3642","numVotes":"4","author":"R3gG3x","community":"1","dateAdded":"2012-07-08","pattern":"\/((\\\/\\\/).*\\r)|(\\\/\\*).*(\\*\\\/)\/gm","replace":"","state":""}

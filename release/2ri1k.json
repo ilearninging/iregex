@@ -1,0 +1,1 @@
+{"id":"124","urlID":"2ri1k","name":"Canadian Postal Code","description":"\/\\A[A-Z]{1}[0-9]{1}[A-Z]{1}\\s?[0-9]{1}[A-Z]{1}[0-9]{1}\\Z\/","content":"","weightedVote":"2.5","numVotes":"0","author":"Ram","community":"1","dateAdded":"2009-08-07","pattern":"\/\\be(\\w*)s\\b\/g","replace":"","state":""}

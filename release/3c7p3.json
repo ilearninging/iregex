@@ -1,0 +1,1 @@
+{"id":"182305","urlID":"3c7p3","name":"RiB","description":"rib bancaire","content":"444-55523-1234567891234-12","weightedVote":"3.26389","numVotes":"1","author":"shichem","community":"1","dateAdded":"2015-11-17","pattern":"\/\\b\\d{3}[-.]?\\d{5}[-.]?\\d{13}[-.]?\\d{2}\\b\/g","replace":"","state":"{\"substEnabled\":false}"}

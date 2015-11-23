@@ -1,0 +1,1 @@
+{"id":"61477","urlID":"315pf","name":"url","description":"aaaa","content":"","weightedVote":"2.5","numVotes":"0","author":"lee","community":"1","dateAdded":"2012-06-05","pattern":"\/^(http|https)?(?:\\:\\\/\\\/)?((?:[^\\?#\\\/]+\\.[^\\?#\\\/]+))?(?::(\\d+))?([^\\?#]*)(?:\\?([^#]*))(?:#(.*))$\/","replace":"","state":""}

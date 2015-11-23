@@ -1,0 +1,1 @@
+{"id":"5316","urlID":"2s18c","name":"Spanish Name","description":"Validaci\u00f3n de un nombre con caracteres acentuados","content":"","weightedVote":"3.21094","numVotes":"3","author":"Joffr\u00e9","community":"1","dateAdded":"2010-08-24","pattern":"^[a-zA-Z\\s\\xE1\\xE9\\xED\\xF3\\xFA\\xC1\\xC9\\xCD\\xD3\\xDA]{3,}$","replace":"","state":""}

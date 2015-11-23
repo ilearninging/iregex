@@ -1,0 +1,1 @@
+{"id":"148","urlID":"2ri3s","name":"User initiated logoff","description":"regex","content":"","weightedVote":"2.5","numVotes":"0","author":"szilard","community":"1","dateAdded":"2009-08-28","pattern":"\/\\be(\\w*)s\\b\/g","replace":"","state":""}

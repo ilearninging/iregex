@@ -1,0 +1,1 @@
+{"id":"153070","urlID":"39i4a","name":"not with * and \/","description":"","content":"qsdlksqj aqsd  qsd d hede qsdqsd","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-09-23","pattern":"\/^((?![\\*\\\/]).)*$\/g","replace":"","state":""}

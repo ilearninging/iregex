@@ -1,0 +1,1 @@
+{"id":"153","urlID":"2ri4b","name":"24h times ; separated","description":"matches 24h times separated by ;\rbut the series cannot end with a ;","content":"","weightedVote":"2.29592","numVotes":"2","author":"DogGuts","community":"1","dateAdded":"2009-09-01","pattern":"\/(([0-2][0-9])(:)([0-5][0-9]))((;)([0-2][0-9])(:)([0-5][0-9]))*\/g","replace":"","state":""}

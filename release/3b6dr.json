@@ -1,0 +1,1 @@
+{"id":"170921","urlID":"3b6dr","name":"phone","description":"","content":"123456123\n123-456123\t\n123 456-4568\n\n(123)123-4567\t\n\n\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-11","pattern":"\/^[0-9]{7,20}$\/gm","replace":"","state":"{\"substEnabled\":false}"}

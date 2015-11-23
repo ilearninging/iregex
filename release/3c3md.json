@@ -1,0 +1,1 @@
+{"id":"180911","urlID":"3c3md","name":"capture last digit","description":"for Mark Davis","content":"05:00 AM Early Start with John Berman and Christine Romans Break 3\n","weightedVote":"2.5","numVotes":"0","author":"Steve Conlan","community":"1","dateAdded":"2015-10-30","pattern":"\/\\d(?!.*\\d)\/g","replace":"1$1","state":"{\"substEnabled\":true}"}

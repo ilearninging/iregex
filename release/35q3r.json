@@ -1,0 +1,1 @@
+{"id":"112105","urlID":"35q3r","name":"Dell Service Tag","description":"This will find the 7 character alphanumeric Service Tag for a Dell Computer sold in the Americas (ending in 1)","content":"","weightedVote":"2.5","numVotes":"0","author":"Austin B","community":"1","dateAdded":"2013-08-01","pattern":"\/[a-zA-Z0-9]{6}1\/gi","replace":"","state":""}

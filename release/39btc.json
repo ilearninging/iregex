@@ -1,0 +1,1 @@
+{"id":"150948","urlID":"39btc","name":"Ends with ;","description":"Searches for a string ending in a semicolon","content":"Put\n\tany\n text\n \t \t here\n;","weightedVote":"3.26389","numVotes":"1","author":"Jargonius","community":"1","dateAdded":"2014-08-20","pattern":"\/Put(([^;]+)?);\/g","replace":"","state":""}

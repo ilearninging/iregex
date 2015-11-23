@@ -1,0 +1,1 @@
+{"id":"143820","urlID":"38n14","name":"CJK punctuation","description":"Unicode for all CJK punctuation","content":null,"weightedVote":"4.22839","numVotes":"4","author":"SimaZhi","community":"1","dateAdded":"2014-04-14","pattern":"\/[\\u3000-\\u303F|\\uFF00-\\uFF5A]\/g","replace":"","state":""}

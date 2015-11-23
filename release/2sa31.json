@@ -1,0 +1,1 @@
+{"id":"8331","urlID":"2sa31","name":"File Extension","description":"Match a file extension","content":"","weightedVote":"2.5","numVotes":"0","author":"Ahmatti","community":"1","dateAdded":"2010-10-07","pattern":"\/\\.+[a-zA-Z]+$\/gm","replace":"","state":""}

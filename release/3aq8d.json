@@ -1,0 +1,1 @@
+{"id":"166767","urlID":"3aq8d","name":"amol","description":"","content":"mydomain.com\/add\/post\/12345\nmydomain.com\/add\/post\/","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-12","pattern":"\/add\\\/post\\\/(\\d+)?\/g","replace":"","state":"{\"substEnabled\":false}"}

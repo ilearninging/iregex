@@ -1,0 +1,1 @@
+{"id":"95250","urlID":"348nm","name":"vvv","description":"vvvbbbbbbbbbbbbbb","content":"","weightedVote":"2.5","numVotes":"0","author":"vvbb","community":"1","dateAdded":"2013-03-24","pattern":"\/^(([a-zA-Z]{1}:|\\\\)(\\\\[^\\\\\/<>:\\|\\*\\?\\\"]+)+\\.[^\\\\\/<>:\\|]{3,4})$\/i","replace":"[[$&$&]]","state":""}

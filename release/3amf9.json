@@ -1,0 +1,1 @@
+{"id":"165475","urlID":"3amf9","name":"Join Check","description":"","content":"http:\/\/domain.com\/test\n\nhttp:\/\/domain.com\/join\n\nhttp:\/\/domain.com\/lander\/mobile\/join\n\n\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-25","pattern":"\/((lander\\\/mobile\\\/)?join)(.*)\/gm","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,0 +1,1 @@
+{"id":"34193","urlID":"2ulrj","name":"Filtro1 - Tesauro","description":"Eliminar t\u00e9rminos relacionados de un tesauro","content":"","weightedVote":"3.21094","numVotes":"3","author":"Manuel Bl\u00e1zquez Ochando","community":"1","dateAdded":"2011-09-12","pattern":"\/RT .*\\r\/g","replace":"","state":""}

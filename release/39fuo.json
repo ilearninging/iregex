@@ -1,0 +1,1 @@
+{"id":"152328","urlID":"39fuo","name":"Test","description":"","content":"Callaway club","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-09-11","pattern":"\/(^[cC]allaway\\s*\\w*)|(^[bB]ig bertha\\s*\\w*)|(^[vV] series\\s*\\w*)|(^[Dd]river\\s*\\w*)\/g","replace":"","state":""}

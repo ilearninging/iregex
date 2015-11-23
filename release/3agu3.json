@@ -1,0 +1,1 @@
+{"id":"163585","urlID":"3agu3","name":"Series Regex","description":"","content":"House.of.Cards.S03E01.720p.WEBRip.DD5.1.x264-FGT","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-02-27","pattern":"\/(?:(?:S|s)([0-9][1-9])(?:(?:E|e)([0-9][1-9])?))\/g","replace":"","state":"{\"substEnabled\":false}"}

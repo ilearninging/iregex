@@ -1,0 +1,1 @@
+{"id":"100867","urlID":"34p69","name":"find adverb","description":"find adverbs in a text file.(for hut IT 89)","content":"","weightedVote":"2.5","numVotes":"0","author":"$@E!D KH0J@$TEH","community":"1","dateAdded":"2013-05-05","pattern":"\/(^[a-z]|[A-Z])[a-z]*(ly)$\/g","replace":"","state":""}

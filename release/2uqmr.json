@@ -1,0 +1,1 @@
+{"id":"35849","urlID":"2uqmr","name":"Match URL Domain with subdomain","description":"Will match .com.uk, for instance.","content":"","weightedVote":"3.31632","numVotes":"2","author":"Ricardo","community":"1","dateAdded":"2011-09-29","pattern":"\/\\b[a-z-A-Z0-9]{1,99}\\.((com|org|net|eu|pt|uk|es|br|co|cz|fn)|\\.(uk|vu|cz|en|br|es)){1,2}\/g","replace":"","state":""}

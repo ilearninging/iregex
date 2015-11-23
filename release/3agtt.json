@@ -1,0 +1,1 @@
+{"id":"163583","urlID":"3agtt","name":"exclude","description":"exclude some words","content":"Welcome\nto\nthe\ndashboard\nignoreme\nit\nrocks","weightedVote":"2.5","numVotes":"0","author":"Micka33","community":"1","dateAdded":"2015-02-27","pattern":"\/^(?!welcome|ignoreme|rocks)([\\w\\d]+)$\/igm","replace":"","state":"{\"substEnabled\":false}"}

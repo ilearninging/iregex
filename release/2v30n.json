@@ -1,0 +1,1 @@
+{"id":"38685","urlID":"2v30n","name":"SIP Caller ID","description":"Parse a SIP based Caller ID.","content":"","weightedVote":"2.34722","numVotes":"1","author":"Tim A Hall-Woodcock","community":"1","dateAdded":"2011-11-01","pattern":"\"([^\\r\\n]*)\" <([0-9]+)>\/g","replace":"","state":""}

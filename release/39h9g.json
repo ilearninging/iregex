@@ -1,0 +1,1 @@
+{"id":"152784","urlID":"39h9g","name":"Test","description":"","content":"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-09-18","pattern":"\/((((b|c|d)a(b|c|d))|((a|c|d)b(a|c|d))|((a|b|d)c(a|b|d))|((a|b|c)d(a|b|c))|(^a)|(^b)|(^c)|(^d)))\/gm","replace":"","state":""}

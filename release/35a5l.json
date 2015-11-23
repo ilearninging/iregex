@@ -1,0 +1,1 @@
+{"id":"106663","urlID":"35a5l","name":"newline","description":"make multi string into single\r","content":"","weightedVote":"2.5","numVotes":"0","author":"TK","community":"1","dateAdded":"2013-06-20","pattern":"\/sdf[\\n\\r]+\/gm","replace":"","state":""}

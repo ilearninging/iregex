@@ -1,0 +1,1 @@
+{"id":"449","urlID":"2rj03","name":"Phone Portugal BASIC!","description":"extremely basic, works with \r+351 212 212 212\r+351 919 199 191\r919199191","content":"","weightedVote":"2.13265","numVotes":"2","author":"Chuckytuh","community":"1","dateAdded":"2010-04-12","pattern":"\/(\\+|00)?([\\d])([\\d]*[\\s]){1,2}\/g","replace":"","state":""}

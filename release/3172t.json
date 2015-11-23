@@ -1,0 +1,1 @@
+{"id":"61919","urlID":"3172t","name":"WCAG 2.0 heading nesting test","description":"http:\/\/www.w3.org\/TR\/WCAG20-TECHS\/H42.html#H42-ex2","content":"","weightedVote":"2.5","numVotes":"0","author":"Penn State University","community":"1","dateAdded":"2012-06-08","pattern":"\/<h[3,4,5,6](?=(?:(?!<\/h1>).)*<h2)\/is","replace":"","state":""}

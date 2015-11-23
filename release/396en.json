@@ -1,0 +1,1 @@
+{"id":"149085","urlID":"396en","name":"SSN validator","description":"","content":"277777777","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-07-19","pattern":"\/^(?!219099999|078051120)(?!666|000|9\\d{2})\\d{3}(?!00)\\d{2}(?!0{4})\\d{4}$\/g","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"3045","urlID":"2rqjf","name":"Adobe's Float","description":"From Path.data parse script","content":"","weightedVote":"3.52041","numVotes":"2","author":"Adobe","community":"1","dateAdded":"2010-07-20","pattern":"\/[+-]?\\d*\\.?\\d+([Ee][+-]?\\d+)?\/g","replace":"","state":""}

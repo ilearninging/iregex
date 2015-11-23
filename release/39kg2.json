@@ -1,0 +1,1 @@
+{"id":"153878","urlID":"39kg2","name":"Match number types","description":"Match binary, octal, hexadecimal, or decimal.","content":"0b101011\n0oPQO212\n0xFFFA25\n0d123343\n","weightedVote":"3.26389","numVotes":"1","author":"Ethan Bierlein","community":"1","dateAdded":"2014-10-05","pattern":"\/0(b(0|1)+|o(\\d|[o-q]|[O-Q])+|x(\\d|[a-f]|[A-F])+|d\\d+)\/g","replace":"","state":""}

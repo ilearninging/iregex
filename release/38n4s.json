@@ -1,0 +1,1 @@
+{"id":"143860","urlID":"38n4s","name":"Hamed","description":"Password Validator","content":"12Xx25_121m1 12 12 12 12 ","weightedVote":"2.5","numVotes":"0","author":"Hamed","community":"1","dateAdded":"2014-04-15","pattern":"\/(?!.*[^a-z0-9A-z!.?\\-,])(?=.+\\w)(?!.*\\s)(?=.*[!.?\\-,]).{5,100}\/g","replace":"","state":""}

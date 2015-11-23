@@ -1,0 +1,1 @@
+{"id":"148869","urlID":"395qf","name":"betweentags","description":"","content":"<tag>blah blah<\/tag>","weightedVote":"2.5","numVotes":"0","author":"nfrey","community":"1","dateAdded":"2014-07-16","pattern":"\/<tag>(.*)<\/tag>\/","replace":"","state":""}

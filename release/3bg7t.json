@@ -1,0 +1,1 @@
+{"id":"174271","urlID":"3bg7t","name":"Float regex","description":"Accepting leading zeroes.","content":"01234\n12345\n1.111\n10.12\n02.22","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-29","pattern":"\/(\\-|\\+)?([0-9]+(\\.[0-9]+)?([eE][0-9]+)?|Infinity)\/g","replace":"","state":"{\"substEnabled\":false}"}

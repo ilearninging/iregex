@@ -1,0 +1,1 @@
+{"id":"23915","urlID":"2tno1","name":"ip adress","description":"from 0.0.0.0 to 255.255.255.255","content":"","weightedVote":"2.5","numVotes":"0","author":"Mahi","community":"1","dateAdded":"2011-05-10","pattern":"\/^(2[0-5]{2}\\.|1?[0-9]{1,2}\\.){3}(2[0-5]{2}|1?[0-9]{1,2})$\/gi","replace":"","state":""}

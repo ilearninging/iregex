@@ -1,0 +1,1 @@
+{"id":"162677","urlID":"3ae8v","name":"NORMBRES CON ESPACION","description":"coincide con nombre que m\u00ednimo tenga tres caracteres y se separen con espacios","content":"javi andres","weightedVote":"2.5","numVotes":"0","author":"Javier H","community":"1","dateAdded":"2015-02-16","pattern":"\/[A-z]{3}([A-z]\\s?)+\/igm","replace":"","state":""}

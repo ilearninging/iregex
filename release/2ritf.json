@@ -1,0 +1,1 @@
+{"id":"421","urlID":"2ritf","name":"ip address","description":"ip address\r\rfrom 0.0.0.0 to 255.255.255.255","content":"","weightedVote":"3.77673","numVotes":"24","author":"Leo Naga","community":"1","dateAdded":"2010-03-19","pattern":"\/(([2]([0-4][0-9]|[5][0-5])|[0-1]?[0-9]?[0-9])[.]){3}(([2]([0-4][0-9]|[5][0-5])|[0-1]?[0-9]?[0-9]))\/gi","replace":"","state":""}

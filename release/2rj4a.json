@@ -1,0 +1,1 @@
+{"id":"494","urlID":"2rj4a","name":"ssdas","description":"ss","content":"","weightedVote":"2.5","numVotes":"0","author":"sss","community":"1","dateAdded":"2010-05-03","pattern":"\/define\\(\\s+[\\w'-]*,\\s+[a-zA-Z_\\s+.\\w'\\\/]\\);\/","replace":"\/\"(?:.|(\\\")|[^\"\"n])*\"\/g","state":""}

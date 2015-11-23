@@ -1,0 +1,1 @@
+{"id":"157649","urlID":"39vhj","name":"Seem working","description":"","content":"These examples should match:\n\n\"abaab\"\n\"bbabab\"\n\"bbb\"\nThese examples should not match:\n\n\"abb\"\n\"cab\"\n\"aababba\"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-26","pattern":"\/([ab]+)(?!(abb))[ab]+\\1\/g","replace":"","state":""}

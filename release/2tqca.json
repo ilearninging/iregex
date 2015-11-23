@@ -1,0 +1,1 @@
+{"id":"24814","urlID":"2tqca","name":"escaped the period","description":"THis will match \rabc.abc\r","content":"","weightedVote":"2.5","numVotes":"0","author":"Sushant","community":"1","dateAdded":"2011-05-20","pattern":"\/^([a-zA-Z0-9_-]+)\\.([a-zA-Z0-9_-]+)\/g","replace":"","state":""}

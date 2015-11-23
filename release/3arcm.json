@@ -1,0 +1,1 @@
+{"id":"167154","urlID":"3arcm","name":"Periscope Tweetbot mute","description":"","content":"Periscope\nperiscope\n#Periscope","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-17","pattern":"\/(#?(p|P)eriscope)\\b\/g","replace":"","state":"{\"substEnabled\":false}"}

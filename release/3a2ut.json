@@ -1,0 +1,1 @@
+{"id":"158815","urlID":"3a2ut","name":"object matcher","description":"asfsda","content":"{\"key1\": \"val}ue'1\", \"key2\": \"val,ue2\" ,\"id\":\"val ue3$\",\"key6\": 121, \"id\": '$val:ue4$$', \"key5\":\"\" }","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-12-14","pattern":"\/:\\s*(\"|')?(.*?)\\1\\s*[,}]\/g","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"47","urlID":"2rhqd","name":"Percentage","description":"Matches any positive integer (and blank) between 1 and 100 useful for validating input of a percentage, or nothing","content":"","weightedVote":"1.73611","numVotes":"1","author":"DotNetSlackers","community":"1","dateAdded":"2009-06-11","pattern":"\/^((100)|(\\d{0,2}))$\/g","replace":"","state":""}

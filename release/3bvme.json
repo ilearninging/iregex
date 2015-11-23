@@ -1,0 +1,1 @@
+{"id":"179546","urlID":"3bvme","name":"Repeat","description":"","content":"123123\n12345\n123124","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-13","pattern":"\/(\\d+)(\\1)\/g","replace":"$1$2","state":"{\"substEnabled\":true}"}

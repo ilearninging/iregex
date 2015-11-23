@@ -1,0 +1,1 @@
+{"id":"148289","urlID":"39443","name":"Double Curly Braces","description":"","content":"\"On this- date: {{column1}} there is a {{column2}} of {{column3}}. Go figure!","weightedVote":"3.26389","numVotes":"1","author":"","community":"1","dateAdded":"2014-07-07","pattern":"\/({{)[^{]+(}})\/g","replace":"","state":""}

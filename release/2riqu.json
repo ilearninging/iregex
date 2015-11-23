@@ -1,0 +1,1 @@
+{"id":"394","urlID":"2riqu","name":"email","description":"\u9a8c\u8bc1email\u683c\u5f0f\u3002","content":"","weightedVote":"2.88194","numVotes":"1","author":"Jerry","community":"1","dateAdded":"2010-03-03","pattern":"\/^(?:\\\\w+\\(\\.|-)+)*\\\\w+@(?:\\\\w+\\(\\.|-)+)*\\\\w+\\\\.\\\\w+$\/g","replace":"","state":""}

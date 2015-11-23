@@ -1,0 +1,1 @@
+{"id":"165721","urlID":"3an6b","name":"extract filename from path","description":"get,extract filename from path","content":"asdas\\adfdgdf\\file.name.mp3","weightedVote":"3.26389","numVotes":"1","author":"@specktator_","community":"1","dateAdded":"2015-03-28","pattern":"\/([a-zA-Z0-9-_.]+\\..*)\/g","replace":"","state":"{\"substEnabled\":false}"}

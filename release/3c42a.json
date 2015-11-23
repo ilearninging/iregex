@@ -1,0 +1,1 @@
+{"id":"181038","urlID":"3c42a","name":"HTTP path whitelist","description":"Only allows htm, css and js file extensions, only allows alphanumeric characters","content":"\/f\/yeah.htm","weightedVote":"3.26389","numVotes":"1","author":"","community":"1","dateAdded":"2015-11-02","pattern":"\/^(\\\/[A-Za-z0-9]+)+\\.(htm|css|js)$\/g","replace":"","state":"{\"substEnabled\":false}"}

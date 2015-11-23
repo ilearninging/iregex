@@ -1,0 +1,1 @@
+{"id":"27801","urlID":"2u34b","name":"e-Mail. Check symbols during input.","description":"Simply check last input symbol for validity.","content":"","weightedVote":"2.5","numVotes":"0","author":"Sattva","community":"1","dateAdded":"2011-06-26","pattern":"\/[\\@a-zA-Z0-9._-]\/g","replace":"","state":""}

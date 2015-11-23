@@ -1,0 +1,1 @@
+{"id":"153672","urlID":"39jso","name":"Match not hashes","description":"","content":"Hello #world What's #up","weightedVote":"3.26389","numVotes":"1","author":"","community":"1","dateAdded":"2014-10-01","pattern":"\/(^|\\s)(?!#)[^#]+\/g","replace":"","state":""}

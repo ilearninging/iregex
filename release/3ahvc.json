@@ -1,0 +1,1 @@
+{"id":"163940","urlID":"3ahvc","name":"Java Pass ","description":"none","content":"thisworks9\nthisdoesntwork\n999999999f\n5554353453453453","weightedVote":"2.5","numVotes":"0","author":"craig","community":"1","dateAdded":"2015-03-04","pattern":"\/(?=.*[0-9])(?=.*[a-z]).{6,20}\/g","replace":"","state":"{\"substEnabled\":false}"}

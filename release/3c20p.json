@@ -1,0 +1,1 @@
+{"id":"180339","urlID":"3c20p","name":"Time am pm","description":"Match time pattern like: 7.10am or 5pm","content":"5.10am\nWednesday 9 Apr 7.30pm\nWednesday 9 Apr 7pm\n","weightedVote":"2.5","numVotes":"0","author":"soundstep","community":"1","dateAdded":"2015-10-23","pattern":"\/(0?[0-9]|1[012])(.[0-5]\\d)*[APap][mM]\/gm","replace":"","state":"{\"substEnabled\":false}"}

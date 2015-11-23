@@ -1,0 +1,1 @@
+{"id":"182238","urlID":"3c7iq","name":"RegexDNAThing","description":"","content":"AAA[A\/G]AAA","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-11-16","pattern":"\/AAA\\[([ACGT])\\\/([ACGT])\\]AAA\/g","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,0 +1,1 @@
+{"id":"534","urlID":"2rj82","name":"Common link types","description":"Any HTTP, HTTPS, FTP, FTPS and mailto links","content":"","weightedVote":"2.88194","numVotes":"1","author":"TheLaughingMan","community":"1","dateAdded":"2010-05-21","pattern":"\/(https?|ftps?|mailto):\/\/([-\\w\\.]+)+(:\\d+)?(\/([\\w\/_\\.]*(\\?\\S+)?)?)?\/g","replace":"","state":""}

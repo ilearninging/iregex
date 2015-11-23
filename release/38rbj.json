@@ -1,0 +1,1 @@
+{"id":"145297","urlID":"38rbj","name":"Anonymous","description":"Validate textbox string limitation 0-30 chars","content":"","weightedVote":"2.5","numVotes":"0","author":"Anonymous","community":"1","dateAdded":"2014-05-13","pattern":"\/^(?=.*[\\w\\W])\\w.{0,30}\\s*$\/g","replace":"","state":""}

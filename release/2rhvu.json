@@ -1,0 +1,1 @@
+{"id":"106","urlID":"2rhvu","name":"Any number, formatted or not","description":"Formatted or not formatted number,\rhaving ,. as separators","content":"","weightedVote":"2.5","numVotes":"0","author":"Alexander Mazuruk","community":"1","dateAdded":"2009-07-24","pattern":"\/^(\\d|-)?(\\d|[\\.,]{1})*[\\.,]{1}?\\d*$\/g","replace":"","state":""}

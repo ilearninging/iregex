@@ -1,0 +1,1 @@
+{"id":"179727","urlID":"3c07d","name":"double commans","description":"","content":",mon,,tue,wed,,,thu,","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-15","pattern":"\/[,],+\/g","replace":"","state":"{\"substEnabled\":false}"}

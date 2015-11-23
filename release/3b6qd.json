@@ -1,0 +1,1 @@
+{"id":"171055","urlID":"3b6qd","name":"Extension Password","description":"Regex for validate extension password","content":"989*9899#784","weightedVote":"2.5","numVotes":"0","author":"Jose Rivera","community":"1","dateAdded":"2015-06-12","pattern":"\/^[0-9#*]+$\/","replace":"","state":"{\"substEnabled\":false}"}

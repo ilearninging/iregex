@@ -1,0 +1,1 @@
+{"id":"181369","urlID":"3c51b","name":"regex4","description":"","content":"p(X) :- q(X,Y), r(Y,Z), not s(Z)\np(X) :- q(X,Y)\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-11-05","pattern":"\/[A-Za-z0-9(){} ]+:-[ A-Za-z0-9(),]+\/g","replace":"\\n# $&:\\n\\t","state":"{\"substEnabled\":true}"}

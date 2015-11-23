@@ -1,0 +1,1 @@
+{"id":"171320","urlID":"3b7j8","name":"Nordic Dates","description":"Matches standard dates if Norway, Danmark, Finland and Sweden","content":"1905-01-01\n01.01.1905\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-17","pattern":"\/^(([0-9]{4})((-[0-9]{2}){2})|(([0-9].{2}){2})([0-9]{4}))$\/gm","replace":"","state":"{\"substEnabled\":false}"}

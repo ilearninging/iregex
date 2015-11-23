@@ -1,0 +1,1 @@
+{"id":"8118","urlID":"2s9f2","name":"whitespace before and after remover","description":"Removes whitespaces before and after the string, but not inside.","content":"","weightedVote":"2.5","numVotes":"0","author":"Anotubus","community":"1","dateAdded":"2010-10-04","pattern":"\/^(?:[\\s]*)?([^\\s].*[^\\s])(?:[\\s]*)?$\/","replace":"$1","state":""}

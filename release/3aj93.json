@@ -1,0 +1,1 @@
+{"id":"164385","urlID":"3aj93","name":"matching mac URL's ","description":"matching URL's of the MAC ","content":"\/register\/light\/:lightstep","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-11","pattern":"\/^\\\/register\\\/light(?:\\\/([^\\\/]+)?)?$\/ig","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,0 +1,1 @@
+{"id":"148262","urlID":"3941i","name":"Rich C","description":"","content":"{{ some text {{ with nested text }} and again }} and some more text over here {{remove this too}}","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-07-05","pattern":"\/{{.+?}}\/g","replace":"","state":""}

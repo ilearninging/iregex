@@ -1,0 +1,1 @@
+{"id":"150189","urlID":"399m7","name":"no self closing tags","description":"","content":"<\/hello>","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-08-07","pattern":"\/([^<\/>])+\/g","replace":"","state":""}

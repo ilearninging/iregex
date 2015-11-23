@@ -1,0 +1,1 @@
+{"id":"120","urlID":"2ri18","name":"HTTP URL 2","description":"This looks for a URL but that starts with www. without http:\/\/","content":"","weightedVote":"2.88194","numVotes":"1","author":"Jonathan Yarbor","community":"1","dateAdded":"2009-08-03","pattern":"\/([[:space:]()[{}])(www.[-a-zA-Z0-9@:%_\\+.~#?&\/\/=]+)\/g","replace":"","state":""}

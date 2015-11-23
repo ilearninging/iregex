@@ -1,0 +1,1 @@
+{"id":"173493","urlID":"3bduv","name":"Lookaround","description":"Matches lookaheads and lookbehinds in regex.","content":"(?=a)","weightedVote":"2.5","numVotes":"0","author":"Simon","community":"1","dateAdded":"2015-07-20","pattern":"\/\\(\\?<?[=:][^)\\n]+\\)\/g","replace":"","state":"{\"substEnabled\":false}"}

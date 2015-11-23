@@ -1,0 +1,1 @@
+{"id":"174224","urlID":"3bg3g","name":"test","description":"","content":"[list=1]ad\nsasda\n\nsas\n\n\ndasdd\n[\/list]","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-29","pattern":"\/\\[list=1\\](.*?)\\[\\\/list\\]\/gm","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,0 +1,1 @@
+{"id":"166098","urlID":"3ao9m","name":"save","description":"php","content":"shop two","weightedVote":"2.5","numVotes":"0","author":"nanocat","community":"1","dateAdded":"2015-04-02","pattern":"\/^[a-z0-9_-]{3,20}$\/im","replace":"","state":"{\"substEnabled\":false}"}

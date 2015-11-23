@@ -1,0 +1,1 @@
+{"id":"66261","urlID":"31jpv","name":"Youtube new embed height property","description":"Reads the height value of an embedded Youtube video (using the new code).","content":"","weightedVote":"3.26389","numVotes":"1","author":"Valandis","community":"1","dateAdded":"2012-07-22","pattern":"\/<iframe.*height=[\"\\'](.*?)[\"\\'].*<\/iframe>\/g","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"173286","urlID":"3bdbi","name":"String Literal and Values","description":"Matches string literals and  word values","content":"echo abc \"abc def\" \"ghi\"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-16","pattern":"\/(\\w+|(\"|')(.*?)\\2)\/g","replace":"","state":"{\"substEnabled\":false}"}

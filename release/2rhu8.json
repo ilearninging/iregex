@@ -1,0 +1,1 @@
+{"id":"88","urlID":"2rhu8","name":"Credit Card","description":"credit card validation, allows spaces and dashes","content":"","weightedVote":"2.86735","numVotes":"2","author":"malf","community":"1","dateAdded":"2009-07-12","pattern":"\/^\\d{4}[\\s\\-]?\\d{4}[\\s\\-]?\\d{4}[\\s\\-]?\\d{4}$\/g","replace":"","state":""}

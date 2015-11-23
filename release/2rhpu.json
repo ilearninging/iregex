@@ -1,0 +1,1 @@
+{"id":"42","urlID":"2rhpu","name":"Simpler Double Quotes","description":"Gets all double-quoted strings.","content":"","weightedVote":"2.5","numVotes":"2","author":"DeathIncognito","community":"1","dateAdded":"2009-06-08","pattern":"\/\".*?\"\/g","replace":"","state":""}

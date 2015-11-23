@@ -1,0 +1,1 @@
+{"id":"148250","urlID":"3940e","name":"url","description":"","content":"\/regexr\/foo\/hello.hs#10?hello=bar","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-07-05","pattern":"\/^\\\/([^\/]+)\\\/?([^#]+)#?([^?]*)?(.*)$\/","replace":"\\n# $&:\\n\\t","state":""}

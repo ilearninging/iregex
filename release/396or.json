@@ -1,0 +1,1 @@
+{"id":"149193","urlID":"396or","name":"file revving","description":"remove timestamps from file requests for javascript and css files","content":"\/JS\/bootstrap.1.2.3.js","weightedVote":"2.5","numVotes":"0","author":"Adam Vercimak","community":"1","dateAdded":"2014-07-22","pattern":"\/^(.+?)(\\.\\d+){1,}(\\.js|\\.css)$\/g","replace":"$1$3","state":""}

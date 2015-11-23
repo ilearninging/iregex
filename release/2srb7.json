@@ -1,0 +1,1 @@
+{"id":"14221","urlID":"2srb7","name":"poker hand ","description":"simple pattern for texas holdem down cards found in most history files of the providers.","content":"","weightedVote":"2.5","numVotes":"0","author":"jan helwich","community":"1","dateAdded":"2011-01-05","pattern":"\/[2-9TJKA][hdsc]\\s[2-9TJKA][hdsc]\/g","replace":"","state":""}

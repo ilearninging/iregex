@@ -1,0 +1,1 @@
+{"id":"156259","urlID":"39rf9","name":"Junil Um","description":"Get function parameters for Javascript","content":"var lambda = F(\"(x,y) => { console.log(x+y); }\");\n","weightedVote":"2.5","numVotes":"0","author":"Junil Um","community":"1","dateAdded":"2014-11-03","pattern":"\/[\\(^\\)]?([\\w,\\s]*)[\\)^\\(]?\\s=>\\s[\\{^\\}]?(.+)[\\s\\}^\\{]?\/g","replace":"","state":""}

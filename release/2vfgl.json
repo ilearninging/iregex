@@ -1,0 +1,1 @@
+{"id":"42951","urlID":"2vfgl","name":"IP Address","description":"Finds an IP Address","content":"","weightedVote":"3.07292","numVotes":"1","author":"Jon Hameier","community":"1","dateAdded":"2011-12-13","pattern":"(([0-9]|[1-9][0-9]|1[0-9][0-9]|2[0-5][0-5])\\.){3}(2[0-5][0-5]|1[0-9][0-9]|[1-9][0-9]|[0-9])","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"246","urlID":"2rid2","name":"@function{ body selection }","description":"expresion find and sealect function body..\rwith convention:\r@function{ body selection }","content":"","weightedVote":"2.11806","numVotes":"1","author":"jj","community":"1","dateAdded":"2009-11-19","pattern":"(@)[^{]+{(?:[^{}]|{[^{}]*})*}\/g","replace":"","state":""}

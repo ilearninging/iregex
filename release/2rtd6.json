@@ -1,0 +1,1 @@
+{"id":"4002","urlID":"2rtd6","name":"Blod Test","description":"This is a test for the textfield.","content":"","weightedVote":"2.5","numVotes":"0","author":"markus","community":"1","dateAdded":"2010-08-04","pattern":"\/\\be(\\w*)s\\b\/g","replace":"[[>$&<b>Test<\/b>$&<]]","state":""}

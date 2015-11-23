@@ -1,0 +1,1 @@
+{"id":"157668","urlID":"39vjc","name":"test","description":"","content":"test, test, test, [[underline]]exactly as it appears on his or her valid government-issued photo ID[[\/underline]]. blaaah","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-26","pattern":"\/\\[\\[underline\\]\\](.*?)\\[\\[\\\/underline\\]\\]\/g","replace":"","state":""}

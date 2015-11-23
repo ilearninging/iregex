@@ -1,0 +1,1 @@
+{"id":"181353","urlID":"3c4vr","name":"Fillter Latin words","description":"","content":"\uff3b\u304a\u306f\u3088\u3046\u3054\u3056\u3044\u307e\u3059] [uk] Good morning","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-11-05","pattern":"\/^[^\\[][\\u0000-\\u024F]+[^\\]]$\/m","replace":"","state":"{\"substEnabled\":false}"}

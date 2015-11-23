@@ -1,0 +1,1 @@
+{"id":"165626","urlID":"3amte","name":"double hashtag","description":"","content":"#hashtag1 #hashtag2\n\nThis is #hashtag3 and #broken!hash\nMy number #:555-555-555\n\n#hashtag4 #hashtag5 #hashtag6","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-26","pattern":"\/(^|\\s)#(\\w+)\\s#\/g","replace":"","state":"{\"substEnabled\":false}"}

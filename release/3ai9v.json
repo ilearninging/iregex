@@ -1,0 +1,1 @@
+{"id":"164053","urlID":"3ai9v","name":"ISO 8601Regex","description":"Basic regex for checking timezone unaware dates in ISO 8601 Format.","content":"2014-01-01T01:10:10","weightedVote":"2.875","numVotes":"5","author":"Peter Stratton","community":"1","dateAdded":"2015-03-06","pattern":"\/\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}\/g","replace":"","state":"{\"substEnabled\":false}"}

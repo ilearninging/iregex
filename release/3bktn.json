@@ -1,0 +1,1 @@
+{"id":"175869","urlID":"3bktn","name":"regex_not_working","description":"","content":"(just another word)\n(c\/c++)\n(1)\n(http:\/\/)","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-22","pattern":"\/[^(]*[a-zA-Z0-9.+#-\/]+[^~!@$%^&*)={}[\\];':\",.\/<>?-\\s]\/g","replace":"","state":"{\"substEnabled\":false}"}

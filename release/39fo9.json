@@ -1,0 +1,1 @@
+{"id":"152259","urlID":"39fo9","name":"Real","description":"Matches decimal numbers of any size with dot (.) or comma (,)","content":"0123456789\n12345\n-98.7\n3.141\n.6180\n9,000\n42","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-09-10","pattern":"\/^((-)?\\d*(\\,|\\.)?\\d+)?$\/gm","replace":"","state":""}

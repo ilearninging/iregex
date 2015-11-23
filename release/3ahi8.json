@@ -1,0 +1,1 @@
+{"id":"163800","urlID":"3ahi8","name":"City State","description":"","content":"New Jersey, NY","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-03","pattern":"\/^[A-Za-z]+(\\s[A-Za-z]+)?\\s*,*\\s*[A-Za-z]+(\\s[A-Za-z]+)?\\s*$\/","replace":"","state":"{\"substEnabled\":false}"}

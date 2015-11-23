@@ -1,0 +1,1 @@
+{"id":"66648","urlID":"31ku8","name":"SID:21444:3","description":"Snort rule 21444:3 plus real life packet dump","content":"","weightedVote":"2.5","numVotes":"0","author":"Julian Wiegmann","community":"1","dateAdded":"2012-07-25","pattern":"\/User-Agent|3A| Mozilla\/4.0 (compatible|3B| )\/g","replace":"","state":""}

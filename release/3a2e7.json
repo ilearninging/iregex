@@ -1,0 +1,1 @@
+{"id":"158637","urlID":"3a2e7","name":"strip a trailing character","description":"","content":"Produkte>Jacken>Westen>\nFashion>Damen>Jacken>Hoodies>","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-12-11","pattern":"\/\\>(?=\\s|$)\/g","replace":"","state":""}

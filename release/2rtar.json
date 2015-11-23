@@ -1,0 +1,1 @@
+{"id":"3977","urlID":"2rtar","name":"DNI","description":"DNI (Documento Nacional de Identidad - Peru)","content":"","weightedVote":"2.5","numVotes":"0","author":"Renx","community":"1","dateAdded":"2010-08-04","pattern":"\/\\d{8}\/gism","replace":"","state":""}

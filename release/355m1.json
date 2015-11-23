@@ -1,0 +1,1 @@
+{"id":"105131","urlID":"355m1","name":"Percentage 0 to 100 integers only","description":"Match input between 0 and 100 inclusive.\r\rIntegers only (not decimals).\r\rWill not match empty string.\r","content":"","weightedVote":"1.73611","numVotes":"1","author":"Unknown","community":"1","dateAdded":"2013-06-08","pattern":"^((100)|(0)|([1-9][0-9]?))$","replace":"","state":""}

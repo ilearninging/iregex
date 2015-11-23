@@ -1,0 +1,1 @@
+{"id":"460","urlID":"2rj14","name":"user name","description":"matches a user name with numbers, letters, _ and in length range.","content":"","weightedVote":"2.5","numVotes":"1","author":"leonardo72","community":"1","dateAdded":"2010-04-16","pattern":"\/^[a-zA-Z0-9_]{3,16}$\/","replace":"","state":""}

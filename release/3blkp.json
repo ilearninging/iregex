@@ -1,0 +1,1 @@
+{"id":"176115","urlID":"3blkp","name":"redirect","description":"","content":"\/holiday\/<page>.html","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-26","pattern":"\/\\\/holiday\\\/(.*)\\.html\/g","replace":"","state":"{\"substEnabled\":false}"}

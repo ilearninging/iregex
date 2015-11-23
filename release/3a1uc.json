@@ -1,0 +1,1 @@
+{"id":"158468","urlID":"3a1uc","name":"Placa Carros Brasil","description":"Valida placa de carros do Brasil","content":"AAA-0000","weightedVote":"3.82231","numVotes":"6","author":"Elias Dalla Corte","community":"1","dateAdded":"2014-12-09","pattern":"\/^[A-Z]{3}-[\\d]{4}$\/g","replace":"","state":""}

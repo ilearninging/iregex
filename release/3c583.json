@@ -1,0 +1,1 @@
+{"id":"181441","urlID":"3c583","name":"espacos","description":"espacos","content":"1 2 3 4 5 6 7 8 9 0 1 2 \t","weightedVote":"2.5","numVotes":"0","author":"rovian","community":"1","dateAdded":"2015-11-06","pattern":"\/(\\d{1,12}\\s)\/g","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,0 +1,1 @@
+{"id":"3868","urlID":"2rt0k","name":"Numeric matcher (dec & comma)","description":"Matches any number even with decimal or commas or both.\r1\r100\r100.11\r100,000\r100,000,000.11\r1.018372342","content":"","weightedVote":"3.27344","numVotes":"5","author":"Drakeshe","community":"1","dateAdded":"2010-08-02","pattern":"\/(\\d+)(((.|,)\\d+)+)?\/g","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"211","urlID":"2ri9p","name":"Human-Friendly URL String (lowercase letters strictly)","description":"Matches human-friend urls of the type: \r\rthis-is-a-human-friendly-url-string","content":"","weightedVote":"2.5","numVotes":"1","author":"Aziz Light","community":"1","dateAdded":"2009-10-27","pattern":"[a-z0-9]+(-?[a-z0-9]+)+","replace":"","state":""}

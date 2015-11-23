@@ -1,0 +1,1 @@
+{"id":"151618","urlID":"39ds6","name":"strutsognl","description":"","content":"\nsamples[1].property1\nsamples[2].property2\nsamples[3].property1\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-08-31","pattern":"\/samples\\[\\d+\\]\\..*\/g","replace":"","state":""}

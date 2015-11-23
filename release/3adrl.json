@@ -1,0 +1,1 @@
+{"id":"162535","urlID":"3adrl","name":"Comhem wordlist pwd puller","description":"Pulls Comhem<######> passwords out of wordlists","content":"2123456a\na123456a\n1123456a\nb123456a","weightedVote":"2.5","numVotes":"0","author":"Cassiopeia","community":"1","dateAdded":"2015-02-13","pattern":"\/([a-f])([0-9]{6})([a-f])\/g","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"70412","urlID":"31vv4","name":"Canadian Health Card","description":"This regex matches Canadian Health Cards, both the new and old formats.","content":"","weightedVote":"2.5","numVotes":"0","author":"Herp Derp","community":"1","dateAdded":"2012-08-29","pattern":"\/[0-9]{4}-[0-9]{3}-[0-9]{3}(-[a-zA-Z]{2})?\/g","replace":"","state":""}

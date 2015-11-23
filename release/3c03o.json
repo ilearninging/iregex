@@ -1,0 +1,1 @@
+{"id":"179688","urlID":"3c03o","name":"notanyof","description":"","content":"quux\nquuux\nquuuux\nquuabcx","weightedVote":"2.5","numVotes":"0","author":"mohamed4ch","community":"1","dateAdded":"2015-10-14","pattern":"\/[^qux]\/g","replace":"","state":"{\"substEnabled\":false}"}

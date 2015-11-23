@@ -1,0 +1,1 @@
+{"id":"95571","urlID":"349lp","name":"Only digits","description":"Match strings which consist only from digits.","content":"","weightedVote":"2.5","numVotes":"0","author":"Jermes","community":"1","dateAdded":"2013-03-26","pattern":"\/^\\d*\\d$\/g","replace":"","state":""}

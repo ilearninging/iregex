@@ -1,0 +1,1 @@
+{"id":"164489","urlID":"3ajir","name":"first capital leter","description":"","content":"\" foo Foo FOO \"","weightedVote":"2.5","numVotes":"0","author":"TroyA","community":"1","dateAdded":"2015-03-12","pattern":"\/[A-Z][^\\s]+\/g","replace":"","state":"{\"substEnabled\":false}"}

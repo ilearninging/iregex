@@ -1,0 +1,1 @@
+{"id":"175947","urlID":"3bl51","name":"getFilenameFromUrl ","description":"Get filename from a url","content":"http:\/\/www.feedlur.com\/moka\/file.jpg\nwww.myfile.com\/filename.png","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-24","pattern":"\/([^\\\/]+)(?=\\.\\w+$)\/","replace":"","state":"{\"substEnabled\":false}"}

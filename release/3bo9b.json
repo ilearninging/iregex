@@ -1,0 +1,1 @@
+{"id":"177017","urlID":"3bo9b","name":"Comment Parser","description":"commaet parser","content":"\/*sda\nsadsad\nsadsa*\/\nfdgfgdfg\n\/sad\n\/\/asdasdasd\n\n\/*Im truecoder*\/","weightedVote":"2.5","numVotes":"0","author":"Yeyti","community":"1","dateAdded":"2015-09-08","pattern":"\/\\\/\\*[\\s\\S]*?\\*\\\/|\\\/\\\/.*\/gm","replace":"","state":"{\"substEnabled\":true}"}

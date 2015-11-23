@@ -1,0 +1,1 @@
+{"id":"280","urlID":"2rig8","name":"HTML key\/value pair [FIXED]","description":"Fixed, `-` symbol added","content":"","weightedVote":"2.70408","numVotes":"2","author":"Dmitry Mitko","community":"1","dateAdded":"2009-12-11","pattern":"\/([\\w-]+)=\"(.*?)\"\/g","replace":"","state":""}

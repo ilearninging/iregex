@@ -1,0 +1,1 @@
+{"id":"182203","urlID":"3c7fh","name":"Mobile Number","description":"+91 7215421472\n7215421472","content":"+91 8624040905","weightedVote":"2.5","numVotes":"0","author":"Sagar G","community":"1","dateAdded":"2015-11-16","pattern":"\/(\\+?[0-9]+\\s+?[0-9]+)\/","replace":"\\n# $&:\\n\\t","state":"{\"substEnabled\":true}"}

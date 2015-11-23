@@ -1,0 +1,1 @@
+{"id":"21533","urlID":"2tgon","name":"Get File Extensions","description":"This pattern helps to find the files extensions.","content":"","weightedVote":"2.11806","numVotes":"1","author":"Recep K\u0131rm\u0131z\u0131","community":"1","dateAdded":"2011-04-10","pattern":"\/(\\.[a-zA-Z0-9]{3}$)\/gim","replace":"","state":""}

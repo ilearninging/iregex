@@ -1,0 +1,1 @@
+{"id":"173","urlID":"2ri67","name":"get file extension","description":"gets the file extension from a string. Ignores crappy filenames like \"myfile.has.multiple.extensions\"","content":"","weightedVote":"3.15291","numVotes":"3","author":"Tommy Van de Velde","community":"1","dateAdded":"2009-09-21","pattern":"\/[^\\.]+$\/gim","replace":"","state":""}

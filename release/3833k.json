@@ -1,0 +1,1 @@
+{"id":"137020","urlID":"3833k","name":"EmailValidator with . - _","description":"For email LIKE:\rmasoud.rajabpor@mums.ac.ir","content":"","weightedVote":"2.5","numVotes":"0","author":"Masoud Rajabpour","community":"1","dateAdded":"2014-01-21","pattern":"[a-zA-Z0-9-_\\.]{1,}@([a-zA-Z\\.])?[a-zA-Z_-]{1,}(\\.[a-zA-Z]{1,4})*\\.[a-zA-Z]{1,4}","replace":"","state":""}

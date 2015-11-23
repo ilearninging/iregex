@@ -1,0 +1,1 @@
+{"id":"159863","urlID":"3a615","name":"szal-custom-1","description":"","content":"test {NOW} dasdas {NOW+1D} dasdas {NOW+10Y}dasdas {NOW+99M}","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-07","pattern":"\/(\\{[A-Z]+(\\+[0-9]+[MYD])?\\})\/g","replace":"","state":""}

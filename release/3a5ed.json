@@ -1,0 +1,1 @@
+{"id":"159663","urlID":"3a5ed","name":"Word Boundary","description":"","content":"B, BK\nB + BK\nBK + B\n\n","weightedVote":"2.5","numVotes":"0","author":"KyleMit","community":"1","dateAdded":"2015-01-02","pattern":"\/(B)\\b\/g","replace":"Back","state":""}

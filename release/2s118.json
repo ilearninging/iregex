@@ -1,0 +1,1 @@
+{"id":"5240","urlID":"2s118","name":"Add Colons to MAC Addresses","description":"Add Colons to MAC Addresses","content":"","weightedVote":"3.26389","numVotes":"1","author":"DK","community":"1","dateAdded":"2010-08-23","pattern":"\/[0-9A-F]{2}\\B\/gm","replace":"$&:","state":""}

@@ -1,0 +1,1 @@
+{"id":"179763","urlID":"3c0ap","name":"monitor","description":"","content":"monitor.war\nmonitor-1.4.3.war\nmonitor-1.4.7.war\nmonitor-1.5.0.war\nmonitor-customizado.war\nmonitor-client-.1.4.3.war","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-15","pattern":"\/monitor-[\\d\\.]+.war\/g","replace":"","state":"{\"substEnabled\":false}"}

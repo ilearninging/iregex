@@ -1,0 +1,1 @@
+{"id":"63719","urlID":"31cbl","name":"Steam ID","description":"Determines valid Steam ID.","content":"","weightedVote":"2.88194","numVotes":"1","author":"Samuel Maddock","community":"1","dateAdded":"2012-06-26","pattern":"\/^STEAM_0:[01]:[0-9]+\/","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"136","urlID":"2ri2o","name":"code type class","description":"adds a class to a code tag based on a {type}","content":"","weightedVote":"2.5","numVotes":"0","author":"kevin bond","community":"1","dateAdded":"2009-08-17","pattern":"\/<pre><code>{(php|yaml)}(.+?)<\/code><\/pre>\/gs","replace":"<pre><code class=\"$1\">$2<\/code><\/pre>","state":""}

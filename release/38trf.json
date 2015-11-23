@@ -1,0 +1,1 @@
+{"id":"146149","urlID":"38trf","name":"http-api-version","description":"","content":"\/v3foobar\/v1\/foobar","weightedVote":"2.5","numVotes":"0","author":"Jason Rose-Kuhrt","community":"1","dateAdded":"2014-05-29","pattern":"\/^\\\/v(\\d[\\d|\\.]*)(?:\\\/.*)*\/g","replace":"","state":""}

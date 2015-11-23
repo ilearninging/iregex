@@ -1,0 +1,1 @@
+{"id":"154140","urlID":"39l8k","name":"Match Hexedecimal Colors","description":"Match hexedecimal colors.","content":"#123F45","weightedVote":"2.5","numVotes":"0","author":"Ethan Bierlein","community":"1","dateAdded":"2014-10-07","pattern":"\/#([0-9]|[a-f]|[A-F]){6}\/g","replace":"","state":""}

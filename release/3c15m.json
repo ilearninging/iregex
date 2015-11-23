@@ -1,0 +1,1 @@
+{"id":"180050","urlID":"3c15m","name":"Attribute selector","description":"","content":"Eeasdasd[foo]","weightedVote":"2.5","numVotes":"0","author":"Alan Smithee","community":"1","dateAdded":"2015-10-20","pattern":"\/^[A-Za-z]+\\[[A-Za-z]+\\]$\/g","replace":"","state":"{\"substEnabled\":false}"}

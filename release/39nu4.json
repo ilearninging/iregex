@@ -1,0 +1,1 @@
+{"id":"155052","urlID":"39nu4","name":"api regex","description":"match exact path","content":"sample\/apiAdditionalReference \/sample\/api ","weightedVote":"2.5","numVotes":"0","author":"debonair","community":"1","dateAdded":"2014-10-15","pattern":"\/\\\/sample\\\/api(?![\\w\\d])\/g","replace":"","state":""}

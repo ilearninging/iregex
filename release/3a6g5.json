@@ -1,0 +1,1 @@
+{"id":"160023","urlID":"3a6g5","name":"match #hashtags","description":"this simple regex matches all #hashtags","content":"hallo #wie geht es dir #was #auch #immer ","weightedVote":"3.26389","numVotes":"1","author":"reflyeart","community":"1","dateAdded":"2015-01-09","pattern":"\/(#\\w+)\/g","replace":"","state":""}

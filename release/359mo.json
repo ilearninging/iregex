@@ -1,0 +1,1 @@
+{"id":"106504","urlID":"359mo","name":"Match URLs with no prefixed slash \/","description":"Matches URL with no prefixed slash \/","content":"","weightedVote":"2.88194","numVotes":"1","author":"Justin Perry","community":"1","dateAdded":"2013-06-19","pattern":"\/((?:src|href)[s]*?)=\\\"(?!\/[a-z])\/gim","replace":"","state":""}

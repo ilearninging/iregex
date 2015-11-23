@@ -1,0 +1,1 @@
+{"id":"174693","urlID":"3bhff","name":"Voorbeeld Adres","description":"","content":"Dit is een stukje tekst.\n\nDit is een adres: voorbeeldstraat 9000 Ghent","weightedVote":"2.5","numVotes":"0","author":"Robin Malfait","community":"1","dateAdded":"2015-08-05","pattern":"\/\\d+\\s+([a-zA-Z]+|[a-zA-Z]+\\s[a-zA-Z]+)\/g","replace":"","state":"{\"substEnabled\":false}"}

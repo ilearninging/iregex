@@ -1,0 +1,1 @@
+{"id":"16","urlID":"2rhng","name":"Dutch Postal Code","description":"Matches Dutch postal codes, with or without single space and with lower- or uppercase letters.","content":"","weightedVote":"3.7125","numVotes":"5","author":"K. Tuhumury","community":"1","dateAdded":"2009-05-27","pattern":"\/[1-9]\\d{3}\\s?[a-zA-Z]{2}\/g","replace":"","state":""}

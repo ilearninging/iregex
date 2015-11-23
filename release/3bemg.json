@@ -1,0 +1,1 @@
+{"id":"173744","urlID":"3bemg","name":"test","description":"","content":"thathees@tsts.com\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-22","pattern":"\/^([\\w-]+(?:\\.[\\w-]+)*)@((?:[\\w-]+\\.)*\\w[\\w-]{0,66})\\.([a-z]{2,6}(?:\\.[a-z]{2})?)$\/i","replace":"","state":"{\"substEnabled\":false}"}

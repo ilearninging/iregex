@@ -1,0 +1,1 @@
+{"id":"318","urlID":"2rijq","name":"Retrieve Oracle Code from Exception","description":"Needed to retrieve an oracle exception message in .NET.","content":"","weightedVote":"3.26389","numVotes":"1","author":"Willie Lee","community":"1","dateAdded":"2010-01-19","pattern":"\/[O][R][A]\\-[0-9][0-9][0-9][0-9][0-9]\/g","replace":"","state":""}

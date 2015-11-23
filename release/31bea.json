@@ -1,0 +1,1 @@
+{"id":"63406","urlID":"31bea","name":"auth","description":"(?:(?:Authentication failure|Failed [-\/w+]+) for(?: [iI]","content":"","weightedVote":"2.5","numVotes":"0","author":"auth1","community":"1","dateAdded":"2012-06-23","pattern":"\/Authentication failure Failed\/","replace":"[[$&$&]]","state":""}

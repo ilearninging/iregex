@@ -1,0 +1,1 @@
+{"id":"147408","urlID":"391hg","name":"German Numbers","description":"","content":"123.122.123,23","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-21","pattern":"\/^(([0-9]+)(\\.?))+(\\,{1})([0-9]+)$\/g","replace":"","state":""}

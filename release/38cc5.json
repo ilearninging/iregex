@@ -1,0 +1,1 @@
+{"id":"140183","urlID":"38cc5","name":"Credit Card MC 16 digits","description":"\\b5[1-5](?:\\d[ -]*?){14}\\b","content":"","weightedVote":"2.5","numVotes":"0","author":"David Sinclair","community":"1","dateAdded":"2014-02-26","pattern":"\/\\b4(?:\\d[ -]*?){15}\\b\/g","replace":"","state":""}

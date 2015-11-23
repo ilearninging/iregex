@@ -1,0 +1,1 @@
+{"id":"144490","urlID":"38ovu","name":"BibleForce","description":"Basic Bible references recognition","content":"(1 jean 3.16)","weightedVote":"2.5","numVotes":"0","author":"BibleForce","community":"1","dateAdded":"2014-04-26","pattern":"\/\\b([1|2|3]{0,1}[ ]{0,1}[a-z]{2,10})\\s([0-9]{1,3})\\.([0-9]{1,3})\\b\/i","replace":"","state":""}

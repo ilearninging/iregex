@@ -1,0 +1,1 @@
+{"id":"557","urlID":"2rja7","name":"12","description":"1212","content":"","weightedVote":"2.5","numVotes":"0","author":"132","community":"1","dateAdded":"2010-06-14","pattern":"\/function\\s([a-z0-9]+)\\((.*)\\)(\\t|\\r|\\s)*\\{(.*)\\}\/gi","replace":"","state":""}

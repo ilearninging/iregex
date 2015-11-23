@@ -1,0 +1,1 @@
+{"id":"19556","urlID":"2tavc","name":"printf complex values","description":"Used to get printf complex values, the ones that will be replaced by Object instance. E.g.: %(foo)s","content":"","weightedVote":"2.5","numVotes":"0","author":"Rafael Rinaldi","community":"1","dateAdded":"2011-03-17","pattern":"\/%(\\(([\\w_\\d]+)\\))s\/gi","replace":"","state":""}

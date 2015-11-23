@@ -1,0 +1,1 @@
+{"id":"109539","urlID":"35ij9","name":"Filenames in Grep output","description":"Match filenames in grep output","content":"","weightedVote":"2.5","numVotes":"0","author":"Albert Friedemann","community":"1","dateAdded":"2013-07-12","pattern":"\/^.*?(?=:)\/gm","replace":"","state":""}

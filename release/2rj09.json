@@ -1,0 +1,1 @@
+{"id":"451","urlID":"2rj09","name":"([0-9]{10,13})$","description":"extract atleast last ten digit of a pattern\rCould be ebook filename ending with ISBN","content":"","weightedVote":"2.11806","numVotes":"1","author":"Peji Kokabi","community":"1","dateAdded":"2010-04-13","pattern":"\/(\\w|[-.])+$\/","replace":"","state":""}

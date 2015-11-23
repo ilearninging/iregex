@@ -1,0 +1,1 @@
+{"id":"179043","urlID":"3bu79","name":"LP","description":"","content":"http:\/\/lp.beeline.ru\/token\/receive?redirection=http%3a%2f%2fxbr.loc\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-06","pattern":"\/^http:\/\/lp\\.beeline\\.ru\/token\/receive\\?redirection=.*\/","replace":"","state":"{\"substEnabled\":false}"}

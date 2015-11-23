@@ -1,0 +1,1 @@
+{"id":"180599","urlID":"3c2p5","name":"asdsaasda","description":"","content":"London Paddington (PAD)\nPaddock Wood (PDW)\nPadgate (PDF)\nPadstow (PDT)","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-27","pattern":"\/(\\bpad.*)\/igm","replace":"","state":"{\"substEnabled\":false}"}

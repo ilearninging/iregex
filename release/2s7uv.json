@@ -1,0 +1,1 @@
+{"id":"7605","urlID":"2s7uv","name":"match replace url","description":"using this to highlight short urls brought in from twitter","content":"","weightedVote":"2.88194","numVotes":"1","author":"shi11","community":"1","dateAdded":"2010-09-27","pattern":"\/[^^](http:\\\/\\\/+[\\S]*)\/","replace":"link","state":""}

@@ -1,0 +1,1 @@
+{"id":"76846","urlID":"32iqa","name":"Month Day Year Finder","description":"ex:\r\rOct 23 2012","content":"","weightedVote":"2.5","numVotes":"0","author":"Ederson Facin","community":"1","dateAdded":"2012-10-24","pattern":"\/((Jan)|(Feb)|(Mar)|(Apr)|(Jun)|(Jul)|(Aug)|(Sep)|(Oct)|(Nov)|(Dec)).[\\d]*.[\\d]*\/g","replace":"","state":""}

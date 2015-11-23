@@ -1,0 +1,1 @@
+{"id":"145116","urlID":"38qqk","name":"211:URL separe params","description":"Separe parameters from URL with delimiter ? or &","content":"\nhttp:\/\/regexr.com\/foo.html?q=bar&as=bed","weightedVote":"3.23469","numVotes":"2","author":"211:Anthony","community":"1","dateAdded":"2014-05-09","pattern":"\/[^&?]*?=[^&?]*\/g","replace":"\\n# $&:\\n\\t","state":""}

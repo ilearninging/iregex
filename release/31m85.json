@@ -1,0 +1,1 @@
+{"id":"67095","urlID":"31m85","name":"Drupal Page Node","description":"This will detect if it's a page node or not. You can easily toss it in a function too to double check if it's a specific page.","content":"","weightedVote":"2.5","numVotes":"0","author":"afallenhope","community":"1","dateAdded":"2012-07-30","pattern":"\/\\..*\\\/(.*?)\/[0-9]{2,5}\/","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"104023","urlID":"352e5","name":"Redirects missing \"to\" paths","description":"Looks for redirects that are invalid due to missing \"to\" paths","content":"","weightedVote":"3.26389","numVotes":"1","author":"Randen K","community":"1","dateAdded":"2013-05-30","pattern":"\/Redirect\\s+\\d+\\s+(\\S+)\\s?$\/g","replace":"","state":""}

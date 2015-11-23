@@ -1,0 +1,1 @@
+{"id":"37991","urlID":"2v0vl","name":"UK Driving licence","description":"A code to check the legitimacy of UK driving licence numbers","content":"","weightedVote":"3.26171","numVotes":"3","author":"Richard Hatton","community":"1","dateAdded":"2011-10-25","pattern":"\/[a-zA-Z9]{5}\\d[0156]\\d([0][1-9]|[12]\\d|3[01])\\d[a-zA-Z0-9]{2}[789][a-zA-Z]{2}\/g","replace":"","state":""}

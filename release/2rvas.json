@@ -1,0 +1,1 @@
+{"id":"4660","urlID":"2rvas","name":"Replace Array-access Number","description":"Searches for numbers between brackets like myArray[4] and replaces this with an int-casting like myArray[int(4)]","content":"","weightedVote":"2.5","numVotes":"0","author":"Daniel Bunte","community":"1","dateAdded":"2010-08-13","pattern":"\\[(\\d)\\]","replace":"[int($1)]","state":""}

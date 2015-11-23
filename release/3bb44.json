@@ -1,0 +1,1 @@
+{"id":"172524","urlID":"3bb44","name":"asd","description":"","content":"http:\/\/www.clubofmozambique.com\/solutions1\/sectionnews.php?secao=mozambique&id=2147490202&tipo=one","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-06","pattern":"\/secao=[a-z]*&id=[0-9]*&tipo=one\/g","replace":"","state":"{\"substEnabled\":false}"}

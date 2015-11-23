@@ -1,0 +1,1 @@
+{"id":"5590","urlID":"2s222","name":"HTML Attributes final","description":"Feedback voroninman@gmail.com","content":"","weightedVote":"3.72449","numVotes":"2","author":"voroninman","community":"1","dateAdded":"2010-08-28","pattern":"\/ ?[\\w:\\-]+ ?= ?(\"[^\"]+\"|'[^']+'|\\w+)\/gm","replace":"","state":""}

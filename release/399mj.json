@@ -1,0 +1,1 @@
+{"id":"150193","urlID":"399mj","name":"RegEx How to get everything af","description":"","content":"133a1d6a-f4fa-49ba-928d-0f4c943ce5d3\/File-20140805-013806693.pdf","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-08-07","pattern":"\/.*\\\/([^\/]+)\\.pdf\/g","replace":"$1","state":""}

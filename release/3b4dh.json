@@ -1,0 +1,1 @@
+{"id":"170235","urlID":"3b4dh","name":"30592297","description":"for stackover flow\n","content":"I want to match:\n  123\n  456","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-02","pattern":"\/I want to match:(?:\\n\\s\\s(\\d*))*\/g","replace":"","state":"{\"substEnabled\":false}"}

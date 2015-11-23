@@ -1,0 +1,1 @@
+{"id":"141426","urlID":"38g0m","name":"XML tag","description":"Matches any valid XML tag, with it's arguments.","content":"","weightedVote":"2.88194","numVotes":"1","author":"Runemoro","community":"1","dateAdded":"2014-03-11","pattern":"\/<\/?[a-zA-Z]*(?: [a-zA-Z]+ ?= ?(?:\"[^\"]*\"|'[^']*'|[0-9]+))*>\/g","replace":"","state":""}

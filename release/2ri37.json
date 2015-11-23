@@ -1,0 +1,1 @@
+{"id":"141","urlID":"2ri37","name":"^\\tat (?:(.+)::)*(\\w+)\\\/*(.*)\\(\\)\\[(?:(.+)\\:(\\d+))?\\]$","description":"The RegExp for parsing error call stack.","content":"","weightedVote":"2.5","numVotes":"0","author":"Max Rozdobudko","community":"1","dateAdded":"2009-08-20","pattern":"\/\\b0x(?:[0-9A-Fa-f]{6}|0-9A-Fa-f]{8})\\b\/g","replace":"","state":""}

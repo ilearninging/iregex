@@ -1,0 +1,1 @@
+{"id":"15970","urlID":"2t0f6","name":"JavaScript function","description":"Based in Artheus  regular function declaration","content":"","weightedVote":"2.88194","numVotes":"1","author":"Txiki","community":"1","dateAdded":"2011-01-31","pattern":"\/function\\s*([a-z0-9]+)\\s*\\((.*)\\)(\\t|\\r|\\s)*\\{(.*)\\}\/gis","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"165310","urlID":"3alvq","name":"decimal number validator","description":"it admits only numbers with coma or dot","content":"5.2\n5,2\n55\n5a\nasd5.2\nasd 5,2\n","weightedVote":"2.5","numVotes":"0","author":"Alejandro Vales","community":"1","dateAdded":"2015-03-24","pattern":"\/^[0-9]+([\\,\\.][0-9]+)?$\/gm","replace":"","state":"{\"substEnabled\":false}"}

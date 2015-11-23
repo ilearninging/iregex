@@ -1,0 +1,1 @@
+{"id":"165810","urlID":"3anem","name":"Phone number check","description":"","content":"7A9036712345\u041f78","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-30","pattern":"\/$\\d{10}^\/g","replace":"","state":"{\"substEnabled\":false}"}

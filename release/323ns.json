@@ -1,0 +1,1 @@
+{"id":"71700","urlID":"323ns","name":"Phone number validator","description":"Matched All Indian Phone numbers and 10 digit phone numbers.\rFormats:\r+XX-XXX-XXXXXXX\r+XXX-XXX-XXXXX","content":"","weightedVote":"3.57143","numVotes":"2","author":"Bimal","community":"1","dateAdded":"2012-09-10","pattern":"\/[(]?\\d{3}[)]?\\s?-?\\s?\\d{3}\\s?-?\\s?\\d{4}\/gm","replace":"","state":""}

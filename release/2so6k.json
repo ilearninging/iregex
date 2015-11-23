@@ -1,0 +1,1 @@
+{"id":"13148","urlID":"2so6k","name":"Replace (Ref. 1234)","description":"Replace this string\r\rRef.1234\r\rto\r\r<a href=\"http:\/\/dot.com\/id=$1>$1<\/a>","content":"","weightedVote":"2.5","numVotes":"0","author":"bayu","community":"1","dateAdded":"2010-12-15","pattern":"\/\\(Ref\\.\\s+([0-9]+)\\)\/g","replace":"<a href=\"http:\/\/www.google.com?q=$1\">$1<\/a>","state":""}

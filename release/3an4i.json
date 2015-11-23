@@ -1,0 +1,1 @@
+{"id":"165702","urlID":"3an4i","name":"parth","description":"path to regexp madness","content":":method(get|post) \/:page\/:view(\\\\w+(?:\\\\d++)) component.:data\n","weightedVote":"2.5","numVotes":"0","author":"stringparser","community":"1","dateAdded":"2015-03-28","pattern":"\/(^|[ \/.]):([A-Za-z0-9_]+)(\\([^)]+?\\)+)?\/g","replace":"","state":"{\"substEnabled\":false}"}

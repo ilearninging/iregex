@@ -1,0 +1,1 @@
+{"id":"40967","urlID":"2v9ml","name":"margin-left","description":"Lingo","content":"","weightedVote":"2.5","numVotes":"0","author":"Adam","community":"1","dateAdded":"2011-11-24","pattern":"\/(<p>.*)\/gs","replace":"<div id=\"margin-left\">$1<\/div>","state":""}

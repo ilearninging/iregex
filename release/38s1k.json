@@ -1,0 +1,1 @@
+{"id":"145532","urlID":"38s1k","name":"Simple extension matching","description":"","content":".png\n.jpeg\n.jpg","weightedVote":"2.5","numVotes":"0","author":"Chris","community":"1","dateAdded":"2014-05-19","pattern":"\/\\.(?:png|jpe?g)\/ig","replace":"","state":""}

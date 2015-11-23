@@ -1,0 +1,1 @@
+{"id":"171666","urlID":"3b8jm","name":"flagma","description":"","content":"<h3>iuoiuoiu <b>oiupoiu<\/b> <b>likj<\/b> lijulj<\/h3>","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-22","pattern":"\/<h3>((.*?)(<b>)(.*?)(<\\\/b>)(.*?))+<\\\/h3>\/i","replace":"<h3>$2$4$6<\/h3>","state":"{\"substEnabled\":true}"}

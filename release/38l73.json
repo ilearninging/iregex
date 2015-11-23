@@ -1,0 +1,1 @@
+{"id":"143201","urlID":"38l73","name":"Integer range","description":"Finds integer ranges or single integer values","content":"10-19,4,6,8,25-93","weightedVote":"3.26389","numVotes":"1","author":"Robert","community":"1","dateAdded":"2014-04-01","pattern":"\/([1-9]\\d*-\\d+|[1-9]+)\/g","replace":"","state":""}

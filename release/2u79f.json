@@ -1,0 +1,1 @@
+{"id":"29221","urlID":"2u79f","name":"html input tag","description":"Matches input tags from a string","content":"","weightedVote":"3.26389","numVotes":"1","author":"Michael Smith","community":"1","dateAdded":"2011-07-12","pattern":"\/<(input.*?)>\/g","replace":"","state":""}

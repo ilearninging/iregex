@@ -1,0 +1,1 @@
+{"id":"54238","urlID":"30giq","name":"SteamID","description":"SteamID Regular Expression","content":"","weightedVote":"2.11806","numVotes":"1","author":"RaMMz","community":"1","dateAdded":"2012-03-30","pattern":"\/STEAM_[0-9]:[0-9]:[0-9]{0,20}\/","replace":"","state":""}

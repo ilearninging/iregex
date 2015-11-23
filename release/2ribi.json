@@ -1,0 +1,1 @@
+{"id":"230","urlID":"2ribi","name":"Leading zeros","description":"Matches numbers that do not have leading zeros. E.g.\rGood numbers: 0,1,2,3,10,100 etc. etc.\rBad numbers: 00,01,010 etc. etc.","content":"","weightedVote":"3.23469","numVotes":"2","author":"Paul Woolley","community":"1","dateAdded":"2009-11-11","pattern":"\/^(0|[1-9]\\d*)$\/gm","replace":"","state":""}

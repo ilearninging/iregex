@@ -1,0 +1,1 @@
+{"id":"161588","urlID":"3ab2s","name":"param_2","description":"","content":"some text Here +0.25(2)\nsome text Here 0.25(2.3)\nsome text Here 0.00(2.3)\nsome text Here -1.5(1.5)\n...\nsome text Here param_1(param_2)","weightedVote":"2.5","numVotes":"0","author":"theonlygusti","community":"1","dateAdded":"2015-02-01","pattern":"\/[\\d.]+(?=\\))\/gm","replace":"","state":""}

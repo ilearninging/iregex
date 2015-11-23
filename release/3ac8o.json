@@ -1,0 +1,1 @@
+{"id":"161992","urlID":"3ac8o","name":"regex4nico","description":"","content":"1000,10\n\n10,2012\n\n10000,00\n\n2.10\n\n1\u00e4,444\n\n\n1,2\u00e4555","weightedVote":"2.5","numVotes":"0","author":"dschkalee","community":"1","dateAdded":"2015-02-06","pattern":"\/\\d+(,|\\.)\\d{2}$\/gm","replace":"","state":""}

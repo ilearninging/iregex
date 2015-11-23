@@ -1,0 +1,1 @@
+{"id":"117098","urlID":"368nu","name":"ATC classification pattern","description":"Anatomical Therapeutic Chemical (ATC) Classification System\rex : L|DD|L|L|DD -> A|10|B|A|02","content":"","weightedVote":"2.5","numVotes":"0","author":"Larguier S\u00e9bastien","community":"1","dateAdded":"2013-09-09","pattern":"\/[a-zA-Z]|[0-9]+\/g","replace":"","state":""}

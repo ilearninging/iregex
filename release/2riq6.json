@@ -1,0 +1,1 @@
+{"id":"386","urlID":"2riq6","name":"HTML TAG","description":"All HTML Tag By PTT RegExp","content":"","weightedVote":"2.70408","numVotes":"2","author":"PTT","community":"1","dateAdded":"2010-02-25","pattern":"\/\\s*<[^>]*>\/g","replace":"","state":""}

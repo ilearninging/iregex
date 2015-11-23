@@ -1,0 +1,1 @@
+{"id":"45023","urlID":"2vlit","name":"Tutti i tag HTML","description":"Trova tutti i tag HTML nella pagina","content":"","weightedVote":"2.5","numVotes":"0","author":"Stevio","community":"1","dateAdded":"2012-01-08","pattern":"\/(<\/?\\w+((\\s+\\w+(\\s*=\\s*(?:\".*?\"|'.*?'|[^'\">\\s]+))?)+\\s*|\\s*)\/?>)\/gi","replace":"[$&]","state":""}

@@ -1,0 +1,1 @@
+{"id":"177701","urlID":"3bq9f","name":"Hastag","description":"Get Hashtags","content":"Dies ist ein Text mit #Hashtags #Sahne","weightedVote":"2.95833","numVotes":"1","author":"Toad","community":"1","dateAdded":"2015-09-17","pattern":"\/#([\\w]{1,})\/g","replace":"","state":"{\"substEnabled\":false}"}

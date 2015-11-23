@@ -1,0 +1,1 @@
+{"id":"22","urlID":"2rho2","name":"URL with parameters","description":"Match an URL with or without parameters","content":"","weightedVote":"2.69097","numVotes":"1","author":"EssBe","community":"1","dateAdded":"2009-05-28","pattern":"\/^(ht|f)tp:\\\/\\\/(w{3}\\.)?([\\w-]\\.*)*([a-zA-Z]{2,4})(\\?[\\w]+=[\\w]+((&[\\w]+=[\\w]+)*)?)?$\/gm","replace":"","state":""}

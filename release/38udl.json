@@ -1,0 +1,1 @@
+{"id":"146343","urlID":"38udl","name":"Kreol","description":"","content":"11111=============22222=============33333=============44444=============55555","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-02","pattern":"\/(.*?)=============(?!=)\/gm","replace":"$2","state":""}

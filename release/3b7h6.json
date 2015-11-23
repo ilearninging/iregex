@@ -1,0 +1,1 @@
+{"id":"171298","urlID":"3b7h6","name":"snake_upper_case","description":"","content":"GOOD_MORNING_HELLO","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-17","pattern":"\/^[A-Z_]+$\/g","replace":"","state":"{\"substEnabled\":false}"}

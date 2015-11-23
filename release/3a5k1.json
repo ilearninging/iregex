@@ -1,0 +1,1 @@
+{"id":"159723","urlID":"3a5k1","name":"DD MMM YY Date Parse","description":"","content":"Reimbursements sent in ODE file on 05 JAN 15 for processing date 04 JAN 15","weightedVote":"2.5","numVotes":"0","author":"dhutton","community":"1","dateAdded":"2015-01-04","pattern":"\/\\d{2}[\\s\\S]{5}\\d{2}\/g","replace":"","state":""}

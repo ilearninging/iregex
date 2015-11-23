@@ -1,0 +1,1 @@
+{"id":"164462","urlID":"3ajga","name":"regex for URI","description":"","content":"urn:contoso","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-12","pattern":"\/^urn:(.+)$\/i","replace":"","state":"{\"substEnabled\":false}"}

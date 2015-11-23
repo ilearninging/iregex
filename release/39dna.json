@@ -1,0 +1,1 @@
+{"id":"151566","urlID":"39dna","name":"Check if contains different le","description":"","content":"aaaaasdasdasdasdasdasd\nas asdsa a sadf","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-08-29","pattern":"\/^(\\w)(?!\\1+$)\\w*$\/gm","replace":"","state":""}

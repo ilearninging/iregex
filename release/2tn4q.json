@@ -1,0 +1,1 @@
+{"id":"23710","urlID":"2tn4q","name":"Dizi Ayiklama 2","description":"String hale gelmis dizileri ayiklamak icin yapilmistir.","content":"","weightedVote":"3.26389","numVotes":"1","author":"Ethem CETINKAYA","community":"1","dateAdded":"2011-05-07","pattern":"\/\\[[^\\]|\"]+,[^\\[]+\\]\/g","replace":"","state":""}

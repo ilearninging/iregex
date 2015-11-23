@@ -1,0 +1,1 @@
+{"id":"115997","urlID":"365gn","name":"Autotask","description":"Autotask Ticket Number","content":"","weightedVote":"3.26389","numVotes":"1","author":"Kevin Stra\u00dfer aka kevin16king","community":"1","dateAdded":"2013-08-30","pattern":"\/T[0-9]{8}.[0-9]{4}\/i","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"513","urlID":"2rj63","name":"ip address","description":"Shorter version of ip address pattern. Matches 0.0.0.0 through 255.255.255.255","content":"","weightedVote":"3.04409","numVotes":"3","author":"g","community":"1","dateAdded":"2010-05-11","pattern":"\/((2([0-4]\\d|5[0-5])|[01]?\\d?\\d)\\.){3}(2([0-4]\\d|5[0-5])|[01]?\\d?\\d)\/g","replace":"","state":""}

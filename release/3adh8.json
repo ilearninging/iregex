@@ -1,0 +1,1 @@
+{"id":"162424","urlID":"3adh8","name":"HTML Link modify","description":"Modify a Link ","content":"<a href=\"http:\/\/www.example.de\" target=\"_blank\" class=\"example\">Example<\/a>","weightedVote":"3.26389","numVotes":"1","author":"Frontend-Head","community":"1","dateAdded":"2015-02-12","pattern":"\/(href=\")(http[^\"]*)(\")\/g","replace":"$1{{$2}}$3","state":""}

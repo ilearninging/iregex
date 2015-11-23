@@ -1,0 +1,1 @@
+{"id":"172748","urlID":"3bbp4","name":"Match tag","description":"","content":"<p>Hello <small>World<\/small>!<\/p>","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-08","pattern":"\/<(\\S)>([\\s\\S]*)<\\\/\\1>\/g","replace":"","state":"{\"substEnabled\":false}"}

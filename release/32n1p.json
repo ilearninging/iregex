@@ -1,0 +1,1 @@
+{"id":"78291","urlID":"32n1p","name":"GUID","description":"GUID Regex Pattern","content":"","weightedVote":"2.5","numVotes":"1","author":"ardevelop","community":"1","dateAdded":"2012-11-05","pattern":"\/^{?[0-9a-fA-F]{8}-?[0-9a-fA-F]{4}-?[0-9a-fA-F]{4}-?[0-9a-fA-F]{4}-?[0-9a-fA-F]{12}}?$\/gm","replace":"","state":""}

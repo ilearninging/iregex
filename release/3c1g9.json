@@ -1,0 +1,1 @@
+{"id":"180163","urlID":"3c1g9","name":"kilanoff test","description":"","content":"asdfd((asdf)(asdf asdf asdf asdf asdf asdf(sgdfsg)(sfgsdfg","weightedVote":"2.5","numVotes":"0","author":"kilanoff","community":"1","dateAdded":"2015-10-21","pattern":"\/(\\([a-z\\s]+[^)])$\/igm","replace":"","state":"{\"substEnabled\":false}"}

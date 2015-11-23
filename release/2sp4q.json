@@ -1,0 +1,1 @@
+{"id":"13470","urlID":"2sp4q","name":"hostname domain list","description":"Matches valid hostname and given domain list","content":"","weightedVote":"2.09183","numVotes":"2","author":"Haggini","community":"1","dateAdded":"2010-12-20","pattern":"\/\\b[a-zA-Z0-9]{1,999}\\b\\.(com|org|net|eu)\\b\/g","replace":"","state":""}

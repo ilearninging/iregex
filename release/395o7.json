@@ -1,0 +1,1 @@
+{"id":"148845","urlID":"395o7","name":"Darrick look at dis","description":"","content":"setenv QDS_PASSWD 0e6fc176ed33","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-07-16","pattern":"\/(setenv QDS_PASSWD) (.*)\/g","replace":"$1 $2_BADPASS","state":""}

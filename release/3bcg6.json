@@ -1,0 +1,1 @@
+{"id":"172994","urlID":"3bcg6","name":"PID.8 sex is not AFMNOU","description":"","content":"PID|1|asdd^asd|asdd^asd|asdd^asd|asdd^asd|asdd^asd|ssaasdd^asd|X|asd","weightedVote":"2.5","numVotes":"0","author":"laszlo","community":"1","dateAdded":"2015-07-12","pattern":"\/PID[|]\\d[|]([^|]*[|]){6}[^AFMNOU]\/g","replace":"","state":"{\"substEnabled\":false}"}

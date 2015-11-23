@@ -1,0 +1,1 @@
+{"id":"104022","urlID":"352e2","name":"Redirect Spacing","description":"Formats redirects to have the same spaces between paths","content":"","weightedVote":"3.26389","numVotes":"1","author":"Randen K","community":"1","dateAdded":"2013-05-30","pattern":"\/Redirect \\d+\\s+(\\S+)\\s+(\\S+)\/gi","replace":"Redirect 301   $1   $2","state":""}

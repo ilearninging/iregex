@@ -1,0 +1,1 @@
+{"id":"165747","urlID":"3an8p","name":"dotstar","description":"","content":"('A', 'NN'), ('B', 'AP'), ('C', 'RB'), ('D', 'NNP'), ('AD', 'NNX')","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-29","pattern":"\/\\('(.*?)', 'NN.?'\\)\/g","replace":"","state":"{\"substEnabled\":false}"}

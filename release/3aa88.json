@@ -1,0 +1,1 @@
+{"id":"161304","urlID":"3aa88","name":"Anez Azeem","description":"Finding the first letter of first and last words","content":"foo bar\nfoo bar qux","weightedVote":"2.5","numVotes":"0","author":"Anez Azeem","community":"1","dateAdded":"2015-01-28","pattern":"\/^([a-zA-Z]).*\\s([a-zA-Z])[a-zA-Z]+$\/gm","replace":"$1$2","state":""}

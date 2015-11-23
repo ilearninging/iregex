@@ -1,0 +1,1 @@
+{"id":"144826","urlID":"38pve","name":"do not start with trim word","description":"","content":"\nbox\nboxargatan\nboxen\n box\n v\u00e4stra boxgatan","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-05-05","pattern":"\/^(?!(\\s+|)(box)(\\s)).+$\/igm","replace":"\\n# $&:\\n\\t","state":""}

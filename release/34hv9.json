@@ -1,0 +1,1 @@
+{"id":"98403","urlID":"34hv9","name":"Java Locale","description":"Search in the URL locale (should end with a \"\/\")","content":"","weightedVote":"2.5","numVotes":"0","author":"Dmytro Karimov","community":"1","dateAdded":"2013-04-16","pattern":"\/([a-z]{2}[_][A-Z]+|[a-z]{2}?|[_][A-Z]{2}?){1}([_][A-Z]*)*([_][\\#][a-z-A-Z]*)*[\/]\/g","replace":"","state":""}

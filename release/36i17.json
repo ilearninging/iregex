@@ -1,0 +1,1 @@
+{"id":"120269","urlID":"36i17","name":"Decimal value money amount","description":"Payment value","content":"","weightedVote":"2.5","numVotes":"0","author":"RimiX","community":"1","dateAdded":"2013-09-30","pattern":"\/^(\\d+)(\\.\\d{1,2})?$\/gm","replace":"[[$&$&]]","state":""}

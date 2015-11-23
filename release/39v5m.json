@@ -1,0 +1,1 @@
+{"id":"157522","urlID":"39v5m","name":"Replace ( with \\r and space","description":"","content":"or(and(equal($account_type,\"Property_Trust\"),equal($constitution_c,\"Yes\")),equal($constitutionally_linked_c,\"Yes\"))","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-24","pattern":"\/\\(\/g","replace":"(\\r ","state":""}

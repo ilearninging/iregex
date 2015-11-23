@@ -1,0 +1,1 @@
+{"id":"177688","urlID":"3bq88","name":"start with 00","description":"","content":"00249912345675\n00249912345675\n001539234565\n00312321312312","weightedVote":"2.5","numVotes":"0","author":"Saad Alafandi","community":"1","dateAdded":"2015-09-17","pattern":"\/^(?:00|\\\\+)[0-9\\\\s.\\\\\/-]{6,20}$\/gm","replace":"","state":"{\"substEnabled\":false}"}

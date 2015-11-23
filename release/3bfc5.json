@@ -1,0 +1,1 @@
+{"id":"173975","urlID":"3bfc5","name":"\u95ee\u53f7\u7684\u4f5c\u7528","description":"","content":"color  colour\n\nJuly fourth\nJuly 4th\nJuly 4\nJul fourth\nJul 4th\nJul 4\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-25","pattern":"\/(July?) (fourth|4(th)?)\/g","replace":"","state":"{\"substEnabled\":false}"}

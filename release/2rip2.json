@@ -1,0 +1,1 @@
+{"id":"374","urlID":"2rip2","name":"e-mail adress valid","description":"(\\b)?[^\\d *][\\w\\.\\-\\!]+@\\w*.\\w{2,4}\\b","content":"","weightedVote":"2.69097","numVotes":"1","author":"Opoycev Alexander","community":"1","dateAdded":"2010-02-23","pattern":"\/(\\b)?[^\\d *][\\w\\.\\-\\!]+@\\w*.\\w{2,4}\\b\/gi","replace":"","state":""}

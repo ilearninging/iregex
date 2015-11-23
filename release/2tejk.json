@@ -1,0 +1,1 @@
+{"id":"20796","urlID":"2tejk","name":"Base URL-Path","description":"Matches the path of an URI until the last directory without filename and query.","content":"","weightedVote":"2.9898","numVotes":"2","author":"L\u00fcnsdorf","community":"1","dateAdded":"2011-04-01","pattern":"\/^http|s:\/\/(.*?\/)+\/g","replace":"","state":""}

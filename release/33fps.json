@@ -1,0 +1,1 @@
+{"id":"86740","urlID":"33fps","name":"postal code NL","description":"postal code","content":"","weightedVote":"2.5","numVotes":"0","author":"dunno","community":"1","dateAdded":"2013-01-21","pattern":"\/\\b[0-9]{4} ?[a-zA-Z]{2}\\b\/g","replace":"","state":""}

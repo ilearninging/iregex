@@ -1,0 +1,1 @@
+{"id":"148089","urlID":"393hb","name":"1 line","description":"Searching in multiples lines and returning in one","content":"airton\ncarneiro\nde\noliveira\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-07-02","pattern":"\/\\r?\\n\/g","replace":" ","state":""}

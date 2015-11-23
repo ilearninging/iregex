@@ -1,0 +1,1 @@
+{"id":"162425","urlID":"3adhb","name":"Link modify","description":"Modify a Link ","content":"http:\/\/www.example.de","weightedVote":"3.26389","numVotes":"1","author":"Frontend-Head","community":"1","dateAdded":"2015-02-12","pattern":"\/(http)(.*)\/g","replace":"{{$1$2}}","state":""}

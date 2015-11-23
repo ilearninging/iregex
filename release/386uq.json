@@ -1,0 +1,1 @@
+{"id":"138334","urlID":"386uq","name":"Lookes for a width parameter","description":"Looks for a parameter ( in this case as an example width )\r\rnote this is looking for double quotes and theres spacing.","content":"","weightedVote":"2.5","numVotes":"0","author":"gingerman","community":"1","dateAdded":"2014-02-04","pattern":"\/\\width = \"\\d*\"\/","replace":"","state":""}

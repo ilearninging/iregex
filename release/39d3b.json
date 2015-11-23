@@ -1,0 +1,1 @@
+{"id":"151353","urlID":"39d3b","name":"Test Ven and Dev","description":"","content":"PCI\\VEN_10DE&DEV_0DFC&SUBSYS_15351028&REV_A1\\4&206BBA14&0&0008","weightedVote":"2.5","numVotes":"0","author":"Collin B","community":"1","dateAdded":"2014-08-27","pattern":"\/[A-Z]{3}[_][0-9A-Z]{4}\/g","replace":"","state":""}

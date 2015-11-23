@@ -1,0 +1,1 @@
+{"id":"114015","urlID":"35vmt","name":"Credit Card Validator","description":"Credit card validator","content":"","weightedVote":"2.5","numVotes":"0","author":"Mazin Peter","community":"1","dateAdded":"2013-08-15","pattern":"\/^(\\s?\\d\\s?){16}$\/","replace":"","state":""}

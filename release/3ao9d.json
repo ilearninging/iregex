@@ -1,0 +1,1 @@
+{"id":"166095","urlID":"3ao9d","name":"48","description":"regex for stack","content":"XXXX99999999  blah blah blah xxx9999 ","weightedVote":"2.5","numVotes":"0","author":"zfrisch","community":"1","dateAdded":"2015-04-02","pattern":"\/[A-Z]{4}\\d{8}\/g","replace":"","state":"{\"substEnabled\":false}"}

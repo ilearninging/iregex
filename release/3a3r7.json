@@ -1,0 +1,1 @@
+{"id":"159117","urlID":"3a3r7","name":"Insert Text","description":"","content":"<wrapper>Replace<\/wrapper>","weightedVote":"2.5","numVotes":"0","author":"KyleMit","community":"1","dateAdded":"2014-12-18","pattern":"\/(<wrapper>).*(<\\\/wrapper>)\/g","replace":"$1 Inserted $2","state":""}

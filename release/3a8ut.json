@@ -1,0 +1,1 @@
+{"id":"160863","urlID":"3a8ut","name":"Find with suffix","description":"","content":"margin: 10.23vw 50vw 10.23vw 50vw;\npadding: 10.23vw 50vw;\nwidth: 10.23vw 50vw;","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-22","pattern":"\/(\\d+(?:[.,]\\d+)?)\\s?(vw)\/g","replace":"","state":""}

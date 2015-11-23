@@ -1,0 +1,1 @@
+{"id":"16180","urlID":"2t12s","name":"simple csv with carriage return","description":"Simple CSV match to build on, includes carriage return ","content":"","weightedVote":"3.07292","numVotes":"1","author":"Mike Shryane","community":"1","dateAdded":"2011-02-02","pattern":"\/([^,\\r]+)\/g","replace":"[$&]","state":""}

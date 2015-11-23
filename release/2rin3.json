@@ -1,0 +1,1 @@
+{"id":"353","urlID":"2rin3","name":"<IMG> tag finder","description":"Will find a complete <IMG> tag","content":"","weightedVote":"1.47959","numVotes":"2","author":"elchupathingy","community":"1","dateAdded":"2010-02-11","pattern":"\/<[iI][mM][gG]([ ]?(\\w*=[a-zA-Z0-9\"': \/(!)._-]*)){0,10}>\/g","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"81311","urlID":"32vst","name":"boost::ptree INFO tokenizer","description":"help to tokenize INFO syntax of boost::property_tree","content":"","weightedVote":"2.5","numVotes":"0","author":"Dalvin","community":"1","dateAdded":"2012-11-29","pattern":"\/(;.*)|(\\{)|(\\})|(\\\\)|(\".*?\")|([^\\t {}]+)\/g","replace":"","state":""}

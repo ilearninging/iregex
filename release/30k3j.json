@@ -1,0 +1,1 @@
+{"id":"55441","urlID":"30k3j","name":"FessRegExpParf","description":"Mine very personal pattern for website panparf...","content":"","weightedVote":"2.11806","numVotes":"1","author":"Fess","community":"1","dateAdded":"2012-04-11","pattern":"\/(((http:\/\/www|http:\/\/|www)[-a-zA-Z0-9@:%_\\+.~#?&=]+)\/(.*)\/(.*)\/(.*))\/","replace":"$1 n$2 n$4 n$5 n$6","state":""}

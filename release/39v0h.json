@@ -1,0 +1,1 @@
+{"id":"157467","urlID":"39v0h","name":"Test phone regexp","description":"","content":"<a href=\"tel:+31854017877\">085-4017877<\/a>\n085-4017877\n(085)-4017877\n(085)4017877\n085 4017877\n+31854017877","weightedVote":"2.5","numVotes":"0","author":"Jose Rey","community":"1","dateAdded":"2014-11-23","pattern":"\/(\\+31)?(\\()?0?85(\\)-?| |-)?4017877\/g","replace":"","state":""}

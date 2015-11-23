@@ -1,0 +1,1 @@
+{"id":"170436","urlID":"3b50c","name":"Trim & simplifty spaces","description":"","content":"  a       a     a a  ","weightedVote":"2.5","numVotes":"0","author":"Gerkin","community":"1","dateAdded":"2015-06-03","pattern":"\/(^\\s+)|\\s(?=\\s+)|(\\s+$)\/g","replace":"","state":"{\"substEnabled\":true}"}

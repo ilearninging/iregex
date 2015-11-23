@@ -1,0 +1,1 @@
+{"id":"155571","urlID":"39pep","name":"regextest","description":"","content":"dsafsfds {label_creator} asdfsadfsadsafsfds {label_creator} asdfsadfsa dsafsfds {label_creator} asdfsadfsa","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-10-22","pattern":"\/({([^{}]*)})+\/g","replace":"","state":""}

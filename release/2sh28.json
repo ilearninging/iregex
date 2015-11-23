@@ -1,0 +1,1 @@
+{"id":"10712","urlID":"2sh28","name":"US Zip Code 5 to 9","description":"(\\d{5}-\\d{4})|(\\d{5})\r\rMatches only 12345 or 12345-1234 patterns.","content":"","weightedVote":"2.34694","numVotes":"2","author":"Matthew Rhoden","community":"1","dateAdded":"2010-11-09","pattern":"\/\\be(\\w*)s\\b\/g","replace":"","state":""}

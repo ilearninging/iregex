@@ -1,0 +1,1 @@
+{"id":"31954","urlID":"2uf9m","name":"simple line","description":"simple line,\rsuitable for making simple sql operation \r","content":"","weightedVote":"2.5","numVotes":"0","author":"green13","community":"1","dateAdded":"2011-08-15","pattern":"\/^[^d].*$|^\\w*$\/gm","replace":"INSERT INTO [dwh_ru].[dwexp_allocation].[Collection_report_FP] ([Name]) VALUES ('$&')","state":""}

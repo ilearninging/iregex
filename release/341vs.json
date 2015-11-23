@@ -1,0 +1,1 @@
+{"id":"92948","urlID":"341vs","name":"RemoveSpacesBetweenTags","description":"I used this to to remove spaces between XML tags.","content":"","weightedVote":"2.5","numVotes":"0","author":"Greg","community":"1","dateAdded":"2013-03-07","pattern":"\/(>)(\\ +)(<)\/g","replace":"$1$3","state":""}

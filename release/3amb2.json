@@ -1,0 +1,1 @@
+{"id":"165430","urlID":"3amb2","name":"asdf","description":"asdf","content":"Alabama\naardvark\nBoehner\nbutts\nColumbus\ncats\nDenver\ndogs\nEaster\nelephants\nFriday\nfarts\n","weightedVote":"2.5","numVotes":"0","author":"asdf","community":"1","dateAdded":"2015-03-25","pattern":"\/(\\b[A-Da-d]\\w*)\/g","replace":"","state":"{\"substEnabled\":false}"}

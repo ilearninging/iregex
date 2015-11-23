@@ -1,0 +1,1 @@
+{"id":"181455","urlID":"3c59d","name":"wordsinquotes","description":"","content":"\"ESP.BUAT.DQM_LOAD\".DQM.RDR_EREC_PRE_STG.CITY\n\"servername\".w1.w2","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-11-06","pattern":"\/\"[^\"]+\"|[\\w]+\/g","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,0 +1,1 @@
+{"id":"100094","urlID":"34mtq","name":"html tags","description":"very basic pattern to identify html tags","content":"","weightedVote":"2.5","numVotes":"0","author":"rahul","community":"1","dateAdded":"2013-04-28","pattern":"\/\\<\\\/?[a-z]{1,6}\\>\/g","replace":"","state":""}

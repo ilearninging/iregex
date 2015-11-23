@@ -1,0 +1,1 @@
+{"id":"163564","urlID":"3ags4","name":"get sku from href","description":"","content":"<a href=\"\/catalog\/90407w.html\" class=\"another-color-item\"><\/a>","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-02-27","pattern":"\/<a\\s+href=\"\\\/catalog\\\/(\\w+)\\.html\"\\s+[^>]+>.*?<\\\/a>\/g","replace":"","state":"{\"substEnabled\":false}"}

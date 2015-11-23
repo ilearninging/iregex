@@ -1,0 +1,1 @@
+{"id":"168185","urlID":"3audb","name":"HTML Tags","description":"","content":"<strong>Maneiro<\/strong>\n<script type=\"text\/javascript\">alert(\"BOOM, Hacked n00b\");<\/script>","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-04","pattern":"\/<[^>]*>\/g","replace":"","state":"{\"substEnabled\":false}"}

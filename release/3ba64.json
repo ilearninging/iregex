@@ -1,0 +1,1 @@
+{"id":"172204","urlID":"3ba64","name":"regex new","description":"","content":"123\n1234\n12324123\n12312312312312312","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-30","pattern":"\/^[0-9]{3}\\b\/g","replace":"","state":"{\"substEnabled\":false}"}

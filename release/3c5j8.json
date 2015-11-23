@@ -1,0 +1,1 @@
+{"id":"181560","urlID":"3c5j8","name":"&amp;","description":"","content":"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-11-09","pattern":"\/&(?!amp;)\/g","replace":"&amp;","state":"{\"substEnabled\":true}"}

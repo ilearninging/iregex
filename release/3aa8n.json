@@ -1,0 +1,1 @@
+{"id":"161309","urlID":"3aa8n","name":"10 digit phone no","description":"","content":"1234567895","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-28","pattern":"\/^[0-9]{10}$\/g","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"163330","urlID":"3ag66","name":"test","description":"","content":"\/forcedev\/sss\/?continue=545","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-02-24","pattern":"\/\\\/forcedev\\\/(.*?)\\\/\\?continue=(.*?)$\/g","replace":"","state":""}

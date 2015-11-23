@@ -1,0 +1,1 @@
+{"id":"70602","urlID":"320gu","name":"number of words 2 (precise number)","description":"should just catch a number of words","content":"","weightedVote":"2.11806","numVotes":"1","author":"simone bernacchia","community":"1","dateAdded":"2012-08-30","pattern":"\/(\\w+[\\s,;:.!?]+){20}\\w+[\\s'.,;:?!]\/","replace":"","state":""}

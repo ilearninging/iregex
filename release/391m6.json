@@ -1,0 +1,1 @@
+{"id":"147458","urlID":"391m6","name":"aaaaaaaaa","description":"","content":"some text\nsometh& test \nanother with more than one space\nsomething! with * a space","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-22","pattern":"\/\\s|[^\\*]\\*\/g","replace":"* ","state":""}

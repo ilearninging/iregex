@@ -1,0 +1,1 @@
+{"id":"47404","urlID":"2vsi4","name":"Derivative Contract","description":"group 1: underlying symbol\rgroup 2: expiration month\rgroup 3: expiration year","content":"","weightedVote":"2.5","numVotes":"0","author":"Marcio Werner","community":"1","dateAdded":"2012-01-31","pattern":"\/(\\w+?)(\\w{1})(\\d{1,2})\/g","replace":"","state":""}

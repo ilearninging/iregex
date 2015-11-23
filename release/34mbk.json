@@ -1,0 +1,1 @@
+{"id":"99900","urlID":"34mbk","name":"Trim Text","description":"Removes space and linebreak at the begining and the end","content":"","weightedVote":"2.5","numVotes":"0","author":"sven ","community":"1","dateAdded":"2013-04-26","pattern":"\/(^\\S+[\\S\\s]+\\S+$)|(^\\S{1}$)\/g","replace":"","state":""}

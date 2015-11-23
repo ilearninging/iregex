@@ -1,0 +1,1 @@
+{"id":"180249","urlID":"3c1ob","name":"S10","description":"","content":"S10     1+0000000297472+00EURS100    1+0000000297472+00EURS1023P  1+0000000816072+00EUR","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-22","pattern":"\/^(S10).*?([\\d\\+]+EUR)$\/g","replace":"","state":"{\"substEnabled\":false}"}

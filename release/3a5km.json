@@ -1,0 +1,1 @@
+{"id":"159730","urlID":"3a5km","name":"dict regex","description":"","content":"x[\"a\"] = 5\nx[b] = 1\nx[\"foo\"] += 1","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-04","pattern":"\/[A-Za-z0-9]+\\[\\s*(\"[A-Za-z0-9]+\"|[A-Za-z0-9]+)\\s*\\]\\s*(=|\\+=)\\s*[A-Za-z0-9]+\/g","replace":"","state":""}

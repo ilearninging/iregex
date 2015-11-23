@@ -1,0 +1,1 @@
+{"id":"142","urlID":"2ri3a","name":"Filename from systempath","description":"Matches filename from a systempath\rC:\\Program Files\\CodeGear\\Help.chm\rWill match Help.chm","content":"","weightedVote":"3.26531","numVotes":"2","author":"Qwark","community":"1","dateAdded":"2009-08-24","pattern":"\/([^\\\/\\\\]+\\.\\w+)$\/gim","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"155317","urlID":"39omv","name":"phone number","description":"","content":"1-310-123-4444\n\n1-310-123-3444\n\n1-310-123-4040","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-10-17","pattern":"\/\\d\\-\\d\\d\\d\\-\\d\\d\\d\\-((\\d)\\2{3}|\\d(\\d)\\3{2}|\\d0\\d0)\/g","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"417","urlID":"2rit3","name":"Percentage with 2 decimals","description":"validates a percentage from 0 100 and allows two decimal places","content":"","weightedVote":"2.90817","numVotes":"2","author":"Cristian Perez","community":"1","dateAdded":"2010-03-18","pattern":"\/(^100(\\.0{1,2})?$)|(^([1-9]([0-9])?|0)(\\.[0-9]{1,2})?$)\/g","replace":"","state":""}

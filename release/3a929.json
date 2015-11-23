@@ -1,0 +1,1 @@
+{"id":"160899","urlID":"3a929","name":"checkstyle final local var","description":"","content":"PERSON_ID\npersonId","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-22","pattern":"\/^[a-z][a-zA-Z0-9]*$\/gm","replace":"","state":""}

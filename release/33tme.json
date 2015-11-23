@@ -1,0 +1,1 @@
+{"id":"91482","urlID":"33tme","name":"Regular Expression","description":"Validate Email","content":"","weightedVote":"2.5","numVotes":"0","author":"Sri","community":"1","dateAdded":"2013-02-26","pattern":"\\w+([-+.']\\w+)*@\\w+([-.]\\w+)*\\.\\w+([-.]\\w+)*","replace":"","state":""}

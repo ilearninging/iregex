@@ -1,0 +1,1 @@
+{"id":"81","urlID":"2rhtj","name":"Get <script> tag content","description":"Grabs the opening and closing <script> tag as well as all the content contained within.","content":"","weightedVote":"2.88086","numVotes":"3","author":"Ben Reeves","community":"1","dateAdded":"2009-07-07","pattern":"\/<[^>]*?script.*?>[^<]*<\/[^>]*?script.*?>\/i","replace":"","state":""}

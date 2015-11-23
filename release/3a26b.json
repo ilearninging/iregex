@@ -1,0 +1,1 @@
+{"id":"158553","urlID":"3a26b","name":"parse CSV","description":"","content":"123,\"123,123,123\",\"123\"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-12-10","pattern":"\/(\"(.*?)\"),?|(.*?),\/g","replace":"\\r\\n","state":""}

@@ -1,0 +1,1 @@
+{"id":"29074","urlID":"2u6rm","name":"PHP tags","description":"to get all php tags","content":"","weightedVote":"2.5","numVotes":"0","author":"Ahmed Saber","community":"1","dateAdded":"2011-07-11","pattern":"\/(<\\?(php)?(.*?)\\?>)\/gm","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"103","urlID":"2rhvl","name":"Replace [guid] to <a href=\"guid\">guid<\/a>","description":"RegExp: \/\\[(.*?)\\]\/g\rpattern: \\[(.*?)\\]\rReplace: <a href=\"$1\">$1<\/a>\r","content":"","weightedVote":"3.26389","numVotes":"1","author":"@williamngan","community":"1","dateAdded":"2009-07-21","pattern":"\/\\[(.*?)\\]\/g","replace":"<a href=\"$1\">$1<\/a>","state":""}

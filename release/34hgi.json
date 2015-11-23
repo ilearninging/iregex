@@ -1,0 +1,1 @@
+{"id":"98246","urlID":"34hgi","name":"Extract domain","description":"Extract domain from URL","content":"","weightedVote":"2.5","numVotes":"0","author":"Jorge Imues","community":"1","dateAdded":"2013-04-15","pattern":"\/.*?\\\/\\\/(\\w+.\\w+.\\w+).*?$\/g","replace":"","state":""}

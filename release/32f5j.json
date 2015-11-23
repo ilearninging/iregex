@@ -1,0 +1,1 @@
+{"id":"75601","urlID":"32f5j","name":"Skype-","description":"Cut data, time and names what Skype produce with copy-paste operation\r","content":"","weightedVote":"3.26389","numVotes":"1","author":"Andrew Shapiro","community":"1","dateAdded":"2012-10-14","pattern":"\/^(\\[.*\\].*:\\s+)+(.*)\/gm","replace":"$2","state":""}

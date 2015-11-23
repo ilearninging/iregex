@@ -1,0 +1,1 @@
+{"id":"21135","urlID":"2tfjd","name":"URL Checker (HTTP|HTTPS)","description":"Checks an URL if it is a valit http(s) URL","content":"","weightedVote":"2.69097","numVotes":"1","author":"virtualmarc","community":"1","dateAdded":"2011-04-05","pattern":"\/^(http|https)\\:\/\/[a-zA-Z0-9\\-\\.]+\\.[a-zA-Z]{2,6}(\/\\S*)?$\/gm","replace":"","state":""}

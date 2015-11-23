@@ -1,0 +1,1 @@
+{"id":"182237","urlID":"3c7in","name":"Validador patentes (CL)","description":"Validador de pantentes de Chile, todos los formatos.","content":"XXGG55\nLMLK99\nMK87-99","weightedVote":"3.26389","numVotes":"1","author":"Hugo S\u00e1ez","community":"1","dateAdded":"2015-11-16","pattern":"\/([A-Z]{2})([A-Z,0-9]{2})(-)?(\\d{2})\/g","replace":"","state":"{\"substEnabled\":false}"}

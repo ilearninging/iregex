@@ -1,0 +1,1 @@
+{"id":"26","urlID":"2rhoe","name":"GUID","description":"Global Unified Identificator","content":"","weightedVote":"3.21429","numVotes":"2","author":"Shurik","community":"1","dateAdded":"2009-05-31","pattern":"\/\\{[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}\\}\/g","replace":"","state":""}

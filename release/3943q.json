@@ -1,0 +1,1 @@
+{"id":"148286","urlID":"3943q","name":"InsertEvery8Char","description":"Inserts a period every 8 characters (for quad octets only)","content":"11111111111111111111111100000000","weightedVote":"2.5","numVotes":"0","author":"eric lagergren","community":"1","dateAdded":"2014-07-06","pattern":"\/(.{8})(.{8})(.{8})\/g","replace":"$1.$2.$3.","state":""}

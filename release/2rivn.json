@@ -1,0 +1,1 @@
+{"id":"445","urlID":"2rivn","name":"Variable name replacer","description":"Replaces forbidden characters in variable name so that:\r\r123&*-Valid_Var+Name19\r\rbecomes\r\rValid_VarName19","content":"","weightedVote":"2.5","numVotes":"0","author":"Max Melnishyn","community":"1","dateAdded":"2010-04-07","pattern":"\/^[0-9_]*|[^a-z0-9_]\/gi","replace":"","state":""}

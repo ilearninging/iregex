@@ -1,0 +1,1 @@
+{"id":"168276","urlID":"3auls","name":"maha","description":"demo","content":"dsdkl  ACTION101  dsjdsk\n\ndsdkl  ACTION10123  dsjdsk\n\ndsdkl  ACTION101sd  dsjdsk\n\ndsdkl  ACTION1014567  dsjdsk\n\n","weightedVote":"2.5","numVotes":"0","author":"maha","community":"1","dateAdded":"2015-05-05","pattern":"\/(\\ACTION101(?!\\d))\/g","replace":"","state":"{\"substEnabled\":false}"}

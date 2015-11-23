@@ -1,0 +1,1 @@
+{"id":"7366","urlID":"2s78i","name":"primes","description":"A regular expression to check for prime numbers","content":"","weightedVote":"1.73611","numVotes":"1","author":"ptalus","community":"1","dateAdded":"2010-09-23","pattern":"\/^1?$|^(11+)\\1+$\/","replace":"","state":""}

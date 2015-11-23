@@ -1,0 +1,1 @@
+{"id":"143123","urlID":"38kvp","name":"multi_word","description":"Checks if all specified character sequences are present","content":"the quick brown fox jumps over a lazy dog","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-03-28","pattern":"\/^(?=.*?quick)(?=.*?brown)(?=.*?lazy).*$\/ig","replace":"","state":""}

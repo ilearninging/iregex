@@ -1,0 +1,1 @@
+{"id":"159844","urlID":"3a5vc","name":"cedula","description":"Regular expresion to validate panamenian cedula","content":"1-1-14534","weightedVote":"2.5","numVotes":"0","author":"Andr\u00e9s Monasterio","community":"1","dateAdded":"2015-01-06","pattern":"\/^([1-9]|1[0-3]|PE|N|E|(([1-9]|1[0-3])AV)|(([1-9]|1[0-3])PI))-([1-9]\\d{0,3})-([1-9]\\d{0,4})$\/g","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"93811","urlID":"344gp","name":"time","description":"match 15:00-21:00,11:00-20:00,11:00-19:00","content":"","weightedVote":"2.5","numVotes":"0","author":"Niko S.","community":"1","dateAdded":"2013-03-14","pattern":"\/([\\d]{2}:[\\d]{2}-[\\d]{2}:[\\d]{2})(,?)\/g","replace":"","state":""}

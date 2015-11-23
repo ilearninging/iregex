@@ -1,0 +1,1 @@
+{"id":"178762","urlID":"3btcu","name":"css class name attribute","description":"css class name attribute selector","content":"I dont want this class=\"even carryover\" I dont want this either","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-01","pattern":"\/(class=\"[a-z ]*\")\/g","replace":"","state":"{\"substEnabled\":false}"}

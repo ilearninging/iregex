@@ -1,0 +1,1 @@
+{"id":"31241","urlID":"2ud6r","name":"all form fields and elements","description":"Selects all the form fields and elements","content":"","weightedVote":"3.26389","numVotes":"1","author":"K. Lenze","community":"1","dateAdded":"2011-08-06","pattern":"\/<(textarea.*?)(textarea)>|<(input.*?)>|<select(.*)select>\/gs","replace":"","state":""}

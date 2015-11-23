@@ -1,0 +1,1 @@
+{"id":"95688","urlID":"34a0o","name":"Match a URL","description":"To match URLs","content":"","weightedVote":"2.9898","numVotes":"2","author":"Tamil, Ashwin and Prince","community":"1","dateAdded":"2013-03-27","pattern":"\/((http(s?)|ftp):\/\/)?(www\\.)?(\\w+)(\\.\\w+)+\/gxm","replace":"","state":""}

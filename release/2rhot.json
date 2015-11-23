@@ -1,0 +1,1 @@
+{"id":"31","urlID":"2rhot","name":"Twitpic url cut-out","description":"Cuts-out each twitpic-url from a tweet","content":"","weightedVote":"3.26389","numVotes":"1","author":"Roman Oskolkov","community":"1","dateAdded":"2009-06-03","pattern":"\/http:\/\/twitpic.com\/.*?(?=\\s)\/g","replace":"","state":""}

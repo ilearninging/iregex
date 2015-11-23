@@ -1,0 +1,1 @@
+{"id":"10362","urlID":"2sg1e","name":"ZAF Mobile Tel Validation","description":"Validates ZAF mobile network numbers\r-checks for correct length and correct\r-checks netowork operator prefix ","content":"","weightedVote":"2.5","numVotes":"0","author":"EViL Bites","community":"1","dateAdded":"2010-11-04","pattern":"\/^((\\+27|0)(7|8)[0-9]{8})$\/gi","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"161073","urlID":"3a9ij","name":"create","description":"","content":"create 1 pages\ncreate 5\ncreate 5 ","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-25","pattern":"\/create ([1-9]{1,3})([^\\s]|.*)\/g","replace":"Crete: \"$1\"   \\nPost type: \"$2\"       \\n\\n","state":""}

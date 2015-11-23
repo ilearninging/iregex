@@ -1,0 +1,1 @@
+{"id":"157565","urlID":"39v9n","name":"Uk postcodes","description":"allows only standard UK postcodes only ","content":"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-25","pattern":"\/[A-Z]{1,2}[0-9]{1,2}[A-Z]? [0-9]{1}[A-Z]{2}\/g","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"51113","urlID":"307dr","name":"Clear <ul>content<\/ul>","description":"Deleta all ul and ul li content","content":"","weightedVote":"2.5","numVotes":"0","author":"Lorenzo Macchiavelli","community":"1","dateAdded":"2012-03-04","pattern":"\/<ul>[\\s\\S]*?<\/ul>\/gixm","replace":"","state":""}

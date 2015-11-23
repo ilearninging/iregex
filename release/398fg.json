@@ -1,0 +1,1 @@
+{"id":"149776","urlID":"398fg","name":"Captures parameters","description":"","content":"\/api\/captures\/file.scap\/data?filter=string&output=string","weightedVote":"2.5","numVotes":"0","author":"Draios","community":"1","dateAdded":"2014-07-31","pattern":"\/^\\\/api\\\/captures\\\/[a-z]+\\.scap\\\/data\\?filter\\=[a-z]*\\&output\\=[a-z]*$\/i","replace":"","state":""}

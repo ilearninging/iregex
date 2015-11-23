@@ -1,0 +1,1 @@
+{"id":"166410","urlID":"3ap6u","name":"password strength","description":"","content":"testT9234wsdf","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-07","pattern":"\/^(?=.{8,})(?=.*[a-z])(?=.*[A-Z])(?=.*\\d).+$\/","replace":"","state":"{\"substEnabled\":false}"}

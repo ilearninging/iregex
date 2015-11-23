@@ -1,0 +1,1 @@
+{"id":"157402","urlID":"39uqe","name":"regex for filename","description":"","content":"http:\/\/localhost.8000\/??\/style.css\nhttp:\/\/localhost.8000\/style.css","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-21","pattern":"\/^[^\\?]+(?=\\?[^?])\/g","replace":"","state":""}

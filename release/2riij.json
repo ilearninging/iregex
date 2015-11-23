@@ -1,0 +1,1 @@
+{"id":"305","urlID":"2riij","name":"Validates time am\/pm","description":"Validates a time in am\/pm format","content":"","weightedVote":"3.11224","numVotes":"2","author":"David Robinson","community":"1","dateAdded":"2009-12-29","pattern":"\/^(0?[1-9]|1[012])(:[0-5]\\d) [APap][mM]$\/","replace":"","state":""}

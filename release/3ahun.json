@@ -1,0 +1,1 @@
+{"id":"163933","urlID":"3ahun","name":"CSS cleanup for Alex 2","description":"","content":".test {\n\nborder-radius:5px ;\n\na:hover\n\n}","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-04","pattern":"\/(.:)(.+[\\s][;])\/g","replace":"$1 $2","state":"{\"substEnabled\":true}"}

@@ -1,0 +1,1 @@
+{"id":"216","urlID":"2ria8","name":"Date (yyyy-MM-dd)","description":"Date (yyyy-MM-dd)","content":"","weightedVote":"3.18555","numVotes":"3","author":"Camilo Vergara","community":"1","dateAdded":"2009-10-28","pattern":"\/^(19[0-9]{2}|2[0-9]{3})-(0[1-9]|1[012])-([123]0|[012][1-9]|31)$\/","replace":"","state":""}

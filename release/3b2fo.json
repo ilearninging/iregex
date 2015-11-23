@@ -1,0 +1,1 @@
+{"id":"169576","urlID":"3b2fo","name":"valid_path","description":"regex for valid path from one folder to somewhere else","content":"..\/s\/ss\/sdsd","weightedVote":"2.5","numVotes":"0","author":"andrej bartko","community":"1","dateAdded":"2015-05-23","pattern":"\/^(((\\.|\\.\\.).)|\\\/)(((\\w*|(\\.\\.\\\/))+\\\/)*)(\\w+|\\\/)$\/g","replace":"","state":"{\"substEnabled\":false}"}

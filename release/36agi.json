@@ -1,0 +1,1 @@
+{"id":"117702","urlID":"36agi","name":"Find repeat number","description":"this regex find repeating number","content":"","weightedVote":"2.5","numVotes":"1","author":"Cyro","community":"1","dateAdded":"2013-09-12","pattern":"\/^(\\d)\\1+$\/","replace":"","state":""}

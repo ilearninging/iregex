@@ -1,0 +1,1 @@
+{"id":"415","urlID":"2rist","name":"French date","description":"separated with slashes\rfull year","content":"","weightedVote":"2.88194","numVotes":"1","author":"Romain","community":"1","dateAdded":"2010-03-17","pattern":"\/^(([0-9]{2}\/){2}[0-9]{4})$\/g","replace":"","state":""}

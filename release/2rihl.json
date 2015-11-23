@@ -1,0 +1,1 @@
+{"id":"295","urlID":"2rihl","name":"RPG Dice","description":"Matches RPG dice typically used in games like Dungeons and Dragons.  \r\rE.g.\r\rd6\r1d6\r2d8\rd20+1\r1d20-1\r\retc","content":"","weightedVote":"3.28704","numVotes":"7","author":"brindy","community":"1","dateAdded":"2009-12-17","pattern":"\/((\\d*)?d(\\d+)([+-\/*]\\d+)?){1}\/g","replace":"","state":""}
