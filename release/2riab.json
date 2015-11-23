@@ -1,1 +1,0 @@
-{"id":"217","urlID":"2riab","name":"Non-word chars","description":"everything that isn't an alphanumeric char [\\w] or a char with accent [\\xCO-\\xFF] or a space [ ] char.","content":"","weightedVote":"3.65828","numVotes":"8","author":"Miller Medeiros (http:\/\/www.mill","community":"1","dateAdded":"2009-10-28","pattern":"[^\\w \\xC0-\\xFF]","replace":"","state":""}

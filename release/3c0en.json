@@ -1,1 +1,0 @@
-{"id":"179805","urlID":"3c0en","name":"bus","description":"","content":"\n\nsiam-ticket-adult-option-bus-yes-2015\nsiam-ticket-adult-option-bus-no-2015","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-16","pattern":"\\-option\\-bus\\-(yes|no)\\-","replace":"","state":"{\"substEnabled\":false}"}

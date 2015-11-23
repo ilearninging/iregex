@@ -1,1 +1,0 @@
-{"id":"48961","urlID":"30143","name":"UK Mobile (07) Phone Numbers","description":"Matches UK mobile number that begins with 07 and can have any amount of whitespace between any of the numbers.","content":"","weightedVote":"3.26389","numVotes":"1","author":"Josh Davenport","community":"1","dateAdded":"2012-02-15","pattern":"0.*7.*(\\d.*){9}","replace":"","state":""}

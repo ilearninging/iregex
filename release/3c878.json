@@ -1,1 +1,0 @@
-{"id":"182456","urlID":"3c878","name":"multiline balise","description":"","content":"<b>jjj\njjkjkjk\njkjkjkjkjk\nkjkjkjk\njjjjjnnbn\n<\/b>\n\nhdshjbhfdbhjbdfhjzb\ndsbbdjsbd","weightedVote":"2.5","numVotes":"0","author":"Ludow Sunfa","community":"1","dateAdded":"2015-11-18","pattern":"^(<b>)([\\w\\W]*)(<\\\/b>)$","replace":"","state":"{\"substEnabled\":false}"}

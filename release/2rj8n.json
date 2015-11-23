@@ -1,1 +1,0 @@
-{"id":"541","urlID":"2rj8n","name":"Missing Alt Finder - Simplest Ever","description":"Finds any <img> tag that does not have Alt tags.\r\rhttp:\/\/drakenscripts.co.cc\/","content":"","weightedVote":"2.70408","numVotes":"2","author":"Drakeshe","community":"1","dateAdded":"2010-05-26","pattern":"<img\\s[^>(alt)]+[^>]+>\/gim","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"146279","urlID":"38u7l","name":"regexp","description":"","content":"The <a href=\\\"link\\\">book is very <\/a> good.\nMy <a hre=\\\"link\\\">book is<\/a> big.\nmy book <a href=\\\"link\\\">is very<\/a> old.","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-01","pattern":"<a([^>]+)>.*very.*<\\\/a>","replace":"","state":""}

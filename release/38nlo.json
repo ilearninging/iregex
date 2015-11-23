@@ -1,1 +1,0 @@
-{"id":"144040","urlID":"38nlo","name":"Text between square bracket","description":"This snippet extracts the text between square brackets","content":"[23] sdfsad asdasd","weightedVote":"3.69008","numVotes":"6","author":"radumza","community":"1","dateAdded":"2014-04-17","pattern":"\\[(.*?)\\]","replace":"","state":""}

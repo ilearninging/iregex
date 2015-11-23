@@ -1,1 +1,0 @@
-{"id":"266","urlID":"2rieu","name":"Replace & if no valid entity","description":"This RE replaces all & characters which are not part of a valid HTML entity with &amp;","content":"","weightedVote":"3.24897","numVotes":"4","author":"Andreas Hug","community":"1","dateAdded":"2009-12-02","pattern":"&(?!([\\w\\n]{2,7}|#[\\d]{1,4});)","replace":"&amp;","state":""}

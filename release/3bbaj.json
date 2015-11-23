@@ -1,1 +1,0 @@
-{"id":"172593","urlID":"3bbaj","name":"host url","description":"match host url or ip address","content":"smtp.com-pure.com","weightedVote":"2.5","numVotes":"0","author":"Mr Zohaib","community":"1","dateAdded":"2015-07-07","pattern":"^[a-z0-9\\.\\-]{1,100}$\/","replace":"","state":"{\"substEnabled\":false}"}

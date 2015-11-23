@@ -1,1 +1,0 @@
-{"id":"90234","urlID":"33q1e","name":"radar5","description":"gsm_jpg","content":"","weightedVote":"2.5","numVotes":"0","author":"radar","community":"1","dateAdded":"2013-02-16","pattern":"<img\\sborder=\\S0\\S\\ssrc=\\S\\Snfs\\Sproduct\\S(.*)(\\Simage\\S)(.*\\S)(.*)(\\S>)","replace":"","state":""}

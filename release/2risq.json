@@ -1,1 +1,0 @@
-{"id":"414","urlID":"2risq","name":"Remark Phone Field","description":"To valdiate phone field in PNR","content":"","weightedVote":"2.5","numVotes":"0","author":"Teddy","community":"1","dateAdded":"2010-03-16","pattern":"\\be(\\w*)s\\b","replace":"","state":""}

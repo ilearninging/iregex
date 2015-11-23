@@ -1,1 +1,0 @@
-{"id":"98839","urlID":"34j85","name":"IMG url finder","description":"this pattern finds only image url and puts them in html img tags..","content":"","weightedVote":"2.88194","numVotes":"1","author":"AbdullahSalma","community":"1","dateAdded":"2013-04-18","pattern":"http(|s):.*\\.(jpg|png|jpeg|gif)","replace":"<img src='$&'><\/img>","state":""}

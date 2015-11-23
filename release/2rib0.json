@@ -1,1 +1,0 @@
-{"id":"224","urlID":"2rib0","name":"Empty key\/\/value pairs","description":"Finds empty key\/\/value pairs.\rConsiders double and single quotes.","content":"","weightedVote":"2.88194","numVotes":"1","author":"Anonymous","community":"1","dateAdded":"2009-11-04","pattern":"\\w+=(?:\"\\s*?\"|'\\s*?')","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"395","urlID":"2rir1","name":"School email validation","description":"email validation to correctly match .edu extension","content":"","weightedVote":"2.5","numVotes":"0","author":"Kobie Johnson","community":"1","dateAdded":"2010-03-04","pattern":"(([a-zA-Z0-9._-]+)@([a-zA-Z0-9-]+)\\.([eduEDU]{2,4}))","replace":"","state":""}

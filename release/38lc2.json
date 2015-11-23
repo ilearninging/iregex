@@ -1,1 +1,0 @@
-{"id":"143254","urlID":"38lc2","name":"phone number","description":"another phone number","content":"+33333     ","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-04-02","pattern":"^[+]{1}[\" \"().\\d\\-]*$","replace":"","state":""}

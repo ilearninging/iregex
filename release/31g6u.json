@@ -1,1 +1,0 @@
-{"id":"65034","urlID":"31g6u","name":"Telepaty Password","description":"length between 6 and 20, must contains at least :1 lowercase, 1 uppercase, 1 number and 1 special character (!,@,#,$)","content":"","weightedVote":"2.5","numVotes":"0","author":"Zeina","community":"1","dateAdded":"2012-07-10","pattern":"^(?=.*\\d)(?=.*[A-Z])(?=.*[!@#\\$]).{6,20}$","replace":"","state":""}

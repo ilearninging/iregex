@@ -1,1 +1,0 @@
-{"id":"172492","urlID":"3bb14","name":"Hex number","description":"Detects a number in hexadecimal.","content":"","weightedVote":"2.5","numVotes":"0","author":"Simon","community":"1","dateAdded":"2015-07-05","pattern":"(0x)?[\\da-f]+\/ig","replace":"","state":"{\"substEnabled\":false}"}

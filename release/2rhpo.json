@@ -1,1 +1,0 @@
-{"id":"40","urlID":"2rhpo","name":"Simpler All HTML tags","description":"Gets all tags in an html document","content":"","weightedVote":"2.69097","numVotes":"1","author":"TheNormandyClown","community":"1","dateAdded":"2009-06-08","pattern":"<\/?\\w+((\\s+\\w+(\\s*=\\s*(?:\".*?\"|'.*?'|[^'\">\\s]+))?)+\\s*|\\s*)\/?>","replace":"","state":""}

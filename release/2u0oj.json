@@ -1,1 +1,0 @@
-{"id":"26993","urlID":"2u0oj","name":"MS-Access Style Field Name in SQL","description":"[table name].[field name] ","content":"","weightedVote":"2.5","numVotes":"0","author":"Jing Li","community":"1","dateAdded":"2011-06-16","pattern":"\\[[^\\[\\]]+\\]\\.\\[[^\\[\\]]+\\]","replace":"","state":""}

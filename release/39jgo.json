@@ -1,1 +1,0 @@
-{"id":"153544","urlID":"39jgo","name":"11","description":"","content":"c\\asdf\\ddd\\file.js\n\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-09-30","pattern":"\\\\((?:.(?!\\\\))+)\\.js$\/igm","replace":"_$1_","state":""}

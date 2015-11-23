@@ -1,1 +1,0 @@
-{"id":"170053","urlID":"3b3sf","name":"Comments","description":"","content":"\/\/ comment","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-29","pattern":"^(\/\/|\/\\*| \\*)","replace":"","state":"{\"substEnabled\":false}"}

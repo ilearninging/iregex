@@ -1,1 +1,0 @@
-{"id":"21585","urlID":"2tgtj","name":"HTML Tag With Content","description":"Match HTML Tag with his multiline content","content":"","weightedVote":"3.07292","numVotes":"1","author":"Andrzej Nowicki","community":"1","dateAdded":"2011-04-11","pattern":"<Tag>[\\w\\W]*?<\/Tag>\/gim","replace":"","state":""}

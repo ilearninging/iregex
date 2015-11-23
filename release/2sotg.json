@@ -1,1 +1,0 @@
-{"id":"13392","urlID":"2sotg","name":"juan","description":"validar un correo electronico","content":"","weightedVote":"2.5","numVotes":"0","author":" drs ","community":"1","dateAdded":"2010-12-19","pattern":"^[_a-z0-9-]+(.[_a-z0-9-]+)*@[a-z0-9-]+(.[a-z0-9-]+)*(.[a-z]{2,3})$","replace":"","state":""}

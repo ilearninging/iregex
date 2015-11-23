@@ -1,1 +1,0 @@
-{"id":"279","urlID":"2rig5","name":"Twitter's Username Match","description":"for isa","content":"","weightedVote":"2.5","numVotes":"1","author":"Gesmela","community":"1","dateAdded":"2009-12-09","pattern":"@([a-zA-Z0-9_]{1,20})","replace":"","state":""}

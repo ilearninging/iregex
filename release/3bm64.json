@@ -1,1 +1,0 @@
-{"id":"176300","urlID":"3bm64","name":"24Hrs Time","description":"Detect Time in 24hr format","content":"700\n12:30\n1230\n\n\n\n","weightedVote":"2.5","numVotes":"0","author":"Mike","community":"1","dateAdded":"2015-08-28","pattern":"^([01]?[0-9]|2[0-3]):?([0-5][0-9])$","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,1 +1,0 @@
-{"id":"177150","urlID":"3bolq","name":"errorID","description":"","content":"questionResponse['SSAP2_0']['YN']-error","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-09-10","pattern":"\\bquestionResponse\\['SSAP2_0'\\]\\['YN'\\]-error\\b","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,1 +1,0 @@
-{"id":"156860","urlID":"39t7k","name":"integer positive (non 0)","description":"","content":"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-13","pattern":"^[1-9]{1}\\d{0,}$","replace":"","state":""}

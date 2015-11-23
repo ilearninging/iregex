@@ -1,1 +1,0 @@
-{"id":"354","urlID":"2rin6","name":"Google Parser","description":"Will parse links from Google","content":"","weightedVote":"2.5","numVotes":"0","author":"elchupathingy","community":"1","dateAdded":"2010-02-11","pattern":"<a href=\"([a-zA-Z0-9=?&:\\\/:;._-]*)\" class=l","replace":"","state":""}

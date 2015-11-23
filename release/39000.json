@@ -1,1 +1,0 @@
-{"id":"146880","urlID":"39000","name":"Acronyms","description":"This regex will find any acronyms that exist.","content":"Community Health Status Indicators (CHSI) to Combat Obesity, Heart Disease and Cancer","weightedVote":"3.26389","numVotes":"1","author":"Pranav Sathy","community":"1","dateAdded":"2014-06-11","pattern":"([A-Z]){2,}","replace":"","state":""}

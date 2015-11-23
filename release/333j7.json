@@ -1,1 +1,0 @@
-{"id":"82573","urlID":"333j7","name":"linux promt pattern","description":"This is regex to find promt in output aof any shell command write. in ssh library.\rex. [deepak@garfield ~]$","content":"","weightedVote":"2.5","numVotes":"0","author":"Deepak Vishwakarma","community":"1","dateAdded":"2012-12-10","pattern":"\\[.*@.*\\][\\$|\\#]","replace":"","state":""}

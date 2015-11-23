@@ -1,1 +1,0 @@
-{"id":"152983","urlID":"39hs5","name":"linkregex","description":"","content":"<li><a title=\"title\" href=\"http:\/\/somelink.com\" rel=\"nofollow\" target=\"_blank\">Hello Underworld!<\/a><\/li>","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-09-22","pattern":"href=\".*?\"","replace":"","state":""}

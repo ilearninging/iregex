@@ -1,1 +1,0 @@
-{"id":"153303","urlID":"39iq5","name":"folder with version matcher","description":"folder with version matcher","content":"templates-1.0.0.\n","weightedVote":"2.5","numVotes":"0","author":"mrp","community":"1","dateAdded":"2014-09-25","pattern":"([A-Za-z-_\/\\\\])+\\d\\.\\d\\.\\d\\.[A-Za-z0-9-_.\/\\\\]*\/","replace":"","state":""}

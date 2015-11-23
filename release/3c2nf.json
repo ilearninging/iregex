@@ -1,1 +1,0 @@
-{"id":"180581","urlID":"3c2nf","name":"remove number from string","description":"daniel webster hwy 217, as input output should not have 217 in it","content":"217 DANIEL WEBSTER HWY","weightedVote":"2.5","numVotes":"0","author":"sumit","community":"1","dateAdded":"2015-10-27","pattern":"[a-zA-Z+]","replace":"","state":"{\"substEnabled\":false}"}

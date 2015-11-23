@@ -1,1 +1,0 @@
-{"id":"177154","urlID":"3bom6","name":"template","description":"","content":"{# first test #}\n{% for name in aether.names %}\n\t<li>{{ name }}<\/li>\n{% endfor %}","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-09-10","pattern":"(\\{%[\\s\\S]*?%\\}|\\{\\{[\\s\\S]*?\\}\\}|\\{#[\\s\\S]*?#\\})","replace":"","state":"{\"substEnabled\":false}"}

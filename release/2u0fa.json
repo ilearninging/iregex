@@ -1,1 +1,0 @@
-{"id":"26894","urlID":"2u0fa","name":"HTML tags","description":"Get all html tags from source","content":"","weightedVote":"2.5","numVotes":"0","author":"Phil Haack","community":"1","dateAdded":"2011-06-15","pattern":"<\\\/?\\w+((\\s+(\\w|\\w[\\w-]*\\w)(\\s*=\\s*(?:\\\".*?\\\"|'.*?'|[^'\\\">\\s]+))?)+\\s*|\\s*)\\\/?>","replace":"","state":""}

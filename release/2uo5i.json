@@ -1,1 +1,0 @@
-{"id":"34982","urlID":"2uo5i","name":"Phone Romania (no country prefix)","description":"matches Romania intern phone number,\rcell and fixed.\rno prefix","content":"","weightedVote":"3.26389","numVotes":"1","author":"Reventon","community":"1","dateAdded":"2011-09-20","pattern":"^(07\\d\\d|0(2|3)\\d\\d)\\d{6}$","replace":"","state":""}

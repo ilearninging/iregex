@@ -1,1 +1,0 @@
-{"id":"125110","urlID":"37072","name":"Validaci\u00f3n del RIF \u00f3 R.I.F. (Registro de Informaci\u00f3n Fiscal) ","description":"Validaci\u00f3n del R.I.F. en Venezuela.","content":"","weightedVote":"3.26389","numVotes":"1","author":"Daniel Pe\u00f1a","community":"1","dateAdded":"2013-10-30","pattern":"^([VEJPG]{1})([0-9]{9})$\/","replace":"","state":""}

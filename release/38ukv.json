@@ -1,1 +1,0 @@
-{"id":"146421","urlID":"38ukv","name":"yyyy\/mm\/dd","description":"Grabs anything formatted like a date (no filter)","content":"Dates:\n2014\/01\/12","weightedVote":"2.95833","numVotes":"1","author":"IronWombat","community":"1","dateAdded":"2014-06-03","pattern":"\\d{4}(\/\\d{2}){2}","replace":"","state":""}

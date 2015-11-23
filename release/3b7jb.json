@@ -1,1 +1,0 @@
-{"id":"171321","urlID":"3b7jb","name":"PCTY Company Id Regex","description":"","content":"Valid:\n1234\nA1234\n123456789\nB0000\n\nInvalid:\n1234A\nAA1234\n123\n1234567891\nabcd\n8abcd","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-17","pattern":"^((\\d{4,9})|([A-Za-z]\\d{4}))$","replace":"","state":"{\"substEnabled\":false}"}

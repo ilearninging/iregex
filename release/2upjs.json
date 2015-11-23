@@ -1,1 +1,0 @@
-{"id":"35476","urlID":"2upjs","name":"Cron","description":"Validates cron entries","content":"","weightedVote":"3.26389","numVotes":"1","author":"Anonymous","community":"1","dateAdded":"2011-09-26","pattern":"^((?:[*]|(?:\\d+(?:-\\d+)?)(?:,\\d+(?:-\\d+)?)*)\\s){4}(?:[*]|(?:\\d+(?:-\\d+)?)(?:,\\d+(?:-\\d+)?)*)$\/gim","replace":"","state":""}

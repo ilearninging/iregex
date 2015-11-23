@@ -1,1 +1,0 @@
-{"id":"143209","urlID":"38l7r","name":"Integer and decimal numbers","description":"","content":"10rats + .36geese = 3.14cows","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-04-01","pattern":"(?:\\d*\\.)?\\d+","replace":"","state":""}

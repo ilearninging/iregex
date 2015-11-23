@@ -1,1 +1,0 @@
-{"id":"161058","urlID":"3a9h6","name":"NIF o NIE Espa\u00f1ol","description":"Comprueba si es un NIF o un NIE","content":"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-25","pattern":"([\\\\dXxYyZz])(\\\\d{7})([a-zA-Z])","replace":"","state":""}

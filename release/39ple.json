@@ -1,1 +1,0 @@
-{"id":"155642","urlID":"39ple","name":"Testing for the string \"true\"","description":"Ignores case; Global=tests all instances;","content":"that is the false true True TRUE TrUe tRuE","weightedVote":"3.47959","numVotes":"2","author":"Matt Hardy","community":"1","dateAdded":"2014-10-23","pattern":"\\btrue\\b\/ig","replace":"$&\\n# $&:\\n\\t","state":""}

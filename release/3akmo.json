@@ -1,1 +1,0 @@
-{"id":"164872","urlID":"3akmo","name":"terraads","description":"","content":"[%LinkText(120)%]\n[%Image(120x260)%]\n[%Link%]\n","weightedVote":"2.5","numVotes":"0","author":"victor","community":"1","dateAdded":"2015-03-18","pattern":"\\[%(\\w+)(\\((\\d+)(x(\\d+))?\\))?%\\]","replace":"","state":"{\"substEnabled\":false}"}

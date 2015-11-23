@@ -1,1 +1,0 @@
-{"id":"347","urlID":"2rimh","name":"Date (ddmmyyyy)","description":"For Croatia! ;)","content":"","weightedVote":"2.78776","numVotes":"3","author":"FeRtoll","community":"1","dateAdded":"2010-02-09","pattern":"^([123]0|[012][1-9]|31)(\\.|-|\/|,)(0[1-9]|1[012])(\\.|-|\/|,)(19[0-9]{2}|2[0-9]{3})$","replace":"Day:$1 Month:$2 Year:$3","state":""}

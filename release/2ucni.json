@@ -1,1 +1,0 @@
-{"id":"31078","urlID":"2ucni","name":"Find a tag with mailto","description":"Find a tags with mailto:","content":"","weightedVote":"3.26531","numVotes":"2","author":"FlashJunior","community":"1","dateAdded":"2011-08-04","pattern":"\\<a([^>]+)href\\=\\\"mailto\\:([^\">]+)\\\"([^>]*)\\>(.*?)\\<\\\/a\\>","replace":"","state":""}

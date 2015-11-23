@@ -1,1 +1,0 @@
-{"id":"157242","urlID":"39ube","name":"regex password test","description":"deFhmaxb7","content":"deFhmaxb7","weightedVote":"2.5","numVotes":"0","author":"Kamau Halim","community":"1","dateAdded":"2014-11-19","pattern":"^(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])([a-zA-Z0-9]){8,12}$","replace":"","state":""}

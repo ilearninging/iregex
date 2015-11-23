@@ -1,1 +1,0 @@
-{"id":"42259","urlID":"2vdfp","name":"Integer number 1-50 range","description":"Controlla se il numero \u00e8 nel range 1-50","content":"","weightedVote":"2.69097","numVotes":"1","author":"Grifo","community":"1","dateAdded":"2011-12-07","pattern":"^([1-9]|[1-4][0-9]|[5-5][0-0])$","replace":"","state":""}

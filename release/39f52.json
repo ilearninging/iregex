@@ -1,1 +1,0 @@
-{"id":"152054","urlID":"39f52","name":"blive","description":"","content":"<script src=\"sdfsdfsdf\"><\/script>\n<script src=\"blive\"><\/script>","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-09-08","pattern":"<script[^>]*src=\"[^(blive)]+\"[^>]*>(.*?)<\\\/script>","replace":"","state":""}

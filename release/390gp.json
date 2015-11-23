@@ -1,1 +1,0 @@
-{"id":"147059","urlID":"390gp","name":"htaccess-query-to-path","description":"matching paths to query strings","content":"http:\/\/upthredd.com\/links\/92821\/1711\/r","weightedVote":"2.5","numVotes":"0","author":"bryanmc","community":"1","dateAdded":"2014-06-15","pattern":"(\\d+)\\\/(\\d+)\\\/(\\d|[a-z])","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"33","urlID":"2rhp3","name":"FFMpeg input video size extraction","description":"Extracts the input video size in the output of command : ffmpeg -v 1 -i video","content":"","weightedVote":"3.07292","numVotes":"1","author":"korr","community":"1","dateAdded":"2009-06-03","pattern":"Input.+Duration.+(\\d{2}:\\d{2}:\\d{2}.\\d{1,3})\/s","replace":"[[$1]]","state":""}

@@ -1,1 +1,0 @@
-{"id":"172331","urlID":"3bai1","name":"Lots of names","description":"Lots of names","content":"Worthington-Smythe\nD'Angelo\nVan der Humpton\nBen & Jerry","weightedVote":"2.5","numVotes":"0","author":"Benjamin","community":"1","dateAdded":"2015-07-01","pattern":"^([A-Z][a-z]*([ ][a-z]+)*([ '-]([&][ ])?[A-Z][a-z]+)*)$","replace":"","state":"{\"substEnabled\":false}"}

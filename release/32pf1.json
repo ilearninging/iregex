@@ -1,1 +1,0 @@
-{"id":"79115","urlID":"32pf1","name":"15digits and % sign only at end","description":"15 digits and a % sign at the end.","content":"","weightedVote":"2.5","numVotes":"0","author":"Ravindra Annapareddy","community":"1","dateAdded":"2012-11-12","pattern":"^[[:digit:]?]{1,15}[%]","replace":"","state":""}

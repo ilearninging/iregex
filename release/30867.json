@@ -1,1 +1,0 @@
-{"id":"51373","urlID":"30867","name":"find uncommentted out console.log","description":"matches\r\rconsole.log\r   console.log\r\rdoesnt match \r\/\/console.log\r\/\/ console.log","content":"","weightedVote":"3.11224","numVotes":"2","author":"jebaird","community":"1","dateAdded":"2012-03-06","pattern":"^((\\s)*console.log)","replace":"","state":""}

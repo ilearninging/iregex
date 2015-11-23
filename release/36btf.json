@@ -1,1 +1,0 @@
-{"id":"118181","urlID":"36btf","name":"Extract currency","description":"Extracts currency formatted number. Just replace 'kn' with desired curency.","content":"","weightedVote":"2.5","numVotes":"0","author":"mBenc","community":"1","dateAdded":"2013-09-16","pattern":"(\\s)*(\\d[0-9])*(\\S)+(\\d[0-9])+(([0-9]*)+(\\S)+(\\b[0-9]*))+(\\Wkn)","replace":"","state":""}

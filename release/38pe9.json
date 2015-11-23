@@ -1,1 +1,0 @@
-{"id":"144643","urlID":"38pe9","name":"c\/c++ include","description":"Match pattern for C\/C++ #include \"filename.xxx\" declaration.","content":"#include \"whatever.hpp\"","weightedVote":"2.5","numVotes":"0","author":"r.alex.hall","community":"1","dateAdded":"2014-04-30","pattern":"#include.[\"<]([a-z]*.[a-z]*)[\">]\/ig","replace":"","state":""}

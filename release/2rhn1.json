@@ -1,1 +1,0 @@
-{"id":"11","urlID":"2rhn1","name":"Single line comment","description":"Will match all single line (\/\/ ..) comments","content":"","weightedVote":"3.85381","numVotes":"6","author":"Ryan Matsikas","community":"1","dateAdded":"2009-05-26","pattern":"\\\/\\\/.*$","replace":"","state":""}

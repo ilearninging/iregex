@@ -1,1 +1,0 @@
-{"id":"171080","urlID":"3b6so","name":"dbwebb","description":"","content":"\"GET \/ HTTP\/1.0 \"\n\"GET \/ HTTP\/1.0\"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-14","pattern":"\"(\\S+) (\\S+)\\s*(\\S+)\"\/igm","replace":"\\n# $&:\\n\\t","state":"{\"substEnabled\":true}"}

@@ -1,1 +1,0 @@
-{"id":"156617","urlID":"39sgr","name":"Match all XML tags","description":"","content":"<document>\n\t<id>5<\/id>\n\t<title>Tron<\/title>\n<\/document>\n<document>\n\t<id>1<\/id>\n\t<item>\n\t\t<test>Name","weightedVote":"2.5","numVotes":"0","author":"Ins1d3r","community":"1","dateAdded":"2014-11-09","pattern":"<(\\\/?\\w*)>","replace":"","state":""}

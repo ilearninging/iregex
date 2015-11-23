@@ -1,1 +1,0 @@
-{"id":"159944","urlID":"3a68o","name":"String with variable Space","description":"","content":"M13lM V-1\nm13lm V-1.2\nM13LM V-1.4\nM13LM V-1.5\nM13LM  V-3.5\nM13LM  V - 3.9","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-08","pattern":"(M13LM)\\s{1,}V\\s{0,}-\\s{0,}\/ig","replace":"","state":""}

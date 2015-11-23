@@ -1,1 +1,0 @@
-{"id":"144022","urlID":"38nk2","name":"start and with quote strinf","description":"start and with quote strinf","content":"\"resr\"","weightedVote":"2.5","numVotes":"0","author":"Shadab","community":"1","dateAdded":"2014-04-17","pattern":"^(\"|')(.+)(\\1)$\/","replace":"","state":""}

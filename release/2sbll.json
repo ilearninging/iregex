@@ -1,1 +1,0 @@
-{"id":"8871","urlID":"2sbll","name":"numeric or blank","description":"if a user enters anything, it must be numeric.  With or without a decimal and up to two places.  Can contain comma separators.","content":"","weightedVote":"3.26389","numVotes":"1","author":"Jack Webb","community":"1","dateAdded":"2010-10-14","pattern":"\\be(\\w*)s\\b","replace":"","state":""}

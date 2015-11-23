@@ -1,1 +1,0 @@
-{"id":"24632","urlID":"2tpr8","name":"Some's Name","description":"A simple Regex for use with name fields.\rAllows any letter, hyphen, single apostrophe.","content":"","weightedVote":"2.5","numVotes":"0","author":"LewisBird","community":"1","dateAdded":"2011-05-18","pattern":"[\\w'-]","replace":"","state":""}

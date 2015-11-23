@@ -1,1 +1,0 @@
-{"id":"105122","urlID":"355l6","name":"Get FileName from URL","description":"Example:\rrapidshare.com\/asd\/asd\/File.avi.html\r\rResult: File.avi","content":"","weightedVote":"3.34298","numVotes":"6","author":"Burak BASTEMUR","community":"1","dateAdded":"2013-06-08","pattern":"([^\\\/]+)(?=\\.\\w+$)","replace":"","state":""}

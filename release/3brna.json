@@ -1,1 +1,0 @@
-{"id":"178190","urlID":"3brna","name":"Howard","description":"","content":"&lt;a href=\"http:\/\/yourwebsite.com\"&gt; Your Website &lt;\/a&gt;\n&lt;a&gt;\n&lt;\/a&gt;","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-09-23","pattern":"(&lt;\\\/?[\\w]+)([- =\\\"\\\/\\:\\.\\w]+)?(&gt;)","replace":"","state":"{\"substEnabled\":false}"}

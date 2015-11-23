@@ -1,1 +1,0 @@
-{"id":"166291","urlID":"3aorp","name":"Google Analytics Profile ID","description":"","content":"UA-1234578-1","weightedVote":"2.5","numVotes":"0","author":"Lauren Ancona","community":"1","dateAdded":"2015-04-06","pattern":"UA-[0-9]{5,}-[0-9]{1,}","replace":"","state":"{\"substEnabled\":false}"}

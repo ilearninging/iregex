@@ -1,1 +1,0 @@
-{"id":"420","urlID":"2ritc","name":"email regex","description":"Regex for email\rignore case","content":"","weightedVote":"2.67284","numVotes":"4","author":"Leo Naga","community":"1","dateAdded":"2010-03-19","pattern":"[a-z0-9.-_]{3,}[@][a-z]{1,}[.]co(m|[.][a-z]{2})","replace":"","state":""}

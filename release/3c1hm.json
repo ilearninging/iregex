@@ -1,1 +1,0 @@
-{"id":"180178","urlID":"3c1hm","name":"set","description":"","content":".set_asdasd(asd)","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-21","pattern":"(set_{1})(\\w)+(\\()(\\w)+(\\))","replace":"","state":"{\"substEnabled\":false}"}

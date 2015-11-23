@@ -1,1 +1,0 @@
-{"id":"148859","urlID":"395ph","name":"js files and directories","description":"Get only js files and directories","content":"netguardian\nnetguardian.js\nnetguardian.html\nnetguardian.json\nnetguardian.png","weightedVote":"2.5","numVotes":"0","author":"rhowell","community":"1","dateAdded":"2014-07-16","pattern":"^(.*\\.((js)$))?[^.]*$\/igm","replace":"","state":""}

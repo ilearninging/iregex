@@ -1,1 +1,0 @@
-{"id":"172798","urlID":"3bbtq","name":"Passwortpattern","description":"","content":"0123+Furz","weightedVote":"2.5","numVotes":"0","author":"Zicki","community":"1","dateAdded":"2015-07-09","pattern":"^.*(?=.{6,})(?=.*[a-zA-Z])(?=.*\\d)(?=.*[!\"\"\u00a7$%&\/()=?`\u00b4\u00df}\\]\\[{\u00b3\u00b2^\u00b0@<>|,;.:\\-_+*~#' \u00b5]).*$","replace":"","state":"{\"substEnabled\":false}"}

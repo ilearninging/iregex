@@ -1,1 +1,0 @@
-{"id":"3102","urlID":"2rqoq","name":"SJ\/CB\/Rp password validator","description":"\"4 to 8 character password requiring numbers and both lowercase and uppercase letters\" considering OWASP","content":"","weightedVote":"2.88194","numVotes":"1","author":"alundyak","community":"1","dateAdded":"2010-07-21","pattern":"^(?=.*\\d)(?=.*[a-z])(?=.*[A-Z]).{4,8}$","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"70773","urlID":"3210v","name":"All valid file names that end in .txt","description":"The characters that cannot be used in windows will not make a match.","content":"","weightedVote":"2.5","numVotes":"0","author":"Runemoro","community":"1","dateAdded":"2012-09-01","pattern":"[^\/\\\\:\\|\\*\\?\"<>]*.txt","replace":"","state":""}

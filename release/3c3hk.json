@@ -1,1 +1,0 @@
-{"id":"180860","urlID":"3c3hk","name":"Basic Group","description":"","content":"startWord1I'mWhatYouWantendWord\n\nThisIsTheThingstartWordI'mWhatYouWantendWordTheThingNotThis","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-29","pattern":"(startWord1|startWord2|startWord3)(.+)endWord","replace":"","state":"{\"substEnabled\":false}"}

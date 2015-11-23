@@ -1,1 +1,0 @@
-{"id":"88481","urlID":"33kt3","name":"Simple BBCode","description":"Just replace the tags with what you want to replace","content":"","weightedVote":"2.5","numVotes":"0","author":"IAL32","community":"1","dateAdded":"2013-02-03","pattern":"\\[b\\](.+)\\[\\\/b\\]\/gim","replace":"<b>$1<\/b>","state":""}

@@ -1,1 +1,0 @@
-{"id":"174190","urlID":"3bg0a","name":"key:value in URLs","description":"","content":"\/search:my funny search\/sortby:foo\/sortdir:asc\/\n\nsearch:my funny search\/sortby:foo\/sortdir:asc","weightedVote":"2.5","numVotes":"0","author":"vieron","community":"1","dateAdded":"2015-07-29","pattern":"\\\/?(.*?):(.*?)(?:\\\/|$)","replace":"$1: $2 \\n","state":"{\"substEnabled\":true}"}

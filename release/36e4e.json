@@ -1,1 +1,0 @@
-{"id":"118938","urlID":"36e4e","name":"unix path without space and underscore","description":"to catch unix path without space and underscore. No cap","content":"","weightedVote":"2.88194","numVotes":"1","author":"hikingyo","community":"1","dateAdded":"2013-09-21","pattern":"^[0-9a-z]*(?:-?[0-9a-z]*)*(?:\/[0-9a-z]*(?:-?[0-9a-z]*)*)*[0-9a-z]$","replace":"","state":""}

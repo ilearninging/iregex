@@ -1,1 +1,0 @@
-{"id":"154421","urlID":"39m2v","name":"Fing hashtags on text","description":"","content":"Animado com a vonta de #AmericanHorrorStory #FreakShow","weightedVote":"2.5","numVotes":"0","author":"Iago Bruno","community":"1","dateAdded":"2014-10-09","pattern":"(^|\\W)(#[a-z\\d][\\w-]*)\/ig","replace":"\\n# $&:\\n\\t","state":""}

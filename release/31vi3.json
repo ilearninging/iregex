@@ -1,1 +1,0 @@
-{"id":"70273","urlID":"31vi3","name":"Sentences","description":"finds complete sentences","content":"","weightedVote":"2.5","numVotes":"0","author":"lebushi","community":"1","dateAdded":"2012-08-28","pattern":"((.+[\\.|\\?|\\.|\\:])|.+((\\.)\"))\/gx","replace":"","state":""}

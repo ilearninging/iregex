@@ -1,1 +1,0 @@
-{"id":"155702","urlID":"39pr2","name":"test123123123123","description":"","content":"matt bob andy rick jill ##company_name## edward company#name carmack evelyn\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-10-24","pattern":"\\b(bob|jill|##company_name##|company#name)\\b","replace":"","state":""}

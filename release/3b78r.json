@@ -1,1 +1,0 @@
-{"id":"171209","urlID":"3b78r","name":"backref demo","description":"","content":"abcabcabc\naaa\nabababab\nabcabcxyz","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-16","pattern":"^(\\S+?)\\1+$","replace":"$1","state":"{\"substEnabled\":true}"}

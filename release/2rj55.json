@@ -1,1 +1,0 @@
-{"id":"503","urlID":"2rj55","name":"Remove characters for file saving","description":"Removes invalid characters in a filename (for saving files)","content":"","weightedVote":"2.90817","numVotes":"2","author":"Martijn van Beek","community":"1","dateAdded":"2010-05-07","pattern":":|\\?|\\\\|\\*|\\\"|<|>|\\||%","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"164297","urlID":"3aj0r","name":"phone number","description":"","content":"444-444-4444\n(444)-444-4444\n444.444.4444\n(444) 444.4444\n(444) 444-4444","weightedVote":"2.5","numVotes":"0","author":"ns","community":"1","dateAdded":"2015-03-10","pattern":"\\({0,1}[0-9]{3}\\){0,1}[-. ][0-9]{3}[-.][0-9]{4}","replace":"","state":"{\"substEnabled\":false}"}

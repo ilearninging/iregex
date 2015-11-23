@@ -1,1 +1,0 @@
-{"id":"157057","urlID":"39tq3","name":"chinese or number","description":"regexp to match chinese or number","content":"\u5de5\u8d44\uff0c1000,000,000\uff0c\u59d3\u540d\uff0c\u674e\u56db\n","weightedVote":"3.26389","numVotes":"1","author":"","community":"1","dateAdded":"2014-11-17","pattern":"[\\u4e00-\\u9fa5]+|[\\d,]+","replace":"","state":""}

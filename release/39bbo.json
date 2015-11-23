@@ -1,1 +1,0 @@
-{"id":"150760","urlID":"39bbo","name":"PascalMatchWords","description":"","content":"HelloWorld\nTonyStark\nA1B2C3\nCreatedUserId\nEPMEnabled","weightedVote":"2.5","numVotes":"0","author":"musurp","community":"1","dateAdded":"2014-08-18","pattern":"([A-Z])(?!([A-Z]|[A-Z]$))","replace":"","state":""}

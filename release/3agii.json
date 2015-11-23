@@ -1,1 +1,0 @@
-{"id":"163462","urlID":"3agii","name":"Simple Regex for name","description":"Allow only character, integer and underscore.","content":"hello !@#! !@#!#!@# boy @##!@$@#$@#$ hello baby","weightedVote":"2.5","numVotes":"0","author":"Karan Singh","community":"1","dateAdded":"2015-02-26","pattern":"([a-zA-Z0-9_\\s]+)","replace":"","state":"{\"substEnabled\":false}"}

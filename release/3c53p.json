@@ -1,1 +1,0 @@
-{"id":"181395","urlID":"3c53p","name":"Decimal number for four places","description":"","content":"9.9999","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-11-05","pattern":"^\\d{1,2}|\\d{0,2}\\.\\d{0,4}$","replace":"","state":"{\"substEnabled\":false}"}

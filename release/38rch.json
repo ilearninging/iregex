@@ -1,1 +1,0 @@
-{"id":"145307","urlID":"38rch","name":"SO23649382","description":"Stackoverflow","content":"abc+1*def\n{abc}+1+def\nabc+(1+def)\nabc+(1+{def})\nabc def+(1.1+{ghi})","weightedVote":"2.5","numVotes":"0","author":"M'vy","community":"1","dateAdded":"2014-05-14","pattern":"(\\b[\\w.]+\\b)(?!})","replace":"","state":""}

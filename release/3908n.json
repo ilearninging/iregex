@@ -1,1 +1,0 @@
-{"id":"146973","urlID":"3908n","name":"thing","description":"","content":"[left][center]derp[\/center][\/left]","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-12","pattern":"\\[(?:center|left|right)\\](.*?)\\[\\\/(?:center|left|right)\\]\/","replace":"","state":""}

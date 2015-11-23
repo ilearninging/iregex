@@ -1,1 +1,0 @@
-{"id":"35671","urlID":"2uq65","name":"Movil with 6 or 7, and home number ","description":"Can validate any movil number that start in 6 or 7 and home number start at 9","content":"","weightedVote":"2.5","numVotes":"0","author":"Alvaro Touzon","community":"1","dateAdded":"2011-09-28","pattern":"^[679]\\d{8}\/","replace":"","state":""}

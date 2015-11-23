@@ -1,1 +1,0 @@
-{"id":"152049","urlID":"39f4j","name":"only int","description":"","content":"0123456789\nazerty\n1515\n1a1\na1\n1a","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-09-08","pattern":"^[0-9]+$","replace":"","state":""}

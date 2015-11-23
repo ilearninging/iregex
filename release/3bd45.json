@@ -1,1 +1,0 @@
-{"id":"173207","urlID":"3bd45","name":"HTML attributes","description":"Matches tag attributes in HTML.","content":"","weightedVote":"2.5","numVotes":"0","author":"Simon","community":"1","dateAdded":"2015-07-15","pattern":"[^=\"\\n]+=\"[^\"\\n]*\"(?!\")","replace":"","state":"{\"substEnabled\":false}"}

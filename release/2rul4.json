@@ -1,1 +1,0 @@
-{"id":"4428","urlID":"2rul4","name":"ZAF Cellphone Number Validatation","description":"matches valid 10 digit  South African ZAF Cellphone numbers ","content":"","weightedVote":"3.26389","numVotes":"1","author":"EViLBites","community":"1","dateAdded":"2010-08-10","pattern":"^((\\+27|0)(7|8)[0-9]{8})$\/gi","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"172073","urlID":"3b9pr","name":"regex for Australian address","description":"","content":"sampler Gpo the C\/ Locked Bag we Private Bag  ","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-28","pattern":"\\bCare PO\\b|\\bGpo Box\\b|\\bPO Box\\b|\\bLocked Bag\\b|\\bPrivate Bag\\b|\\bRMB\\b","replace":"","state":"{\"substEnabled\":false}"}

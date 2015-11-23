@@ -1,1 +1,0 @@
-{"id":"156652","urlID":"39sk4","name":"Horario 12 horas","description":"","content":"1 am - 12 pm","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-10","pattern":"^([1-9]|1[0-2]) (am|pm) - ([1-9]|1[0-2]) (am|pm)$","replace":"","state":""}

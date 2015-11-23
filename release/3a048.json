@@ -1,1 +1,0 @@
-{"id":"157848","urlID":"3a048","name":"variable name","description":"regx that matches variable name","content":"avatar\nvar_1\nvar1\nvar2_a_12","weightedVote":"3.88272","numVotes":"4","author":"XDR ","community":"1","dateAdded":"2014-11-29","pattern":"[a-zA-Z_]+([a-zA-Z0-9_]*)","replace":"","state":""}

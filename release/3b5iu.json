@@ -1,1 +1,0 @@
-{"id":"170634","urlID":"3b5iu","name":"Version Match","description":"A crappy version match regex","content":"def-1.7.10-1.6.0abcadsfas.j-fuckyoubecausewhynot.jar\n.10\n1.1.j","weightedVote":"2.5","numVotes":"0","author":"lf","community":"1","dateAdded":"2015-06-07","pattern":"[0-9](\\.[0-9]+)+[a-zA-z]?","replace":"","state":"{\"substEnabled\":false}"}

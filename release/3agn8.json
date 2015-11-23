@@ -1,1 +1,0 @@
-{"id":"163512","urlID":"3agn8","name":"Kyle Test","description":"","content":"Kyle Test kyle test","weightedVote":"2.5","numVotes":"0","author":"KyleMit","community":"1","dateAdded":"2015-02-26","pattern":"([A-Z])\\w+","replace":"$&","state":"{\"substEnabled\":true}"}

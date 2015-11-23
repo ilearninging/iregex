@@ -1,1 +1,0 @@
-{"id":"101042","urlID":"34pmm","name":"url pattern","description":"http url pattern","content":"","weightedVote":"2.5","numVotes":"0","author":"Tomlai","community":"1","dateAdded":"2013-05-06","pattern":"(https?:\/\/([-\\w\\.]+)+(:\\d+)?(\/([\\w\/_\\-\\.]*(\\?\\S+)?)?)?)","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"432","urlID":"2riug","name":"URI MATCH","description":"good uri finder","content":"","weightedVote":"2.70408","numVotes":"2","author":"Brendon","community":"1","dateAdded":"2010-03-26","pattern":"(https?:\/\/)?(www\\.)?([a-zA-Z0-9_%]*)\\b\\.[a-z]{2,4}(\\.[a-z]{2})?((\/[a-zA-Z0-9_%]*)+)?(\\.[a-z]*)?\/gi","replace":"","state":""}

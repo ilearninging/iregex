@@ -1,1 +1,0 @@
-{"id":"182427","urlID":"3c84h","name":"fgsfds","description":"","content":"<div name=\"foo\"><\/div><div name='bar'><\/div><h2 id=\"baz\">hello<\/h2><h4 id='bam'><\/h4>","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-11-18","pattern":"\\s(name|id)=([\\\"'])([^\\2]+?)\\2\/igm","replace":"","state":"{\"substEnabled\":false}"}

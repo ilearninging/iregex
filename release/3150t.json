@@ -1,1 +1,0 @@
-{"id":"61215","urlID":"3150t","name":"12 Hour Time Format","description":"Matches time in 12-hour format.\rEx 12:00 AM, 01:59 PM","content":"","weightedVote":"3.26389","numVotes":"1","author":"awebdesigner09","community":"1","dateAdded":"2012-06-01","pattern":"^(([1][0-2])|([0][1-9])):[0-5][0-9] (AM|PM)$","replace":"","state":""}

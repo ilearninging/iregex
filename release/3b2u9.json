@@ -1,1 +1,0 @@
-{"id":"169731","urlID":"3b2u9","name":"adwsf","description":"asdf","content":"objCHK\u00a0=\u00a0document.getElementById(\"chkColumn_Gateway_ID\");\nif(objCHK){objCHK.checked=p_blnChecked;","weightedVote":"2.5","numVotes":"0","author":"asdf","community":"1","dateAdded":"2015-05-26","pattern":"obj.*\"(.*?)\".*;","replace":"","state":"{\"substEnabled\":false}"}

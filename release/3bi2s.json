@@ -1,1 +1,0 @@
-{"id":"174900","urlID":"3bi2s","name":"list value tracking","description":"get the value of each list element that begins with - and ends with ,","content":"Je veux :\n-un livre,\n-un jeu,\n-un chat,","weightedVote":"2.5","numVotes":"0","author":"Dwaaren","community":"1","dateAdded":"2015-08-09","pattern":"-([a-zA-Z ]+),","replace":"","state":"{\"substEnabled\":false}"}

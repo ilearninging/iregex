@@ -1,1 +1,0 @@
-{"id":"169030","urlID":"3b0si","name":"regex-sql","description":"","content":"select * from tablewhere column=1","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-15","pattern":"(?:from|join)\\s+(.*?)(?:\\)|\\s*(?:where|on|inner|outer|full|left|right|join|\\s*$))\/igm","replace":"\\n# $&:\\n\\t","state":"{\"substEnabled\":true}"}

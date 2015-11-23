@@ -1,1 +1,0 @@
-{"id":"148745","urlID":"395er","name":"Filename Matcher","description":"Filename Matcher","content":"config\/myFile.json","weightedVote":"2.5","numVotes":"0","author":"balthasar","community":"1","dateAdded":"2014-07-15","pattern":"[^\/]+(?=\\.json$)","replace":"","state":""}

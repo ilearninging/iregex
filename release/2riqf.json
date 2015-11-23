@@ -1,1 +1,0 @@
-{"id":"389","urlID":"2riqf","name":"remove SQL Comments","description":"Matches Multiline (\/* *\/) comments","content":"","weightedVote":"3.26389","numVotes":"1","author":"Ryan Matsikas","community":"1","dateAdded":"2010-02-27","pattern":"\\\/\\*[\\s\\S]*?\\*\\\/","replace":"[[$&$&]]","state":""}

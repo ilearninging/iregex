@@ -1,1 +1,0 @@
-{"id":"9390","urlID":"2sd6a","name":"First name with space,dot,hyphen","description":"First name with space,dot,hyphen","content":"","weightedVote":"2.70408","numVotes":"2","author":"Ragav","community":"1","dateAdded":"2010-10-20","pattern":"(([A-Za-z]+)[\\s\\.\\',-]([A-Za-z]+)?)$","replace":"","state":""}

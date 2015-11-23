@@ -1,1 +1,0 @@
-{"id":"153196","urlID":"39ig4","name":"cucumber-overlord","description":"","content":"I boot the bomb\nI activate the bomb with \"0000\" and \"1234\"\nI deactivate the bomb with \"0000\"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-09-24","pattern":"^I (.+) the bomb(?: (?:with|and) \"(\\w+)\")*$","replace":"","state":""}

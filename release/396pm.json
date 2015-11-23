@@ -1,1 +1,0 @@
-{"id":"149202","urlID":"396pm","name":"word underscore","description":"","content":"hi\n\nhi bye\n\nbye hi\n\n_hi yo\n\n_hi_","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-07-22","pattern":"[\\b_]*hi[\\b_]*","replace":"","state":""}

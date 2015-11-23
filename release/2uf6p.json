@@ -1,1 +1,0 @@
-{"id":"31923","urlID":"2uf6p","name":"Float and int","description":"Float Int","content":"","weightedVote":"3.26389","numVotes":"1","author":"fred","community":"1","dateAdded":"2011-08-15","pattern":"(^[\\+]?\\d+[,]?\\d+$)|(^[-]?\\d+[,]?\\d+$)|(^\\d+[,]?\\d+$)|(^[0-9\\ ]+$)","replace":"","state":""}

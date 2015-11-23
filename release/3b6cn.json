@@ -1,1 +1,0 @@
-{"id":"170909","urlID":"3b6cn","name":"subpath detecting","description":"","content":"..\/..\/test\/data\n\n..\/test","weightedVote":"2.5","numVotes":"0","author":"AI","community":"1","dateAdded":"2015-06-11","pattern":"((\\.+)\\\/){2}","replace":"","state":"{\"substEnabled\":false}"}

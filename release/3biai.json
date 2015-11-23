@@ -1,1 +1,0 @@
-{"id":"174982","urlID":"3biai","name":"itunes","description":"","content":"https:\/\/geo.itunes.apple.com\/ru\/album\/eminem\/","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-11","pattern":"(http|https)(:\\\/\\\/)()(geo\\.itunes\\.apple\\.com\\\/[a-z]{2}\\\/album\\\/[a-zA-Z0-9-?=&\\\/]+)\/","replace":"","state":"{\"substEnabled\":false}"}

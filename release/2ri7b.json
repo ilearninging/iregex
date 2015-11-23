@@ -1,1 +1,0 @@
-{"id":"185","urlID":"2ri7b","name":"^\\$\\w+\\s*=\\s*.*?;$","description":"Matches php variable declarations or assigments;\r\r$a = 1;\r$b = \"a\";\r","content":"","weightedVote":"2.5","numVotes":"0","author":"whocares","community":"1","dateAdded":"2009-10-03","pattern":"^\\$\\w+\\s*=\\s*.*?;$","replace":"","state":""}

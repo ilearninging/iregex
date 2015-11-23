@@ -1,1 +1,0 @@
-{"id":"5561","urlID":"2s1vb","name":"Get numbers into URI","description":"\/(?:=)(\\d{2})\/g","content":"","weightedVote":"2.5","numVotes":"0","author":"Gadonski","community":"1","dateAdded":"2010-08-27","pattern":"(?:=)(\\d{2})","replace":"","state":""}

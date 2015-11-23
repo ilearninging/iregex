@@ -1,1 +1,0 @@
-{"id":"108392","urlID":"35f7o","name":"BB-Code Quote Matcher","description":"Finds [quote=\"asd\"]TEXT[\/quote]","content":"","weightedVote":"2.88194","numVotes":"1","author":"Burak BASTEMUR","community":"1","dateAdded":"2013-07-04","pattern":"\\[(|\\\/)quote(|=\"(.*?)\")\\]\/gsm","replace":"","state":""}

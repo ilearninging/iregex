@@ -1,1 +1,0 @@
-{"id":"175462","urlID":"3bjni","name":"catch name","description":"","content":"hello myname is [hussam] and i love sy [people]\n\n[hussam]","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-17","pattern":"(\\[\\w+\\])\/ig","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,1 +1,0 @@
-{"id":"176716","urlID":"3bnd4","name":"Homepage from URL","description":"Is the URL the homepage?","content":"https:\/\/www.example.com\/?foo=bar#foobar","weightedVote":"3.26389","numVotes":"1","author":"","community":"1","dateAdded":"2015-09-03","pattern":"^https?:\\\/\\\/(.+)?\\.([a-zA-Z]+)?\\\/?([\\?#].*)?$","replace":"","state":"{\"substEnabled\":false}"}

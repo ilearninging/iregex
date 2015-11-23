@@ -1,1 +1,0 @@
-{"id":"58833","urlID":"30u1j","name":"Match any negative or positive float \/ decimal or int number","description":"(^[-|\\+|0-9][0-9]*)(\\.*)[0-9]*$","content":"","weightedVote":"3.26389","numVotes":"1","author":"Aviral Sharma","community":"1","dateAdded":"2012-05-11","pattern":"(^[-|\\+|0-9][0-9]*)(\\.*)[0-9]*$\/gixsm","replace":"","state":""}

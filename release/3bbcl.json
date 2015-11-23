@@ -1,1 +1,0 @@
-{"id":"172615","urlID":"3bbcl","name":"Email-ish Validation","description":"A very liberal email-ish pattern","content":"test+stuff@gmail.com","weightedVote":"2.5","numVotes":"0","author":"@bejonbee","community":"1","dateAdded":"2015-07-07","pattern":"^.+@[^.]+\\.[^.]{2,}$","replace":"","state":"{\"substEnabled\":false}"}

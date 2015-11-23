@@ -1,1 +1,0 @@
-{"id":"153854","urlID":"39kdq","name":"Match math","description":"Match any math expression","content":"5 + 5 + 5 ^ 5;","weightedVote":"3.41406","numVotes":"3","author":"Ethan Bierlein","community":"1","dateAdded":"2014-10-04","pattern":"(\\s*\\d+\\s*(\\*|\\\/|\\-|\\+|\\^|)\\s*\\d+\\s*(\\*|\\\/|\\-|\\+|\\^|))+\\s*;","replace":"","state":""}

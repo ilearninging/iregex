@@ -1,1 +1,0 @@
-{"id":"163008","urlID":"3af80","name":"sajad","description":"word Fixed\n^([A-Z]{1})([a-z]{1,})([A-Z a-z]{1,})Fixed$","content":"VssdaSdsxvfdsFixed","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-02-20","pattern":"^([A-Z]{1})([a-z]{1,})([A-Z a-z]{1,})Fixed$\/","replace":"\\n# $&:\\n\\t","state":""}

@@ -1,1 +1,0 @@
-{"id":"195","urlID":"2ri89","name":"ICD-9 Diagnosis Code","description":"Detects ICD-9-CM Diagnosis Codes. Including \"V\" codes and \"E\" codes.","content":"","weightedVote":"3.11224","numVotes":"2","author":"Chris Marsh","community":"1","dateAdded":"2009-10-12","pattern":"V\\d{2}(\\.\\d{1,2})?|E\\d{3}(\\.\\d)?|\\d{3}(\\.\\d{1,2})?","replace":"","state":""}

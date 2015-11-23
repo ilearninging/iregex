@@ -1,1 +1,0 @@
-{"id":"539","urlID":"2rj8h","name":"Match links","description":"Matches all <a> and <\/a> elements in HTML","content":"","weightedVote":"3.26389","numVotes":"1","author":"Antti","community":"1","dateAdded":"2010-05-24","pattern":"(?=<a)[^]+?>|<\/a>","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"41905","urlID":"2vcej","name":"numbers only","description":"kill all text, but leave only the numbers.","content":"","weightedVote":"2.90817","numVotes":"2","author":"Faust","community":"1","dateAdded":"2011-12-02","pattern":".*?(\\d)[^\\d]*","replace":"$1","state":""}

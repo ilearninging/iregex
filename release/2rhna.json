@@ -1,1 +1,0 @@
-{"id":"14","urlID":"2rhna","name":"Sentence case.","description":"Get the first letter of the line and the first letter fallowing a ? . ! or \\s\r\r([.?\\s!]\\s\\w)|^(\\b\\w)","content":"","weightedVote":"2.90817","numVotes":"2","author":"tidbit","community":"1","dateAdded":"2009-05-26","pattern":"([.?\\s!]\\s\\w)|^(\\b\\w)","replace":"$&","state":""}

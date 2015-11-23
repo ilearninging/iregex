@@ -1,1 +1,0 @@
-{"id":"166052","urlID":"3ao5c","name":"Word - Twins","description":"Find dublicates","content":"I want to remove same Same words!","weightedVote":"3.26389","numVotes":"1","author":"Oleksiy Nesterov","community":"1","dateAdded":"2015-04-02","pattern":"(\\b\\w+\\b)\\s\\1\/ig","replace":"","state":"{\"substEnabled\":false}"}

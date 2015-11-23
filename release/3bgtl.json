@@ -1,1 +1,0 @@
-{"id":"174503","urlID":"3bgtl","name":"ID","description":"","content":"Test ID=\"12345\" hello","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-03","pattern":"ID=\"([^\"]*)","replace":"","state":"{\"substEnabled\":false}"}

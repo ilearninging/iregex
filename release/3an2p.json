@@ -1,1 +1,0 @@
-{"id":"165683","urlID":"3an2p","name":"base_url conditional","description":"conditional for drupal base_url match known administration first directories","content":"\/admin\/1233\n","weightedVote":"2.5","numVotes":"0","author":"jalexanderfox","community":"1","dateAdded":"2015-03-27","pattern":"^\\\/((node)|(admin))(?:\\\/(?:.*))\/","replace":"","state":"{\"substEnabled\":false}"}

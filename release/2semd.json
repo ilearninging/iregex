@@ -1,1 +1,0 @@
-{"id":"9903","urlID":"2semd","name":"FXG to SparkFXG","description":"Converts FXG (e.g. exported from flash) to Spark FXG by inserting the s: namespace","content":"","weightedVote":"2.5","numVotes":"0","author":"DannyT","community":"1","dateAdded":"2010-10-27","pattern":"(<|<\/)(\\w)\/gi","replace":"$1s:$2","state":""}

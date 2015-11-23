@@ -1,1 +1,0 @@
-{"id":"18214","urlID":"2t71i","name":"Canada Postal Code (Full)","description":"Full validation canada postal code.","content":"","weightedVote":"2.5","numVotes":"0","author":"runcore","community":"1","dateAdded":"2011-03-01","pattern":"^[ABCEGHJ-NPRSTVXY]\\d[A-Z] \\d[A-Z]\\d$","replace":"","state":""}

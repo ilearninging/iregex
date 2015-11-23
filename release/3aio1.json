@@ -1,1 +1,0 @@
-{"id":"164203","urlID":"3aio1","name":"ES data checker","description":"Finds two numbers in a string","content":"53\n","weightedVote":"2.5","numVotes":"0","author":"njvack","community":"1","dateAdded":"2015-03-09","pattern":"^[^\\d]*(\\d)[^\\d]*(\\d)[^\\d]*$","replace":"$1 $2","state":"{\"substEnabled\":true}"}

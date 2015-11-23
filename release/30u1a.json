@@ -1,1 +1,0 @@
-{"id":"58830","urlID":"30u1a","name":"URL with port and parameters","description":"Find URL's including portnumber and parameters","content":"","weightedVote":"3.26389","numVotes":"1","author":"Patricio Barros","community":"1","dateAdded":"2012-05-11","pattern":"([-a-zA-Z0-9@:%_\\+.~\/\/]{2,256}\\.[a-z]{2,4}:?[\\d{1,5}]*[?#&\/\\w]*)\/gi","replace":"","state":""}

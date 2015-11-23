@@ -1,1 +1,0 @@
-{"id":"119182","urlID":"36era","name":"NIE (Spain)","description":"chequeo del NIE en el Espa\u00f1a (no del NIF)","content":"","weightedVote":"2.88194","numVotes":"1","author":"PAF","community":"1","dateAdded":"2013-09-24","pattern":"[XYZ][0-9]{1,7}[A-Z]","replace":"","state":""}

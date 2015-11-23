@@ -1,1 +1,0 @@
-{"id":"71489","urlID":"32343","name":"DUPLICATE CHARS beside each other","description":"DUPLICATE CHARS","content":"","weightedVote":"2.5","numVotes":"0","author":"Tacle","community":"1","dateAdded":"2012-09-07","pattern":"(.)\\1+\/gxm","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"173759","urlID":"3bent","name":"Password Strength","description":"","content":"Aalex1333!","weightedVote":"2.5","numVotes":"0","author":"alex gian","community":"1","dateAdded":"2015-07-22","pattern":"^(?=.*\\d)(?=.*[a-z])(?=.*[A-Z])(?=(?:.*[!@#$%^&*-]){1}).{8,}$","replace":"","state":"{\"substEnabled\":false}"}

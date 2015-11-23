@@ -1,1 +1,0 @@
-{"id":"18284","urlID":"2t784","name":"Simple [0]0:00 (AM\/PM)","description":"Matches\r11:00AM\r1:15 AM\r24:30  PM\r","content":"","weightedVote":"2.5","numVotes":"0","author":"Drakeshe","community":"1","dateAdded":"2011-03-01","pattern":"[\\d]{1,2}:[\\d]{2}(\\s+)?(AM|PM)","replace":"","state":""}

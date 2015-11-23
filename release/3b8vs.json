@@ -1,1 +1,0 @@
-{"id":"171796","urlID":"3b8vs","name":"RAQCitrixUser","description":"Example for Go1.","content":"rs1141\nrs123\nrs12345\n\nrs12\nrs123456\nr123\nrss123\n","weightedVote":"2.5","numVotes":"0","author":"Ryan","community":"1","dateAdded":"2015-06-24","pattern":"[a-zA-Z]{2}\\d[0-9]{2,4}","replace":"","state":"{\"substEnabled\":false}"}
