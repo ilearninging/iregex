@@ -1,1 +1,1 @@
-{"id":"172724","urlID":"3bbms","name":"some html tags","description":"only some tags","content":"<html> <i> <p>\n\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-08","pattern":"\/<[^(?=i|b|em)>]+>\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"172724","urlID":"3bbms","name":"some html tags","description":"only some tags","content":"<html> <i> <p>\n\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-08","pattern":"<[^(?=i|b|em)>]+>","replace":"","state":"{\"substEnabled\":false}"}

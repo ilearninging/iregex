@@ -1,1 +1,1 @@
-{"id":"594","urlID":"2rjdm","name":"Random Number Two","description":"Replaces the he by this other thing.","content":"","weightedVote":"2.5","numVotes":"0","author":"Mario","community":"1","dateAdded":"2010-06-17","pattern":"\/he\/g","replace":" SHU - [[**$&**]] - ZHU","state":""}
+{"id":"594","urlID":"2rjdm","name":"Random Number Two","description":"Replaces the he by this other thing.","content":"","weightedVote":"2.5","numVotes":"0","author":"Mario","community":"1","dateAdded":"2010-06-17","pattern":"he","replace":" SHU - [[**$&**]] - ZHU","state":""}

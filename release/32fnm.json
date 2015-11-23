@@ -1,1 +1,1 @@
-{"id":"75794","urlID":"32fnm","name":"asd","description":"asd","content":"","weightedVote":"2.5","numVotes":"0","author":"asd","community":"1","dateAdded":"2012-10-16","pattern":"\/\\be(\\w*)s\\b\/g","replace":"[[$&$&]]","state":""}
+{"id":"75794","urlID":"32fnm","name":"asd","description":"asd","content":"","weightedVote":"2.5","numVotes":"0","author":"asd","community":"1","dateAdded":"2012-10-16","pattern":"\\be(\\w*)s\\b","replace":"[[$&$&]]","state":""}

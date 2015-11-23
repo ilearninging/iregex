@@ -1,1 +1,1 @@
-{"id":"170509","urlID":"3b577","name":"NumAlpha","description":"","content":"123456789","weightedVote":"2.5","numVotes":"0","author":"st","community":"1","dateAdded":"2015-06-04","pattern":"\/([0-9a-zA-Z]){1,}\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"170509","urlID":"3b577","name":"NumAlpha","description":"","content":"123456789","weightedVote":"2.5","numVotes":"0","author":"st","community":"1","dateAdded":"2015-06-04","pattern":"([0-9a-zA-Z]){1,}","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,1 +1,1 @@
-{"id":"99683","urlID":"34ln9","name":"HMTL","description":"testing","content":"","weightedVote":"2.5","numVotes":"0","author":"J","community":"1","dateAdded":"2013-04-24","pattern":"\/\\be(\\w*)s\\b\/g","replace":"[[$&$&]]","state":""}
+{"id":"99683","urlID":"34ln9","name":"HMTL","description":"testing","content":"","weightedVote":"2.5","numVotes":"0","author":"J","community":"1","dateAdded":"2013-04-24","pattern":"\\be(\\w*)s\\b","replace":"[[$&$&]]","state":""}

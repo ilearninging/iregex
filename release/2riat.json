@@ -1,1 +1,1 @@
-{"id":"223","urlID":"2riat","name":"get tr in table","description":"get all tr elements in tags table.","content":"","weightedVote":"2.80612","numVotes":"2","author":"Daniel Aguiar","community":"1","dateAdded":"2009-11-04","pattern":"\/<td.*?>(.*?)<\/td>\/gsm","replace":"","state":""}
+{"id":"223","urlID":"2riat","name":"get tr in table","description":"get all tr elements in tags table.","content":"","weightedVote":"2.80612","numVotes":"2","author":"Daniel Aguiar","community":"1","dateAdded":"2009-11-04","pattern":"<td.*?>(.*?)<\/td>\/gsm","replace":"","state":""}

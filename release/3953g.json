@@ -1,1 +1,1 @@
-{"id":"148624","urlID":"3953g","name":"hobbits","description":"0-9.0-9","content":"10.10\n1.10\n0.0\n1.0\n123456.00\n01.00","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-07-11","pattern":"\/[0-9]+\\.[0-9]{1,2}([^0-9]|$)\/g","replace":"","state":""}
+{"id":"148624","urlID":"3953g","name":"hobbits","description":"0-9.0-9","content":"10.10\n1.10\n0.0\n1.0\n123456.00\n01.00","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-07-11","pattern":"[0-9]+\\.[0-9]{1,2}([^0-9]|$)","replace":"","state":""}

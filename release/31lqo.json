@@ -1,1 +1,1 @@
-{"id":"66952","urlID":"31lqo","name":"Passport","description":"passport","content":"","weightedVote":"2.5","numVotes":"0","author":"alexg","community":"1","dateAdded":"2012-07-28","pattern":"\/\\W.\\d{1,6}.|\\d{9,10}\/gi","replace":"[[$&$&]]","state":""}
+{"id":"66952","urlID":"31lqo","name":"Passport","description":"passport","content":"","weightedVote":"2.5","numVotes":"0","author":"alexg","community":"1","dateAdded":"2012-07-28","pattern":"\\W.\\d{1,6}.|\\d{9,10}\/gi","replace":"[[$&$&]]","state":""}

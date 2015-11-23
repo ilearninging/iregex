@@ -1,1 +1,1 @@
-{"id":"7537","urlID":"2s7oj","name":"Siemanko","description":"blablabla","content":"","weightedVote":"2.5","numVotes":"0","author":"bolec","community":"1","dateAdded":"2010-09-26","pattern":"\/\\be(\\w*)s\\b\/g","replace":"","state":""}
+{"id":"7537","urlID":"2s7oj","name":"Siemanko","description":"blablabla","content":"","weightedVote":"2.5","numVotes":"0","author":"bolec","community":"1","dateAdded":"2010-09-26","pattern":"\\be(\\w*)s\\b","replace":"","state":""}

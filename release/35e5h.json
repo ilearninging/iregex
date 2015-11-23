@@ -1,1 +1,1 @@
-{"id":"108027","urlID":"35e5h","name":"k","description":"private e-mails. private text messages","content":"","weightedVote":"2.5","numVotes":"0","author":"kristytruelove@rocketmail.com","community":"1","dateAdded":"2013-07-02","pattern":"\/\\be(\\w*)s\\b\/g","replace":"","state":""}
+{"id":"108027","urlID":"35e5h","name":"k","description":"private e-mails. private text messages","content":"","weightedVote":"2.5","numVotes":"0","author":"kristytruelove@rocketmail.com","community":"1","dateAdded":"2013-07-02","pattern":"\\be(\\w*)s\\b","replace":"","state":""}

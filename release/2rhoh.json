@@ -1,1 +1,1 @@
-{"id":"27","urlID":"2rhoh","name":"img find","description":"www.oyun-inceleme.com","content":"","weightedVote":"2.80612","numVotes":"2","author":"Fthrkl","community":"1","dateAdded":"2009-05-31","pattern":"\/<img([^<>+]*)>\/g","replace":"","state":""}
+{"id":"27","urlID":"2rhoh","name":"img find","description":"www.oyun-inceleme.com","content":"","weightedVote":"2.80612","numVotes":"2","author":"Fthrkl","community":"1","dateAdded":"2009-05-31","pattern":"<img([^<>+]*)>","replace":"","state":""}

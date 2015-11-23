@@ -1,1 +1,1 @@
-{"id":"1","urlID":"2rhm3","name":"# Hex Color","description":"Matches a hex color in the format #FFFFFF.","content":"","weightedVote":"3.27136","numVotes":"6","author":"Grant Skinner","community":"1","dateAdded":"2009-05-26","pattern":"\/#?[0-9A-Fa-f]{6}\/g","replace":"","state":""}
+{"id":"1","urlID":"2rhm3","name":"# Hex Color","description":"Matches a hex color in the format #FFFFFF.","content":"","weightedVote":"3.27136","numVotes":"6","author":"Grant Skinner","community":"1","dateAdded":"2009-05-26","pattern":"#?[0-9A-Fa-f]{6}","replace":"","state":""}

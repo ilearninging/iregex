@@ -1,1 +1,1 @@
-{"id":"156205","urlID":"39ra7","name":"regex","description":"","content":"Should i buy milk or a cow?\n\nShould i buy, milk, or a cow?","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-03","pattern":"\/\\bshould i buy milk\\\/ig","replace":"","state":""}
+{"id":"156205","urlID":"39ra7","name":"regex","description":"","content":"Should i buy milk or a cow?\n\nShould i buy, milk, or a cow?","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-03","pattern":"\\bshould i buy milk\\\/ig","replace":"","state":""}

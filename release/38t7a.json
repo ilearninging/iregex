@@ -1,1 +1,1 @@
-{"id":"145934","urlID":"38t7a","name":"dd","description":"d","content":"that tested test is testing the tester's tests","weightedVote":"2.5","numVotes":"0","author":"dsd","community":"1","dateAdded":"2014-05-26","pattern":"\/\\btest(er|ing|ed|s)?\\b\/g","replace":"","state":""}
+{"id":"145934","urlID":"38t7a","name":"dd","description":"d","content":"that tested test is testing the tester's tests","weightedVote":"2.5","numVotes":"0","author":"dsd","community":"1","dateAdded":"2014-05-26","pattern":"\\btest(er|ing|ed|s)?\\b","replace":"","state":""}

@@ -1,1 +1,1 @@
-{"id":"162578","urlID":"3advm","name":"Netflix 2","description":"","content":"\"^.*(host|HOST).+(netflix).*\\$\"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-02-14","pattern":"\/([A-Z])\\w+\/g","replace":"\\n# $&:\\n\\t","state":""}
+{"id":"162578","urlID":"3advm","name":"Netflix 2","description":"","content":"\"^.*(host|HOST).+(netflix).*\\$\"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-02-14","pattern":"([A-Z])\\w+","replace":"\\n# $&:\\n\\t","state":""}

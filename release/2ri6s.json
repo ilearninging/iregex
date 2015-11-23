@@ -1,1 +1,1 @@
-{"id":"180","urlID":"2ri6s","name":"Trim","description":"Trim any whitespace from the beginning and the ending of a string","content":"","weightedVote":"2.5","numVotes":"0","author":"Fily84","community":"1","dateAdded":"2009-09-29","pattern":"\/^\\s*|\\s*$\/g","replace":"+","state":""}
+{"id":"180","urlID":"2ri6s","name":"Trim","description":"Trim any whitespace from the beginning and the ending of a string","content":"","weightedVote":"2.5","numVotes":"0","author":"Fily84","community":"1","dateAdded":"2009-09-29","pattern":"^\\s*|\\s*$","replace":"+","state":""}

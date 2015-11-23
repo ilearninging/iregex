@@ -1,1 +1,1 @@
-{"id":"178531","urlID":"3bsn9","name":"Calculator","description":"Checks for calulation.","content":"2+2=4","weightedVote":"2.7449","numVotes":"2","author":"It;s Me","community":"1","dateAdded":"2015-09-29","pattern":"\/c(hristmas|ock)\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"178531","urlID":"3bsn9","name":"Calculator","description":"Checks for calulation.","content":"2+2=4","weightedVote":"2.7449","numVotes":"2","author":"It;s Me","community":"1","dateAdded":"2015-09-29","pattern":"c(hristmas|ock)","replace":"","state":"{\"substEnabled\":false}"}

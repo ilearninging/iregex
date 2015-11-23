@@ -1,1 +1,1 @@
-{"id":"141168","urlID":"38f8g","name":"US","description":"a","content":"","weightedVote":"2.5","numVotes":"0","author":"Iamaa","community":"1","dateAdded":"2014-03-08","pattern":"\/\\be(\\w*)s\\b\/g","replace":"","state":""}
+{"id":"141168","urlID":"38f8g","name":"US","description":"a","content":"","weightedVote":"2.5","numVotes":"0","author":"Iamaa","community":"1","dateAdded":"2014-03-08","pattern":"\\be(\\w*)s\\b","replace":"","state":""}

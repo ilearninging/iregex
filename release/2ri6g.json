@@ -1,1 +1,1 @@
-{"id":"176","urlID":"2ri6g","name":"Json gather zipcode","description":"martin\r","content":"","weightedVote":"2.5","numVotes":"0","author":"Gaston","community":"1","dateAdded":"2009-09-24","pattern":"\/{.*\"postalCode\":\"([0-9]*)\".*}\/g","replace":"","state":""}
+{"id":"176","urlID":"2ri6g","name":"Json gather zipcode","description":"martin\r","content":"","weightedVote":"2.5","numVotes":"0","author":"Gaston","community":"1","dateAdded":"2009-09-24","pattern":"{.*\"postalCode\":\"([0-9]*)\".*}","replace":"","state":""}

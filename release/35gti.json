@@ -1,1 +1,1 @@
-{"id":"108966","urlID":"35gti","name":"test","description":"info","content":"","weightedVote":"2.5","numVotes":"0","author":"robb","community":"1","dateAdded":"2013-07-09","pattern":"\/\\be(\\w*)s\\b\/g","replace":"","state":""}
+{"id":"108966","urlID":"35gti","name":"test","description":"info","content":"","weightedVote":"2.5","numVotes":"0","author":"robb","community":"1","dateAdded":"2013-07-09","pattern":"\\be(\\w*)s\\b","replace":"","state":""}

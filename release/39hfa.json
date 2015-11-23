@@ -1,1 +1,1 @@
-{"id":"152846","urlID":"39hfa","name":"Hyphen test","description":"","content":"some-countername-with-hyphens\n\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-09-19","pattern":"\/[^0-9a-zA-Z\\.\\_]\/g","replace":"","state":""}
+{"id":"152846","urlID":"39hfa","name":"Hyphen test","description":"","content":"some-countername-with-hyphens\n\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-09-19","pattern":"[^0-9a-zA-Z\\.\\_]","replace":"","state":""}

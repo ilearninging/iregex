@@ -1,1 +1,1 @@
-{"id":"147143","urlID":"390ol","name":"Hoos","description":"","content":"Aww\nAwww\nwsl\naa\naqaq\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-16","pattern":"\/((A|w|a|l)+)\/g","replace":"","state":""}
+{"id":"147143","urlID":"390ol","name":"Hoos","description":"","content":"Aww\nAwww\nwsl\naa\naqaq\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-16","pattern":"((A|w|a|l)+)","replace":"","state":""}

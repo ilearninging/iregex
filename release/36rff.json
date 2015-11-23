@@ -1,1 +1,1 @@
-{"id":"123493","urlID":"36rff","name":"remove whitespace","description":"remove whitespace in code","content":"","weightedVote":"2.5","numVotes":"0","author":"Fahad","community":"1","dateAdded":"2013-10-21","pattern":"\/\\s+\/gm","replace":" ","state":""}
+{"id":"123493","urlID":"36rff","name":"remove whitespace","description":"remove whitespace in code","content":"","weightedVote":"2.5","numVotes":"0","author":"Fahad","community":"1","dateAdded":"2013-10-21","pattern":"\\s+","replace":" ","state":""}

@@ -1,1 +1,1 @@
-{"id":"54","urlID":"2rhr2","name":"a","description":"asdf","content":"","weightedVote":"1.47959","numVotes":"2","author":"aa","community":"1","dateAdded":"2009-06-16","pattern":"\/\\be(\\w*)s\\b\/g","replace":"","state":""}
+{"id":"54","urlID":"2rhr2","name":"a","description":"asdf","content":"","weightedVote":"1.47959","numVotes":"2","author":"aa","community":"1","dateAdded":"2009-06-16","pattern":"\\be(\\w*)s\\b","replace":"","state":""}

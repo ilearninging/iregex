@@ -1,1 +1,1 @@
-{"id":"163349","urlID":"3ag7v","name":"Man united","description":"","content":" Man UTD 0 - 0","weightedVote":"2.5","numVotes":"0","author":"Jamie Hill","community":"1","dateAdded":"2015-02-24","pattern":"\/\\d+\\s?-\\s?\\d+$\/g","replace":"","state":""}
+{"id":"163349","urlID":"3ag7v","name":"Man united","description":"","content":" Man UTD 0 - 0","weightedVote":"2.5","numVotes":"0","author":"Jamie Hill","community":"1","dateAdded":"2015-02-24","pattern":"\\d+\\s?-\\s?\\d+$","replace":"","state":""}

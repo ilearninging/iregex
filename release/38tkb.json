@@ -1,1 +1,1 @@
-{"id":"146073","urlID":"38tkb","name":"reg","description":"","content":"irc.log.Window3","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-05-28","pattern":"\/\\.Window3$\/","replace":"","state":""}
+{"id":"146073","urlID":"38tkb","name":"reg","description":"","content":"irc.log.Window3","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-05-28","pattern":"\\.Window3$\/","replace":"","state":""}

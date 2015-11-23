@@ -1,1 +1,1 @@
-{"id":"157739","urlID":"39vq1","name":"hey","description":"","content":"welcomePlack","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-27","pattern":"\/([a-z](?=[A-Z]))\/g","replace":"","state":""}
+{"id":"157739","urlID":"39vq1","name":"hey","description":"","content":"welcomePlack","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-27","pattern":"([a-z](?=[A-Z]))","replace":"","state":""}

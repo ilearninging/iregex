@@ -1,1 +1,1 @@
-{"id":"175315","urlID":"3bj9p","name":"pipe matcher","description":"","content":"1|2|3|4|5|6|7||9|10","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-14","pattern":"\/^(?:[^|]*\\|){2}([^|]*)\/","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"175315","urlID":"3bj9p","name":"pipe matcher","description":"","content":"1|2|3|4|5|6|7||9|10","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-14","pattern":"^(?:[^|]*\\|){2}([^|]*)\/","replace":"","state":"{\"substEnabled\":false}"}

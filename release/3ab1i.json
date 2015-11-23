@@ -1,1 +1,1 @@
-{"id":"161574","urlID":"3ab1i","name":"Phone # delimited","description":"","content":"1;1234567899;1212121212121","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-02-01","pattern":"\/^(\\d{0,13}\\s*)(;\\d{0,13}\\s*)*$\/g","replace":"","state":""}
+{"id":"161574","urlID":"3ab1i","name":"Phone # delimited","description":"","content":"1;1234567899;1212121212121","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-02-01","pattern":"^(\\d{0,13}\\s*)(;\\d{0,13}\\s*)*$","replace":"","state":""}

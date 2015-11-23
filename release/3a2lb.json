@@ -1,1 +1,1 @@
-{"id":"158713","urlID":"3a2lb","name":"random","description":"random","content":"am I a cunt? yes ","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-12-12","pattern":"\/(yes)\/g","replace":"","state":""}
+{"id":"158713","urlID":"3a2lb","name":"random","description":"random","content":"am I a cunt? yes ","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-12-12","pattern":"(yes)","replace":"","state":""}

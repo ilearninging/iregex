@@ -1,1 +1,1 @@
-{"id":"107039","urlID":"35b8t","name":"[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\\\\[.]{0,1}[A-Za-z]{2,4}","description":"rr","content":"","weightedVote":"2.5","numVotes":"0","author":"rr","community":"1","dateAdded":"2013-06-24","pattern":"\/\\be(\\w*)s\\b\/g","replace":"","state":""}
+{"id":"107039","urlID":"35b8t","name":"[A-Z0-9a-z._%+-]+@[A-Za-z0-9.-]+\\\\[.]{0,1}[A-Za-z]{2,4}","description":"rr","content":"","weightedVote":"2.5","numVotes":"0","author":"rr","community":"1","dateAdded":"2013-06-24","pattern":"\\be(\\w*)s\\b","replace":"","state":""}

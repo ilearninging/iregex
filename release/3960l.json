@@ -1,1 +1,1 @@
-{"id":"148935","urlID":"3960l","name":"get all uneven numbers","description":"","content":"1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n\n","weightedVote":"2.5","numVotes":"0","author":"reg","community":"1","dateAdded":"2014-07-17","pattern":"\/[13579]$\/gm","replace":"","state":""}
+{"id":"148935","urlID":"3960l","name":"get all uneven numbers","description":"","content":"1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n\n","weightedVote":"2.5","numVotes":"0","author":"reg","community":"1","dateAdded":"2014-07-17","pattern":"[13579]$","replace":"","state":""}

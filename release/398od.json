@@ -1,1 +1,1 @@
-{"id":"149871","urlID":"398od","name":"jack1","description":"","content":"*|23|* sdf*|sad|* a*|sdaas,asassd|*","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-08-03","pattern":"\/\\*\\|(.*?)\\|\\*\/g","replace":"jac there","state":""}
+{"id":"149871","urlID":"398od","name":"jack1","description":"","content":"*|23|* sdf*|sad|* a*|sdaas,asassd|*","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-08-03","pattern":"\\*\\|(.*?)\\|\\*","replace":"jac there","state":""}

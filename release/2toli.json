@@ -1,1 +1,1 @@
-{"id":"24230","urlID":"2toli","name":"Filename from URL","description":"Filename","content":"","weightedVote":"2.88194","numVotes":"1","author":"www.uensal-ceylan.de","community":"1","dateAdded":"2011-05-13","pattern":"\/[^\/]+$\/g","replace":"","state":""}
+{"id":"24230","urlID":"2toli","name":"Filename from URL","description":"Filename","content":"","weightedVote":"2.88194","numVotes":"1","author":"www.uensal-ceylan.de","community":"1","dateAdded":"2011-05-13","pattern":"[^\/]+$","replace":"","state":""}

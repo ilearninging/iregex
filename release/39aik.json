@@ -1,1 +1,1 @@
-{"id":"150492","urlID":"39aik","name":"ttttt","description":"","content":"\/catalog\/salyuty-i-batarei-salyutov\/?clear_cache=Y","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-08-13","pattern":"\/^\\\/catalog\\\/([a-z-]+)\\\/.*$\/","replace":"","state":""}
+{"id":"150492","urlID":"39aik","name":"ttttt","description":"","content":"\/catalog\/salyuty-i-batarei-salyutov\/?clear_cache=Y","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-08-13","pattern":"^\\\/catalog\\\/([a-z-]+)\\\/.*$\/","replace":"","state":""}

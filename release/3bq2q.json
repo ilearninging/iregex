@@ -1,1 +1,1 @@
-{"id":"177630","urlID":"3bq2q","name":"PasswordExtract","description":"","content":"Password: 662eaf8e","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-09-16","pattern":"\/Password:\\s*(.*)$\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"177630","urlID":"3bq2q","name":"PasswordExtract","description":"","content":"Password: 662eaf8e","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-09-16","pattern":"Password:\\s*(.*)$","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,1 +1,1 @@
-{"id":"161","urlID":"2ri53","name":"[\\u004e-\\u9fc3]","description":"capturing CJK character","content":"","weightedVote":"2.5","numVotes":"0","author":"jimshao","community":"1","dateAdded":"2009-09-10","pattern":"\/\\w\\d\\w\\#?[0-9A-Fa-f]{6}s?\\d\\w\\\/g","replace":"","state":""}
+{"id":"161","urlID":"2ri53","name":"[\\u004e-\\u9fc3]","description":"capturing CJK character","content":"","weightedVote":"2.5","numVotes":"0","author":"jimshao","community":"1","dateAdded":"2009-09-10","pattern":"\\w\\d\\w\\#?[0-9A-Fa-f]{6}s?\\d\\w\\","replace":"","state":""}

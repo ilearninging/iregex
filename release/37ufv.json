@@ -1,1 +1,1 @@
-{"id":"135445","urlID":"37ufv","name":"Phone","description":"Phone","content":"","weightedVote":"2.5","numVotes":"0","author":"Phone","community":"1","dateAdded":"2014-01-09","pattern":"\/^\\d{3}-\\d{3}-\\d{4}$\/","replace":"","state":""}
+{"id":"135445","urlID":"37ufv","name":"Phone","description":"Phone","content":"","weightedVote":"2.5","numVotes":"0","author":"Phone","community":"1","dateAdded":"2014-01-09","pattern":"^\\d{3}-\\d{3}-\\d{4}$\/","replace":"","state":""}

@@ -1,1 +1,1 @@
-{"id":"174595","urlID":"3bh69","name":"Dashes","description":"","content":"zlt.1-684i-1.4.0.3-ollid","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-04","pattern":"\/(?:[^-]+-){3}\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"174595","urlID":"3bh69","name":"Dashes","description":"","content":"zlt.1-684i-1.4.0.3-ollid","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-04","pattern":"(?:[^-]+-){3}","replace":"","state":"{\"substEnabled\":false}"}

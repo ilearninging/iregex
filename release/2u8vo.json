@@ -1,1 +1,1 @@
-{"id":"29800","urlID":"2u8vo","name":"Match pixels or percent","description":"Match 100% or 500px; nothing else.","content":"","weightedVote":"3.26389","numVotes":"1","author":"Ryan","community":"1","dateAdded":"2011-07-19","pattern":"\/[0-9]?([px|\\%])$\/","replace":"","state":""}
+{"id":"29800","urlID":"2u8vo","name":"Match pixels or percent","description":"Match 100% or 500px; nothing else.","content":"","weightedVote":"3.26389","numVotes":"1","author":"Ryan","community":"1","dateAdded":"2011-07-19","pattern":"[0-9]?([px|\\%])$\/","replace":"","state":""}

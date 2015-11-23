@@ -1,1 +1,1 @@
-{"id":"159116","urlID":"3a3r4","name":"Text Wrapper","description":"","content":"WrapMe","weightedVote":"2.5","numVotes":"0","author":"KyleMit","community":"1","dateAdded":"2014-12-18","pattern":"\/(WrapMe)\/g","replace":"<wrapper>$1<\/wrapper>","state":""}
+{"id":"159116","urlID":"3a3r4","name":"Text Wrapper","description":"","content":"WrapMe","weightedVote":"2.5","numVotes":"0","author":"KyleMit","community":"1","dateAdded":"2014-12-18","pattern":"(WrapMe)","replace":"<wrapper>$1<\/wrapper>","state":""}

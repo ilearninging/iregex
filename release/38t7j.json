@@ -1,1 +1,1 @@
-{"id":"145937","urlID":"38t7j","name":"Asda","description":"","content":"CMD\t\t\tcat \/proc\/cpuinfo","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-05-26","pattern":"\/\\S+\/g","replace":"","state":""}
+{"id":"145937","urlID":"38t7j","name":"Asda","description":"","content":"CMD\t\t\tcat \/proc\/cpuinfo","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-05-26","pattern":"\\S+","replace":"","state":""}

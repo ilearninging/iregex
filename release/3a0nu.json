@@ -1,1 +1,1 @@
-{"id":"158058","urlID":"3a0nu","name":"Positive decimal","description":"","content":"-5\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-12-02","pattern":"\/(^\\d*\\.?\\d*[1-9]+\\d*$)|(^[1-9]+\\d*\\.\\d*$)\/g","replace":"","state":""}
+{"id":"158058","urlID":"3a0nu","name":"Positive decimal","description":"","content":"-5\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-12-02","pattern":"(^\\d*\\.?\\d*[1-9]+\\d*$)|(^[1-9]+\\d*\\.\\d*$)","replace":"","state":""}

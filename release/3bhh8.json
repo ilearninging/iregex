@@ -1,1 +1,1 @@
-{"id":"174712","urlID":"3bhh8","name":"KeenScripter Name input1","description":"","content":"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-05","pattern":"\/[a-zA-Z]{3,}\\s*\\d{0}\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"174712","urlID":"3bhh8","name":"KeenScripter Name input1","description":"","content":"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-05","pattern":"[a-zA-Z]{3,}\\s*\\d{0}","replace":"","state":"{\"substEnabled\":false}"}

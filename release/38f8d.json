@@ -1,1 +1,1 @@
-{"id":"141167","urlID":"38f8d","name":"qq","description":"ass","content":"","weightedVote":"2.5","numVotes":"0","author":"wqwq","community":"1","dateAdded":"2014-03-08","pattern":"\/\\be(\\w*)s\\b\/g","replace":"","state":""}
+{"id":"141167","urlID":"38f8d","name":"qq","description":"ass","content":"","weightedVote":"2.5","numVotes":"0","author":"wqwq","community":"1","dateAdded":"2014-03-08","pattern":"\\be(\\w*)s\\b","replace":"","state":""}

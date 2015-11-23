@@ -1,1 +1,1 @@
-{"id":"133616","urlID":"37p4g","name":"Test","description":"test","content":"","weightedVote":"2.5","numVotes":"0","author":"test","community":"1","dateAdded":"2013-12-24","pattern":"\/\\<div> <\/div>\/g","replace":"","state":""}
+{"id":"133616","urlID":"37p4g","name":"Test","description":"test","content":"","weightedVote":"2.5","numVotes":"0","author":"test","community":"1","dateAdded":"2013-12-24","pattern":"\\<div> <\/div>","replace":"","state":""}

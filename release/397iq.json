@@ -1,1 +1,1 @@
-{"id":"149470","urlID":"397iq","name":"Julians Regex","description":"","content":"X:NodeElement(Argument)","weightedVote":"2.5","numVotes":"0","author":"Muessigb","community":"1","dateAdded":"2014-07-26","pattern":"\/([A-Z]):(.*)\\((.*)\\)\/g","replace":"","state":""}
+{"id":"149470","urlID":"397iq","name":"Julians Regex","description":"","content":"X:NodeElement(Argument)","weightedVote":"2.5","numVotes":"0","author":"Muessigb","community":"1","dateAdded":"2014-07-26","pattern":"([A-Z]):(.*)\\((.*)\\)","replace":"","state":""}

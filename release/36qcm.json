@@ -1,1 +1,1 @@
-{"id":"123122","urlID":"36qcm","name":"Remove quotes","description":"Remove double quotes","content":"","weightedVote":"2.5","numVotes":"0","author":"Dima","community":"1","dateAdded":"2013-10-19","pattern":"\/\"(?:\\s+)?([^\"]+)(?:\\s+)?\"\/gm","replace":"$1","state":""}
+{"id":"123122","urlID":"36qcm","name":"Remove quotes","description":"Remove double quotes","content":"","weightedVote":"2.5","numVotes":"0","author":"Dima","community":"1","dateAdded":"2013-10-19","pattern":"\"(?:\\s+)?([^\"]+)(?:\\s+)?\"","replace":"$1","state":""}

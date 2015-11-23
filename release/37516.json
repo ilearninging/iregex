@@ -1,1 +1,1 @@
-{"id":"126754","urlID":"37516","name":"current subpath","description":"x","content":"","weightedVote":"2.5","numVotes":"0","author":"x","community":"1","dateAdded":"2013-11-11","pattern":"\/.+\\\/\/g","replace":"","state":""}
+{"id":"126754","urlID":"37516","name":"current subpath","description":"x","content":"","weightedVote":"2.5","numVotes":"0","author":"x","community":"1","dateAdded":"2013-11-11","pattern":".+\\\/","replace":"","state":""}

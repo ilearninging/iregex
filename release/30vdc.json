@@ -1,1 +1,1 @@
-{"id":"59300","urlID":"30vdc","name":"html inline style","description":"It can match html inline style","content":"","weightedVote":"2.88194","numVotes":"1","author":"sean","community":"1","dateAdded":"2012-05-15","pattern":"\/style[^<]+?(?=>)\/gm","replace":"","state":""}
+{"id":"59300","urlID":"30vdc","name":"html inline style","description":"It can match html inline style","content":"","weightedVote":"2.88194","numVotes":"1","author":"sean","community":"1","dateAdded":"2012-05-15","pattern":"style[^<]+?(?=>)","replace":"","state":""}

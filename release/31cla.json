@@ -1,1 +1,1 @@
-{"id":"63822","urlID":"31cla","name":"Date MM\/DD\/YYYY","description":"Just matches any date.","content":"","weightedVote":"2.7449","numVotes":"2","author":"Claud","community":"1","dateAdded":"2012-06-27","pattern":"\/(\\d*\\\/\\d*\\\/\\d*)","replace":"","state":""}
+{"id":"63822","urlID":"31cla","name":"Date MM\/DD\/YYYY","description":"Just matches any date.","content":"","weightedVote":"2.7449","numVotes":"2","author":"Claud","community":"1","dateAdded":"2012-06-27","pattern":"(\\d*\\\/\\d*\\\/\\d*)","replace":"","state":""}

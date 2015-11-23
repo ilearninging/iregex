@@ -1,1 +1,1 @@
-{"id":"21941","urlID":"2thuv","name":"JSON Find Ack","description":"retrieve ack value from json","content":"","weightedVote":"2.5","numVotes":"0","author":"gturrini","community":"1","dateAdded":"2011-04-14","pattern":"\/{.*\"Ack\":\"([0-9]*)\".*}\/g","replace":"","state":""}
+{"id":"21941","urlID":"2thuv","name":"JSON Find Ack","description":"retrieve ack value from json","content":"","weightedVote":"2.5","numVotes":"0","author":"gturrini","community":"1","dateAdded":"2011-04-14","pattern":"{.*\"Ack\":\"([0-9]*)\".*}","replace":"","state":""}

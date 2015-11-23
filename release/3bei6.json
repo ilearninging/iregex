@@ -1,1 +1,1 @@
-{"id":"173698","urlID":"3bei6","name":"ASIN","description":"","content":"999999999","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-22","pattern":"\/^(B[0-9]{2}[a-zA-Z0-9]{7}|[0-9]{9}(X|[0-9]))$\/","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"173698","urlID":"3bei6","name":"ASIN","description":"","content":"999999999","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-22","pattern":"^(B[0-9]{2}[a-zA-Z0-9]{7}|[0-9]{9}(X|[0-9]))$\/","replace":"","state":"{\"substEnabled\":false}"}

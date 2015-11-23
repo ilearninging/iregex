@@ -1,1 +1,1 @@
-{"id":"145147","urlID":"38qth","name":"example","description":"","content":"1 2 33 28 42 92 5","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-05-10","pattern":"\/[1-38]\\b\/g","replace":"","state":""}
+{"id":"145147","urlID":"38qth","name":"example","description":"","content":"1 2 33 28 42 92 5","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-05-10","pattern":"[1-38]\\b","replace":"","state":""}

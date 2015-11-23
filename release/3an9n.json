@@ -1,1 +1,1 @@
-{"id":"165757","urlID":"3an9n","name":"masterT","description":"","content":"How are you 5555 ","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-29","pattern":"\/(^.?How are you .+)\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"165757","urlID":"3an9n","name":"masterT","description":"","content":"How are you 5555 ","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-29","pattern":"(^.?How are you .+)","replace":"","state":"{\"substEnabled\":false}"}

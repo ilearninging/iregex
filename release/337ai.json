@@ -1,1 +1,1 @@
-{"id":"83846","urlID":"337ai","name":"Arabic","description":"for support bad arabic charchters","content":"","weightedVote":"2.5","numVotes":"0","author":"hossam Nsr","community":"1","dateAdded":"2012-12-21","pattern":"\/[\u0623-\u0649]\/g","replace":"","state":""}
+{"id":"83846","urlID":"337ai","name":"Arabic","description":"for support bad arabic charchters","content":"","weightedVote":"2.5","numVotes":"0","author":"hossam Nsr","community":"1","dateAdded":"2012-12-21","pattern":"[\u0623-\u0649]","replace":"","state":""}

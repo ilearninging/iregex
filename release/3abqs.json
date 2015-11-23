@@ -1,1 +1,1 @@
-{"id":"161844","urlID":"3abqs","name":"20150204","description":"","content":"40001#World Music#Mike Oldfield#Tubular Bells# 53# # #","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-02-04","pattern":"\/#\\s+(?=#)\/g","replace":"#","state":""}
+{"id":"161844","urlID":"3abqs","name":"20150204","description":"","content":"40001#World Music#Mike Oldfield#Tubular Bells# 53# # #","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-02-04","pattern":"#\\s+(?=#)","replace":"#","state":""}

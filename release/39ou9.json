@@ -1,1 +1,1 @@
-{"id":"155395","urlID":"39ou9","name":"Nickname","description":"","content":"","weightedVote":"2.5","numVotes":"0","author":"TokaLazy","community":"1","dateAdded":"2014-10-20","pattern":"\/^[a-zA-Z0-9-._]{2,64}$\/g","replace":"","state":""}
+{"id":"155395","urlID":"39ou9","name":"Nickname","description":"","content":"","weightedVote":"2.5","numVotes":"0","author":"TokaLazy","community":"1","dateAdded":"2014-10-20","pattern":"^[a-zA-Z0-9-._]{2,64}$","replace":"","state":""}

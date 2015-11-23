@@ -1,1 +1,1 @@
-{"id":"179802","urlID":"3c0ee","name":"StarMatch","description":"Matching the asterisk","content":"\n0*","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-16","pattern":"\/0\\*\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"179802","urlID":"3c0ee","name":"StarMatch","description":"Matching the asterisk","content":"\n0*","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-16","pattern":"0\\*","replace":"","state":"{\"substEnabled\":false}"}

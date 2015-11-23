@@ -1,1 +1,1 @@
-{"id":"82420","urlID":"3334s","name":"fluke","description":"fluke","content":"","weightedVote":"2.5","numVotes":"0","author":"fluke","community":"1","dateAdded":"2012-12-09","pattern":"\/\\be(\\w*)s\\b\/g","replace":"[[$&$&]]","state":""}
+{"id":"82420","urlID":"3334s","name":"fluke","description":"fluke","content":"","weightedVote":"2.5","numVotes":"0","author":"fluke","community":"1","dateAdded":"2012-12-09","pattern":"\\be(\\w*)s\\b","replace":"[[$&$&]]","state":""}

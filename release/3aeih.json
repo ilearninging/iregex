@@ -1,1 +1,1 @@
-{"id":"162779","urlID":"3aeih","name":"alphadashnumeral","description":"","content":"ASDASD-123\n\nsdsd-213\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-02-17","pattern":"\/[a-z|A-Z]+(-|_)[0-9]+\/","replace":"","state":""}
+{"id":"162779","urlID":"3aeih","name":"alphadashnumeral","description":"","content":"ASDASD-123\n\nsdsd-213\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-02-17","pattern":"[a-z|A-Z]+(-|_)[0-9]+\/","replace":"","state":""}

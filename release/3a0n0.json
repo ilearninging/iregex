@@ -1,1 +1,1 @@
-{"id":"158048","urlID":"3a0n0","name":"inserting a field","description":"yello","content":"a;b;c;d;e;f;g\na;b;c;d;e;f;g\na;b;c;d;e;f;g","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-12-02","pattern":"\/^((?:.+?;){3})\/gm","replace":"$1xxx;","state":""}
+{"id":"158048","urlID":"3a0n0","name":"inserting a field","description":"yello","content":"a;b;c;d;e;f;g\na;b;c;d;e;f;g\na;b;c;d;e;f;g","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-12-02","pattern":"^((?:.+?;){3})","replace":"$1xxx;","state":""}

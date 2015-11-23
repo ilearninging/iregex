@@ -1,1 +1,1 @@
-{"id":"31282","urlID":"2udam","name":"javascript namespace","description":"Select words separated by a dot","content":"","weightedVote":"2.5","numVotes":"0","author":"Axel Nitzschner","community":"1","dateAdded":"2011-08-07","pattern":"\/([\\w-]+)(?=[\\.,\\b]*)\/g","replace":"","state":""}
+{"id":"31282","urlID":"2udam","name":"javascript namespace","description":"Select words separated by a dot","content":"","weightedVote":"2.5","numVotes":"0","author":"Axel Nitzschner","community":"1","dateAdded":"2011-08-07","pattern":"([\\w-]+)(?=[\\.,\\b]*)","replace":"","state":""}

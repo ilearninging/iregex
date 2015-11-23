@@ -1,1 +1,1 @@
-{"id":"42158","urlID":"2vd6a","name":"time stamp tcpdump","description":"tcpdump time stamp selector.","content":"","weightedVote":"2.5","numVotes":"0","author":"sharad","community":"1","dateAdded":"2011-12-06","pattern":"\/^\\d{2}\\:\\d{2}\\:\\d{2}\\.\\d{3}\/g","replace":"","state":""}
+{"id":"42158","urlID":"2vd6a","name":"time stamp tcpdump","description":"tcpdump time stamp selector.","content":"","weightedVote":"2.5","numVotes":"0","author":"sharad","community":"1","dateAdded":"2011-12-06","pattern":"^\\d{2}\\:\\d{2}\\:\\d{2}\\.\\d{3}","replace":"","state":""}

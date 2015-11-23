@@ -1,1 +1,1 @@
-{"id":"169145","urlID":"3b17b","name":"Match on S beginning and end","description":"","content":"\n\nSblahS","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-18","pattern":"\/[S^]+\\w+[S$]\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"169145","urlID":"3b17b","name":"Match on S beginning and end","description":"","content":"\n\nSblahS","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-18","pattern":"[S^]+\\w+[S$]","replace":"","state":"{\"substEnabled\":false}"}

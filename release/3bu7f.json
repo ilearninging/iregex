@@ -1,1 +1,1 @@
-{"id":"179045","urlID":"3bu7f","name":"tucooo","description":"asdsa","content":"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-06","pattern":"\/^[a-zA-Z]+$\/","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"179045","urlID":"3bu7f","name":"tucooo","description":"asdsa","content":"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-06","pattern":"^[a-zA-Z]+$\/","replace":"","state":"{\"substEnabled\":false}"}

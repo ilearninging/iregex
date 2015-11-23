@@ -1,1 +1,1 @@
-{"id":"171681","urlID":"3b8l3","name":"aa","description":"","content":"Alice\na\naa\nfaad\nfad\naabracadabra\nabracadabra\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-22","pattern":"\/^(a|aa)$\/gm","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"171681","urlID":"3b8l3","name":"aa","description":"","content":"Alice\na\naa\nfaad\nfad\naabracadabra\nabracadabra\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-22","pattern":"^(a|aa)$","replace":"","state":"{\"substEnabled\":false}"}

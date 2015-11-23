@@ -1,1 +1,1 @@
-{"id":"19433","urlID":"2tajr","name":"SQL String","description":"select text strings used in SQL ","content":"","weightedVote":"2.5","numVotes":"1","author":"Novik","community":"1","dateAdded":"2011-03-16","pattern":"\/'.*?'\/g","replace":"","state":""}
+{"id":"19433","urlID":"2tajr","name":"SQL String","description":"select text strings used in SQL ","content":"","weightedVote":"2.5","numVotes":"1","author":"Novik","community":"1","dateAdded":"2011-03-16","pattern":"'.*?'","replace":"","state":""}

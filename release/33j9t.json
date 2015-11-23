@@ -1,1 +1,1 @@
-{"id":"87935","urlID":"33j9t","name":"dgtrs","description":"sdfsdfssfsdfsdfsd","content":"","weightedVote":"1.73611","numVotes":"1","author":"sfsdfsdfsdfsdf","community":"1","dateAdded":"2013-01-29","pattern":"\/(\\<|<)!--\\s*.*?\\s*--(\\>|>)\/gm","replace":"","state":""}
+{"id":"87935","urlID":"33j9t","name":"dgtrs","description":"sdfsdfssfsdfsdfsd","content":"","weightedVote":"1.73611","numVotes":"1","author":"sfsdfsdfsdfsdf","community":"1","dateAdded":"2013-01-29","pattern":"(\\<|<)!--\\s*.*?\\s*--(\\>|>)","replace":"","state":""}

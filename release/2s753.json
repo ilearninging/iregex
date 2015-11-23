@@ -1,1 +1,1 @@
-{"id":"7329","urlID":"2s753","name":"CPF","description":"Validador de CPF","content":"","weightedVote":"2.5","numVotes":"0","author":"Danilo Molina","community":"1","dateAdded":"2010-09-22","pattern":"\/(\\d{3}.?\\d{3}.?\\d{3}-?\\d{2})\/g","replace":"","state":""}
+{"id":"7329","urlID":"2s753","name":"CPF","description":"Validador de CPF","content":"","weightedVote":"2.5","numVotes":"0","author":"Danilo Molina","community":"1","dateAdded":"2010-09-22","pattern":"(\\d{3}.?\\d{3}.?\\d{3}-?\\d{2})","replace":"","state":""}

@@ -1,1 +1,1 @@
-{"id":"37","urlID":"2rhpf","name":"PHP Code","description":"Match PHP CODE","content":"","weightedVote":"3.47936","numVotes":"3","author":"YNH","community":"1","dateAdded":"2009-06-07","pattern":"\/(<\\?|<\\?php)(.+?)\\?>\/gxsm","replace":"","state":""}
+{"id":"37","urlID":"2rhpf","name":"PHP Code","description":"Match PHP CODE","content":"","weightedVote":"3.47936","numVotes":"3","author":"YNH","community":"1","dateAdded":"2009-06-07","pattern":"(<\\?|<\\?php)(.+?)\\?>\/gxsm","replace":"","state":""}

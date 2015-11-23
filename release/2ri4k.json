@@ -1,1 +1,1 @@
-{"id":"156","urlID":"2ri4k","name":"Grab ID from Param","description":"Martin you can use this","content":"","weightedVote":"3.26389","numVotes":"1","author":"testing00","community":"1","dateAdded":"2009-09-02","pattern":"\/^.*\\?id=([a-zA-Z0-9]*)&.*$\/g","replace":"","state":""}
+{"id":"156","urlID":"2ri4k","name":"Grab ID from Param","description":"Martin you can use this","content":"","weightedVote":"3.26389","numVotes":"1","author":"testing00","community":"1","dateAdded":"2009-09-02","pattern":"^.*\\?id=([a-zA-Z0-9]*)&.*$","replace":"","state":""}

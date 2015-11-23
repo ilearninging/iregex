@@ -1,1 +1,1 @@
-{"id":"110700","urlID":"35m04","name":"My-Entertainment","description":"mk","content":"","weightedVote":"2.5","numVotes":"0","author":"mk","community":"1","dateAdded":"2013-07-22","pattern":"\/\\be(\\w*)s\\b\/g","replace":"","state":""}
+{"id":"110700","urlID":"35m04","name":"My-Entertainment","description":"mk","content":"","weightedVote":"2.5","numVotes":"0","author":"mk","community":"1","dateAdded":"2013-07-22","pattern":"\\be(\\w*)s\\b","replace":"","state":""}

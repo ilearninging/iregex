@@ -1,1 +1,1 @@
-{"id":"171910","urlID":"3b9ai","name":"Matches first word","description":"","content":"testoepre","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-25","pattern":"\/^\\b[a-zA-Z0-9_]+\\b$\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"171910","urlID":"3b9ai","name":"Matches first word","description":"","content":"testoepre","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-25","pattern":"^\\b[a-zA-Z0-9_]+\\b$","replace":"","state":"{\"substEnabled\":false}"}

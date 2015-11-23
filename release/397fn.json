@@ -1,1 +1,1 @@
-{"id":"149437","urlID":"397fn","name":"ShauanAndrade","description":"Remover tag html de um texto","content":"um <b>negrito<\/b> aqui.\n","weightedVote":"2.5","numVotes":"0","author":"ShauanAndrade","community":"1","dateAdded":"2014-07-25","pattern":"\/<(\/?[^])>\/g","replace":"","state":""}
+{"id":"149437","urlID":"397fn","name":"ShauanAndrade","description":"Remover tag html de um texto","content":"um <b>negrito<\/b> aqui.\n","weightedVote":"2.5","numVotes":"0","author":"ShauanAndrade","community":"1","dateAdded":"2014-07-25","pattern":"<(\/?[^])>","replace":"","state":""}

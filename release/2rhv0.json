@@ -1,1 +1,1 @@
-{"id":"96","urlID":"2rhv0","name":"Class starter","description":"ActionScript, Java class starter","content":"","weightedVote":"3.07292","numVotes":"1","author":"iiley Chen","community":"1","dateAdded":"2009-07-17","pattern":"\/(class)\\s([^\\{]+)\\{\/","replace":"","state":""}
+{"id":"96","urlID":"2rhv0","name":"Class starter","description":"ActionScript, Java class starter","content":"","weightedVote":"3.07292","numVotes":"1","author":"iiley Chen","community":"1","dateAdded":"2009-07-17","pattern":"(class)\\s([^\\{]+)\\{\/","replace":"","state":""}

@@ -1,1 +1,1 @@
-{"id":"175045","urlID":"3bigf","name":"Image","description":"","content":"koe.png\nzon.com\ngoogle.jpeg","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-11","pattern":"\/(.+\\.(png|jpeg))\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"175045","urlID":"3bigf","name":"Image","description":"","content":"koe.png\nzon.com\ngoogle.jpeg","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-11","pattern":"(.+\\.(png|jpeg))","replace":"","state":"{\"substEnabled\":false}"}

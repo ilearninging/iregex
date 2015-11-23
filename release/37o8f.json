@@ -1,1 +1,1 @@
-{"id":"133317","urlID":"37o8f","name":"translocal","description":"reguliere expressies taak","content":"","weightedVote":"2.5","numVotes":"0","author":"eva","community":"1","dateAdded":"2013-12-21","pattern":"\/(trans)?national(i)(ty\/sm)?.*?\\b\/gxs","replace":"","state":""}
+{"id":"133317","urlID":"37o8f","name":"translocal","description":"reguliere expressies taak","content":"","weightedVote":"2.5","numVotes":"0","author":"eva","community":"1","dateAdded":"2013-12-21","pattern":"(trans)?national(i)(ty\/sm)?.*?\\b\/gxs","replace":"","state":""}

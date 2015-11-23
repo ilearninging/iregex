@@ -1,1 +1,1 @@
-{"id":"58007","urlID":"30rk5","name":"All HTML Tags","description":"Capture all HTML Tags","content":"","weightedVote":"2.88194","numVotes":"1","author":"Archmaverick","community":"1","dateAdded":"2012-05-04","pattern":"<\\\/?((\\w|\\W|\\S)*?)>\/g","replace":"","state":""}
+{"id":"58007","urlID":"30rk5","name":"All HTML Tags","description":"Capture all HTML Tags","content":"","weightedVote":"2.88194","numVotes":"1","author":"Archmaverick","community":"1","dateAdded":"2012-05-04","pattern":"<\\\/?((\\w|\\W|\\S)*?)>","replace":"","state":""}

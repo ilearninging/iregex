@@ -1,1 +1,1 @@
-{"id":"127027","urlID":"375qp","name":"email","description":"email validation","content":"","weightedVote":"2.5","numVotes":"0","author":"ko","community":"1","dateAdded":"2013-11-12","pattern":"\/\\be(\\w*)s\\b\/g","replace":"","state":""}
+{"id":"127027","urlID":"375qp","name":"email","description":"email validation","content":"","weightedVote":"2.5","numVotes":"0","author":"ko","community":"1","dateAdded":"2013-11-12","pattern":"\\be(\\w*)s\\b","replace":"","state":""}

@@ -1,1 +1,1 @@
-{"id":"74637","urlID":"32cb7","name":"test","description":"test","content":"","weightedVote":"2.5","numVotes":"0","author":"Mohammed Al Khalidi","community":"1","dateAdded":"2012-10-05","pattern":"\/^[0-9A-Z]+$\/g","replace":"^[0-9A-Z]+$","state":""}
+{"id":"74637","urlID":"32cb7","name":"test","description":"test","content":"","weightedVote":"2.5","numVotes":"0","author":"Mohammed Al Khalidi","community":"1","dateAdded":"2012-10-05","pattern":"^[0-9A-Z]+$","replace":"^[0-9A-Z]+$","state":""}

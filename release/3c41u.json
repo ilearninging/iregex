@@ -1,1 +1,1 @@
-{"id":"181034","urlID":"3c41u","name":"greedytest","description":"","content":"\"<img src=\"foo\" style=\"bar\"\/>\"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-11-02","pattern":"\/\".*\"\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"181034","urlID":"3c41u","name":"greedytest","description":"","content":"\"<img src=\"foo\" style=\"bar\"\/>\"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-11-02","pattern":"\".*\"","replace":"","state":"{\"substEnabled\":false}"}

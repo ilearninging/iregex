@@ -1,1 +1,1 @@
-{"id":"167470","urlID":"3asaa","name":"\uc0c1\ud488\ubc88\ud638","description":"","content":"SFSELFAA0007570","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-22","pattern":"\/^([A-Z0-9]{15})$\/","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"167470","urlID":"3asaa","name":"\uc0c1\ud488\ubc88\ud638","description":"","content":"SFSELFAA0007570","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-22","pattern":"^([A-Z0-9]{15})$\/","replace":"","state":"{\"substEnabled\":false}"}

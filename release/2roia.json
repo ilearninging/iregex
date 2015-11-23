@@ -1,1 +1,1 @@
-{"id":"2350","urlID":"2roia","name":"Only Numeric","description":"Allows only numeric values","content":"","weightedVote":"3.41837","numVotes":"2","author":"Sathe","community":"1","dateAdded":"2010-07-09","pattern":"\/^\\d+$(\\.\\d+)?\/g","replace":"","state":""}
+{"id":"2350","urlID":"2roia","name":"Only Numeric","description":"Allows only numeric values","content":"","weightedVote":"3.41837","numVotes":"2","author":"Sathe","community":"1","dateAdded":"2010-07-09","pattern":"^\\d+$(\\.\\d+)?","replace":"","state":""}

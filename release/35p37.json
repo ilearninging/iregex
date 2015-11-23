@@ -1,1 +1,1 @@
-{"id":"111757","urlID":"35p37","name":"pro","description":"adfdf","content":"","weightedVote":"2.5","numVotes":"0","author":"einstein","community":"1","dateAdded":"2013-07-30","pattern":"\/\\w+pro(\\w*)\\w+\/g","replace":"","state":""}
+{"id":"111757","urlID":"35p37","name":"pro","description":"adfdf","content":"","weightedVote":"2.5","numVotes":"0","author":"einstein","community":"1","dateAdded":"2013-07-30","pattern":"\\w+pro(\\w*)\\w+","replace":"","state":""}

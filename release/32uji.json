@@ -1,1 +1,1 @@
-{"id":"80870","urlID":"32uji","name":"lol","description":"lol","content":"","weightedVote":"1.73611","numVotes":"1","author":"lol","community":"1","dateAdded":"2012-11-26","pattern":"\/\\b0x(?:[0-9A-Fa-f]{6}|0-9A-Fa-f]{8})\\b\/g","replace":"","state":""}
+{"id":"80870","urlID":"32uji","name":"lol","description":"lol","content":"","weightedVote":"1.73611","numVotes":"1","author":"lol","community":"1","dateAdded":"2012-11-26","pattern":"\\b0x(?:[0-9A-Fa-f]{6}|0-9A-Fa-f]{8})\\b","replace":"","state":""}

@@ -1,1 +1,1 @@
-{"id":"156167","urlID":"39r6l","name":"Ipaddress","description":"extracts an ip address","content":"192.168.144.10 49570 22","weightedVote":"2.5","numVotes":"0","author":"Lord Loh","community":"1","dateAdded":"2014-11-02","pattern":"\/((\\d)+(\\.)*){4}\/","replace":"","state":""}
+{"id":"156167","urlID":"39r6l","name":"Ipaddress","description":"extracts an ip address","content":"192.168.144.10 49570 22","weightedVote":"2.5","numVotes":"0","author":"Lord Loh","community":"1","dateAdded":"2014-11-02","pattern":"((\\d)+(\\.)*){4}\/","replace":"","state":""}

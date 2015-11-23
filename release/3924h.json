@@ -1,1 +1,1 @@
-{"id":"147611","urlID":"3924h","name":"reg","description":"","content":"S M L XL ( 1 2 2 1 )","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-24","pattern":"\/[SMLX]{1,2}\/igm","replace":"$1","state":""}
+{"id":"147611","urlID":"3924h","name":"reg","description":"","content":"S M L XL ( 1 2 2 1 )","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-24","pattern":"[SMLX]{1,2}\/igm","replace":"$1","state":""}

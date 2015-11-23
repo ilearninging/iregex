@@ -1,1 +1,1 @@
-{"id":"82499","urlID":"333c9","name":"portalul","description":"portalul","content":"","weightedVote":"2.5","numVotes":"0","author":"portalul","community":"1","dateAdded":"2012-12-10","pattern":"\/(\\$INSTA_DIR\\$=).*\/g","replace":"($1)AAA","state":""}
+{"id":"82499","urlID":"333c9","name":"portalul","description":"portalul","content":"","weightedVote":"2.5","numVotes":"0","author":"portalul","community":"1","dateAdded":"2012-12-10","pattern":"(\\$INSTA_DIR\\$=).*","replace":"($1)AAA","state":""}

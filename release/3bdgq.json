@@ -1,1 +1,1 @@
-{"id":"173342","urlID":"3bdgq","name":"freenode-regex-help","description":"","content":".some=text","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-16","pattern":"\/\\.(.+)(\\s*=\\s*[\\w\\s\\d]{1,12})?\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"173342","urlID":"3bdgq","name":"freenode-regex-help","description":"","content":".some=text","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-16","pattern":"\\.(.+)(\\s*=\\s*[\\w\\s\\d]{1,12})?","replace":"","state":"{\"substEnabled\":false}"}

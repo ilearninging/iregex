@@ -1,1 +1,1 @@
-{"id":"78888","urlID":"32opo","name":"email","description":"dfgfg","content":"","weightedVote":"2.5","numVotes":"0","author":"nguyenvandinh","community":"1","dateAdded":"2012-11-09","pattern":"\/(^[a-zA-Z])([a-zA-Z0-9\\_])+\\@([a-zA-Z]{5})\\.([a-zA-Z]{2,4})$\/gi","replace":"","state":""}
+{"id":"78888","urlID":"32opo","name":"email","description":"dfgfg","content":"","weightedVote":"2.5","numVotes":"0","author":"nguyenvandinh","community":"1","dateAdded":"2012-11-09","pattern":"(^[a-zA-Z])([a-zA-Z0-9\\_])+\\@([a-zA-Z]{5})\\.([a-zA-Z]{2,4})$\/gi","replace":"","state":""}

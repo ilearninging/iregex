@@ -1,1 +1,1 @@
-{"id":"19747","urlID":"2tbh9","name":"Remove server side script - 2","description":"Remove server side script - 2","content":"","weightedVote":"2.5","numVotes":"0","author":"Yogesh Patel","community":"1","dateAdded":"2011-03-21","pattern":"\/(<)%[\\s\\S]*?%(>)\/gm","replace":"","state":""}
+{"id":"19747","urlID":"2tbh9","name":"Remove server side script - 2","description":"Remove server side script - 2","content":"","weightedVote":"2.5","numVotes":"0","author":"Yogesh Patel","community":"1","dateAdded":"2011-03-21","pattern":"(<)%[\\s\\S]*?%(>)","replace":"","state":""}

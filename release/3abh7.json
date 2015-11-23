@@ -1,1 +1,1 @@
-{"id":"161741","urlID":"3abh7","name":"Something","description":"","content":"c01com_aaa.zip","weightedVote":"2.5","numVotes":"0","author":"John Smith","community":"1","dateAdded":"2015-02-03","pattern":"\/(c\\d{2}com)|(?:.zip)\/g","replace":"","state":""}
+{"id":"161741","urlID":"3abh7","name":"Something","description":"","content":"c01com_aaa.zip","weightedVote":"2.5","numVotes":"0","author":"John Smith","community":"1","dateAdded":"2015-02-03","pattern":"(c\\d{2}com)|(?:.zip)","replace":"","state":""}

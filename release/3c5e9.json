@@ -1,1 +1,1 @@
-{"id":"181507","urlID":"3c5e9","name":"test","description":"","content":"func()\n{\n\n}\n\nfunc2()\n{\n\n}","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-11-07","pattern":"\/^[ \\t]*([^ \\t]+)\\((.*)\\)\/gm","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"181507","urlID":"3c5e9","name":"test","description":"","content":"func()\n{\n\n}\n\nfunc2()\n{\n\n}","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-11-07","pattern":"^[ \\t]*([^ \\t]+)\\((.*)\\)","replace":"","state":"{\"substEnabled\":false}"}

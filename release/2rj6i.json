@@ -1,1 +1,1 @@
-{"id":"518","urlID":"2rj6i","name":"kll","description":"1","content":"","weightedVote":"2.5","numVotes":"0","author":"455666","community":"1","dateAdded":"2010-05-12","pattern":"\/\\be(\\w*)s\\b\/g","replace":"","state":""}
+{"id":"518","urlID":"2rj6i","name":"kll","description":"1","content":"","weightedVote":"2.5","numVotes":"0","author":"455666","community":"1","dateAdded":"2010-05-12","pattern":"\\be(\\w*)s\\b","replace":"","state":""}

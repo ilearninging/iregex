@@ -1,1 +1,1 @@
-{"id":"155018","urlID":"39nqu","name":"regex updated","description":"","content":"John M. Allen - job 00 - october.txt","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-10-14","pattern":"\/\\b[A-Z](?=[a-z]+\\s-\\s[a-z])\/g","replace":"","state":""}
+{"id":"155018","urlID":"39nqu","name":"regex updated","description":"","content":"John M. Allen - job 00 - october.txt","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-10-14","pattern":"\\b[A-Z](?=[a-z]+\\s-\\s[a-z])","replace":"","state":""}

@@ -1,1 +1,1 @@
-{"id":"151430","urlID":"39dai","name":"Email regex","description":"","content":"text@example.com","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-08-28","pattern":"\/^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,4}$\/","replace":"","state":""}
+{"id":"151430","urlID":"39dai","name":"Email regex","description":"","content":"text@example.com","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-08-28","pattern":"^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,4}$\/","replace":"","state":""}

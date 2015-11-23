@@ -1,1 +1,1 @@
-{"id":"180434","urlID":"3c29m","name":"google-like expression","description":"","content":"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-25","pattern":"\/^(weather in (new york|california))$\/i","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"180434","urlID":"3c29m","name":"google-like expression","description":"","content":"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-25","pattern":"^(weather in (new york|california))$\/i","replace":"","state":"{\"substEnabled\":false}"}

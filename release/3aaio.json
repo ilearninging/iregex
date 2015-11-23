@@ -1,1 +1,1 @@
-{"id":"161416","urlID":"3aaio","name":"Jotunn","description":"fgdfgd","content":null,"weightedVote":"2.5","numVotes":"0","author":"dfg","community":"1","dateAdded":"2015-01-29","pattern":"\/\\<div class=\\\"item-decription\\\"\\>(.*|\\n*)\/g","replace":"","state":""}
+{"id":"161416","urlID":"3aaio","name":"Jotunn","description":"fgdfgd","content":null,"weightedVote":"2.5","numVotes":"0","author":"dfg","community":"1","dateAdded":"2015-01-29","pattern":"\\<div class=\\\"item-decription\\\"\\>(.*|\\n*)","replace":"","state":""}

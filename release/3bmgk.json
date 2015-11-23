@@ -1,1 +1,1 @@
-{"id":"176412","urlID":"3bmgk","name":"e-dork","description":"","content":"the is e-dork or sudde-dorkone or othere-dork ok","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-31","pattern":"\/(e-dork)\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"176412","urlID":"3bmgk","name":"e-dork","description":"","content":"the is e-dork or sudde-dorkone or othere-dork ok","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-31","pattern":"(e-dork)","replace":"","state":"{\"substEnabled\":false}"}

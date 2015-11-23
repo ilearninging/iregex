@@ -1,1 +1,1 @@
-{"id":"71485","urlID":"3233n","name":"Numeric matcher (dec & comma) ","description":"Numeric matcher (dec & comma) ","content":"","weightedVote":"2.5","numVotes":"0","author":"Drakeshe","community":"1","dateAdded":"2012-09-07","pattern":"\/(\\d+)(((.|,)\\d+)+)?\/g","replace":"","state":""}
+{"id":"71485","urlID":"3233n","name":"Numeric matcher (dec & comma) ","description":"Numeric matcher (dec & comma) ","content":"","weightedVote":"2.5","numVotes":"0","author":"Drakeshe","community":"1","dateAdded":"2012-09-07","pattern":"(\\d+)(((.|,)\\d+)+)?","replace":"","state":""}

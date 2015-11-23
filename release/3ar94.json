@@ -1,1 +1,1 @@
-{"id":"167116","urlID":"3ar94","name":"HourValidation","description":"","content":"7:30\n7\n7,5\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-17","pattern":"\/([A-Z])\\w+\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"167116","urlID":"3ar94","name":"HourValidation","description":"","content":"7:30\n7\n7,5\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-17","pattern":"([A-Z])\\w+","replace":"","state":"{\"substEnabled\":false}"}

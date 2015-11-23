@@ -1,1 +1,1 @@
-{"id":"138052","urlID":"3864c","name":"http:\/\/www.techved.com\/services\/website-design","description":"s","content":"","weightedVote":"2.5","numVotes":"0","author":"rss","community":"1","dateAdded":"2014-01-31","pattern":"\/\\be(\\w*)s\\b\/g","replace":"[[$&$&]]","state":""}
+{"id":"138052","urlID":"3864c","name":"http:\/\/www.techved.com\/services\/website-design","description":"s","content":"","weightedVote":"2.5","numVotes":"0","author":"rss","community":"1","dateAdded":"2014-01-31","pattern":"\\be(\\w*)s\\b","replace":"[[$&$&]]","state":""}

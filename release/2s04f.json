@@ -1,1 +1,1 @@
-{"id":"4933","urlID":"2s04f","name":"elabadvisor","description":"parse disk data","content":"","weightedVote":"2.5","numVotes":"0","author":"don","community":"1","dateAdded":"2010-08-18","pattern":"\/\\(....(:....){0,1}\\s*){1,20}\\\/","replace":"","state":""}
+{"id":"4933","urlID":"2s04f","name":"elabadvisor","description":"parse disk data","content":"","weightedVote":"2.5","numVotes":"0","author":"don","community":"1","dateAdded":"2010-08-18","pattern":"\\(....(:....){0,1}\\s*){1,20}\\\/","replace":"","state":""}

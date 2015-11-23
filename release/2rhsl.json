@@ -1,1 +1,1 @@
-{"id":"71","urlID":"2rhsl","name":"[A-Z]{1,2}[0-9]{1,2} ?[0-9][A-Z]{2}","description":"UK Postcode validation","content":"","weightedVote":"2.80612","numVotes":"2","author":"googled...","community":"1","dateAdded":"2009-06-29","pattern":"\/[A-Z]{1,2}[0-9]{1,2}.*\/i","replace":"","state":""}
+{"id":"71","urlID":"2rhsl","name":"[A-Z]{1,2}[0-9]{1,2} ?[0-9][A-Z]{2}","description":"UK Postcode validation","content":"","weightedVote":"2.80612","numVotes":"2","author":"googled...","community":"1","dateAdded":"2009-06-29","pattern":"[A-Z]{1,2}[0-9]{1,2}.*\/i","replace":"","state":""}

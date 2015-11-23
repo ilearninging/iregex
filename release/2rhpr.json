@@ -1,1 +1,1 @@
-{"id":"41","urlID":"2rhpr","name":"All tags","description":"Gets all html tags","content":"","weightedVote":"3.11224","numVotes":"2","author":"DeathIncognito","community":"1","dateAdded":"2009-06-08","pattern":"\/<.*?>\/g","replace":"","state":""}
+{"id":"41","urlID":"2rhpr","name":"All tags","description":"Gets all html tags","content":"","weightedVote":"3.11224","numVotes":"2","author":"DeathIncognito","community":"1","dateAdded":"2009-06-08","pattern":"<.*?>","replace":"","state":""}

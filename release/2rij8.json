@@ -1,1 +1,1 @@
-{"id":"312","urlID":"2rij8","name":"sdfsdfd","description":"fs","content":"","weightedVote":"2.5","numVotes":"0","author":"dfs","community":"1","dateAdded":"2010-01-08","pattern":"\/^(([a-zA-Z0-9\\._-]+)@([a-zA-Z0-9-]+)\\.([a-zA-Z]{2,4}))$\/g","replace":"","state":""}
+{"id":"312","urlID":"2rij8","name":"sdfsdfd","description":"fs","content":"","weightedVote":"2.5","numVotes":"0","author":"dfs","community":"1","dateAdded":"2010-01-08","pattern":"^(([a-zA-Z0-9\\._-]+)@([a-zA-Z0-9-]+)\\.([a-zA-Z]{2,4}))$","replace":"","state":""}

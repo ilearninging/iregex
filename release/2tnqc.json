@@ -1,1 +1,1 @@
-{"id":"23940","urlID":"2tnqc","name":"Any Element","description":"Anything that starts with <","content":"","weightedVote":"2.5","numVotes":"0","author":"Test","community":"1","dateAdded":"2011-05-10","pattern":"\/<\\w+\/g","replace":"","state":""}
+{"id":"23940","urlID":"2tnqc","name":"Any Element","description":"Anything that starts with <","content":"","weightedVote":"2.5","numVotes":"0","author":"Test","community":"1","dateAdded":"2011-05-10","pattern":"<\\w+","replace":"","state":""}

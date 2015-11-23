@@ -1,1 +1,1 @@
-{"id":"37481","urlID":"2uvfr","name":"Alpha and spaces","description":"Matches only alpha characters and spaces","content":"","weightedVote":"3.26389","numVotes":"1","author":"Dmitry Polovka","community":"1","dateAdded":"2011-10-19","pattern":"\/^[[:alpha:]\\s]+$\/g","replace":"","state":""}
+{"id":"37481","urlID":"2uvfr","name":"Alpha and spaces","description":"Matches only alpha characters and spaces","content":"","weightedVote":"3.26389","numVotes":"1","author":"Dmitry Polovka","community":"1","dateAdded":"2011-10-19","pattern":"^[[:alpha:]\\s]+$","replace":"","state":""}

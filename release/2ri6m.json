@@ -1,1 +1,1 @@
-{"id":"178","urlID":"2ri6m","name":"mytest","description":"justa test","content":"","weightedVote":"2.11806","numVotes":"1","author":"steve","community":"1","dateAdded":"2009-09-27","pattern":"\/LicenceCode:?(.)*\/","replace":"$1","state":""}
+{"id":"178","urlID":"2ri6m","name":"mytest","description":"justa test","content":"","weightedVote":"2.11806","numVotes":"1","author":"steve","community":"1","dateAdded":"2009-09-27","pattern":"LicenceCode:?(.)*\/","replace":"$1","state":""}

@@ -1,1 +1,1 @@
-{"id":"146875","urlID":"38vvh","name":"specials","description":"","content":"Cuts[2][Specials][1][special_id]","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-11","pattern":"\/\\d\/g","replace":"","state":""}
+{"id":"146875","urlID":"38vvh","name":"specials","description":"","content":"Cuts[2][Specials][1][special_id]","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-11","pattern":"\\d","replace":"","state":""}

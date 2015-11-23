@@ -1,1 +1,1 @@
-{"id":"149526","urlID":"397o2","name":"LocationRegex","description":"","content":"AA\n\n01\n\n00\n\n  \n\n \nB1\n\n-A\n\n--","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-07-28","pattern":"\/([A-Z0-9]{2}|  )\/g","replace":"","state":""}
+{"id":"149526","urlID":"397o2","name":"LocationRegex","description":"","content":"AA\n\n01\n\n00\n\n  \n\n \nB1\n\n-A\n\n--","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-07-28","pattern":"([A-Z0-9]{2}|  )","replace":"","state":""}

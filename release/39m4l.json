@@ -1,1 +1,1 @@
-{"id":"154439","urlID":"39m4l","name":"Program List 4","description":"","content":"\n\n\nAdobe Shockwave Player 11.6\n\n\n\n\n\n\n\n","weightedVote":"2.5","numVotes":"0","author":"KyleMit","community":"1","dateAdded":"2014-10-09","pattern":"\/^(.*)(\\r?\\n\\1)+$\/gm","replace":"","state":""}
+{"id":"154439","urlID":"39m4l","name":"Program List 4","description":"","content":"\n\n\nAdobe Shockwave Player 11.6\n\n\n\n\n\n\n\n","weightedVote":"2.5","numVotes":"0","author":"KyleMit","community":"1","dateAdded":"2014-10-09","pattern":"^(.*)(\\r?\\n\\1)+$","replace":"","state":""}

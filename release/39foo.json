@@ -1,1 +1,1 @@
-{"id":"152264","urlID":"39foo","name":"nsb","description":"for nsb","content":"12\/34a\/5","weightedVote":"2.5","numVotes":"0","author":"hc","community":"1","dateAdded":"2014-09-10","pattern":"\/\\d{2}\/\\d{2}\\w\/\\d\/g","replace":"","state":""}
+{"id":"152264","urlID":"39foo","name":"nsb","description":"for nsb","content":"12\/34a\/5","weightedVote":"2.5","numVotes":"0","author":"hc","community":"1","dateAdded":"2014-09-10","pattern":"\\d{2}\/\\d{2}\\w\/\\d","replace":"","state":""}

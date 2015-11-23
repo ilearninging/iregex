@@ -1,1 +1,1 @@
-{"id":"170553","urlID":"3b5bb","name":"base-pwd","description":"","content":"A$x0.AC\t@","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-05","pattern":"\/^(?=.*?[0-9])(?=.*?[a-zA-Z])[\\s\\S]{8,20}$\/","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"170553","urlID":"3b5bb","name":"base-pwd","description":"","content":"A$x0.AC\t@","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-05","pattern":"^(?=.*?[0-9])(?=.*?[a-zA-Z])[\\s\\S]{8,20}$\/","replace":"","state":"{\"substEnabled\":false}"}

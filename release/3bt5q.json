@@ -1,1 +1,1 @@
-{"id":"178686","urlID":"3bt5q","name":"Att","description":"","content":"att att.php","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-09-30","pattern":"\/\\batt(.php|.html)?\\b\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"178686","urlID":"3bt5q","name":"Att","description":"","content":"att att.php","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-09-30","pattern":"\\batt(.php|.html)?\\b","replace":"","state":"{\"substEnabled\":false}"}

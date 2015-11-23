@@ -1,1 +1,1 @@
-{"id":"91402","urlID":"33teu","name":"x","description":"d","content":"","weightedVote":"1.73611","numVotes":"1","author":"d","community":"1","dateAdded":"2013-02-25","pattern":"\/\\be(\\w*)s\\b\\\\\/gxsm","replace":"[[$&$&]]","state":""}
+{"id":"91402","urlID":"33teu","name":"x","description":"d","content":"","weightedVote":"1.73611","numVotes":"1","author":"d","community":"1","dateAdded":"2013-02-25","pattern":"\\be(\\w*)s\\b\\\\\/gxsm","replace":"[[$&$&]]","state":""}

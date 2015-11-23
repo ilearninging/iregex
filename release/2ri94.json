@@ -1,1 +1,1 @@
-{"id":"204","urlID":"2ri94","name":"^\\$\\d*\\.\\d*","description":"Dollar amount without commas","content":"","weightedVote":"2.5","numVotes":"0","author":"Anonymous","community":"1","dateAdded":"2009-10-23","pattern":"\/^\\$\\d*\\.\\d*\/gm","replace":"","state":""}
+{"id":"204","urlID":"2ri94","name":"^\\$\\d*\\.\\d*","description":"Dollar amount without commas","content":"","weightedVote":"2.5","numVotes":"0","author":"Anonymous","community":"1","dateAdded":"2009-10-23","pattern":"^\\$\\d*\\.\\d*","replace":"","state":""}

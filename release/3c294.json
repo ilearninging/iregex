@@ -1,1 +1,1 @@
-{"id":"180428","urlID":"3c294","name":"kumar gaurav","description":"","content":"","weightedVote":"2.5","numVotes":"0","author":"kumar gaurav","community":"1","dateAdded":"2015-10-25","pattern":"\/^.*\\$\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"180428","urlID":"3c294","name":"kumar gaurav","description":"","content":"","weightedVote":"2.5","numVotes":"0","author":"kumar gaurav","community":"1","dateAdded":"2015-10-25","pattern":"^.*\\$","replace":"","state":"{\"substEnabled\":false}"}

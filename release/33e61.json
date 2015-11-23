@@ -1,1 +1,1 @@
-{"id":"86187","urlID":"33e61","name":"Teste","description":"dsd","content":"","weightedVote":"2.5","numVotes":"0","author":"Careca","community":"1","dateAdded":"2013-01-16","pattern":"\/(^[\\D][a-zA-Z0-9_.-]+)@([a-zA-Z0-9_.-]+)[.]\\w{2,3}\/g","replace":"","state":""}
+{"id":"86187","urlID":"33e61","name":"Teste","description":"dsd","content":"","weightedVote":"2.5","numVotes":"0","author":"Careca","community":"1","dateAdded":"2013-01-16","pattern":"(^[\\D][a-zA-Z0-9_.-]+)@([a-zA-Z0-9_.-]+)[.]\\w{2,3}","replace":"","state":""}

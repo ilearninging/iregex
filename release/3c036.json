@@ -1,1 +1,1 @@
-{"id":"179682","urlID":"3c036","name":"regex digit character","description":"","content":"12 a 12\na 12 a","weightedVote":"2.5","numVotes":"0","author":"mohamed4ch","community":"1","dateAdded":"2015-10-14","pattern":"\/\\d.\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"179682","urlID":"3c036","name":"regex digit character","description":"","content":"12 a 12\na 12 a","weightedVote":"2.5","numVotes":"0","author":"mohamed4ch","community":"1","dateAdded":"2015-10-14","pattern":"\\d.","replace":"","state":"{\"substEnabled\":false}"}

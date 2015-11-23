@@ -1,1 +1,1 @@
-{"id":"175062","urlID":"3bii2","name":"felipe","description":"","content":"ola1 ola2 ola20 ola3","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-11","pattern":"\/ola[^1].*\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"175062","urlID":"3bii2","name":"felipe","description":"","content":"ola1 ola2 ola20 ola3","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-11","pattern":"ola[^1].*","replace":"","state":"{\"substEnabled\":false}"}

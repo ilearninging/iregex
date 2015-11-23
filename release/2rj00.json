@@ -1,1 +1,1 @@
-{"id":"448","urlID":"2rj00","name":"Alaa","description":"aaa","content":"","weightedVote":"2.5","numVotes":"0","author":"Alaa","community":"1","dateAdded":"2010-04-12","pattern":"\/\\be(\\w*)s\\b\/g","replace":"","state":""}
+{"id":"448","urlID":"2rj00","name":"Alaa","description":"aaa","content":"","weightedVote":"2.5","numVotes":"0","author":"Alaa","community":"1","dateAdded":"2010-04-12","pattern":"\\be(\\w*)s\\b","replace":"","state":""}

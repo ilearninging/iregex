@@ -1,1 +1,1 @@
-{"id":"58585","urlID":"30tab","name":"RJ","description":"format time 12 h","content":"","weightedVote":"2.5","numVotes":"0","author":"EDUARDO RUEDA SOSA","community":"1","dateAdded":"2012-05-09","pattern":"\/^((0?[1-9]|1[12])(:[0-5]\\d)(\\ [AP]M))\/g","replace":"","state":""}
+{"id":"58585","urlID":"30tab","name":"RJ","description":"format time 12 h","content":"","weightedVote":"2.5","numVotes":"0","author":"EDUARDO RUEDA SOSA","community":"1","dateAdded":"2012-05-09","pattern":"^((0?[1-9]|1[12])(:[0-5]\\d)(\\ [AP]M))","replace":"","state":""}

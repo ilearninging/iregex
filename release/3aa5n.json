@@ -1,1 +1,1 @@
-{"id":"161277","urlID":"3aa5n","name":"awesome","description":"just a test","content":"a\nab\nac\nabc\nab\naa\nac\nad\naf\nbd\n","weightedVote":"2.5","numVotes":"0","author":"fathin","community":"1","dateAdded":"2015-01-27","pattern":"\/\\b(a|ab)[a-z]*\/g","replace":"","state":""}
+{"id":"161277","urlID":"3aa5n","name":"awesome","description":"just a test","content":"a\nab\nac\nabc\nab\naa\nac\nad\naf\nbd\n","weightedVote":"2.5","numVotes":"0","author":"fathin","community":"1","dateAdded":"2015-01-27","pattern":"\\b(a|ab)[a-z]*","replace":"","state":""}

@@ -1,1 +1,1 @@
-{"id":"159610","urlID":"3a59e","name":"Help","description":"Me","content":"ABCDE\nABCDEFG\nABCDEFGH","weightedVote":"2.5","numVotes":"0","author":"Someone","community":"1","dateAdded":"2014-12-31","pattern":"\/ABCDE\/g","replace":"","state":""}
+{"id":"159610","urlID":"3a59e","name":"Help","description":"Me","content":"ABCDE\nABCDEFG\nABCDEFGH","weightedVote":"2.5","numVotes":"0","author":"Someone","community":"1","dateAdded":"2014-12-31","pattern":"ABCDE","replace":"","state":""}

@@ -1,1 +1,1 @@
-{"id":"1778","urlID":"2rmsm","name":"Remove double space","description":"Removes doble space.\r","content":"","weightedVote":"3.26389","numVotes":"1","author":"xleon","community":"1","dateAdded":"2010-07-01","pattern":"\/\\s{2}\/g","replace":"","state":""}
+{"id":"1778","urlID":"2rmsm","name":"Remove double space","description":"Removes doble space.\r","content":"","weightedVote":"3.26389","numVotes":"1","author":"xleon","community":"1","dateAdded":"2010-07-01","pattern":"\\s{2}","replace":"","state":""}

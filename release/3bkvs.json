@@ -1,1 +1,1 @@
-{"id":"175892","urlID":"3bkvs","name":"bankai","description":"","content":"${coco.Config} users ${mpos.Setup}","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-23","pattern":"\/^\\${.+}\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"175892","urlID":"3bkvs","name":"bankai","description":"","content":"${coco.Config} users ${mpos.Setup}","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-23","pattern":"^\\${.+}","replace":"","state":"{\"substEnabled\":false}"}

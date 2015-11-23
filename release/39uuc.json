@@ -1,1 +1,1 @@
-{"id":"157444","urlID":"39uuc","name":"test","description":"","content":"This is a sentence\nThis is a fake\nThis can be a sentence","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-22","pattern":"\/(^This.*sentence$)\/g","replace":"","state":""}
+{"id":"157444","urlID":"39uuc","name":"test","description":"","content":"This is a sentence\nThis is a fake\nThis can be a sentence","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-22","pattern":"(^This.*sentence$)","replace":"","state":""}

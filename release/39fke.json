@@ -1,1 +1,1 @@
-{"id":"152218","urlID":"39fke","name":"number match","description":"","content":"Child Bike (9) and Boys Bike (10)","weightedVote":"2.5","numVotes":"0","author":"Synnyster","community":"1","dateAdded":"2014-09-10","pattern":"\/(\\d)+\/g","replace":"","state":""}
+{"id":"152218","urlID":"39fke","name":"number match","description":"","content":"Child Bike (9) and Boys Bike (10)","weightedVote":"2.5","numVotes":"0","author":"Synnyster","community":"1","dateAdded":"2014-09-10","pattern":"(\\d)+","replace":"","state":""}

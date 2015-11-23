@@ -1,1 +1,1 @@
-{"id":"158913","urlID":"3a383","name":"Even more right","description":"","content":"1.4\n1.44\n1.4.13","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-12-16","pattern":"\/^1.4\\b\/gm","replace":"","state":""}
+{"id":"158913","urlID":"3a383","name":"Even more right","description":"","content":"1.4\n1.44\n1.4.13","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-12-16","pattern":"^1.4\\b","replace":"","state":""}

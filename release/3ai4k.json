@@ -1,1 +1,1 @@
-{"id":"163996","urlID":"3ai4k","name":"kevin-haaalp!","description":"","content":"{i18n.more}","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-05","pattern":"\/({i18n.)+\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"163996","urlID":"3ai4k","name":"kevin-haaalp!","description":"","content":"{i18n.more}","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-05","pattern":"({i18n.)+","replace":"","state":"{\"substEnabled\":false}"}

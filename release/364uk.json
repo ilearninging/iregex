@@ -1,1 +1,1 @@
-{"id":"115804","urlID":"364uk","name":"twitter","description":"twitter subdomain check","content":"","weightedVote":"2.5","numVotes":"0","author":"graziano","community":"1","dateAdded":"2013-08-29","pattern":"\/\\b[a-z-A-Z0-9]{1,99}\\.twitter.(com)\/g","replace":"","state":""}
+{"id":"115804","urlID":"364uk","name":"twitter","description":"twitter subdomain check","content":"","weightedVote":"2.5","numVotes":"0","author":"graziano","community":"1","dateAdded":"2013-08-29","pattern":"\\b[a-z-A-Z0-9]{1,99}\\.twitter.(com)","replace":"","state":""}

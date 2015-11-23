@@ -1,1 +1,1 @@
-{"id":"148432","urlID":"394hg","name":"3c3d","description":"","content":"1,2014-01-01,Text,Text,XYZ123,Text,Text","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-07-09","pattern":"\/([A-Z]{3})\\d+\/g","replace":"","state":""}
+{"id":"148432","urlID":"394hg","name":"3c3d","description":"","content":"1,2014-01-01,Text,Text,XYZ123,Text,Text","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-07-09","pattern":"([A-Z]{3})\\d+","replace":"","state":""}

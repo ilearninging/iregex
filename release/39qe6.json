@@ -1,1 +1,1 @@
-{"id":"155906","urlID":"39qe6","name":"swear words filter","description":"swear words filter","content":"fuck\nfucking\n,fuck!\n fuck ","weightedVote":"2.04167","numVotes":"1","author":"mm3058","community":"1","dateAdded":"2014-10-28","pattern":"\/\\b(fuck)\\b\/g","replace":"","state":""}
+{"id":"155906","urlID":"39qe6","name":"swear words filter","description":"swear words filter","content":"fuck\nfucking\n,fuck!\n fuck ","weightedVote":"2.04167","numVotes":"1","author":"mm3058","community":"1","dateAdded":"2014-10-28","pattern":"\\b(fuck)\\b","replace":"","state":""}

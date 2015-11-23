@@ -1,1 +1,1 @@
-{"id":"489","urlID":"2rj3r","name":"Hello","description":"Hello","content":"","weightedVote":"2.5","numVotes":"0","author":"Hello","community":"1","dateAdded":"2010-04-30","pattern":"\/m_[a-zA-Z\\s0-9]+\/g","replace":"","state":""}
+{"id":"489","urlID":"2rj3r","name":"Hello","description":"Hello","content":"","weightedVote":"2.5","numVotes":"0","author":"Hello","community":"1","dateAdded":"2010-04-30","pattern":"m_[a-zA-Z\\s0-9]+","replace":"","state":""}

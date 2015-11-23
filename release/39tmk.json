@@ -1,1 +1,1 @@
-{"id":"157020","urlID":"39tmk","name":"bible verse","description":"","content":"john 3:16 blah blah matthew 5:12","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-16","pattern":"\/([a-zA-Z]+)\\s(\\d+)\\:(\\d+)\/g","replace":"","state":""}
+{"id":"157020","urlID":"39tmk","name":"bible verse","description":"","content":"john 3:16 blah blah matthew 5:12","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-16","pattern":"([a-zA-Z]+)\\s(\\d+)\\:(\\d+)","replace":"","state":""}

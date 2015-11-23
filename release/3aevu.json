@@ -1,1 +1,1 @@
-{"id":"162922","urlID":"3aevu","name":"test","description":"","content":"SokerI.PlatsAdress.Namn Branscher.Beskrivning","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-02-19","pattern":"\/\\.PlatsAdress\\.Namn|\\.[Bb]eskrivning$\/","replace":"","state":""}
+{"id":"162922","urlID":"3aevu","name":"test","description":"","content":"SokerI.PlatsAdress.Namn Branscher.Beskrivning","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-02-19","pattern":"\\.PlatsAdress\\.Namn|\\.[Bb]eskrivning$\/","replace":"","state":""}

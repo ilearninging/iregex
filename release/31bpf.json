@@ -1,1 +1,1 @@
-{"id":"63525","urlID":"31bpf","name":"Category splitter","description":"Just bookmarking for personal use.","content":"","weightedVote":"2.5","numVotes":"0","author":"CHX101","community":"1","dateAdded":"2012-06-25","pattern":"\/(\\s)(_+?)(\\s)\/gsm","replace":"","state":""}
+{"id":"63525","urlID":"31bpf","name":"Category splitter","description":"Just bookmarking for personal use.","content":"","weightedVote":"2.5","numVotes":"0","author":"CHX101","community":"1","dateAdded":"2012-06-25","pattern":"(\\s)(_+?)(\\s)\/gsm","replace":"","state":""}

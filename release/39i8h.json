@@ -1,1 +1,1 @@
-{"id":"153115","urlID":"39i8h","name":"Frustrating","description":"","content":"                            Tina Young","weightedVote":"2.5","numVotes":"0","author":"camroncade","community":"1","dateAdded":"2014-09-23","pattern":"\/(?:\\s+)([A-Za-z]+\\s[A-Za-z]+)\/g","replace":"","state":""}
+{"id":"153115","urlID":"39i8h","name":"Frustrating","description":"","content":"                            Tina Young","weightedVote":"2.5","numVotes":"0","author":"camroncade","community":"1","dateAdded":"2014-09-23","pattern":"(?:\\s+)([A-Za-z]+\\s[A-Za-z]+)","replace":"","state":""}

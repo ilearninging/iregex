@@ -1,1 +1,1 @@
-{"id":"165663","urlID":"3an0t","name":"to Shahar","description":"","content":"0g","weightedVote":"2.5","numVotes":"0","author":"Eugene","community":"1","dateAdded":"2015-03-27","pattern":"\/^[1-9]{1}[0-9]*$|^[0]$\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"165663","urlID":"3an0t","name":"to Shahar","description":"","content":"0g","weightedVote":"2.5","numVotes":"0","author":"Eugene","community":"1","dateAdded":"2015-03-27","pattern":"^[1-9]{1}[0-9]*$|^[0]$","replace":"","state":"{\"substEnabled\":false}"}

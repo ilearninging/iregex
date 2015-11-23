@@ -1,1 +1,1 @@
-{"id":"155622","urlID":"39pji","name":"cvvb","description":"","content":"\/projects\/Default[[test]]\/applications[[test]]","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-10-23","pattern":"\/([)([\\w])(])^\/","replace":"","state":""}
+{"id":"155622","urlID":"39pji","name":"cvvb","description":"","content":"\/projects\/Default[[test]]\/applications[[test]]","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-10-23","pattern":"([)([\\w])(])^\/","replace":"","state":""}

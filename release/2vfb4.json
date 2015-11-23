@@ -1,1 +1,1 @@
-{"id":"42892","urlID":"2vfb4","name":"span filter","description":"Filter span open and close tags","content":"","weightedVote":"2.5","numVotes":"0","author":"rkoblev","community":"1","dateAdded":"2011-12-13","pattern":"\/(<\/?span([^<>+]*)>)\/g","replace":"","state":""}
+{"id":"42892","urlID":"2vfb4","name":"span filter","description":"Filter span open and close tags","content":"","weightedVote":"2.5","numVotes":"0","author":"rkoblev","community":"1","dateAdded":"2011-12-13","pattern":"(<\/?span([^<>+]*)>)","replace":"","state":""}

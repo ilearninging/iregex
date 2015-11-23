@@ -1,1 +1,1 @@
-{"id":"304","urlID":"2riig","name":"4 digit year","description":"Add () to the 4 digit year number, tipiycally used in movies","content":"","weightedVote":"2.5","numVotes":"1","author":"Jmav","community":"1","dateAdded":"2009-12-29","pattern":"\/(\\d{4})\/gm","replace":"($1)","state":""}
+{"id":"304","urlID":"2riig","name":"4 digit year","description":"Add () to the 4 digit year number, tipiycally used in movies","content":"","weightedVote":"2.5","numVotes":"1","author":"Jmav","community":"1","dateAdded":"2009-12-29","pattern":"(\\d{4})","replace":"($1)","state":""}

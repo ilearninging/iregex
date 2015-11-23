@@ -1,1 +1,1 @@
-{"id":"8211","urlID":"2s9np","name":"Sentence Case","description":"Sentence Case\r","content":"","weightedVote":"2.69097","numVotes":"1","author":"entahlah","community":"1","dateAdded":"2010-10-05","pattern":"\/((.+\\.)|.+((\\.)\"))\/gx","replace":"","state":""}
+{"id":"8211","urlID":"2s9np","name":"Sentence Case","description":"Sentence Case\r","content":"","weightedVote":"2.69097","numVotes":"1","author":"entahlah","community":"1","dateAdded":"2010-10-05","pattern":"((.+\\.)|.+((\\.)\"))\/gx","replace":"","state":""}

@@ -1,1 +1,1 @@
-{"id":"159851","urlID":"3a601","name":"Number (negative or positive.)","description":"-100\n+100","content":"-1000","weightedVote":"2.5","numVotes":"0","author":"Junil Um","community":"1","dateAdded":"2015-01-06","pattern":"\/(^[-]?\\d*[\\,|\\.]?\\d+)$\/g","replace":"","state":""}
+{"id":"159851","urlID":"3a601","name":"Number (negative or positive.)","description":"-100\n+100","content":"-1000","weightedVote":"2.5","numVotes":"0","author":"Junil Um","community":"1","dateAdded":"2015-01-06","pattern":"(^[-]?\\d*[\\,|\\.]?\\d+)$","replace":"","state":""}

@@ -1,1 +1,1 @@
-{"id":"152158","urlID":"39feq","name":"Fastway Label","description":"","content":"AA000000 \nAA0000000000","weightedVote":"2.5","numVotes":"0","author":"Fabian Cook","community":"1","dateAdded":"2014-09-09","pattern":"\/(\\b\\w{2}\\d{10}\\b)|(\\b\\w{2}\\d{6}\\b)\/g","replace":"","state":""}
+{"id":"152158","urlID":"39feq","name":"Fastway Label","description":"","content":"AA000000 \nAA0000000000","weightedVote":"2.5","numVotes":"0","author":"Fabian Cook","community":"1","dateAdded":"2014-09-09","pattern":"(\\b\\w{2}\\d{10}\\b)|(\\b\\w{2}\\d{6}\\b)","replace":"","state":""}

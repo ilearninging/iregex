@@ -1,1 +1,1 @@
-{"id":"118807","urlID":"36do5","name":"Extract CN from x509 string","description":"returns CN","content":"","weightedVote":"3.26389","numVotes":"1","author":"credits to StackOverflow","community":"1","dateAdded":"2013-09-20","pattern":"\/CN=(.*?)(?:,|$)\/gi","replace":"","state":""}
+{"id":"118807","urlID":"36do5","name":"Extract CN from x509 string","description":"returns CN","content":"","weightedVote":"3.26389","numVotes":"1","author":"credits to StackOverflow","community":"1","dateAdded":"2013-09-20","pattern":"CN=(.*?)(?:,|$)\/gi","replace":"","state":""}

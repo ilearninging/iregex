@@ -1,1 +1,1 @@
-{"id":"158222","urlID":"3a17a","name":"telia","description":"","content":"Telia\nTeLiAa\ntEliAz\nteLiaSbn\ntelia\nteliA4a\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-12-05","pattern":"\/(telia.*)\/ig","replace":"","state":""}
+{"id":"158222","urlID":"3a17a","name":"telia","description":"","content":"Telia\nTeLiAa\ntEliAz\nteLiaSbn\ntelia\nteliA4a\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-12-05","pattern":"(telia.*)\/ig","replace":"","state":""}

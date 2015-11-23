@@ -1,1 +1,1 @@
-{"id":"294","urlID":"2rihi","name":"CDATA Tags","description":"Will match any cdata tags in a string","content":"","weightedVote":"2.5","numVotes":"0","author":"ryan matsikas","community":"1","dateAdded":"2009-12-17","pattern":"\/\\be(\\w*)s\\b\/g","replace":"[[$&$&]]","state":""}
+{"id":"294","urlID":"2rihi","name":"CDATA Tags","description":"Will match any cdata tags in a string","content":"","weightedVote":"2.5","numVotes":"0","author":"ryan matsikas","community":"1","dateAdded":"2009-12-17","pattern":"\\be(\\w*)s\\b","replace":"[[$&$&]]","state":""}

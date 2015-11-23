@@ -1,1 +1,1 @@
-{"id":"582","urlID":"2rjci","name":"Marha vagy","description":"erttzrtzrt","content":"","weightedVote":"2.5","numVotes":"0","author":"rtrt","community":"1","dateAdded":"2010-06-16","pattern":"\/<\\s*script.*?>(.*?)<\\\/\\s*?script[^>\\w]*?>\/gis","replace":"","state":""}
+{"id":"582","urlID":"2rjci","name":"Marha vagy","description":"erttzrtzrt","content":"","weightedVote":"2.5","numVotes":"0","author":"rtrt","community":"1","dateAdded":"2010-06-16","pattern":"<\\s*script.*?>(.*?)<\\\/\\s*?script[^>\\w]*?>\/gis","replace":"","state":""}

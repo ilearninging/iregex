@@ -1,1 +1,1 @@
-{"id":"75297","urlID":"32e93","name":"dos decimales","description":"permite solo 2 decimales","content":"","weightedVote":"2.5","numVotes":"0","author":"Arly","community":"1","dateAdded":"2012-10-11","pattern":"\/\\be(\\w*)s\\b\/g","replace":"[[$&$&]]","state":""}
+{"id":"75297","urlID":"32e93","name":"dos decimales","description":"permite solo 2 decimales","content":"","weightedVote":"2.5","numVotes":"0","author":"Arly","community":"1","dateAdded":"2012-10-11","pattern":"\\be(\\w*)s\\b","replace":"[[$&$&]]","state":""}

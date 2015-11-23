@@ -1,1 +1,1 @@
-{"id":"152887","urlID":"39hj5","name":"numeric pairity","description":"","content":"1 2 3 4 5 6 7 8 9 0","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-09-19","pattern":"\/(\\d?\\d\\s\\d?\\d)\\s?\/g","replace":"$1\\n","state":""}
+{"id":"152887","urlID":"39hj5","name":"numeric pairity","description":"","content":"1 2 3 4 5 6 7 8 9 0","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-09-19","pattern":"(\\d?\\d\\s\\d?\\d)\\s?","replace":"$1\\n","state":""}

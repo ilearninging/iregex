@@ -1,1 +1,1 @@
-{"id":"71483","urlID":"3233h","name":"Double Quoted String","description":"Double Quoted String","content":"","weightedVote":"2.5","numVotes":"0","author":"Ryan","community":"1","dateAdded":"2012-09-07","pattern":"\/\"(?:\\.|(\\\\\\\")|[^\\\"\"\\n])*\"\/g","replace":"","state":""}
+{"id":"71483","urlID":"3233h","name":"Double Quoted String","description":"Double Quoted String","content":"","weightedVote":"2.5","numVotes":"0","author":"Ryan","community":"1","dateAdded":"2012-09-07","pattern":"\"(?:\\.|(\\\\\\\")|[^\\\"\"\\n])*\"","replace":"","state":""}

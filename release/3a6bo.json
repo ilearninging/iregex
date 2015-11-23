@@ -1,1 +1,1 @@
-{"id":"159976","urlID":"3a6bo","name":"test","description":"","content":"\/TUK-72-short-url-for-site\/uccellos","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-08","pattern":"\/(\\w+)\\\/.*\/g","replace":"","state":""}
+{"id":"159976","urlID":"3a6bo","name":"test","description":"","content":"\/TUK-72-short-url-for-site\/uccellos","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-08","pattern":"(\\w+)\\\/.*","replace":"","state":""}

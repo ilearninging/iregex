@@ -1,1 +1,1 @@
-{"id":"174148","urlID":"3bfsc","name":"Do Not Start with a Number","description":"","content":"roletype","weightedVote":"2.5","numVotes":"0","author":"mclark","community":"1","dateAdded":"2015-07-28","pattern":"\/[A-Za-z_][A-Za-z_0-9]*\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"174148","urlID":"3bfsc","name":"Do Not Start with a Number","description":"","content":"roletype","weightedVote":"2.5","numVotes":"0","author":"mclark","community":"1","dateAdded":"2015-07-28","pattern":"[A-Za-z_][A-Za-z_0-9]*","replace":"","state":"{\"substEnabled\":false}"}

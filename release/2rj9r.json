@@ -1,1 +1,1 @@
-{"id":"553","urlID":"2rj9r","name":"RTMP","description":"Finds RTMP, RTMPE, RTMPT, RTMPTE with :\/\/ in a string.","content":"","weightedVote":"1.6875","numVotes":"3","author":"Raul Jimenez","community":"1","dateAdded":"2010-06-11","pattern":"\/rtmp(\\w*):\/\/\/g","replace":"","state":""}
+{"id":"553","urlID":"2rj9r","name":"RTMP","description":"Finds RTMP, RTMPE, RTMPT, RTMPTE with :\/\/ in a string.","content":"","weightedVote":"1.6875","numVotes":"3","author":"Raul Jimenez","community":"1","dateAdded":"2010-06-11","pattern":"rtmp(\\w*):\/\/","replace":"","state":""}

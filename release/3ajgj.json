@@ -1,1 +1,1 @@
-{"id":"164465","urlID":"3ajgj","name":"RegEx for URN format","description":"","content":"urn:azure","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-12","pattern":"\/^urn:(.+)$\/g","replace":"","state":"{\"substEnabled\":false}"}
+{"id":"164465","urlID":"3ajgj","name":"RegEx for URN format","description":"","content":"urn:azure","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-12","pattern":"^urn:(.+)$","replace":"","state":"{\"substEnabled\":false}"}
