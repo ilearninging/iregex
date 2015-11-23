@@ -1,1 +1,0 @@
-{"id":"37719","urlID":"2v065","name":"Swiss Date","description":"Match any Swiss date between the years 1900 - 2999 in the form: dd.mm.yyyy","content":"","weightedVote":"2.88194","numVotes":"1","author":"Andr\u00e9 Abt","community":"1","dateAdded":"2011-10-21","pattern":"[0-3]\\d\\.(0[1-9]|1[0-2])\\.[1-2][0|9]\\d\\d","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"167674","urlID":"3aste","name":"example","description":"","content":"somethingrar.rar","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-25","pattern":"(?:\\.rar|\\.zip)$\/i","replace":"","state":"{\"substEnabled\":false}"}

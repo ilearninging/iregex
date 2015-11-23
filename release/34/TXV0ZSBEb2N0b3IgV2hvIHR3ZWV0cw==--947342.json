@@ -1,1 +1,0 @@
-{"id":"151626","urlID":"39dsu","name":"Mute Doctor Who tweets","description":"I hate Doctor Who and I don't want to hear about it.","content":"Doctor Who\nDoctor Who\nDr. Who\nDr Who\n","weightedVote":"2.5","numVotes":"0","author":"Don Allen","community":"1","dateAdded":"2014-08-31","pattern":"(\\W|^)(Doctor|Dr.|Dr)\\sWho(\\W|$)","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"173546","urlID":"3be3u","name":"ip-string","description":"","content":"voivit  tumit\u00e4paskaa192.168.2.33kyll\u00e4","weightedVote":"2.5","numVotes":"0","author":"enyone","community":"1","dateAdded":"2015-07-20","pattern":"\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}\\.\\d{1,3}","replace":"","state":"{\"substEnabled\":false}"}

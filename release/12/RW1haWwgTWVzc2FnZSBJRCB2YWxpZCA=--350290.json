@@ -1,1 +1,0 @@
-{"id":"49619","urlID":"3031p","name":"Email Message ID valid ","description":"Check valid message ID for an email","content":"","weightedVote":"2.88194","numVotes":"1","author":"ASSP","community":"1","dateAdded":"2012-02-21","pattern":"^.+@.+\\..+$","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"169363","urlID":"3b1rp","name":"Raj","description":"Regex for 12 digits or 16 digits Hexadecimals ... using OR condition","content":"1638A294AAAABCDE","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-20","pattern":"^[a-fA-F0-9]{12}$|^[a-fA-F0-9]{16}$","replace":"","state":"{\"substEnabled\":false}"}

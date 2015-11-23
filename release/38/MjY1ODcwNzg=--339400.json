@@ -1,1 +1,0 @@
-{"id":"155788","urlID":"39q34","name":"26587078","description":"stackoverflow: 26587078","content":"1\n2\n500\n5743\n9999\n10000\n15000","weightedVote":"2.5","numVotes":"0","author":"http:\/\/stackoverflow","community":"1","dateAdded":"2014-10-27","pattern":"^([1-9]|[1-9][0-9][0-9]{0,2}|10000)$","replace":"","state":""}

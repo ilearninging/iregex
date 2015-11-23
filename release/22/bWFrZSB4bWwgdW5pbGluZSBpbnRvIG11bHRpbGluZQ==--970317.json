@@ -1,1 +1,0 @@
-{"id":"122223","urlID":"36nod","name":"make xml uniline into multiline","description":"make xml in which is written as one line into multiple line by adding a carriage return after each xml closing tag","content":"","weightedVote":"2.5","numVotes":"0","author":"Jojo","community":"1","dateAdded":"2013-10-14","pattern":"(<[\/].[a-zA-Z:]*>)","replace":"$1r","state":""}

@@ -1,1 +1,0 @@
-{"id":"103798","urlID":"351p2","name":"file name for full path","description":"get file name from full path","content":"","weightedVote":"3.26389","numVotes":"1","author":"OCC","community":"1","dateAdded":"2013-05-29","pattern":"[^\\\\]+(\\.+)?$\/gim","replace":"","state":""}

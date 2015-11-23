@@ -1,1 +1,0 @@
-{"id":"161003","urlID":"3a9c1","name":"space issue","description":"","content":"some*, name\nsome*,name","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-23","pattern":"\\*?[a-zA-Z]{2,}\\*?, ?\\*?[a-zA-Z]{2,}\\*?\/","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"1092","urlID":"2rksc","name":"ls -al Date match","description":"Will match out date from bash ls -al commands","content":"","weightedVote":"3.26389","numVotes":"1","author":"Ethan","community":"1","dateAdded":"2010-06-23","pattern":"[a-z]{3}\\s[0-3]?[0-9]\\s[0-9]{2}:[0-9]{2}\/i","replace":"","state":""}

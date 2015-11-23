@@ -1,1 +1,0 @@
-{"id":"129192","urlID":"37c5o","name":"At least one uppercase letter","description":"Learning","content":"","weightedVote":"2.5","numVotes":"0","author":"Koem Hok","community":"1","dateAdded":"2013-11-25","pattern":"^([a-z0-9A-Z]*[A-Z]+[a-z0-9A-Z]*)","replace":"","state":""}

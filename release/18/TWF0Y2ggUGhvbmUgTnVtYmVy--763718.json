@@ -1,1 +1,0 @@
-{"id":"47313","urlID":"2vs9j","name":"Match Phone Number","description":"match number","content":"","weightedVote":"2.5","numVotes":"0","author":"Kip","community":"1","dateAdded":"2012-01-30","pattern":"[(]?\\d{3}[)]?\\s?-?\\s?\\d{3}\\s?-?\\s?\\d{4}","replace":"","state":""}

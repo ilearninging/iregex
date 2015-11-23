@@ -1,1 +1,0 @@
-{"id":"175354","urlID":"3bjde","name":"matching tags","description":"","content":"<ade>ddddddddd<\/ade> xxx, lol <b>ss<\/b>","weightedVote":"2.5","numVotes":"0","author":"junior","community":"1","dateAdded":"2015-08-14","pattern":"\\<([A-Z][A-Z0-9]*)\\b[^\\>]*\\>(.*?)\\<\\\/\\1\\>\/igm","replace":"","state":"{\"substEnabled\":false}"}

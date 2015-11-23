@@ -1,1 +1,0 @@
-{"id":"23904","urlID":"2tnn0","name":"GUID","description":"GUID .Net version","content":"","weightedVote":"2.69097","numVotes":"1","author":"dfgh","community":"1","dateAdded":"2011-05-10","pattern":"@\"^(\\{){0,1}[0-9a-fA-F]{8}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{4}\\-[0-9a-fA-F]{12}(\\}){0,1}$\"","replace":"","state":""}

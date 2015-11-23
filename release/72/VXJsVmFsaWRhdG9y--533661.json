@@ -1,1 +1,0 @@
-{"id":"181969","urlID":"3c6pj","name":"UrlValidator","description":"","content":"http:\/\/preprod.eshop_mw.cartenoire.fr\/media\/images\/products\/FOND1010\/g_FOND1010_1.png","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-11-13","pattern":"^[^\\\\s;\/@&=,.?:+$]+(\\\\.[^\\\\s;\/@&=,.?:+$]+)*$\/","replace":"","state":"{\"substEnabled\":false}"}

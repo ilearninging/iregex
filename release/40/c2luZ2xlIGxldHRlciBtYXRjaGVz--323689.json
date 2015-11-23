@@ -1,1 +1,0 @@
-{"id":"157255","urlID":"39ucl","name":"single letter matches","description":"","content":"A\nAB\nAC\nABC\nABD\nBC\nBD\nC\nCD\nD","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-19","pattern":"^.*(A).*(C).*(?!AB).*$","replace":"","state":""}

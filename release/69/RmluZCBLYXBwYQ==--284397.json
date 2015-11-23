@@ -1,1 +1,0 @@
-{"id":"179427","urlID":"3bvb9","name":"Find Kappa","description":"Finds Kappa Emotes in Twitch Chat","content":"Kappa\nKappaKappa\n\nKappaPride","weightedVote":"2.5","numVotes":"0","author":"AmazingWizard","community":"1","dateAdded":"2015-10-11","pattern":"\\b(Kappa|KappaPride)\\b","replace":"","state":"{\"substEnabled\":false}"}

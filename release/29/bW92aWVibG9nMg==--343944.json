@@ -1,1 +1,0 @@
-{"id":"147990","urlID":"39382","name":"movieblog2","description":"","content":"<a target=\"_blank\" href=\"http:\/\/linkcrypt.ws\/dir\/hjp4thxnfn1x875\">Uploaded.net<\/a>\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-07-01","pattern":"<\\s*a.*?href\\s*=\\s*(?:\"|')(.*?)(?:\"|')[^>]*>(.*?)<\\s*?\\\/\\s*?a\\s*?>\/ig","replace":"$1","state":""}

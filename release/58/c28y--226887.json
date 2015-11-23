@@ -1,1 +1,0 @@
-{"id":"171564","urlID":"3b8a4","name":"so2","description":"Matching the character but not including that character and everything after","content":"hey:blah,{'some':'obj','another':[4,5,0]}","weightedVote":"2.5","numVotes":"0","author":"shriek","community":"1","dateAdded":"2015-06-19","pattern":"^[^:]*:(.*$)","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,1 +1,0 @@
-{"id":"167935","urlID":"3atlt","name":"Regexp that maches regexps","description":"Wanna find all regexps in big text? Use this one!","content":"\/([A-Z])\\w+\/g wefasd","weightedVote":"3.53704","numVotes":"4","author":"sam","community":"1","dateAdded":"2015-04-29","pattern":"\/.+\/[ gi]","replace":"","state":"{\"substEnabled\":false}"}

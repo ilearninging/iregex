@@ -1,1 +1,0 @@
-{"id":"35769","urlID":"2uqfb","name":"replace string for link","description":"replace string for link","content":"","weightedVote":"2.5","numVotes":"0","author":"rassel","community":"1","dateAdded":"2011-09-29","pattern":"\\w{1,}","replace":"<a href=\"$&\">$&<\/a>","state":""}

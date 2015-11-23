@@ -1,1 +1,0 @@
-{"id":"147067","urlID":"390hh","name":"commas AND spaces","description":"capture (to delimit by) commas and spaces","content":"12 345,2 5,21","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-15","pattern":"([ ,]+)","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"168804","urlID":"3b07c","name":"http content-length","description":"","content":"Content-Length: 8     \\x0d\\x0a\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-12","pattern":"Content-Length:((\\r?\\n)?[ \\t]+)*[0-9]{1,19}((\\r?\\n)?[ \\t]+)*","replace":"","state":"{\"substEnabled\":false}"}

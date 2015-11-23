@@ -1,1 +1,0 @@
-{"id":"160","urlID":"2ri50","name":"IPv4 Address","description":"Detect an IPv4 address\r\rEg: 10.0.0.1,\r      127.0.0.1\r      255.255.255.255","content":"","weightedVote":"2.80612","numVotes":"2","author":"archMicrobe","community":"1","dateAdded":"2009-09-08","pattern":"(((25[0-5]|2[0-4]\\d|\\d?\\d)\\.){3}(25[0-5]|2[0-4]\\d|\\d?\\d))","replace":"","state":""}

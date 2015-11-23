@@ -1,1 +1,0 @@
-{"id":"56943","urlID":"30ogd","name":"Path Parser","description":"matches and parses valid paths","content":"","weightedVote":"2.5","numVotes":"0","author":"m1gu3l.pl","community":"1","dateAdded":"2012-04-24","pattern":"(?:(?:([a-zA-Z]{1}:(?:\\\/|\\\\))(.*(?:\\\/|\\\\))*)?((.*?)(\\.\\w{3,4})))|(?:(?:([a-zA-Z]{1}:(?:\\\/|\\\\))(.*(?:\\\/|\\\\))*))\/","replace":"","state":""}

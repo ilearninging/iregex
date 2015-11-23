@@ -1,1 +1,0 @@
-{"id":"316","urlID":"2rijk","name":"URL Regex","description":"Matches a URL, protocol, subdomains, domains, port numbers and paths(\/index.php.....)","content":"","weightedVote":"3.04409","numVotes":"3","author":"dom96","community":"1","dateAdded":"2010-01-15","pattern":"([a-zA-Z]+:\/\/)?(.+\\.)?(\\w+)(\\.\\w+)(:[0-9]+)?(\/.+)?\/","replace":"","state":""}

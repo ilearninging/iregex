@@ -1,1 +1,0 @@
-{"id":"146483","urlID":"38uqp","name":"Filename Cleaner","description":"Regex for clean all filename and remove special character","content":"invisibl\u00e9-'- bike--- -20080517----191704.jpg","weightedVote":"2.39844","numVotes":"3","author":"Gandalf81","community":"1","dateAdded":"2014-06-04","pattern":"[^\\w\\.]+\/ig","replace":"","state":""}

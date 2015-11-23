@@ -1,1 +1,0 @@
-{"id":"164990","urlID":"3al1q","name":"test","description":"","content":"he  ll''o wo'r ld--","weightedVote":"2.5","numVotes":"0","author":"vafinII","community":"1","dateAdded":"2015-03-20","pattern":"^[-'\u2116\\\/ \\r\\n]|[^- \\r\\n'\u2116\\\/a-zA-Z]|([- \\r\\n'\u2116\\\/])\\1|[\\r\\n]{2,}","replace":"","state":"{\"substEnabled\":false}"}

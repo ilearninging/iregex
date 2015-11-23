@@ -1,1 +1,0 @@
-{"id":"46379","urlID":"2vpi1","name":"rewrite rule","description":"apache rewrite rule","content":"","weightedVote":"2.5","numVotes":"1","author":"jbob","community":"1","dateAdded":"2012-01-20","pattern":"^(.*).html?(.*)$","replace":"index.php?ct=$1&$2","state":""}

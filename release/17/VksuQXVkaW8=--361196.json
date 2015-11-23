@@ -1,1 +1,0 @@
-{"id":"33300","urlID":"2uj7s","name":"VK.Audio","description":"Pattern for parsing user's audio","content":"","weightedVote":"2.5","numVotes":"0","author":"EpicM.org","community":"1","dateAdded":"2011-08-31","pattern":"http:\/\/cs[0-9]+.vkontakte.ru\/u[0-9]+\/audio\/[a-z0-9]+.mp3","replace":"","state":""}

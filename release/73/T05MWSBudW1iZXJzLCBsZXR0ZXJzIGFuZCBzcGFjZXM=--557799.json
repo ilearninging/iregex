@@ -1,1 +1,0 @@
-{"id":"30126","urlID":"2u9ua","name":"ONLY numbers, letters and spaces","description":"Restrict entry of special characters.","content":"","weightedVote":"2.11806","numVotes":"1","author":"dlplenin","community":"1","dateAdded":"2011-07-22","pattern":"[a-zA-Z0-9 ]$\/gi","replace":"","state":""}

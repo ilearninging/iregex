@@ -1,1 +1,0 @@
-{"id":"155492","urlID":"39p7c","name":"Any number greater then 0","description":"Valid : 1 2 3 99 999\n1.1 1.01 0.1 0.01\n\nNot Valid : 01 1.00 1.10 01.10","content":"\n1.001\n\n00.22","weightedVote":"2.5","numVotes":"0","author":"Dragos Zota","community":"1","dateAdded":"2014-10-21","pattern":"([1-9][0-9]*(\\.[0-9]*[1-9])?|0\\.[0-9]*[1-9])","replace":"","state":""}

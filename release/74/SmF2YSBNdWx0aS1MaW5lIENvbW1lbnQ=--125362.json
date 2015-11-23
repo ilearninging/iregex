@@ -1,1 +1,0 @@
-{"id":"105424","urlID":"356hg","name":"Java Multi-Line Comment","description":"Matches multi-line comments","content":"","weightedVote":"2.11806","numVotes":"1","author":"Eric Le Bot","community":"1","dateAdded":"2013-06-11","pattern":"(\\\/\\*\\*)(.*[\\n\\r])*(\\*\\\/)","replace":"","state":""}

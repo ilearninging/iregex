@@ -1,1 +1,0 @@
-{"id":"17965","urlID":"2t6a7","name":"ISBN 10 or 13, no dashes","description":"ISBN 10 or 13, just the number, no dashes.","content":"","weightedVote":"2.5","numVotes":"0","author":"Jordan","community":"1","dateAdded":"2011-02-24","pattern":"^(97(8|9))?\\d{9}[\\dXx]{1}$","replace":"","state":""}

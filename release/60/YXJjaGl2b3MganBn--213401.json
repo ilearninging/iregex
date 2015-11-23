@@ -1,1 +1,0 @@
-{"id":"172735","urlID":"3bbnt","name":"archivos jpg","description":"Evalua si un archivo es jpg","content":"C:\/fakepath\/imagen.jpg","weightedVote":"2.5","numVotes":"0","author":"h2","community":"1","dateAdded":"2015-07-08","pattern":"^.*\\.jpg$","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,1 +1,0 @@
-{"id":"4995","urlID":"2s0a9","name":"Extract FilePaths","description":"Extracts filenames from within a string.","content":"","weightedVote":"2.39796","numVotes":"2","author":"Drakeshe","community":"1","dateAdded":"2010-08-18","pattern":"[\\w]:(\\\\[^\\s][^\/\\\\:\\\"\\?\\*<>\\|]+)+","replace":"","state":""}

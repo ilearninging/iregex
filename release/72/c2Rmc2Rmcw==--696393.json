@@ -1,1 +1,0 @@
-{"id":"181713","urlID":"3c61j","name":"sdfsdfs","description":"","content":"<tag>sadasdas<\\tag> ","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-11-10","pattern":"<TAG\\b[^>]*>(.*?)<\/TAG>","replace":"","state":"{\"substEnabled\":false}"}

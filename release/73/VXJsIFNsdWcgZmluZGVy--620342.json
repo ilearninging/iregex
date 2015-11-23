@@ -1,1 +1,0 @@
-{"id":"27579","urlID":"2u2fh","name":"Url Slug finder","description":"to detect slug of post title with '-' character","content":"","weightedVote":"2.11806","numVotes":"1","author":"Sohail Ahmad","community":"1","dateAdded":"2011-06-23","pattern":"([a-zA-Z0-9]*-[a-zA-Z0-9]*)","replace":"","state":""}

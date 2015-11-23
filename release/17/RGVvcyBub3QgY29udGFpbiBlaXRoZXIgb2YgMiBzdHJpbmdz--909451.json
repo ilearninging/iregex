@@ -1,1 +1,0 @@
-{"id":"32902","urlID":"2ui2i","name":"Deos not contain either of 2 strings","description":"Deos not contain either of 2 strings","content":"","weightedVote":"2.5","numVotes":"0","author":"John","community":"1","dateAdded":"2011-08-25","pattern":"^((?!(UpdaterUI|vmount)).)*$","replace":"","state":""}

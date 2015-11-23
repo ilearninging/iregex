@@ -1,1 +1,0 @@
-{"id":"173982","urlID":"3bfcq","name":"reg1","description":"","content":"1111 2222 3333 4444 sad 1111 2222 3333 4444","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-25","pattern":"\\d{4} ?\\d{4} ? \\d{4} ?\\d{4}","replace":"","state":"{\"substEnabled\":false}"}

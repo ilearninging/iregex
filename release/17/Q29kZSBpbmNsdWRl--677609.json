@@ -1,1 +1,0 @@
-{"id":"27179","urlID":"2u1a1","name":"Code include","description":"Thus connected files: <!-- {...} -->","content":"","weightedVote":"2.5","numVotes":"0","author":"Sedov Stas","community":"1","dateAdded":"2011-06-18","pattern":"(<!--\\s{1}{\\w*?}\\s{1}-->)","replace":"","state":""}

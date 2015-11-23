@@ -1,1 +1,0 @@
-{"id":"170277","urlID":"3b4hf","name":"regex","description":"","content":"12345\n12345-1234\n12345-123\n12345-12340","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-02","pattern":"^(\\d{5})(\\-\\d{4})?$","replace":"","state":"{\"substEnabled\":false}"}

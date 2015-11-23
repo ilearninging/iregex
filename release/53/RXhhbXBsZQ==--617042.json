@@ -1,1 +1,0 @@
-{"id":"167175","urlID":"3arel","name":"Example","description":"for SO","content":"this is some text ?ask me about me ?variables example","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-17","pattern":"(\\?(.+?))\\b","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,1 +1,0 @@
-{"id":"104114","urlID":"352mm","name":"TX and RX Frequencies","description":"Catches all frequencies that fall in the RX and TX range.\r\rExamples:\r\r735.856\r18346.82793\r63678.265\retc.","content":"","weightedVote":"3.26389","numVotes":"1","author":"Jeremy Hiebert","community":"1","dateAdded":"2013-05-31","pattern":"[0-9]{1,5}\\.[0-9]{1,5}","replace":"","state":""}

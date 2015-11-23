@@ -1,1 +1,0 @@
-{"id":"76451","urlID":"32hl9","name":"Match Path of images leaving image alone","description":"Matches path of images eg in css to change them bulk","content":"","weightedVote":"2.5","numVotes":"0","author":"Abdul!","community":"1","dateAdded":"2012-10-21","pattern":"([\\.\\w\\\/]*\\\/)","replace":"","state":""}

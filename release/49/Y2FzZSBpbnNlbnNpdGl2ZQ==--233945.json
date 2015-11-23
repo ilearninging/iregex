@@ -1,1 +1,0 @@
-{"id":"164502","urlID":"3ajk2","name":"case insensitive","description":"","content":"SPECTRUM\nspectrum\nSPECtrum\nspecTRUM\nsPeCtRuM","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-12","pattern":"(?i)spectrum","replace":"","state":"{\"substEnabled\":false}"}

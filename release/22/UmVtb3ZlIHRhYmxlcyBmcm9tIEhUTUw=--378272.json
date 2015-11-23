@@ -1,1 +1,0 @@
-{"id":"123364","urlID":"36r3c","name":"Remove tables from HTML","description":"http:\/\/alex.tsd.net.au\/2006\/09\/12\/regular-expression-to-remove-html-tables\/","content":"","weightedVote":"2.5","numVotes":"0","author":"Unknown","community":"1","dateAdded":"2013-10-21","pattern":"<\/?table[^>]*>|<\/?tr[^>]*>|<\/?td[^>]*>|<\/?thead[^>]*>|<\/?tbody[^>]*>","replace":"","state":""}

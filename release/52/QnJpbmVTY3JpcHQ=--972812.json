@@ -1,1 +1,0 @@
-{"id":"166770","urlID":"3aq8m","name":"BrineScript","description":"","content":"$msg(%player)->&cEsta \u00e9 uma mensagem","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-12","pattern":"\\$([a-zA-Z0-9_]+)(\\([^]+\\))?\\-\\>([^]+)","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,1 +1,0 @@
-{"id":"173214","urlID":"3bd4q","name":"Number Space Any","description":"Digits then Space then Any","content":"035 Tes1te n5o67me","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-15","pattern":"^\\d*\\ [\\s\\S]*\/","replace":"","state":"{\"substEnabled\":false}"}

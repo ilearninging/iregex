@@ -1,1 +1,0 @@
-{"id":"346","urlID":"2rime","name":"Email Validation","description":"Email Address Verification","content":"","weightedVote":"2.11806","numVotes":"1","author":"Sam G","community":"1","dateAdded":"2010-02-09","pattern":"^[\\\\w'\\.=-]+@[\\\\w\\\\.-]+\\\\.[a-z](2,6)$","replace":"","state":""}

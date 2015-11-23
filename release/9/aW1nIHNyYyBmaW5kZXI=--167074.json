@@ -1,1 +1,0 @@
-{"id":"359","urlID":"2rinl","name":"img src finder","description":"Finds HTML img tags and grabs their source value as a capturing group.","content":"","weightedVote":"3.25618","numVotes":"4","author":"Matt Solum","community":"1","dateAdded":"2010-02-15","pattern":"<img.*?src=\"(.*?)\".*?(\/>|<\/img>)\/gi","replace":"","state":""}

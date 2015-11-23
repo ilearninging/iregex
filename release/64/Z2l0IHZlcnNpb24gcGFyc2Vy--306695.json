@@ -1,1 +1,0 @@
-{"id":"175454","urlID":"3bjmq","name":"git version parser","description":"","content":"git version 2.3.2 (Apple Git-55)\ngit version 2.3.2\ngit version 1.0.0\ngit 3.0.0","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-17","pattern":"git.* (\\d+.\\d+.\\d+).*","replace":"","state":"{\"substEnabled\":false}"}

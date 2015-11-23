@@ -1,1 +1,0 @@
-{"id":"157529","urlID":"39v6b","name":"Oracle Error Code","description":"Matches any Oracle error code","content":"ORA-01078: failure in processing system parameters\n","weightedVote":"2.5","numVotes":"0","author":"Kumudu","community":"1","dateAdded":"2014-11-24","pattern":"ORA-[0-9]+:","replace":"","state":""}

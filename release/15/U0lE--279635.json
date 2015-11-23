@@ -1,1 +1,0 @@
-{"id":"516","urlID":"2rj6c","name":"SID","description":"Matches a Microsoft Security Identifier (SID) as used in Windows, Active Directory etc.\r\rSee http:\/\/en.wikipedia.org\/wiki\/Security_Identifier\r","content":"","weightedVote":"2.5","numVotes":"0","author":"Zebedee","community":"1","dateAdded":"2010-05-11","pattern":"^(S-1-)[0-9-]+$","replace":"","state":""}

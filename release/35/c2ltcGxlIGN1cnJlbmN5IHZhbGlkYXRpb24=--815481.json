@@ -1,1 +1,0 @@
-{"id":"152478","urlID":"39gcq","name":"simple currency validation","description":"","content":"123.24","weightedVote":"2.5","numVotes":"0","author":"Eugene","community":"1","dateAdded":"2014-09-15","pattern":"^-?(\\d+)[\\,\\.](\\d{2})$","replace":"\\n# $2:\\n\\t","state":""}

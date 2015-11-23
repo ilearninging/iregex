@@ -1,1 +1,0 @@
-{"id":"58588","urlID":"30tak","name":"BuildNum","description":"some build number format. 1111","content":"","weightedVote":"2.5","numVotes":"0","author":"cab","community":"1","dateAdded":"2012-05-09","pattern":"\\be(\\w*)s\\b","replace":"","state":""}

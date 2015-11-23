@@ -1,1 +1,0 @@
-{"id":"172280","urlID":"3bad8","name":"codeflow","description":"","content":"[link alone](http:\/\/something.com)","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-01","pattern":"^\\[([^\\]]+)\\]\\(([^\\)]+)\\)$","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,1 +1,0 @@
-{"id":"178030","urlID":"3br8a","name":"Beginner's Insert Into","description":"","content":"INSERT    INTO table_name (col1, col2, col3) VALUES (\"val1\", \"val2\", \"val3\"); ","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-09-22","pattern":"INSERT\\s+INTO\\s+([a-z][a-z0-9_]*)\/i","replace":"","state":"{\"substEnabled\":false}"}

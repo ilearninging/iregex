@@ -1,1 +1,0 @@
-{"id":"167883","urlID":"3ath1","name":"space","description":"","content":"        tests jsjjsjsj            ","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-29","pattern":"(\\s+ | [\\u00A0\\u1680\u200b\\u180e\\u2000-\\u2009\\u200a\u200b\\u200b\u200b\\u202f\\u205f\u200b\\u3000])$","replace":"","state":"{\"substEnabled\":false}"}

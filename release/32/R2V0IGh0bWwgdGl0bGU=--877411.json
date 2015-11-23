@@ -1,1 +1,0 @@
-{"id":"150048","urlID":"39990","name":"Get html title","description":"Parse everything titles","content":"  <title> PHP: $http_response_header - Manual <\/title>","weightedVote":"2.5","numVotes":"0","author":"andart","community":"1","dateAdded":"2014-08-06","pattern":"<title>([\\s\\S]*)<\/title>","replace":"","state":""}

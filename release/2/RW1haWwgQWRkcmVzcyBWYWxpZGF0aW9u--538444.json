@@ -1,1 +1,0 @@
-{"id":"132","urlID":"2ri2c","name":"Email Address Validation","description":"The most minimalistic way to correctly match email accounts. Give it a try.","content":"","weightedVote":"3.9517","numVotes":"21","author":"Santiago Jaramillo","community":"1","dateAdded":"2009-08-12","pattern":"\\b[\\w\\.-]+@[\\w\\.-]+\\.\\w{2,4}\\b\/gi","replace":"","state":""}

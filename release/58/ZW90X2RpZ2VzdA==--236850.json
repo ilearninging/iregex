@@ -1,1 +1,0 @@
-{"id":"171701","urlID":"3b8mv","name":"eot_digest","description":"","content":null,"weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-23","pattern":"\\[(\\d\\d\\.\\d\\d\\.\\d\\d\\d\\d\\,)\\s\\d\\d:\\d\\d\\]\\s(.+?)\\.\\s(.+)\\n\\n(.+)\\n\\n(http.+)","replace":"$1 $2, $3. \\n$4\\n$5","state":"{\"substEnabled\":true}"}

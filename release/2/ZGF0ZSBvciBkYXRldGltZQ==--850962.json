@@ -1,1 +1,0 @@
-{"id":"68119","urlID":"31p85","name":"date or datetime","description":"dd\/mm\/yyyy or dd\/mm\/yyyy hh:mm:ss","content":"","weightedVote":"3.72449","numVotes":"2","author":"McNuel","community":"1","dateAdded":"2012-08-08","pattern":"(0?[1-9]|[12][0-9]|3[01])[\\\/\\-](0?[1-9]|1[012])[\\\/\\-]\\d{4}( \\d{1,2}[:-]\\d{2}([:-]\\d{2,3})*)?","replace":"","state":""}

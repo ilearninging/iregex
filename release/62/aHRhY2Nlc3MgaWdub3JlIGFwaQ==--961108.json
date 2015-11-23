@@ -1,1 +1,0 @@
-{"id":"174106","urlID":"3bfoe","name":"htaccess ignore api","description":"","content":"\/?q=api\/test\n\/api\/test\n\/chinese","weightedVote":"2.5","numVotes":"0","author":"beshoy","community":"1","dateAdded":"2015-07-27","pattern":"\\\/(\\?q=)?api.*","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,1 +1,0 @@
-{"id":"124884","urlID":"36vhs","name":"Whole word outside HTML tags","description":"http:\/\/pureform.wordpress.com\/2008\/01\/04\/matching-a-word-characters-outside-of-html-tags\/","content":"","weightedVote":"2.5","numVotes":"0","author":"Oleks Z","community":"1","dateAdded":"2013-10-30","pattern":"\\bMyWord\\b(?!([^<]+)?>)","replace":"[**]","state":""}

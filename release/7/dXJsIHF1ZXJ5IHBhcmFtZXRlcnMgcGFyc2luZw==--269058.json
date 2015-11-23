@@ -1,1 +1,0 @@
-{"id":"146612","urlID":"38v6s","name":"url query parameters parsing","description":"Parse url query parameters as name\/value","content":"?var1=1&var2=2","weightedVote":"3.26389","numVotes":"1","author":"nawa","community":"1","dateAdded":"2014-06-06","pattern":"([^=&?]+)=([^&]+)","replace":"","state":""}

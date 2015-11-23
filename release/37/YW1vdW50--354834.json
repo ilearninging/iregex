@@ -1,1 +1,0 @@
-{"id":"154518","urlID":"39mc2","name":"amount","description":"amount","content":"5.26\n3.15\n8,56\n9\n9.00\n900.001\n9.0069\n56.2\nABC123.45\n2345.345.4365.46.546.756.\n45....46\n456,.35\n0.56\n002.02\n0.00\n\n","weightedVote":"2.5","numVotes":"0","author":"nour","community":"1","dateAdded":"2014-10-10","pattern":"^\\d+([,\\.]\\d{1,2})?$","replace":"","state":""}

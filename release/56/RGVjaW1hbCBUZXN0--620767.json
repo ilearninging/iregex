@@ -1,1 +1,0 @@
-{"id":"170258","urlID":"3b4fm","name":"Decimal Test","description":"Allows the evaluation of a number as a proper devimal so no multiple points","content":"125.141","weightedVote":"2.5","numVotes":"0","author":"Stack Overflow","community":"1","dateAdded":"2015-06-02","pattern":"^[+-]?((\\d+(\\.\\d*)?)|(\\.\\d+))$\/","replace":"","state":"{\"substEnabled\":false}"}

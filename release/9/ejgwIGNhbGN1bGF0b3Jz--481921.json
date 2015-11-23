@@ -1,1 +1,0 @@
-{"id":"172006","urlID":"3b9ji","name":"z80 calculators","description":"matches the z80 TI-8x+ line","content":"TI-83+\nTI-84+\nTI-84+ SE\nTI-84+ CSE","weightedVote":"3.26389","numVotes":"1","author":"Ivoah","community":"1","dateAdded":"2015-06-26","pattern":"TI-8[34]\\+( C?SE)?","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,1 +1,0 @@
-{"id":"162980","urlID":"3af5c","name":"Bob","description":"regex stuff","content":"John or john join Alan with John Michael Lewis and Manny Smith","weightedVote":"2.5","numVotes":"0","author":"Bob","community":"1","dateAdded":"2015-02-19","pattern":"(\\W|^)(?!John|john)(\\w+|\\s+)\/ig","replace":"","state":""}

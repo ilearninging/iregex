@@ -1,1 +1,0 @@
-{"id":"179684","urlID":"3c03c","name":"regex not digit character","description":"","content":"quux a\nquux b\nquux 3","weightedVote":"2.5","numVotes":"0","author":"mohamed4ch","community":"1","dateAdded":"2015-10-14","pattern":"quux\\s\\D","replace":"","state":"{\"substEnabled\":false}"}

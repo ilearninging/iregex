@@ -1,1 +1,0 @@
-{"id":"419","urlID":"2rit9","name":"5E70C3A569FE80E6592147534DD85668","description":"portlet","content":"","weightedVote":"2.5","numVotes":"0","author":"exrtact to aratb","community":"1","dateAdded":"2010-03-19","pattern":"\\be(\\w*)s\\b","replace":"[[$&$&]]","state":""}

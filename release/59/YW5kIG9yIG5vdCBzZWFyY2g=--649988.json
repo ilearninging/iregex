@@ -1,1 +1,0 @@
-{"id":"172401","urlID":"3baoj","name":"and or not search","description":"doesnt work","content":"\\w+((?! (AND)| (OR)| (NOT))( (AND)| (OR)| (NOT)) \\w+)*","weightedVote":"2.5","numVotes":"0","author":"Casper Jazz","community":"1","dateAdded":"2015-07-02","pattern":"\\w+((?! (AND)| (OR)| (NOT))( (AND)| (OR)| (NOT)) \\w+)*","replace":"","state":"{\"substEnabled\":false}"}

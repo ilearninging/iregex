@@ -1,1 +1,0 @@
-{"id":"163086","urlID":"3affa","name":"sql comment match","description":"sql comment match","content":"create table blah blah (not Null) whatever  -- some comment at end of line\n-- another comment here\nmore code","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-02-20","pattern":"--.*","replace":"","state":""}

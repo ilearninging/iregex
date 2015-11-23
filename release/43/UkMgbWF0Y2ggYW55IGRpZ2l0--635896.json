@@ -1,1 +1,0 @@
-{"id":"159685","urlID":"3a5gf","name":"RC match any digit","description":"","content":"RC123123123\nRC32 21312\nRC 12321\nRC@123\nRC,-.,\nRCtest","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-03","pattern":"RC\\d{0,2}","replace":"","state":""}

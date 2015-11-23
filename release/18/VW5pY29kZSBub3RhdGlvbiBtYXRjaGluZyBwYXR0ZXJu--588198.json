@@ -1,1 +1,0 @@
-{"id":"41700","urlID":"2vbrc","name":"Unicode notation matching pattern","description":"Pattern to find unicode character notation like \"\\uXXXX\".\rUseful to revert unicode charcater notation.","content":"","weightedVote":"2.5","numVotes":"0","author":"Eric H\u00e9lier","community":"1","dateAdded":"2011-12-01","pattern":"\\\\u[a-zA-Z0-9]{4}","replace":"[[$&$&]]","state":""}

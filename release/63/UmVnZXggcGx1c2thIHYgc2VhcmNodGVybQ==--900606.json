@@ -1,1 +1,0 @@
-{"id":"174742","urlID":"3bhk2","name":"Regex pluska v searchterm","description":"","content":"triko+modre\nbbh+boty+njbhvb","weightedVote":"2.5","numVotes":"0","author":"Marek Aldorf","community":"1","dateAdded":"2015-08-06","pattern":"(\\w.+)\\++(\\w.+)\\++(\\w.+)","replace":"","state":"{\"substEnabled\":false}"}

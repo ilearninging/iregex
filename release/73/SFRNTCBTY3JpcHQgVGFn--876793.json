@@ -1,1 +1,0 @@
-{"id":"243","urlID":"2ricp","name":"HTML Script Tag","description":"Finds a full <script><\/script> HTML tag in the string.","content":"","weightedVote":"2.39119","numVotes":"3","author":"Matheus Almeida (matheusweb.com)","community":"1","dateAdded":"2009-11-19","pattern":"<script[\\s\\S]*?\/script>","replace":"","state":""}

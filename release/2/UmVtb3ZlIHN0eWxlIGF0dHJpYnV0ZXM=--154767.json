@@ -1,1 +1,0 @@
-{"id":"24515","urlID":"2tpg9","name":"Remove style attributes","description":"Remove all style attributes from html tags.","content":"","weightedVote":"3.7","numVotes":"5","author":"Ronald van Wijnen","community":"1","dateAdded":"2011-05-17","pattern":"style=(\\'|\\\")([ -0-9a-zA-Z:]*[ 0-9a-zA-Z;]*)*(\\'|\\\")\/gi","replace":"","state":""}

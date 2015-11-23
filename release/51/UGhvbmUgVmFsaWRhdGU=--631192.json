@@ -1,1 +1,0 @@
-{"id":"166195","urlID":"3aoip","name":"Phone Validate","description":"Phone validator","content":"(539) 380 71 19","weightedVote":"2.5","numVotes":"0","author":"Mazhar Kaan Girti","community":"1","dateAdded":"2015-04-04","pattern":"(\\(5+[0-9]{2}\\)[ ])([0-9]{3})([ ])([0-9]{2})([ ])([0-9]{2})","replace":"","state":"{\"substEnabled\":false}"}

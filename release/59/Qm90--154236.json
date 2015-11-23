@@ -1,1 +1,0 @@
-{"id":"172041","urlID":"3b9mr","name":"Bot","description":"Api","content":"\/command@bot arg\n\/command@bot\n\/command arg\n\/command","weightedVote":"2.5","numVotes":"0","author":"awkawrd_potato","community":"1","dateAdded":"2015-06-27","pattern":"\\\/(\\S+)(@\\S+)?(?: (\\S+))?","replace":"","state":"{\"substEnabled\":false}"}

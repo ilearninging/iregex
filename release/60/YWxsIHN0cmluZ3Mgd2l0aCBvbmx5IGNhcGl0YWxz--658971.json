@@ -1,1 +1,0 @@
-{"id":"172646","urlID":"3bbfi","name":"all strings with only capitals","description":"","content":"HELLO there! darling HIIIEPO YIppwer YipE YIPPE YYiPPP","weightedVote":"2.5","numVotes":"0","author":"@bzelip","community":"1","dateAdded":"2015-07-07","pattern":"\\b[A-Z]+\\b","replace":"","state":"{\"substEnabled\":false}"}

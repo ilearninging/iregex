@@ -1,1 +1,0 @@
-{"id":"19555","urlID":"2tav9","name":"printf basic values","description":"Search for basic printf values, with padding or not.","content":"","weightedVote":"2.5","numVotes":"0","author":"Rafael Rinaldi","community":"1","dateAdded":"2011-03-17","pattern":"%[d|s]|%\\d+[d|s]\/gi","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"172965","urlID":"3bcdf","name":"Tag","description":"","content":"<td class=\"forecast\">106.2%<\/td>\n<td class=\"forecast\"><\/td>","weightedVote":"2.5","numVotes":"0","author":"Orel","community":"1","dateAdded":"2015-07-11","pattern":"<td class=\\\"forecast\\\">\\s*(.*?)\\s*<\/td>","replace":"","state":"{\"substEnabled\":false}"}

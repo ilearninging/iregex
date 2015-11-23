@@ -1,1 +1,0 @@
-{"id":"178565","urlID":"3bsqf","name":"no css or js extensions","description":"","content":"foo@demo.net\tbar.ba@test.co.uk\nwww.demo.com\thttp:\/\/foo.co.uk\/\nhttp:\/\/regexr.com\/foo.html?q=bar","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-09-29","pattern":".*(?!(.css|.js))","replace":"","state":"{\"substEnabled\":false}"}

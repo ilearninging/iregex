@@ -1,1 +1,0 @@
-{"id":"150729","urlID":"39b8r","name":"Ignore Comments","description":"This regex only matches lines that are not commented. Useful for searching actual lines of codes in Notepad++.","content":"\/\/ test\ntests\nasdfsd\n\/\/ asd","weightedVote":"2.5","numVotes":"0","author":"amenon","community":"1","dateAdded":"2014-08-17","pattern":"^((?!\\\/\\\/).)*$","replace":"","state":""}

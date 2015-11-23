@@ -1,1 +1,0 @@
-{"id":"139772","urlID":"38b5k","name":"* and % special characters alone allowed in an alpha numeric str","description":"* and % pattern","content":"","weightedVote":"2.5","numVotes":"0","author":"Ragav","community":"1","dateAdded":"2014-02-18","pattern":"^([a-zA-Z0-9]+)([%]{0,1}|[\\*]{0,1})([a-zA-Z0-9]*)$","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"163373","urlID":"3aga7","name":"Words with :","description":"","content":":word\n:many:words:without:spaces\n:words :with -:some!:weird:characters\nOther pointless :stuff","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-02-25","pattern":":\\w+","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"172822","urlID":"3bc02","name":"CronSchedule","description":"","content":"10:00 10:45","weightedVote":"2.5","numVotes":"0","author":"Michael Sundgaard","community":"1","dateAdded":"2015-07-09","pattern":"^(\\s?\\d{1,2}:\\d{1,2})+$\/","replace":"","state":"{\"substEnabled\":false}"}

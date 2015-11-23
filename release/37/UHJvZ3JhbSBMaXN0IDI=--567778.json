@@ -1,1 +1,0 @@
-{"id":"154435","urlID":"39m49","name":"Program List 2","description":"","content":"\n\n\n\"DisplayName\"=\"Adobe Shockwave Player 11.6\"\n\n\n\n","weightedVote":"2.5","numVotes":"0","author":"KyleMit","community":"1","dateAdded":"2014-10-09","pattern":"(\"DisplayName\"=\"|\"|\\r\\n\\r\\n)","replace":"","state":""}

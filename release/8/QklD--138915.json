@@ -1,1 +1,0 @@
-{"id":"154327","urlID":"39lq5","name":"BIC","description":"Check for a BIC code, and only a BIC code","content":"HELADEFF1ss","weightedVote":"3.26389","numVotes":"1","author":"Marc Etienne","community":"1","dateAdded":"2014-10-09","pattern":"^([a-zA-Z]{4}[a-zA-Z]{2}[a-zA-Z0-9]{2}([a-zA-Z0-9]{3})?)$\/","replace":"","state":""}

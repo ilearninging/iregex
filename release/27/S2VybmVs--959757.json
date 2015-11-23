@@ -1,1 +1,0 @@
-{"id":"146606","urlID":"38v6a","name":"Kernel","description":"","content":"Kernel-2.6.18-371.3.1.el5","weightedVote":"2.5","numVotes":"0","author":"alvin","community":"1","dateAdded":"2014-06-06","pattern":"(Kernel-(.*))\/ig","replace":"$2","state":""}

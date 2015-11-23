@@ -1,1 +1,0 @@
-{"id":"94394","urlID":"3467e","name":"Mobile numbers (Russian)","description":"Validate Russian mobile numbers type:\r+7 (123) 456-78-90","content":"","weightedVote":"2.5","numVotes":"0","author":"Maksim Dudko","community":"1","dateAdded":"2013-03-19","pattern":"^\\+7 \\(\\d{3}\\) \\d{3}\\-\\d{2}\\-\\d{2}$\/","replace":"","state":""}

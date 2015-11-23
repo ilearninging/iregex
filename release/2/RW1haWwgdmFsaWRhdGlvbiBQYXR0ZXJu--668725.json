@@ -1,1 +1,0 @@
-{"id":"83487","urlID":"3368t","name":"Email validation Pattern","description":"Email Address validation in action.\r","content":"","weightedVote":"3.71324","numVotes":"5","author":"Vijay Sharma","community":"1","dateAdded":"2012-12-18","pattern":"^([0-9a-zA-Z].*?@([0-9a-zA-Z].*\\.\\w{2,4}))$","replace":"Found the email id: $1 --> from domain $2","state":""}

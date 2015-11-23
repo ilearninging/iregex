@@ -1,1 +1,0 @@
-{"id":"32370","urlID":"2uggm","name":"Clean User Submitted URLs","description":"Try it by entering any URL...","content":"","weightedVote":"3.26389","numVotes":"1","author":"Methemer, http:\/\/www.themer.me","community":"1","dateAdded":"2011-08-20","pattern":"((http:\\\/\\\/)?(www\\.)?([\\w\\d-]*?\\.)(\\w{2,4})\/?)","replace":"http:\/\/www.$4$5","state":""}

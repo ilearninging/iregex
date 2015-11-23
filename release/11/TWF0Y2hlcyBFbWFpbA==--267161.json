@@ -1,1 +1,0 @@
-{"id":"227","urlID":"2rib9","name":"Matches Email","description":"This matches email\r","content":"","weightedVote":"2.92969","numVotes":"5","author":"Ahmad Amin","community":"1","dateAdded":"2009-11-09","pattern":"^(([a-zA-Z0-9\\._-]+)@([a-zA-Z0-9-]+)\\.([a-zA-Z]{2,4}))$","replace":"","state":""}

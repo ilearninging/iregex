@@ -1,1 +1,0 @@
-{"id":"140182","urlID":"38cc2","name":"Credit Card Visa 16 digit","description":"\\b4(?:\\d[ -]*?){15}\\b\r","content":"","weightedVote":"3.26389","numVotes":"1","author":"David Sinclair","community":"1","dateAdded":"2014-02-26","pattern":"\\b4(?:\\d[ -]*?){15}\\b","replace":"","state":""}

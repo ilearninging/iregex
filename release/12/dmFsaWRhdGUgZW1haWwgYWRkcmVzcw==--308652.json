@@ -1,1 +1,0 @@
-{"id":"416","urlID":"2rit0","name":"validate email address","description":"validates an email address","content":"","weightedVote":"2.88194","numVotes":"1","author":"nkhan","community":"1","dateAdded":"2010-03-17","pattern":"\\w+([-+.]\\w+)*@\\w+([-.]\\w+)*\\.\\w+([-.]\\w+)*","replace":"","state":""}

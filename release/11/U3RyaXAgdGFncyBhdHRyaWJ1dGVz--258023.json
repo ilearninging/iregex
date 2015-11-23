@@ -1,1 +1,0 @@
-{"id":"537","urlID":"2rj8b","name":"Strip tags attributes","description":"Strips attributes from HTML source","content":"","weightedVote":"2.95918","numVotes":"2","author":"nn2","community":"1","dateAdded":"2010-05-23","pattern":"(<[a-zA-Z]+) [^>]*","replace":"$1","state":""}

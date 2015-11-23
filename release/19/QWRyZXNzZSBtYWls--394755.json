@@ -1,1 +1,0 @@
-{"id":"73864","urlID":"32a2o","name":"Adresse mail","description":"Cherche:\r\/(^[\\D][a-zA-Z0-9_.-]+)@([a-zA-Z0-9_.-]+)[.]\\w{2,3}\/g","content":"","weightedVote":"2.5","numVotes":"0","author":"em72","community":"1","dateAdded":"2012-09-28","pattern":"(^[\\D][a-zA-Z0-9_.-]+)@([a-zA-Z0-9_.-]+)[.]\\w{2,3}","replace":"","state":""}

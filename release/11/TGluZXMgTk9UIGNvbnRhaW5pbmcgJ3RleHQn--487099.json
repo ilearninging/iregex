@@ -1,1 +1,0 @@
-{"id":"3461","urlID":"2rrqf","name":"Lines NOT containing 'text'","description":"Matches lines NOT containing 'text'","content":"","weightedVote":"2.95918","numVotes":"2","author":"http:\/\/www.regular-expressions.i","community":"1","dateAdded":"2010-07-27","pattern":"^((?!text).)*$","replace":"","state":""}

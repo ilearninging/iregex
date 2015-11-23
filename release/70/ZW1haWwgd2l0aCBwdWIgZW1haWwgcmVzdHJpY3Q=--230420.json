@@ -1,1 +1,0 @@
-{"id":"180470","urlID":"3c2d2","name":"email with pub email restrict","description":"Email validation with pub email restrict","content":"","weightedVote":"2.5","numVotes":"0","author":"karthik rana","community":"1","dateAdded":"2015-10-26","pattern":"^[\\w\\d][\\S]+@(?!gmail|yahoo|ymail|hotmail|rediff)[\\w]{2,}(\\.[\\w]{2,}){1,2}","replace":"","state":"{\"substEnabled\":false}"}

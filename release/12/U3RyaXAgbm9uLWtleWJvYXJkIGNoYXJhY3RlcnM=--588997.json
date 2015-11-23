@@ -1,1 +1,0 @@
-{"id":"13607","urlID":"2sphl","name":"Strip non-keyboard characters","description":"Strip non-keyboard characters.","content":"","weightedVote":"2.88194","numVotes":"1","author":"Zaiman Noris","community":"1","dateAdded":"2010-12-23","pattern":"[^A-Za-z 0-9 \\.,\\?'\"\"!@#\\$%\\^&\\*\\(\\)-_=\\+;:<>\\\/\\\\\\|\\}\\{\\[\\]`~]*","replace":"","state":""}

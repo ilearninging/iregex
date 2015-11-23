@@ -1,1 +1,0 @@
-{"id":"165052","urlID":"3al7k","name":"SO29173056","description":"Regex for question","content":"Row 1: Location=1922&JobType=11&JobName=3719&SkillLevel:isnull=true&JobStatus=0","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-20","pattern":"(\\w+:?\\w*)(=(\\w+))&?","replace":"","state":"{\"substEnabled\":false}"}

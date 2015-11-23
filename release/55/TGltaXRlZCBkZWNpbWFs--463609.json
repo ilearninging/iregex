@@ -1,1 +1,0 @@
-{"id":"168819","urlID":"3b08p","name":"Limited decimal","description":"","content":"0123456789\n12345\n-98.\n3,1412\n..\n9,00\n.\n+42","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-13","pattern":"(^-?\\d*(\\,|\\.)?\\d{0,9}$)","replace":"","state":"{\"substEnabled\":false}"}

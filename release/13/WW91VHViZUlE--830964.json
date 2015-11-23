@@ -1,1 +1,0 @@
-{"id":"1409","urlID":"2rlq3","name":"YouTubeID","description":"grab de youtube ID from various different URL types, even encoded ones\r\r","content":"","weightedVote":"2.7449","numVotes":"2","author":"Hertzel Armengol","community":"1","dateAdded":"2010-06-26","pattern":"(%3F|%26|&|\\?)?(v%3D|v=[^htp]|v\/)(.{11}).","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"160507","urlID":"3a7th","name":"Password Regex","description":"Password Rule:\nAt least 1 letter\nAt least 1 number\nNo more than 2 repeated chars.","content":"passw0rd","weightedVote":"2.5","numVotes":"0","author":" Micah Potter","community":"1","dateAdded":"2015-01-16","pattern":"(?=.*\\d.*)(?=.*[a-zA-Z].*)(?!.*(.)\\1\\1)^.*$","replace":"","state":""}

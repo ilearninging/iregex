@@ -1,1 +1,0 @@
-{"id":"26518","urlID":"2tvc2","name":"Get float or int","description":"Corrected a second time. Returns floats or integers. Both '.' and ',' are allowed.","content":"","weightedVote":"3.41837","numVotes":"2","author":"LittleFox","community":"1","dateAdded":"2011-06-10","pattern":"([0-9]+)([\\.,]?([0-9]+))?","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"174620","urlID":"3bh8k","name":"ANSI color code","description":"Find colors","content":"","weightedVote":"2.5","numVotes":"0","author":"mck4","community":"1","dateAdded":"2015-08-04","pattern":"(\\[0;)+([0-9])+([0-9])+(;)+([0-9]?\\d[0-9]?)+(m)(\\[?)(\\]?)","replace":"","state":"{\"substEnabled\":false}"}

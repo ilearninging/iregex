@@ -1,1 +1,0 @@
-{"id":"170699","urlID":"3b5p1","name":"ssn","description":"","content":"123-12-1234\n345-64-3467","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-08","pattern":"\\d{3}-\\d{2}-\\d{4}","replace":"","state":"{\"substEnabled\":false}"}

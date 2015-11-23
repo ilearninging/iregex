@@ -1,1 +1,0 @@
-{"id":"182454","urlID":"3c872","name":"last five numbers","description":"","content":"D012345\n\nD012345AS\n\nD012345RM-67\n\nD12345D\n\n12345D67\n\nTEST-Str12345ing-rm6","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-11-18","pattern":"[0-9]{5}(?![0-9])","replace":"","state":"{\"substEnabled\":false}"}

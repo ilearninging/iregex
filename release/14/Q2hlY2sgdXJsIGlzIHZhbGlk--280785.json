@@ -1,1 +1,0 @@
-{"id":"39563","urlID":"2v5j1","name":"Check url is valid","description":"Check url is valid\r\r","content":"","weightedVote":"2.69097","numVotes":"1","author":"Dimitar Danailov","community":"1","dateAdded":"2011-11-10","pattern":"^(https?\\:\\:?\\\/\\\/)?(www.)?[^.]+\\.\\w{2,8}\/s","replace":"","state":""}

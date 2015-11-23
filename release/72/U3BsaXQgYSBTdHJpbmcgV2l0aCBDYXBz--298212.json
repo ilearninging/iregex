@@ -1,1 +1,0 @@
-{"id":"182063","urlID":"3c72d","name":"Split a String With Caps","description":"This will split your string with caps to ","content":"ThisIsATestSoYeahJustDoIt!\n","weightedVote":"2.5","numVotes":"0","author":"NickAc","community":"1","dateAdded":"2015-11-14","pattern":"((?:[A-Z])[^A-Z]*)","replace":"$& ","state":"{\"substEnabled\":true}"}

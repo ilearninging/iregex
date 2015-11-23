@@ -1,1 +1,0 @@
-{"id":"147865","urlID":"392sb","name":"leading zeroes or letters","description":"","content":"0001\n001 \n01\n00.12312\n000.1232\nk0.0055\n0.15k\nkkkkk\nkk.15\n15k\n1\n20\n0.1\n0.123123","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-29","pattern":"(0\\d+\\.?\\d*)|(.*[a-z]+.*)","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"167132","urlID":"3arak","name":"PascalCaseParser","description":"Parses Pascal case strings.","content":"HelveticaBold.otf\nNameStyleWithSomeMajs.ttf","weightedVote":"2.5","numVotes":"0","author":"Raphael Yancey","community":"1","dateAdded":"2015-04-17","pattern":"([A-Z][a-z]+)+?(?=[A-Z|\\.][a-z]+)","replace":"","state":"{\"substEnabled\":false}"}

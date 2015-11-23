@@ -1,1 +1,0 @@
-{"id":"158408","urlID":"3a1oo","name":"ppk1","description":"Taiskorgon's problem","content":"var@x=121 #122 \n# var=1\nvar2 = 3\nvar2  #=3\nvar2 = #3\n# foo = 34\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-12-08","pattern":"^[^#]*[^#\\s]+\\s*=\\s*[^#\\s]+","replace":"","state":""}

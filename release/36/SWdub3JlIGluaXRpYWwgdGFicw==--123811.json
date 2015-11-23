@@ -1,1 +1,0 @@
-{"id":"153490","urlID":"39jbm","name":"Ignore initial tabs","description":"Ignore lines starting with a tab character.","content":"Numbers\n\tOne\n\tTwo\n\tThree\n\nFruits\n\tOrange\n\tApple\n\tStrawberry","weightedVote":"2.5","numVotes":"0","author":"consty","community":"1","dateAdded":"2014-09-29","pattern":"^[^\\t].+","replace":"","state":""}

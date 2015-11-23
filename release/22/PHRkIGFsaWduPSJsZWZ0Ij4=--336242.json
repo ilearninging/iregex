@@ -1,1 +1,0 @@
-{"id":"126102","urlID":"37342","name":"<td align=\"left\">","description":"to read text within  td tags","content":"","weightedVote":"2.5","numVotes":"0","author":"Anusha","community":"1","dateAdded":"2013-11-06","pattern":"<td[^>]+>","replace":"","state":""}

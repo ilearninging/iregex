@@ -1,1 +1,0 @@
-{"id":"21419","urlID":"2tge1","name":"CSS class block","description":"CSS class block\r\r[\\w\\s]?.body(\\s*?.*?)\\{(\\s*?.*?)*?\\}","content":"","weightedVote":"2.5","numVotes":"0","author":"Yogesh Patel","community":"1","dateAdded":"2011-04-08","pattern":"[\\w\\s]?.body(\\s*?.*?)\\{(\\s*?.*?)*?\\}","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"67214","urlID":"31mja","name":"Proximity Search 2","description":"The given sample pattern matches 'word2' which falls within three words from 'word1'.","content":"","weightedVote":"2.5","numVotes":"0","author":"Bobby Mathews","community":"1","dateAdded":"2012-07-31","pattern":"((word1)\\W+(?:\\w+\\W+){1,3}?word2)","replace":"","state":""}

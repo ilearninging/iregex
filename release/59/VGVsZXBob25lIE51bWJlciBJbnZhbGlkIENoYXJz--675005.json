@@ -1,1 +1,0 @@
-{"id":"171951","urlID":"3b9ed","name":"Telephone Number Invalid Chars","description":"Find Invalid Characters in phone number","content":"#+35387-jewhjdf39150723","weightedVote":"2.5","numVotes":"0","author":"Neville","community":"1","dateAdded":"2015-06-26","pattern":"[^0-9\\+\\-#]","replace":"","state":"{\"substEnabled\":false}"}

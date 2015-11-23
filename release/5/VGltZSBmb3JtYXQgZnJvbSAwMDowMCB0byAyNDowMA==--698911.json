@@ -1,1 +1,0 @@
-{"id":"29131","urlID":"2u711","name":"Time format from 00:00 to 24:00","description":"regular expression for time from 00:00 to 24:00 (HH:MM)\r\r","content":"","weightedVote":"3.26389","numVotes":"1","author":"Markus Weigelt","community":"1","dateAdded":"2011-07-12","pattern":"(([0|1]\\d|2[0-3]):[0-5]\\d)|24:00","replace":"","state":""}

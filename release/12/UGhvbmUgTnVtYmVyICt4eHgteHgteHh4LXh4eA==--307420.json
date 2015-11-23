@@ -1,1 +1,0 @@
-{"id":"18062","urlID":"2t6ja","name":"Phone Number +xxx-xx-xxx-xxx","description":"Genral Phone Number matching.","content":"","weightedVote":"2.88194","numVotes":"1","author":"Sharbel el hajj, GD77-Studio.com","community":"1","dateAdded":"2011-02-26","pattern":"([\\+]\\d{2,3})(\\-\\d{1,2})+(\\-\\d{3,3}){2}\/gi","replace":"","state":""}

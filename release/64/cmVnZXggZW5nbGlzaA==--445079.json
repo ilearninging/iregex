@@ -1,1 +1,0 @@
-{"id":"176253","urlID":"3bm1n","name":"regex english","description":"","content":"\u0395\u03bd\u03ceGallant\u03b41\n\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-27","pattern":"(?=.*[A-Z])(?=.*[^A-Za-z\\d])(?=.*\\d)(?=.*[a-z]).{8}","replace":"","state":"{\"substEnabled\":false}"}

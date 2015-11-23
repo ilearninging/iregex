@@ -1,1 +1,0 @@
-{"id":"166680","urlID":"3aq08","name":"Better problem","description":"","content":"LA paper about potatoes\nGoverment MiniEssay (It's about norwhales)","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-10","pattern":"((\\(((\\S\\s?)\\)?)*)|(about( \\w*)*))","replace":"","state":"{\"substEnabled\":false}"}

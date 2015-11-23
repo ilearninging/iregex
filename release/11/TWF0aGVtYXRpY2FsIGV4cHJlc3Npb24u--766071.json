@@ -1,1 +1,0 @@
-{"id":"97651","urlID":"34fop","name":"Mathematical expression.","description":"Valida expresiones matematicas simples con o sin par\u00e9ntesis. Pero no funciona con Javascript.","content":"","weightedVote":"3.07292","numVotes":"1","author":"Stackoverflow","community":"1","dateAdded":"2013-04-10","pattern":"^([-+\/*](\\()?\\d+(\\))?(\\.\\d+)?)*","replace":"","state":""}

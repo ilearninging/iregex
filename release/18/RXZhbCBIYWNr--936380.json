@@ -1,1 +1,0 @@
-{"id":"50374","urlID":"3058i","name":"Eval Hack","description":"PHP eval hack pattern (i.e. eval(base64_decode(\"...\")); )","content":"","weightedVote":"2.5","numVotes":"0","author":"chrisjm","community":"1","dateAdded":"2012-02-27","pattern":"\\seval\\(base64_decode\\(\\\"[a-zA-Z0-9\/]*\\\"\\)\\);","replace":"","state":""}

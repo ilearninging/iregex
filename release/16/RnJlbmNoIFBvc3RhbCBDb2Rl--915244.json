@@ -1,1 +1,0 @@
-{"id":"20868","urlID":"2teqc","name":"French Postal Code","description":"To check French postal code (include Corsica Postal code)","content":"","weightedVote":"2.5","numVotes":"0","author":"Annhydrium","community":"1","dateAdded":"2011-04-02","pattern":" \/^((0[1-9])|([1-8][0-9])|(9[0-8])|(2A)|(2B))[0-9]{3}$\/","replace":"","state":""}

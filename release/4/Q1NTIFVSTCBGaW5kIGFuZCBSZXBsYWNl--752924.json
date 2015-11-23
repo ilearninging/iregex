@@ -1,1 +1,0 @@
-{"id":"54147","urlID":"30ga9","name":"CSS URL Find and Replace","description":"Find url used in stylesheet and replace it with correct url","content":"","weightedVote":"3.41837","numVotes":"2","author":"ashish@itcutives","community":"1","dateAdded":"2012-03-29","pattern":"url\\([\\'\\\"]*(.*?)[\\'\\\"]*\\)","replace":"url(http:\/\/imageserver\/$1)","state":""}

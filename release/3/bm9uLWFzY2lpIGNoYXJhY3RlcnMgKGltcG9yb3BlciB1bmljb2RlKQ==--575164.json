@@ -1,1 +1,0 @@
-{"id":"27510","urlID":"2u292","name":"non-ascii characters (imporoper unicode)","description":"Find all characters greater than 127 from a string.  Trying to find characters that aren't properly unicode encoded.","content":"","weightedVote":"3.62245","numVotes":"2","author":"James Setaro","community":"1","dateAdded":"2011-06-22","pattern":"[\\x80-\\xFF]","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"19376","urlID":"2taeg","name":"Identity-Num-18Length","description":"Matches a Chinese 18Length Identity Num.","content":"","weightedVote":"2.5","numVotes":"0","author":"lufei","community":"1","dateAdded":"2011-03-15","pattern":"^[\\d]{6}(19[\\d]{2}|20[\\d]{2})(0[1-9]|1[0-2])(0[1-9]|[1-2]\\d|3[0-1])([\\d]{3})?[xX\\d]$\/gs","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"180105","urlID":"3c1ar","name":"word with lenght","description":"","content":"azerf\nazertf\nszerf","weightedVote":"2.5","numVotes":"0","author":"mohamed4ch","community":"1","dateAdded":"2015-10-20","pattern":"a\\w{3}f","replace":"","state":"{\"substEnabled\":false}"}

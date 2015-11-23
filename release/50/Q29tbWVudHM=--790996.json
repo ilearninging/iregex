@@ -1,1 +1,0 @@
-{"id":"165652","urlID":"3amvs","name":"Comments","description":"","content":"var str = \"Do I match ? Hmm, \/\/ thats odd\"\nvar i = 42; \/\/ that's so funny, hahahaha\n\n\n\n\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-27","pattern":"\\\/{2}","replace":"","state":"{\"substEnabled\":false}"}

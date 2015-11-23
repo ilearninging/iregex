@@ -1,1 +1,0 @@
-{"id":"364","urlID":"2rio4","name":"word word word","description":"By request","content":"","weightedVote":"3.26389","numVotes":"1","author":"skiz","community":"1","dateAdded":"2010-02-18","pattern":"((word)(\\d|\\s)+?){3}\/gi","replace":"","state":""}

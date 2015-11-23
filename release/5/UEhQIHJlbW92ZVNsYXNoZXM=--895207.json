@@ -1,1 +1,0 @@
-{"id":"9180","urlID":"2scik","name":"PHP removeSlashes","description":"removes slashes from a string like php or mysql does with removeslashes","content":"","weightedVote":"3.26389","numVotes":"1","author":"Kyle","community":"1","dateAdded":"2010-10-19","pattern":"[\\\"\\\\\\x00]","replace":"","state":""}

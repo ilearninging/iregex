@@ -1,1 +1,0 @@
-{"id":"155964","urlID":"39qjk","name":"Clean CSV of newlines","description":"Clean a CSV of all the newlines that breaks the format (all except the ones at the end of the line)","content":"","weightedVote":"3.72449","numVotes":"2","author":"Side","community":"1","dateAdded":"2014-10-29","pattern":"(\\n)(?!([0-9]+,))","replace":"","state":""}

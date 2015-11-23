@@ -1,1 +1,0 @@
-{"id":"144228","urlID":"38o7c","name":"match synapse","description":"a regular expression to block Mozilla\/4.0 (compatible; Synapse)","content":"Mozilla\/4.0 (compatible; Synapse)","weightedVote":"3.26389","numVotes":"1","author":"terriWillow","community":"1","dateAdded":"2014-04-22","pattern":"^Mozilla\\\/4\\.0\\s\\(compatible;\\sSynapse\\)$\/i","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"7993","urlID":"2s93b","name":"IP Address (Lite)","description":"Minimalistic, but Accurate RegEx IPv4 Address Validation","content":"","weightedVote":"1.39974","numVotes":"3","author":"TigerD7-ACI-","community":"1","dateAdded":"2010-10-01","pattern":"([0-2][0-5]{2}\\.|[\\d][\\d]?\\.){3}([0-2][0-5]{2}|[\\d][\\d]?)\/","replace":"","state":""}

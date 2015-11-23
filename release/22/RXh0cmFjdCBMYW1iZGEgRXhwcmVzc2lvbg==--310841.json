@@ -1,1 +1,0 @@
-{"id":"110506","urlID":"35ldu","name":"Extract Lambda Expression","description":"new","content":"","weightedVote":"2.5","numVotes":"0","author":"Junil Um","community":"1","dateAdded":"2013-07-21","pattern":"[\\(^\\)]?([\\w,\\s]*)[\\)^\\(]?\\s=>\\s[\\{^\\}]?(.*[^;^}])[;\\s\\}^\\{]?","replace":"","state":""}

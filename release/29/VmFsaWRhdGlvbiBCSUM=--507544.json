@@ -1,1 +1,0 @@
-{"id":"147782","urlID":"392ki","name":"Validation BIC","description":"","content":"INGBFR21XXX\nCCBPFRPPPG\nCCBFRPPVER","weightedVote":"2.5","numVotes":"0","author":"Jonathan U","community":"1","dateAdded":"2014-06-27","pattern":"[A-Z]{6,6}[A-Z2-9][A-NP-Z0-9]([A-Z0-9]{3,3}){0,1}","replace":"","state":""}

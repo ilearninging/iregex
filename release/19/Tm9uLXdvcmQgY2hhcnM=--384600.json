@@ -1,1 +1,0 @@
-{"id":"71484","urlID":"3233k","name":"Non-word chars","description":"Non-word chars","content":"","weightedVote":"2.5","numVotes":"0","author":"Miller","community":"1","dateAdded":"2012-09-07","pattern":"[^\\w \\xC0-\\xFF]","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"168857","urlID":"3b0cb","name":"Greeting","description":"","content":"Hi Lenny and hello beer!","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-13","pattern":"(hi|hello) (?=lenny|carl|moe)\/ig","replace":"","state":"{\"substEnabled\":false}"}

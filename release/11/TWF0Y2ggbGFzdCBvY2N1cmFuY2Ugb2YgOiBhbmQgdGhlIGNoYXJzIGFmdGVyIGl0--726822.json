@@ -1,1 +1,0 @@
-{"id":"64","urlID":"2rhs0","name":"Match last occurance of : and the chars after it","description":"Matches the last occurence of : and the chars after it.\rExample:\r\rlalala :matches this\r\rwill match :matches this","content":"","weightedVote":"2.88194","numVotes":"1","author":"dom96","community":"1","dateAdded":"2009-06-21","pattern":"(:)[^:]*$","replace":"","state":""}

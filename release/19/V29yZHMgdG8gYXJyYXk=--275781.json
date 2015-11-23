@@ -1,1 +1,0 @@
-{"id":"73883","urlID":"32a4h","name":"Words to array","description":"Words by line to php array format","content":"","weightedVote":"2.5","numVotes":"0","author":"Pawel Zareba","community":"1","dateAdded":"2012-09-28","pattern":"\\b\\w+\\b","replace":"\"$&\" => \"\",","state":""}

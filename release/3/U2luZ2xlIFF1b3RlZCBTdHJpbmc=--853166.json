@@ -1,1 +1,0 @@
-{"id":"8","urlID":"2rhmo","name":"Single Quoted String","description":"Will match any string in single quotes.","content":"","weightedVote":"3.41837","numVotes":"2","author":"Ryan Matsikas","community":"1","dateAdded":"2009-05-26","pattern":"'(?:\\.|(\\\\\\')|[^\\''\\n])*'","replace":"","state":""}

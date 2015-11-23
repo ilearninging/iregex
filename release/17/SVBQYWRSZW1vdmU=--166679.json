@@ -1,1 +1,0 @@
-{"id":"30561","urlID":"2ub73","name":"IPPadRemove","description":"IPPadRemove:\r\rOld 123.089.002.000\rNew 123.89.2.0","content":"","weightedVote":"2.5","numVotes":"0","author":"I.Ethem Cetinkaya","community":"1","dateAdded":"2011-07-28","pattern":"\\b0{2}|\\b0{1}","replace":"","state":""}

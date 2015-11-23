@@ -1,1 +1,0 @@
-{"id":"146349","urlID":"38ue7","name":"tv show","description":"","content":"game.of.thrones.S03E12.blblblaaaa","weightedVote":"2.5","numVotes":"0","author":"ben olry","community":"1","dateAdded":"2014-06-02","pattern":"((?:\\w*\\.)*?)(?:s(\\d{2})e(\\d{2})).*\/ig","replace":"show $1 Season $2 Episode $3","state":""}

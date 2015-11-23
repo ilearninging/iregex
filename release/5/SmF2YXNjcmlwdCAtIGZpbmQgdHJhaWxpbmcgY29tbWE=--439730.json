@@ -1,1 +1,0 @@
-{"id":"21240","urlID":"2tft8","name":"Javascript - find trailing comma","description":"Helps tracking down trailing commas that break js execution on Internet Explorer.","content":"","weightedVote":"3.26389","numVotes":"1","author":"Luca Vignaroli","community":"1","dateAdded":"2011-04-06","pattern":",(?=\\s*[\\)\\}\\]])","replace":"","state":""}

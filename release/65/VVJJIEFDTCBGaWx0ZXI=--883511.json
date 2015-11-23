@@ -1,1 +1,0 @@
-{"id":"176827","urlID":"3bnnh","name":"URI ACL Filter","description":"Simple Filter to detect ACL","content":"product\/200\/sale\/2a2wd4","weightedVote":"2.5","numVotes":"0","author":"Nabil Rahi","community":"1","dateAdded":"2015-09-04","pattern":"^(product\/)[0-9]+(\/sale\/)[0-9a-zA-z]+$\/","replace":"","state":"{\"substEnabled\":false}"}

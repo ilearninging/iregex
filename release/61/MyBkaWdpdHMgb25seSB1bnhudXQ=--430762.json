@@ -1,1 +1,0 @@
-{"id":"173598","urlID":"3be8q","name":"3 digits only unxnut","description":"","content":"20012010\n201215\n20150515\n14112015\n\n12520510\n\n245516\n123\n","weightedVote":"2.5","numVotes":"0","author":"veverke","community":"1","dateAdded":"2015-07-21","pattern":"[^\\d]\\d{3}[^\\d]","replace":"","state":"{\"substEnabled\":false}"}

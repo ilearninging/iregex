@@ -1,1 +1,0 @@
-{"id":"160753","urlID":"3a8kj","name":"rom85","description":"","content":"teststr","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-21","pattern":"(\/data.*\\.json)|(apiversion=\\d\\.\\d)|(passkey=\\w*)\/ig","replace":"","state":""}

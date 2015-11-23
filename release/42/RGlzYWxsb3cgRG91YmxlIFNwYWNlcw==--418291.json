@@ -1,1 +1,0 @@
-{"id":"158697","urlID":"3a2jr","name":"Disallow Double Spaces","description":"Disallow Double Spaces in file names but allow permitted special characters","content":"CTPP System @ Emails 662014.pdf","weightedVote":"2.5","numVotes":"0","author":"Tharinda","community":"1","dateAdded":"2014-12-12","pattern":"^(?!.*[ ]{2})[a-zA-Z0-9\\._\\s-\\#!~@%^()]+$","replace":"","state":""}

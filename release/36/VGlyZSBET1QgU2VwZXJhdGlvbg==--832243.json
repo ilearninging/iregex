@@ -1,1 +1,0 @@
-{"id":"153812","urlID":"39k9s","name":"Tire DOT Seperation","description":"Parse a Tire's DOT for Information","content":"mc371564\nmc3t158","weightedVote":"2.5","numVotes":"0","author":"George","community":"1","dateAdded":"2014-10-03","pattern":"(..)(..)(\\d\\d)(\\d\\d?)","replace":"location: \"$1\" Size: \"$2\" Week: \"$3\" Year: \"$4\"","state":""}

@@ -1,1 +1,0 @@
-{"id":"481","urlID":"2rj33","name":"single\/double quote match","description":"single\/double quote match","content":"","weightedVote":"2.5","numVotes":"0","author":"don't know","community":"1","dateAdded":"2010-04-28","pattern":"('(?:\\.|[^'\\n])*'|\"(?:\\.|[^\"\\n])*\")\/gixm","replace":"$1","state":""}

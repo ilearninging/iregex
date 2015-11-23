@@ -1,1 +1,0 @@
-{"id":"124252","urlID":"36tmk","name":"pixel\/percent check","description":"matches any percent or pixel numbers like: \r1346554px or 234%\r","content":"","weightedVote":"2.5","numVotes":"0","author":"Robin Kramer","community":"1","dateAdded":"2013-10-25","pattern":"^\\d+(px|\\%){1}$\/","replace":"","state":""}

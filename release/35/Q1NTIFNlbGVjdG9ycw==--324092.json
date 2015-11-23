@@ -1,1 +1,0 @@
-{"id":"152211","urlID":"39fjp","name":"CSS Selectors","description":"","content":"#myclass {\n\n}\n\n.myclass td {\n\n}\n\n.anotherselector #id element {\n\n}","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-09-10","pattern":"([\\w.#]+.*{)","replace":"","state":""}

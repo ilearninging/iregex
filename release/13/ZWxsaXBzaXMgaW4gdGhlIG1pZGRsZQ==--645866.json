@@ -1,1 +1,0 @@
-{"id":"131596","urlID":"37j74","name":"ellipsis in the middle","description":"Break long text in the middle like Apple.\r","content":"","weightedVote":"2.88194","numVotes":"1","author":"Martin S","community":"1","dateAdded":"2013-12-10","pattern":"^(.{5}).+((?=.{5}))","replace":"$1...","state":""}

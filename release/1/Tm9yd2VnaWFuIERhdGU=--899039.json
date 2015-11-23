@@ -1,1 +1,0 @@
-{"id":"58","urlID":"2rhre","name":"Norwegian Date","description":"Norwegian date in formats DD.MM.YYYY or D.M.YY","content":"","weightedVote":"4.35124","numVotes":"6","author":"Alexander Bech","community":"1","dateAdded":"2009-06-19","pattern":"^([0]?[1-9]|[1|2][0-9]|[3][0|1])[.\/-]([0]?[1-9]|[1][0-2])[.\/-]([0-9]{4}|[0-9]{2})$","replace":"","state":""}

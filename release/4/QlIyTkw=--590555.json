@@ -1,1 +1,0 @@
-{"id":"490","urlID":"2rj3u","name":"BR2NL","description":"BR2NL will match (all br's):\r<br>\r<br >\r<br\/>\r<br \/>\r<br  \/>\r\rIt will replace those with:\r\\nl","content":"","weightedVote":"3.35714","numVotes":"2","author":"Brandon B","community":"1","dateAdded":"2010-04-30","pattern":"<br.*?>\/gi","replace":"nl","state":""}

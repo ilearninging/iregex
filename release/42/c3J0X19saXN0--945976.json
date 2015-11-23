@@ -1,1 +1,0 @@
-{"id":"158696","urlID":"3a2jo","name":"srt__list","description":"","content":"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-12-12","pattern":"([\\s\\S]+?\"slug\": \")(.+)(\",)([\\s\\S]+?\\})\/ig","replace":"https:\/\/www.transifex.com\/api\/2\/project\/[ID_DEL_CORSO]\/resource\/$2\/translation\/it\/?file&mode=default\\n","state":""}

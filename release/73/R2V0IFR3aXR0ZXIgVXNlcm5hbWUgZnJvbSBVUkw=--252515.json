@@ -1,1 +1,0 @@
-{"id":"27479","urlID":"2u265","name":"Get Twitter Username from URL","description":"Strips all URL to leave only twitter username","content":"","weightedVote":"2.28571","numVotes":"2","author":"Luke Wilson","community":"1","dateAdded":"2011-06-22","pattern":"(https)|(http)|(:\\\/\\\/)|(www.)|(twitter.com)|(\\\/#!\\\/)|(\\\/)","replace":"","state":""}

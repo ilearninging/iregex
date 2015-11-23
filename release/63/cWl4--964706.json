@@ -1,1 +1,0 @@
-{"id":"174880","urlID":"3bi10","name":"qix","description":"qix","content":"qix:dasda\n\nqix-sllas:dasda\n\nqix-sllas-sas:dasda\n\nqix-:sadsa=\n\n","weightedVote":"2.5","numVotes":"0","author":"aleclofabbro","community":"1","dateAdded":"2015-08-08","pattern":"qix(?:-*).*(?=:)","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,1 +1,0 @@
-{"id":"168855","urlID":"3b0c5","name":"URL","description":"","content":"Hello there, <a href=\"http:\/\/example.com\/account\">Friend<\/a>.","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-13","pattern":"(https?:\\\/\\\/[a-z]*\\.[a-z]{3}[a-z\/]*)","replace":"","state":"{\"substEnabled\":false}"}

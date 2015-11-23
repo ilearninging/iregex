@@ -1,1 +1,0 @@
-{"id":"105428","urlID":"356hs","name":"One-Line String","description":"Matches one-line string","content":"","weightedVote":"2.5","numVotes":"0","author":"Eric Le Bot","community":"1","dateAdded":"2013-06-11","pattern":"[\"\\'].*[\"\\']","replace":"","state":""}

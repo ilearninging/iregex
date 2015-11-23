@@ -1,1 +1,0 @@
-{"id":"173717","urlID":"3bejv","name":"test1","description":"","content":"\u00a0I[18452416\/TestBagofCoffee\/QTY:14\/ExtractAt:2015-07-21T21:09:36,TransformAt:2015-07-21T21:09:37]=>Updated","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-22","pattern":"\\\/TestBagofCoffee\\\/(.+)=>Updated","replace":"","state":"{\"substEnabled\":false}"}

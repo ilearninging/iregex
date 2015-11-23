@@ -1,1 +1,0 @@
-{"id":"177461","urlID":"3bpiv","name":"remove Flags","description":"","content":"Flag Flag Flag test1 test2 test3 Flag Flag Flag","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-09-14","pattern":"[^(Flag\\s)]","replace":"","state":"{\"substEnabled\":false}"}

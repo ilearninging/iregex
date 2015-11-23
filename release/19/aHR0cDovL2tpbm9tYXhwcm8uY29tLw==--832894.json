@@ -1,1 +1,0 @@
-{"id":"71560","urlID":"323ao","name":"http:\/\/kinomaxpro.com\/","description":"http:\/\/kinomaxpro.com\/","content":"","weightedVote":"2.5","numVotes":"0","author":"http:\/\/kinomaxpro.com\/","community":"1","dateAdded":"2012-09-08","pattern":"regex = re.findall(r'<a href=\"\/(.*)\/\">(.*)<\/a>',page)","replace":"","state":""}
