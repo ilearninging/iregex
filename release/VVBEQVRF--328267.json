@@ -1,0 +1,1 @@
+{"id":"59235","urlID":"30v79","name":"UPDATE","description":"update sql expression","content":"","weightedVote":"2.5","numVotes":"0","author":"Andreea","community":"1","dateAdded":"2012-05-15","pattern":"^\\s*(.*?);?\\s*$","replace":"","state":""}

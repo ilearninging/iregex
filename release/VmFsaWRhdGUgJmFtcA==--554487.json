@@ -1,0 +1,1 @@
+{"id":"10725","urlID":"2sh3f","name":"Validate &amp","description":"Will replace all '&' with '&amp;' allowing html\/xml to validate.","content":"","weightedVote":"3.31632","numVotes":"2","author":"StewieK","community":"1","dateAdded":"2010-11-10","pattern":"&(?!amp;)","replace":"&amp","state":""}

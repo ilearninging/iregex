@@ -1,0 +1,1 @@
+{"id":"171931","urlID":"3b9ch","name":"peerigon","description":"","content":"http:\/\/www.domain.flootr\nhttp:\/\/www.domain.flootr\/index.html","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-25","pattern":"([a-z-]+:\\\/\\\/)?(?!\\.)[^\\s\/]{2,256}\\.[a-z]{2,3}(\\\/[^\\s]*[^\\s,.:;?!])?","replace":"","state":"{\"substEnabled\":false}"}

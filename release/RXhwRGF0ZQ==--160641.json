@@ -1,0 +1,1 @@
+{"id":"143227","urlID":"38l9h","name":"ExpDate","description":"Credit Card expiration date accepting -\/ or space","content":"26\/12\n","weightedVote":"2.65278","numVotes":"1","author":"Volvoxe","community":"1","dateAdded":"2014-04-01","pattern":"^(0[1-9]|1[012])[ -\\\/]\\d\\d$\/i","replace":"","state":""}

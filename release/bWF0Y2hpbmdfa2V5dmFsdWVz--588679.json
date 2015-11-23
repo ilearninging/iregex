@@ -1,0 +1,1 @@
+{"id":"177392","urlID":"3bpcg","name":"matching_keyvalues","description":"","content":"?language=EN&key=[value]&somekey=[thisvaluetobereplaced]&gametype=[gametype]\n\n\n","weightedVote":"2.5","numVotes":"0","author":"Toomas","community":"1","dateAdded":"2015-09-14","pattern":"SOMEKEY=\\[[^\\]]*\\]\/igm","replace":"","state":"{\"substEnabled\":false}"}

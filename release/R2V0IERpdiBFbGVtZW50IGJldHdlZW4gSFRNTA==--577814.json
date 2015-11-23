@@ -1,0 +1,1 @@
+{"id":"72251","urlID":"325bh","name":"Get Div Element between HTML","description":"Get div tags","content":"","weightedVote":"2.5","numVotes":"0","author":"Basant","community":"1","dateAdded":"2012-09-14","pattern":"<\\s*\\w*\\s*>(.*?)<\\s*\/\\s*\\w*>\/gi","replace":"","state":""}

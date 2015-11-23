@@ -1,0 +1,1 @@
+{"id":"29635","urlID":"2u8g9","name":"Sounds like a URL","description":"Not exact by a long shot, but parses most suitors","content":"","weightedVote":"3.41837","numVotes":"2","author":"Som","community":"1","dateAdded":"2011-07-18","pattern":"(http(\\W){3})?(www\\.)?(\\w{2}(\\w)?)+\\.[\\w\\\/#?!-]+","replace":"","state":""}

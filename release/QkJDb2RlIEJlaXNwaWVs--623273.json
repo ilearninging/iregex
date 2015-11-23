@@ -1,0 +1,1 @@
+{"id":"62676","urlID":"3199s","name":"BBCode Beispiel","description":"BBCode Beispiel","content":"","weightedVote":"2.5","numVotes":"0","author":"Timmaeh","community":"1","dateAdded":"2012-06-16","pattern":"\\[BBCODE\\](.*?)\\[\/BBCODE\\]\/gsm","replace":"<bbcode>$1<\/bbcode>","state":""}

@@ -1,0 +1,1 @@
+{"id":"151919","urlID":"39eod","name":"Email Address","description":"Basic characters with no repeating periods (...)","content":"l.i.sa@gmail.com","weightedVote":"2.5","numVotes":"0","author":"Lisa Dunne","community":"1","dateAdded":"2014-09-04","pattern":"^(?!.*(\\.)\\1{1})[A-Za-z0-9+-_.]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,6}$","replace":"\\n# $&:\\n\\t","state":""}

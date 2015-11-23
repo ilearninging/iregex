@@ -1,0 +1,1 @@
+{"id":"178730","urlID":"3bt9u","name":"Remove Abrev Names","description":"","content":"M\u00e1rcio dos A. a Silva Da Le Ma Gi Marcia Costa","weightedVote":"2.5","numVotes":"0","author":"Ivan Ferrer","community":"1","dateAdded":"2015-10-01","pattern":"\\s(d[A-z]{1,2}|a(.){1,2}?|e(.){1,2}?|le{1}|[A-z.]{1,2}\\s)\/ig","replace":"\\n# $&:\\n\\t","state":"{\"substEnabled\":true}"}

@@ -1,0 +1,1 @@
+{"id":"108967","urlID":"35gtl","name":"valid linux path","description":"Validate linux path","content":"","weightedVote":"2.5","numVotes":"0","author":"Tiago Gigli","community":"1","dateAdded":"2013-07-09","pattern":"^\\\/?([\\d\\w\\.]+)(\/([\\d\\w\\.]+))*\\\/?$","replace":"","state":""}

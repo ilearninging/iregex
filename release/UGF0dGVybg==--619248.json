@@ -1,0 +1,1 @@
+{"id":"85388","urlID":"33br4","name":"Pattern","description":"Pattern","content":"","weightedVote":"2.5","numVotes":"0","author":"Pattern","community":"1","dateAdded":"2013-01-09","pattern":"(.*)us\\.html$","replace":"[[$&$&]]","state":""}

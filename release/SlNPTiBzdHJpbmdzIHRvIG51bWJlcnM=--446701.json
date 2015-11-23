@@ -1,0 +1,1 @@
+{"id":"139266","urlID":"389m6","name":"JSON strings to numbers","description":"Converts JSON strings to numbers. ","content":"","weightedVote":"2.5","numVotes":"0","author":"Leandro Silva (grafluxe.com)","community":"1","dateAdded":"2014-02-13","pattern":"\"-?([0-9]+\\.?[0-9]+)\"|\"-?([0-9]+)\"","replace":"","state":""}

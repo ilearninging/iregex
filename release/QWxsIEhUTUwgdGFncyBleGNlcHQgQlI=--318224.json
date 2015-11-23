@@ -1,0 +1,1 @@
+{"id":"86489","urlID":"33f2b","name":"All HTML tags except BR","description":"Select all HTML tags except br.","content":"","weightedVote":"2.88194","numVotes":"1","author":"C.Isnard","community":"1","dateAdded":"2013-01-18","pattern":"<(?!br|\/br>).+?>\/gi","replace":"","state":""}

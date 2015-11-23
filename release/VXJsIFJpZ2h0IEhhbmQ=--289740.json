@@ -1,0 +1,1 @@
+{"id":"155596","urlID":"39ph4","name":"Url Right Hand","description":"Get the right hand of an url","content":"http:\/\/www.localhost:8000\/Images\/puceAction.png","weightedVote":"3.26389","numVotes":"1","author":"joebartom","community":"1","dateAdded":"2014-10-23","pattern":"http[s]*:\\\/\\\/(.*?)\\\/(.*)\/i","replace":"\\n# $&:\\n\\t","state":""}

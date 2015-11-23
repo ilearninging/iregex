@@ -1,0 +1,1 @@
+{"id":"169675","urlID":"3b2p1","name":"YouTube timestamps","description":"","content":"?t=1m10s\n&t=1m10s\n&t=20s\n?t=10000000m1000000s","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-25","pattern":"[\\\\?\\\\&]t=([0-9]+(m|s))([0-9]+(s))?","replace":"\\n# $&:\\n\\t","state":"{\"substEnabled\":true}"}

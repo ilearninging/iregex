@@ -1,0 +1,1 @@
+{"id":"173388","urlID":"3bdl4","name":"Email checker","description":"","content":"foo@demo.net\nfoo@demo.com\nfoo@demo.co\nfoo@demo.co.uk\nfoo@demo.org\nfoo@demo.gov\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-17","pattern":"(.*\\@)(?=(.*\\.co)|(.*\\.net)|(.*\\.org)|(.*\\.gov))\/ig","replace":"","state":"{\"substEnabled\":false}"}

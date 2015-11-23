@@ -1,0 +1,1 @@
+{"id":"511","urlID":"2rj5t","name":"HTML comments with special","description":"<!(--.*?--)?>|&lt;!(--.*?--)&gt;","content":"","weightedVote":"3.31632","numVotes":"2","author":"Nightmare icq: 818318","community":"1","dateAdded":"2010-05-11","pattern":"<!(--.*?--)?>|<!(--.*?--)>","replace":"","state":""}

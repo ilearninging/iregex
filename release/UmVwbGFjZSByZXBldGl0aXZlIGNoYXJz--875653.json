@@ -1,0 +1,1 @@
+{"id":"171557","urlID":"3b89f","name":"Replace repetitive chars","description":"","content":"fuuuuuuuucccccccccccccck\nhelloooooooooooooooo\nloooooooooool","weightedVote":"2.5","numVotes":"0","author":"ECG","community":"1","dateAdded":"2015-06-19","pattern":"(\\w)\\1{5,}","replace":"$1","state":"{\"substEnabled\":true}"}

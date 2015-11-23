@@ -1,0 +1,1 @@
+{"id":"153374","urlID":"39j0q","name":"Match \/\/comment lines","description":"","content":" \/\/hello\n \/\/hello\n\/\/hello\nhttp:\/\/thisshouldnotmatch.com\nhello\n\/\/test","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-09-26","pattern":"\\s\\\/\\\/.*","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"172364","urlID":"3bal4","name":"Pedro","description":"Matriculas Portuguesas","content":"","weightedVote":"2.5","numVotes":"0","author":"Pedrinho","community":"1","dateAdded":"2015-07-02","pattern":"\\d{2}-[A-Z]{2}-\\d{2}|\\d{2}-\\d{2}-[A-Z]{2}|[A-Z]{2}-\\d{2}-\\d{2}","replace":"","state":"{\"substEnabled\":false}"}

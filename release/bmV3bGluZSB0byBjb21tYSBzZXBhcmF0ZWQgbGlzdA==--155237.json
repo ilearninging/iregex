@@ -1,0 +1,1 @@
+{"id":"125868","urlID":"372e4","name":"newline to comma separated list","description":"Replaces\r\rstring\rstring\rstring\r\rwith \"sring, string, string\"","content":"","weightedVote":"2.5","numVotes":"0","author":"Jaana","community":"1","dateAdded":"2013-11-05","pattern":"(\\r|\\n)","replace":", ","state":""}

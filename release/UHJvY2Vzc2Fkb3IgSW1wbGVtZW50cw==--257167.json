@@ -1,0 +1,1 @@
+{"id":"181520","urlID":"3c5fg","name":"Processador Implements","description":"","content":"implements Classe1, Classe2, Classe3","weightedVote":"2.5","numVotes":"0","author":"ReedFlake","community":"1","dateAdded":"2015-11-07","pattern":"((implements\\s+)([a-zA-Z0-9_\\$]+(\\s*,\\s*[a-zA-Z0-9_\\$]+){0,}))?","replace":"","state":"{\"substEnabled\":false}"}

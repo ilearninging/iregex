@@ -1,0 +1,1 @@
+{"id":"502","urlID":"2rj52","name":"from_char_to_end","description":"This is expression for string start from \"~\" to end of line.","content":"","weightedVote":"2.5","numVotes":"0","author":"saigon","community":"1","dateAdded":"2010-05-07","pattern":"\\~.*\/gixsm","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"109093","urlID":"35h9f","name":"ITALIAN CAP","description":"Italian cap blank or 5 digit PD","content":"","weightedVote":"2.5","numVotes":"0","author":"PD","community":"1","dateAdded":"2013-07-10","pattern":"\\d{5}|^\\s*$\/","replace":"","state":""}

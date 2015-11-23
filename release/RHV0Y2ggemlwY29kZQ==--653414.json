@@ -1,0 +1,1 @@
+{"id":"403","urlID":"2rirp","name":"Dutch zipcode","description":"Dutch zipcode, 4 numeric & 2 alfa with or without a space between them.","content":"","weightedVote":"2.5","numVotes":"0","author":"Eelko","community":"1","dateAdded":"2010-03-11","pattern":"([0-9]{4})(.?)([a-zA-Z]{2})","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"98598","urlID":"34ihi","name":"Email Validator","description":"Privet Russkie)) Kto uchilsya u Evgenia Popova stavte layk!! Regulyarka dlya poiska email.","content":"","weightedVote":"3.25714","numVotes":"12","author":"Robert","community":"1","dateAdded":"2013-04-17","pattern":"[a-zA-Z0-9-]{1,}@([a-zA-Z\\.])?[a-zA-Z]{1,}\\.[a-zA-Z]{1,4}\/gi","replace":"","state":""}

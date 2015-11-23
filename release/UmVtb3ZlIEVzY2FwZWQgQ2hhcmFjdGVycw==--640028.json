@@ -1,0 +1,1 @@
+{"id":"29000","urlID":"2u6ko","name":"Remove Escaped Characters","description":"Removes &gt, &lt","content":"","weightedVote":"2.5","numVotes":"0","author":"Jarmo Baltzar","community":"1","dateAdded":"2011-07-11","pattern":"[\\[\\\\\\^\\$lt\\&bg\\;\\\/\\&\\|\\?\\*\\+\\(\\)\\{\\}]","replace":"","state":""}

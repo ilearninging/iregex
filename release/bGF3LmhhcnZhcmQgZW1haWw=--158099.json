@@ -1,0 +1,1 @@
+{"id":"153107","urlID":"39i7p","name":"law.harvard email","description":"email regex","content":"www@mail.law.harvard\nbinh@f.law.harvard\n","weightedVote":"2.5","numVotes":"0","author":"AlexL","community":"1","dateAdded":"2014-09-23","pattern":"^[\\w\\d+%]+@[\\w\\d]+\\.law\\.harvard$","replace":"","state":""}

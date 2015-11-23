@@ -1,0 +1,1 @@
+{"id":"79571","urlID":"32qpp","name":"username","description":"valid username with _ and .","content":"","weightedVote":"3.57143","numVotes":"2","author":"pkarc","community":"1","dateAdded":"2012-11-15","pattern":"^[a-zA-Z0-9_.]*$\/","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"2915","urlID":"2rq79","name":"Color code","description":"Color code \rFormats:\r#RRR,GGG,BBB\r#RR,GGG,B\r...","content":"","weightedVote":"3.26389","numVotes":"1","author":"Denis K.","community":"1","dateAdded":"2010-07-19","pattern":"^#(((1?\\d{1,2})|(2([0-4]\\d)|(5[0-5]))),){2}((1?\\d{1,2})|(2([0-4]\\d)|(5[0-5])))$","replace":"","state":""}

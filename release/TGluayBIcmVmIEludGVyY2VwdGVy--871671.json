@@ -1,0 +1,1 @@
+{"id":"75","urlID":"2rht1","name":"Link Href Intercepter","description":"Intercepts urls allowing you to insert things or change urls. ","content":"","weightedVote":"2.80612","numVotes":"2","author":"Andrew Rea : http:\/\/www.andrewre","community":"1","dateAdded":"2009-07-01","pattern":"(<a href=\\\")([^\\\"]*\\\">[^<]*<\/a>)","replace":"$1javascript:$2","state":""}

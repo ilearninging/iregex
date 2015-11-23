@@ -1,0 +1,1 @@
+{"id":"122951","urlID":"36psl","name":"Mathematique operation","description":"Match arithmetic operation","content":"","weightedVote":"2.5","numVotes":"0","author":"Andrelec1","community":"1","dateAdded":"2013-10-17","pattern":"[\\(]?[-]?[0-9]+([\\.][0-9]+)?([\\)]?[\/*+%-][\\(]?[-]?[0-9]+([\\.][0-9]+)?)+[\\)]?","replace":"","state":""}

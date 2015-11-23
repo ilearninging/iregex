@@ -1,0 +1,1 @@
+{"id":"73538","urlID":"32946","name":"Visa Credit CArd","description":"Identified Visa credit card numbers with either space or dash delimeters or no delimeter. ","content":"","weightedVote":"2.5","numVotes":"0","author":"Bob Wilson","community":"1","dateAdded":"2012-09-25","pattern":"(4\\d{3})((-\\d{4}){3}|(\\s\\d{4}){3}|\\d{12})","replace":"","state":""}

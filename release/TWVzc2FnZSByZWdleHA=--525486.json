@@ -1,0 +1,1 @@
+{"id":"154526","urlID":"39mcq","name":"Message regexp","description":"message","content":"[9-9-2014: This is message.]","weightedVote":"2.5","numVotes":"0","author":"naz013","community":"1","dateAdded":"2014-10-10","pattern":"\\[[0-9][0-9]?-[0-9][0-9]?-[0-9][0-9][0-9][0-9]:.*?\\]","replace":"","state":""}

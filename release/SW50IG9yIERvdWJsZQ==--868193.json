@@ -1,0 +1,1 @@
+{"id":"58201","urlID":"30s6b","name":"Int or Double","description":"catch any numbers in int or double and with\/wihtout positive or negative sign\reg. \r+12.12\r12.21\r+3\r3\r-13.1\r-14\r\r","content":"","weightedVote":"2.5","numVotes":"0","author":"Robert Yang","community":"1","dateAdded":"2012-05-06","pattern":"([+-]?[0-9]+(?:\\.[0-9]*)?)","replace":"$1","state":""}

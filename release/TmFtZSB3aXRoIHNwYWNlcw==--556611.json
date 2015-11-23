@@ -1,0 +1,1 @@
+{"id":"34993","urlID":"2uo6j","name":"Name with spaces","description":"Pattern that matches names suchs as:\r\rBob van Hoot\rBob Smith","content":"","weightedVote":"2.5","numVotes":"0","author":"Kreatific","community":"1","dateAdded":"2011-09-20","pattern":"^([A-Za-z\\s]+)$\/gim","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"81785","urlID":"3319b","name":"HTML tags empty","description":"programer","content":"","weightedVote":"2.5","numVotes":"0","author":"Ed","community":"1","dateAdded":"2012-12-03","pattern":"<([^>]*)[ \\t\\n\\r\\f\\v]*[^>]*>[ \\t\\n\\r\\f\\v]*<\\\/\\1>\/gim","replace":"","state":""}

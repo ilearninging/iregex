@@ -1,0 +1,1 @@
+{"id":"142372","urlID":"38ipc","name":"coordiantes Validation","description":"v2 for coordination \r\rexample \rvalid\r23.254\r36.25742\rinvalid\rdf.32\r325f\r32.21f\r","content":"","weightedVote":"2.5","numVotes":"0","author":"Moshe Amsalem","community":"1","dateAdded":"2014-03-20","pattern":"^([0-9]{2}[\\.]{1}[0-9]{0,10})$","replace":"","state":""}

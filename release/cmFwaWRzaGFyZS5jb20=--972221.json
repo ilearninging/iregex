@@ -1,0 +1,1 @@
+{"id":"550","urlID":"2rj9i","name":"rapidshare.com","description":"This is to match rapidshare URLs.","content":"","weightedVote":"3.26389","numVotes":"1","author":"bheesham","community":"1","dateAdded":"2010-06-05","pattern":"\\bhttp:\\\/\\\/rapidshare\\.com\\\/files\\\/(\\d)*\\\/([\\w*-_\\.])*\\b\/gim","replace":"","state":""}

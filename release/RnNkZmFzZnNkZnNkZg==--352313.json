@@ -1,0 +1,1 @@
+{"id":"168728","urlID":"3b008","name":"Fsdfasfsdfsdf","description":"d","content":"jdbc_statistics,heap,user_transaction","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-12","pattern":"\\b(jdbc_statistics|user_transaction)","replace":"","state":"{\"substEnabled\":false}"}

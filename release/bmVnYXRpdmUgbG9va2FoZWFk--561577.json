@@ -1,0 +1,1 @@
+{"id":"160242","urlID":"3a74m","name":"negative lookahead","description":"","content":"7499 (map g (range 1 1000)),(2 2 4 4 4 4 4 4 4)","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-13","pattern":"(?:.(?!\\([\\d+\\d]))+$\/igm","replace":"","state":""}

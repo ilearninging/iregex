@@ -1,0 +1,1 @@
+{"id":"14643","urlID":"2ssip","name":"read more ...","description":"select all br or blank spaces tags followed by ... (suspensed points)\rhttp:\/\/regexr.com?2ssim","content":"","weightedVote":"2.5","numVotes":"0","author":"jonathnall","community":"1","dateAdded":"2011-01-12","pattern":"([\\s]*[\\ ]*<br>)+[\\s]*[\\.]{3}$","replace":"","state":""}

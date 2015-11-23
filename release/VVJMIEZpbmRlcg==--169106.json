@@ -1,0 +1,1 @@
+{"id":"160815","urlID":"3a8qd","name":"URL Finder","description":"Finds URLs, even weird ones like \"ftp:\/\/127.0.0.1:51792\/\".","content":"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-21","pattern":"((http|https):\/\/)*[A-Za-z0-9\\-].[A-Za-z0-9\\-](.[A-Za-z0-9\\-])*(\/?([A-Za-z0-9\\-.])*)","replace":"","state":""}

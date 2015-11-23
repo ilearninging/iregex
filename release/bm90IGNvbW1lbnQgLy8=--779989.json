@@ -1,0 +1,1 @@
+{"id":"63285","urlID":"31b2v","name":"not comment \/\/","description":"not comment \/\/","content":"","weightedVote":"2.5","numVotes":"0","author":"il","community":"1","dateAdded":"2012-06-22","pattern":"(?:(\/\/.*))\/gi","replace":"[[$&$&]]","state":""}

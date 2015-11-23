@@ -1,0 +1,1 @@
+{"id":"151659","urlID":"39e01","name":"URL regex test","description":"","content":"\/vorarlberg_123\/asdfa_123\/faaaef_123","weightedVote":"2.5","numVotes":"0","author":"GNi33","community":"1","dateAdded":"2014-09-01","pattern":"\\\/(([0-9a-zA-Z-]+)_([\\d]+))*\\\/?(([0-9a-zA-Z-]+)_([\\d]+))*\\\/?(([0-9a-zA-Z-]+)_([\\d]+))*\/","replace":"","state":""}

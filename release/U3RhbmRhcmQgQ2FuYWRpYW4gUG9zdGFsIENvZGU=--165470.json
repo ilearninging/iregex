@@ -1,0 +1,1 @@
+{"id":"240","urlID":"2ricg","name":"Standard Canadian Postal Code","description":"It match all Canadian Postal Code. Case insensitive and zero, one or more blank(s) allowed.","content":"","weightedVote":"3.21429","numVotes":"2","author":"Allan","community":"1","dateAdded":"2009-11-17","pattern":"([a-zA-Z])\\d([a-zA-Z])(.*)\\d([a-zA-Z])\\d","replace":"","state":""}

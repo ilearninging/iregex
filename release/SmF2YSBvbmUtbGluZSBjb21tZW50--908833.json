@@ -1,0 +1,1 @@
+{"id":"105417","urlID":"356gr","name":"Java one-line comment","description":"Matches Java one line comments","content":"","weightedVote":"2.5","numVotes":"0","author":"Eric Le Bot","community":"1","dateAdded":"2013-06-11","pattern":"([\\\/]{2}([\\w\\s]|[\\\/]{2})*[\\n\\r])","replace":"","state":""}

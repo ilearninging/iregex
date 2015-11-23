@@ -1,0 +1,1 @@
+{"id":"150095","urlID":"399dd","name":"markdown empahisis","description":"","content":" _ita_lics_   this_is_bad.jpg\n \n   _this is \n \n in italics_\n\n  _*'italics'*_\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-08-06","pattern":"(\\s_|^_)(?=\\S)([\\s\\S]*?\\S)_(?![_\\S])","replace":"","state":""}

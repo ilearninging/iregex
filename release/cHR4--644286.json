@@ -1,0 +1,1 @@
+{"id":"181754","urlID":"3c65e","name":"ptx","description":"","content":"4.20\u20ac 3,29$","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-11-11","pattern":"[^\\d\\s,. ]+\/ig","replace":"","state":"{\"substEnabled\":false}"}

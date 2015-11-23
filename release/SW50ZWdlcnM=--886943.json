@@ -1,0 +1,1 @@
+{"id":"165863","urlID":"3anjl","name":"Integers","description":"","content":"1 3                 4  - 23    -34  0.32  34d    100.0 +18","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-31","pattern":"(?:\\b|\\s)([+\\-]?\\d+)\\b","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,0 +1,1 @@
+{"id":"176087","urlID":"3bli5","name":"escape backslash ","description":"Simply doubles each backslash","content":"\\[\n\\zeta(s) = \\sum_{n=1}^\\infty \\frac{1}{n^s}\n\\]","weightedVote":"1.99219","numVotes":"3","author":"Leo Lopes","community":"1","dateAdded":"2015-08-25","pattern":"\\\\","replace":"\\\\\\\\","state":"{\"substEnabled\":true}"}

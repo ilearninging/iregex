@@ -1,0 +1,1 @@
+{"id":"213","urlID":"2ri9v","name":"HTML key\/value pair","description":"This RegEXP, though very simple, finds HTML-valid key=\"value\" pairs.\r\rNOTE: It does not take into account invalid key-names.","content":"","weightedVote":"2.88194","numVotes":"1","author":"anonymous","community":"1","dateAdded":"2009-10-28","pattern":"(\\w+)=\"(.*?)\"","replace":"","state":""}

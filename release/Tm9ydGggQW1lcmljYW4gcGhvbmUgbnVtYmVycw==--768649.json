@@ -1,0 +1,1 @@
+{"id":"155569","urlID":"39pej","name":"North American phone numbers","description":"North American phone number patterns","content":"p:444-555-1234 \nf:246.555.8888 \nm:1235554567\nt:(222) 243-2312","weightedVote":"3.51786","numVotes":"9","author":"Anish John","community":"1","dateAdded":"2014-10-22","pattern":"[(]?\\d{3}[-.)]?[ ]?\\d{3}[-.]?\\d{4}\\b","replace":"","state":""}

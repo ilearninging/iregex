@@ -1,0 +1,1 @@
+{"id":"58040","urlID":"30rn8","name":"UUID Pattern","description":"Matches a UUID with Hexvalues.","content":"","weightedVote":"2.88194","numVotes":"1","author":"Timo Stamm","community":"1","dateAdded":"2012-05-04","pattern":"^[0-9A-Fa-f]{8}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{4}-[0-9A-Fa-f]{12}$","replace":"","state":""}

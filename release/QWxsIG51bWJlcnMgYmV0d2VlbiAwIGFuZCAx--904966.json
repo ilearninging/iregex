@@ -1,0 +1,1 @@
+{"id":"168158","urlID":"3auaq","name":"All numbers between 0 and 1","description":"","content":"0.1\n0.12\n0.123\n1\n2","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-04","pattern":"^(0\\.\\d+|1)$","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,0 +1,1 @@
+{"id":"165857","urlID":"3anj3","name":"check regex is a number","description":"","content":"3333sdsdsdsds192929","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-31","pattern":"^[0-9][A-Za-z0-9 -]*$\/","replace":"","state":"{\"substEnabled\":false}"}

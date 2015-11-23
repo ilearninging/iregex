@@ -1,0 +1,1 @@
+{"id":"94419","urlID":"3469p","name":"Part master","description":"EDMS part master URL rewrite to VariPDM","content":"","weightedVote":"2.5","numVotes":"0","author":"Tapio Heimola","community":"1","dateAdded":"2013-03-19","pattern":"prod=(.*)&prod_version=(.*)&prod_variant=(.*)&","replace":"","state":""}

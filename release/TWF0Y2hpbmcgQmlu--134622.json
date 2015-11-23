@@ -1,0 +1,1 @@
+{"id":"147385","urlID":"391fb","name":"Matching Bin","description":"Matching Bin","content":"P-1-G236\nP-1-G206\nP-1-G236\nP-1-F239\nP-1-F245\nP-1-F253","weightedVote":"2.5","numVotes":"0","author":"me","community":"1","dateAdded":"2014-06-20","pattern":"P-1-(G2(3[6-9]|4[0-9])|F2(3[6-9]|4[0-9]|5[0-2]))","replace":"","state":""}

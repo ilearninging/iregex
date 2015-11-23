@@ -1,0 +1,1 @@
+{"id":"31683","urlID":"2ueg9","name":"Double Validation","description":"useful for validating any numbers with or without decimal.  Also can check for -\/+ at the beginning of the string","content":"","weightedVote":"2.69097","numVotes":"1","author":"Stephen Katulich","community":"1","dateAdded":"2011-08-11","pattern":"([+,-]?[0-9]*)([\\\\.,]?([0-9]+))?","replace":"","state":""}

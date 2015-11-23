@@ -1,0 +1,1 @@
+{"id":"160748","urlID":"3a8k4","name":"Domain Matcher","description":"Just another DOMAIN matcher","content":"google.com\nyahoio.com\ndetik.xxx\ndetik.com\nwww.xxxmilfvideo.com","weightedVote":"2.5","numVotes":"0","author":"iniDian","community":"1","dateAdded":"2015-01-21","pattern":"^.+([a-z0-9\\-]+\\.)(xxx|com)$","replace":"\\n# $&:\\n\\t","state":""}

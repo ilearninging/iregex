@@ -1,0 +1,1 @@
+{"id":"148542","urlID":"394rq","name":"For cpp.com","description":"Matches two sets of n digits separated by one and only one space","content":"1 2\n11 22\n111  222\n1111111111 22222","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-07-10","pattern":"\\d+[^\\S\\n]\\d+","replace":"","state":""}

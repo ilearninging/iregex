@@ -1,0 +1,1 @@
+{"id":"150893","urlID":"39bo7","name":"SEPA Character Set","description":"European SEPA payments character set","content":"Mario Nava & soci","weightedVote":"2.5","numVotes":"0","author":"Mario Nava","community":"1","dateAdded":"2014-08-20","pattern":"^[abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 0123456789\/?:().,'+-]+$","replace":"","state":""}

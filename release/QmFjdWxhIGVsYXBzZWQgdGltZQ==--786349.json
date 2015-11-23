@@ -1,0 +1,1 @@
+{"id":"175512","urlID":"3bjs8","name":"Bacula elapsed time","description":"Run time for a bacula job","content":"  Elapsed time:           1 day 14 hours 42 mins 43 secs","weightedVote":"2.5","numVotes":"0","author":"geekatcmu","community":"1","dateAdded":"2015-08-17","pattern":"^\\s*Elapsed time:\\s*(([0-9,]+)[^0-9,]+)+$\/","replace":"","state":"{\"substEnabled\":false}"}

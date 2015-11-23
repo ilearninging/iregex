@@ -1,0 +1,1 @@
+{"id":"156323","urlID":"39rl9","name":"Date Match","description":"","content":"{ddd} {mm}{tt} {} {asf} {st} {dDD} {DDDD} {yy} {yyy} {yyyy} {HH} {S} {HHHH} {hh} {dd{}} {Ddd} {yyy} {","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-04","pattern":"\\{(d{1,4}|M{1,4}|Mmm|Ddd|yy(yy)?|hh?|HH?|mm?|ss?|tt?|S)\\}","replace":"","state":""}

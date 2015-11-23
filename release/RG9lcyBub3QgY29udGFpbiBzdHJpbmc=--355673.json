@@ -1,0 +1,1 @@
+{"id":"56531","urlID":"30n9p","name":"Does not contain string","description":"Match if input does not contain something, greedy match","content":"","weightedVote":"2.5","numVotes":"0","author":"Cengiz C.","community":"1","dateAdded":"2012-04-20","pattern":"^((?!something).)*$","replace":"","state":""}

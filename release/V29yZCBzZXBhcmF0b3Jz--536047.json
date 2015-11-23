@@ -1,0 +1,1 @@
+{"id":"147240","urlID":"3911o","name":"Word separators","description":"","content":"word word-ed, [word-ing]\n-word w-word, word-.\nw0rd w14rd 124eword2 1234word\nfinished.","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-18","pattern":"(-[^a-zA-Z])|\\w*\\d\\w*|[^a-zA-Z-]+\/ig","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"161018","urlID":"3a9de","name":"spaces, underscore and dashes","description":"finds all spaces, underscores and dashes","content":"Finds all spaces, underscores _, and dashes -.\n","weightedVote":"2.5","numVotes":"0","author":"Todd Austin","community":"1","dateAdded":"2015-01-23","pattern":"(\\s|_|-)","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"261","urlID":"2rief","name":"Trace statement finder","description":"This will find all trace statements.","content":"","weightedVote":"3.26389","numVotes":"1","author":"Bob V","community":"1","dateAdded":"2009-12-01","pattern":".*trace\\s*\\(.*\\);?","replace":"","state":""}

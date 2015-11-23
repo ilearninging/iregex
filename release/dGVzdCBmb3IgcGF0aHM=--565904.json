@@ -1,0 +1,1 @@
+{"id":"176178","urlID":"3blqm","name":"test for paths","description":"","content":"\\Users\\Public\\Roaming\\Intel\\Wireless\\Settings","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-27","pattern":"(?:intel\\\\)((\\w+\\\\?)+)\/ig","replace":"\\n\\nOutput: $1 \\n\\nIncluding Intel: $& (in c# its $0 I belive)","state":"{\"substEnabled\":true}"}

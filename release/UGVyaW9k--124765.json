@@ -1,0 +1,1 @@
+{"id":"162011","urlID":"3acah","name":"Period","description":"string like\n\n1m 3w 4d","content":"3w 4d","weightedVote":"2.5","numVotes":"0","author":"Konstantin Kai","community":"1","dateAdded":"2015-02-06","pattern":"^((\\d+m\\s\\d+w\\s\\d+d)|(\\d+[mwd]{1}){1}|(\\d+m\\s\\d+w)|(\\d+m\\s\\d+d)|(\\d+w\\s\\d+d))$","replace":"","state":""}

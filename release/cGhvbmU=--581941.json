@@ -1,0 +1,1 @@
+{"id":"169717","urlID":"3b2sv","name":"phone","description":"","content":"+7 964 646-89-21","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-26","pattern":"\\++(\\d{1})+\\x20+(\\d{3})\\x20+(\\d{3})+\\-+(\\d{2})+\\-+(\\d{2})","replace":"","state":"{\"substEnabled\":false}"}

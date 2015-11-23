@@ -1,0 +1,1 @@
+{"id":"103880","urlID":"3520o","name":"US Zip Code with optional -","description":"only allows 5 or 9 charicters.  - is optional","content":"","weightedVote":"2.9898","numVotes":"2","author":"JakeR","community":"1","dateAdded":"2013-05-29","pattern":"(^\\d{5}-?\\d{4}$)|(^\\d{5}$)\/","replace":"","state":""}

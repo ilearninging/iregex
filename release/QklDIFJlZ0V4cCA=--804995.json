@@ -1,0 +1,1 @@
+{"id":"147781","urlID":"392kf","name":"BIC RegExp ","description":"","content":"INGBFR21XXX","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-27","pattern":"[A-Z]{6,6}[A-Z2-9][A-NP-Z0-9]([A-Z0-9]){0,1}","replace":"","state":""}

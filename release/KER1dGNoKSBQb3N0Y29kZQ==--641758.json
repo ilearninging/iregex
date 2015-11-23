@@ -1,0 +1,1 @@
+{"id":"146955","urlID":"39071","name":"(Dutch) Postcode","description":"Controle Nederlandse Postcode","content":"155","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-12","pattern":"^[1-9][0-9]{3}[a-zA-Z]{2}$\/ig","replace":"","state":""}

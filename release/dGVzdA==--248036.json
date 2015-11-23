@@ -1,0 +1,1 @@
+{"id":"149092","urlID":"396fc","name":"test","description":"","content":"<a href=x>aaaaaa<\/a><a href=x>bbbbb<\/a><a href=x>ccccc<\/a><a href=x>dddd<\/a>","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-07-20","pattern":"<a.*?>(.*?)<\\\/a>","replace":"$1","state":""}

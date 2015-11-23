@@ -1,0 +1,1 @@
+{"id":"171","urlID":"2ri61","name":"Html Tags (Speficic ones)","description":"Match speficic HTML tags (Font|Div|P|B|)","content":"","weightedVote":"3.26389","numVotes":"1","author":"Mark","community":"1","dateAdded":"2009-09-17","pattern":"<\/?(font|div|p|b)\\s*[\\w=#\"\\s;:]*\/?>","replace":"","state":""}

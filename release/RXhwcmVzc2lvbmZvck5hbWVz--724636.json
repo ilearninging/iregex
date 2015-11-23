@@ -1,0 +1,1 @@
+{"id":"145360","urlID":"38rhg","name":"ExpressionforNames","description":"","content":"Renzo-Saldana'","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-05-14","pattern":"[A-Za-z ,.'-]{1,20}$\/","replace":"\\n# $&:\\n\\t","state":""}

@@ -1,0 +1,1 @@
+{"id":"157863","urlID":"3a05l","name":"unix variant finding","description":"finds variants of unix.","content":"","weightedVote":"3.26389","numVotes":"1","author":"Hipe","community":"1","dateAdded":"2014-11-29","pattern":".*n.?x|.*BSD|Solaris\/ig","replace":"","state":""}

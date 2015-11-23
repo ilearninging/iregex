@@ -1,0 +1,1 @@
+{"id":"123762","urlID":"36s8m","name":"MatchWithBleed","description":"Match word gskinner and capture 30 before and 30 chars after word","content":"","weightedVote":"2.5","numVotes":"0","author":"Paris Theofanidis","community":"1","dateAdded":"2013-10-23","pattern":".{1,30}?gskinner.{1,30}\/gim","replace":"","state":""}

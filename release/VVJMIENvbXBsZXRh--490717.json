@@ -1,0 +1,1 @@
+{"id":"96515","urlID":"34ce9","name":"URL Completa","description":"Url con http, https, www o sin ninguno de los anteriores.","content":"","weightedVote":"1.73611","numVotes":"1","author":"GabDsg","community":"1","dateAdded":"2013-04-02","pattern":"(https?:\/\/)?(www\\.)?([a-zA-Z0-9_%]*)\\b\\.[a-z]{2,4}(\\.[a-z]{2})?((\/[a-zA-Z0-9_%]*)+)?(.*)?","replace":"","state":""}

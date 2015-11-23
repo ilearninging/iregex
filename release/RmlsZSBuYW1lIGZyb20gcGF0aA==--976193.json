@@ -1,0 +1,1 @@
+{"id":"150640","urlID":"39b0g","name":"File name from path","description":"","content":"c:\\temp\\foo.txt","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-08-15","pattern":"([\\w\\-\\. ]+)$\/ig","replace":"","state":""}

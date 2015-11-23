@@ -1,0 +1,1 @@
+{"id":"176396","urlID":"3bmf4","name":"url parameters","description":"","content":"http:\/\/stackoverflow.com\/index.php???????page=home&query=test","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-08-31","pattern":"\\?[^\\?].+\\&?","replace":"","state":"{\"substEnabled\":false}"}

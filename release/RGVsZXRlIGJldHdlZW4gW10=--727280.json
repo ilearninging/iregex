@@ -1,0 +1,1 @@
+{"id":"54547","urlID":"30hfp","name":"Delete between []","description":"Delete everything between []","content":"","weightedVote":"3.26389","numVotes":"1","author":"Stax","community":"1","dateAdded":"2012-04-03","pattern":"(\\[.*\\])\/gi","replace":" ","state":""}

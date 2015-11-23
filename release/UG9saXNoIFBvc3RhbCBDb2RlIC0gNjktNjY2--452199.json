@@ -1,0 +1,1 @@
+{"id":"214","urlID":"2ria2","name":"Polish Postal Code - 69-666","description":"Matches a postal code used in Poland. With or without '-' and whitespace around.\r","content":"","weightedVote":"2.90817","numVotes":"2","author":"yogal","community":"1","dateAdded":"2009-10-28","pattern":"^[0-9]{2}[-\\s]*?[0-9]{3}$\/","replace":"","state":""}

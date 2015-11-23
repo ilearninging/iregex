@@ -1,0 +1,1 @@
+{"id":"505","urlID":"2rj5b","name":"Latitude,Longitude","description":"Latitude,Longitude with no degree filtering.\r\rAccepts DEC,DEC with optional \"-\"\r\r","content":"","weightedVote":"3.11224","numVotes":"2","author":"Thildemar","community":"1","dateAdded":"2010-05-07","pattern":"-?[0-9]+(?:\\.[0-9]*)?,-?[0-9]+(?:\\.[0-9]*)?","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"156131","urlID":"39r39","name":"units","description":"","content":"mm*s^-1\nmm^1 * s^-1\nmm\u00b9*s^-1","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-10-31","pattern":"mm(\u00b9|\\^1)? *[\u22c5*] *s(\u207b\u00b9|\\^-1)","replace":"","state":""}

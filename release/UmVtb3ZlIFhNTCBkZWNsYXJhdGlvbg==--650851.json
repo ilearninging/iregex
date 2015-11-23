@@ -1,0 +1,1 @@
+{"id":"46130","urlID":"2voqm","name":"Remove XML declaration","description":"Removes an XML declaration at the beginning of an XML string","content":"","weightedVote":"2.5","numVotes":"0","author":"Daniel Lehr","community":"1","dateAdded":"2012-01-18","pattern":"^<\\?xml.*?[^\\?>]\\?>\/i","replace":"","state":""}

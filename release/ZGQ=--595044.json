@@ -1,0 +1,1 @@
+{"id":"176468","urlID":"3bmls","name":"dd","description":"dd","content":"she sells seashells","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-09-01","pattern":"(Favo\\\/\\\/\\\/\\\/\\\/\\b\\b\\b\\bu?(rite)(s?)\/igm","replace":"$11$21$31","state":"{\"substEnabled\":true}"}

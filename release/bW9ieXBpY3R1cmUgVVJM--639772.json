@@ -1,0 +1,1 @@
+{"id":"11587","urlID":"2sjk9","name":"mobypicture URL","description":"Please edit if I did anything unformal. I'm still a regex newbe :)","content":"","weightedVote":"2.5","numVotes":"0","author":"J.H.","community":"1","dateAdded":"2010-11-22","pattern":"http:\/\/(moby.to|mobypicture.com)[\/a-z0-9?=%]+\/gi","replace":"","state":""}

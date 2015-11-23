@@ -1,0 +1,1 @@
+{"id":"119608","urlID":"36g38","name":"mine","description":"dsfds","content":"","weightedVote":"2.5","numVotes":"0","author":"dsfds","community":"1","dateAdded":"2013-09-26","pattern":"[\\w\\W]*<body\\s*\\w*>([\\w\\W]*)<\/body>[\\w\\W]*\/gi","replace":"$1","state":""}

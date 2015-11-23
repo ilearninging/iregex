@@ -1,0 +1,1 @@
+{"id":"149424","urlID":"397eg","name":"Phone","description":"(99) 99999-9999 or (99) 5555-5555","content":"(99) 98822-1234\n(99) 3222-2222","weightedVote":"3.26389","numVotes":"1","author":"Danilo Jr.","community":"1","dateAdded":"2014-07-25","pattern":"(\\(\\d{2}\\))\\s(\\d{4,5})\\-(\\d{4})\\b","replace":"","state":""}

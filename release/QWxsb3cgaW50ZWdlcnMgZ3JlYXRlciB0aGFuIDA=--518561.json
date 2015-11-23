@@ -1,0 +1,1 @@
+{"id":"165903","urlID":"3annd","name":"Allow integers greater than 0","description":"Allow integers greater than zero","content":"0\n10\n01\n11\n00\n1\n100\n","weightedVote":"2.5","numVotes":"0","author":"Eduardo Cuomo","community":"1","dateAdded":"2015-03-31","pattern":"^([1-9][0-9]+|[1-9])$","replace":"","state":"{\"substEnabled\":false}"}

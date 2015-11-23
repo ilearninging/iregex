@@ -1,0 +1,1 @@
+{"id":"167522","urlID":"3asf6","name":"adfly","description":"","content":"http:\/\/adf.ly\/1851098\/http:\/\/www28.zippyshare.com\/v\/66831862\/file.html","weightedVote":"2.5","numVotes":"0","author":"Japra","community":"1","dateAdded":"2015-04-23","pattern":"^http:\/\/adf\\.ly\/(\\d+)\\\/","replace":"\\n# $&:\\n\\t","state":"{\"substEnabled\":true}"}

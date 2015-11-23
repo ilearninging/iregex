@@ -1,0 +1,1 @@
+{"id":"97577","urlID":"34fhr","name":"UniProt Fastaheader","description":"Matches UniProt accessionnumber, genename and organism in a UniProt fasta header","content":"","weightedVote":"4.07312","numVotes":"23","author":"Ther-Mo","community":"1","dateAdded":"2013-04-10","pattern":"^>[^\\|]*\\|([^\\|]*)\\|.*OS=([^=]*).*GN=([^ ]*).*$","replace":"","state":""}

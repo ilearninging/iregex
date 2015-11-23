@@ -1,0 +1,1 @@
+{"id":"171494","urlID":"3b83i","name":"match precentage","description":"","content":"-70% korting\n5 euro korting\nGratis verzending","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-19","pattern":"([0-9]%)\\w+\/ig","replace":"","state":"{\"substEnabled\":false}"}

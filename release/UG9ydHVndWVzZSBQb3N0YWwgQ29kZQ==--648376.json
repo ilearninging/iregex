@@ -1,0 +1,1 @@
+{"id":"146208","urlID":"38u10","name":"Portuguese Postal Code","description":"","content":"9500-265 Funchal","weightedVote":"2.5","numVotes":"0","author":"Arrisco","community":"1","dateAdded":"2014-05-30","pattern":"^[1-9]{1}[0-9]{3}-[0-9]{3} \\w{2,}$\/","replace":"","state":""}

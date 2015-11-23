@@ -1,0 +1,1 @@
+{"id":"165563","urlID":"3amnh","name":"compress css","description":"","content":"h1 {\n  font-size:  2em;\n  background: url(http:\/\/xpo.pt)  no-repeat top left;\n}\n\nh2 { color:red}\nh3 {\nfont-size: green;  }","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-26","pattern":"\\s+|\\r|\\n","replace":" ","state":"{\"substEnabled\":true}"}

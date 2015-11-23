@@ -1,0 +1,1 @@
+{"id":"7491","urlID":"2s7k9","name":"Year validation","description":"Matches a simple 4 digits year entry in range 1900-2999","content":"","weightedVote":"2.88194","numVotes":"1","author":"anonymous","community":"1","dateAdded":"2010-09-25","pattern":"^(19[0-9]{2}|2[0-9]{3})$\/","replace":"","state":""}

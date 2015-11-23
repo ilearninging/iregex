@@ -1,0 +1,1 @@
+{"id":"50664","urlID":"3063o","name":"Best Email Address Validator","description":"Validates all combinations of email addresses I have ever come accross.","content":"","weightedVote":"2.5","numVotes":"2","author":"G-MAN","community":"1","dateAdded":"2012-02-29","pattern":"^([A-Za-z0-9_\\-\\.])+\\@([A-Za-z0-9_\\-\\.])+\\.([A-Za-z]{2,4})$\/","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"177303","urlID":"3bp45","name":"3 words","description":"","content":"word1 word2 word3","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-09-11","pattern":"word1(?:.){1,750}?word2(?:.){1,750}?word3","replace":"","state":"{\"substEnabled\":false}"}

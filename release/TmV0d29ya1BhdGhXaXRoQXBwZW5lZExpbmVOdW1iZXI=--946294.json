@@ -1,0 +1,1 @@
+{"id":"100","urlID":"2rhvc","name":"NetworkPathWithAppenedLineNumber","description":"Finds Paths that are \rOn the network\rContain a c++ file\rand have a line number","content":"","weightedVote":"3.26389","numVotes":"1","author":"Eric Fode","community":"1","dateAdded":"2009-07-20","pattern":"(\/\/)(.+\/)+([\\w\\s])+(\\.cpp|\\.h)(#(\\d)+)","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"174218","urlID":"3bg2u","name":"meta itemprop","description":"meta itemprop for  \t\t\nmicro markup","content":null,"weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-29","pattern":"(<meta\\sitemprop=\\\"price\\\"\\scontent=\\\")(\\d+)(\\\">)","replace":"","state":"{\"substEnabled\":false}"}

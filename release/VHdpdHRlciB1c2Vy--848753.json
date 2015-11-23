@@ -1,0 +1,1 @@
+{"id":"238","urlID":"2rica","name":"Twitter user","description":"Fetches usernames from a generic text string like a twitter status.","content":"","weightedVote":"2.7449","numVotes":"2","author":"George Profenza","community":"1","dateAdded":"2009-11-17","pattern":"(\\@[a-zA-Z0-9_%]*)","replace":"","state":""}

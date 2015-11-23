@@ -1,0 +1,1 @@
+{"id":"22690","urlID":"2tk56","name":"Text Between Curly Braces","description":"finds any text between (and including) the curly braces.","content":"","weightedVote":"2.80612","numVotes":"2","author":"kasey mccurdy","community":"1","dateAdded":"2011-04-22","pattern":"{([^}]+)}\/gs","replace":"","state":""}

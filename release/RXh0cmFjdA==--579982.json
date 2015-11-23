@@ -1,0 +1,1 @@
+{"id":"160207","urlID":"3a71d","name":"Extract","description":"","content":"!!!John Smith???","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-12","pattern":"!!!\\s+\\K.*?(?=\\s+\\?{3})","replace":"","state":""}

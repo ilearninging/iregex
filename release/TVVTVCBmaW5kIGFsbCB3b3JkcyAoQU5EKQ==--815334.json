@@ -1,0 +1,1 @@
+{"id":"61960","urlID":"3176o","name":"MUST find all words (AND)","description":"will find \"word1\" and \"word2\" but can be in any order as long as these words are in the article","content":"","weightedVote":"3.07292","numVotes":"1","author":"Bob Yang","community":"1","dateAdded":"2012-06-09","pattern":"(word1|word2).*(word1|word2)\/gim","replace":"","state":""}

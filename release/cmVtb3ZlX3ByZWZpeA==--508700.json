@@ -1,0 +1,1 @@
+{"id":"106419","urlID":"359ep","name":"remove_prefix","description":"remove_prefix_subs_ID","content":"","weightedVote":"2.5","numVotes":"0","author":"mike","community":"1","dateAdded":"2013-06-19","pattern":"^E\\d{7}(.+)$","replace":"E101950435315484392","state":""}

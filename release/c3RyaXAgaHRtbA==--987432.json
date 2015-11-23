@@ -1,0 +1,1 @@
+{"id":"105727","urlID":"357dt","name":"strip html","description":"nima","content":"","weightedVote":"2.5","numVotes":"0","author":"nima","community":"1","dateAdded":"2013-06-13","pattern":"(<[a-zA-Z]+) [^>]*","replace":"$1","state":""}

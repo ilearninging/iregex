@@ -1,0 +1,1 @@
+{"id":"61326","urlID":"315ba","name":"website ending extension","description":"returns the type of file being access, ie, .htm, .html, .pdf, .doc","content":"","weightedVote":"2.5","numVotes":"0","author":"vlad","community":"1","dateAdded":"2012-06-03","pattern":"\\.*[a-z]*[a-z]$","replace":"","state":""}

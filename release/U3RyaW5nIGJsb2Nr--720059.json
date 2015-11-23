@@ -1,0 +1,1 @@
+{"id":"597","urlID":"2rjdv","name":"String block","description":"This regex matches a multi-line string block delimited by triple quote character.","content":"","weightedVote":"2.04167","numVotes":"1","author":"Rizo","community":"1","dateAdded":"2010-06-17","pattern":"\\\"{3}[^\\\"{3}]*\\\"{3}","replace":"[[  $& ]]","state":""}

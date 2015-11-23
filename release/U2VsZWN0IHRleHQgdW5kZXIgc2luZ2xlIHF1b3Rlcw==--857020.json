@@ -1,0 +1,1 @@
+{"id":"104967","urlID":"3556l","name":"Select text under single quotes","description":"Select text under single quotes.\r\rExample:\r\rarrDefault: 'BCN'\r\rget -> 'BCN'","content":"","weightedVote":"2.5","numVotes":"0","author":"biko8","community":"1","dateAdded":"2013-06-07","pattern":"\\'[^\\']*\\'","replace":"","state":""}

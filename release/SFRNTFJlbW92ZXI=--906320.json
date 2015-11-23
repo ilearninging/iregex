@@ -1,0 +1,1 @@
+{"id":"476","urlID":"2rj2k","name":"HTMLRemover","description":"Will  find all html tags within a string. I needed this to stript html out a string. :\/","content":"","weightedVote":"3.26389","numVotes":"1","author":"Sebastian DeRossi","community":"1","dateAdded":"2010-04-23","pattern":"<(.|\\n)*?>\/gi","replace":"","state":""}

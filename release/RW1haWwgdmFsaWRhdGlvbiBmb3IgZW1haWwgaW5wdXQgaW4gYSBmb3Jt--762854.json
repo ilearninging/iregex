@@ -1,0 +1,1 @@
+{"id":"106989","urlID":"35b47","name":"Email validation for email input in a form","description":"Email validation for email input in a form","content":"","weightedVote":"2.5","numVotes":"0","author":"Saeid khojasteh","community":"1","dateAdded":"2013-06-24","pattern":"^[\\w]([_\\-\\.]?\\w)*\\@[\\w]([_\\-\\.]?\\w)*\\.([A-Za-z]{2,4})$","replace":"","state":""}

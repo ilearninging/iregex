@@ -1,0 +1,1 @@
+{"id":"147094","urlID":"390k2","name":"tim","description":"","content":"function   \n  function abc()\n   abc()\n a = abc()","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-16","pattern":"(!?function)[\\S\\s]abc\\(\\)\/ig","replace":"","state":""}

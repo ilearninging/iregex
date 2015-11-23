@@ -1,0 +1,1 @@
+{"id":"178587","urlID":"3bssh","name":"bwurlmatch","description":"","content":"buoyweather.com\/wxnav6.jsp?region=groper_islet&program=Maps&cmsregion=true","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-09-29","pattern":"wxnav(5|6).jsp?(.*)cmsregion=true(.*)","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,0 +1,1 @@
+{"id":"90215","urlID":"33pvl","name":"radar3","description":"mysqol_jpg","content":"","weightedVote":"2.5","numVotes":"0","author":"radar","community":"1","dateAdded":"2013-02-16","pattern":"<li><img\\ssrc=\"Images_%20GsmSphere_files\/(.*)(><\/li>)\/gxsm","replace":"","state":""}

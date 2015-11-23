@@ -1,0 +1,1 @@
+{"id":"166460","urlID":"3apbk","name":"10.x.12.x","description":"","content":"10.108.12.108\n10.1.12.105\n10.168.12.192","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-07","pattern":"10\\.[0-9]{1,3}\\.12\\.[0-9]{1,3}","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,0 +1,1 @@
+{"id":"154552","urlID":"39mf8","name":"Nighthawk","description":"","content":"4on\n4 on\n6 ON\ndsafds bla\ndfsfds 23on dfs\ndfsfds 255off dfs\ngfdgfdgd 23on dsfsf\nfggfdgfd 4 dsfs on","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-10-10","pattern":"\\l*(\\d{1,})[^\\d]*(on|off)\\l*\/ig","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"2583","urlID":"2rp85","name":"Replace <p> with <br\/><br\/>","description":"Replace html ","content":"","weightedVote":"2.5","numVotes":"0","author":"Borgtex","community":"1","dateAdded":"2010-07-13","pattern":"<p[^>]*>(.*)<\\\/p>\/gim","replace":"$1<br\/><br\/>","state":""}

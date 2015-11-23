@@ -1,0 +1,1 @@
+{"id":"135673","urlID":"37v5b","name":"remove color","description":"for remove color","content":"","weightedVote":"2.5","numVotes":"0","author":"iFan","community":"1","dateAdded":"2014-01-11","pattern":"\\[color=#[0-9A-F]{1,}\\]|\\[\\\/color\\]\/gs","replace":"","state":""}

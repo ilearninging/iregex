@@ -1,0 +1,1 @@
+{"id":"164837","urlID":"3akjf","name":"very strong password","description":"","content":"cefrus24a!*\n\n","weightedVote":"2.5","numVotes":"0","author":"polas","community":"1","dateAdded":"2015-03-18","pattern":"(?=.*[A-Z])(?=.*[a-z])(?=.*[0-9]).{6,50}\/i","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,0 +1,1 @@
+{"id":"61295","urlID":"3158d","name":"detect phone numbers","description":"vamos testar","content":"","weightedVote":"2.5","numVotes":"0","author":"Dan G. Switzer II","community":"1","dateAdded":"2012-06-03","pattern":"<\/?\\w+((\\s+\\w+(\\s*=\\s*(?:\".*?\"|'.*?'|[^'\">\\s]+))?)+\\s*|\\s*)\/?>","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"164044","urlID":"3ai94","name":"sir-nilsington","description":"","content":"url('thing')\n\nurl(\"thing\")\n\nurl(thing)","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-06","pattern":"^(url\\(['\"]?)|([\"']?\\))$","replace":"","state":"{\"substEnabled\":true}"}

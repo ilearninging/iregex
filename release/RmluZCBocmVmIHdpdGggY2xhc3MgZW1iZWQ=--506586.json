@@ -1,0 +1,1 @@
+{"id":"3820","urlID":"2rss4","name":"Find href with class embed","description":"Find all links with a determined class ","content":"","weightedVote":"2.5","numVotes":"0","author":"Manuel Glez","community":"1","dateAdded":"2010-08-02","pattern":"<a\\s(?:[^\\s>]*?\\s)*?href=\"(.*?)\".*?(class=\"embed\")>.*\/gi","replace":"","state":""}

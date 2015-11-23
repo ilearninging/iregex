@@ -1,0 +1,1 @@
+{"id":"40486","urlID":"2v89i","name":"removing zeros","description":"remove insignificant zeros before number","content":"","weightedVote":"2.5","numVotes":"0","author":"Igor (mamant)","community":"1","dateAdded":"2011-11-19","pattern":"([0]*)([1-9]*)([0]*)([0-9]+)([.]*)(\\d*)","replace":"$2$3$4$5$6","state":""}

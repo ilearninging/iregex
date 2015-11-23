@@ -1,0 +1,1 @@
+{"id":"156490","urlID":"39s4u","name":"BR","description":"Find BR in the string, and only if it's just 'BR'","content":"BR,EXBR,CBRX,POVB,BR2","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-06","pattern":"\\b([BR]){2}\\b","replace":"","state":""}

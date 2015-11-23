@@ -1,0 +1,1 @@
+{"id":"179850","urlID":"3c0iu","name":"sss","description":"","content":"a|a|a\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-16","pattern":"(.+)\\|(.+)\\|(.*)","replace":"\\n# $1 $2 $3 :\\n\\t","state":"{\"substEnabled\":true}"}

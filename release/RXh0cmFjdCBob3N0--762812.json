@@ -1,0 +1,1 @@
+{"id":"50392","urlID":"305a8","name":"Extract host","description":"Extract host","content":"","weightedVote":"2.5","numVotes":"0","author":"sdf","community":"1","dateAdded":"2012-02-27","pattern":"^.*?(%3a%2f%2f|:\/\/)([\\w\\.]*)?(%2f|\/){0,1}.*$\/gi","replace":"","state":""}

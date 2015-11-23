@@ -1,0 +1,1 @@
+{"id":"169908","urlID":"3b3es","name":"math in parenthesis","description":"","content":"(1 + 2 + 3 + 5 * 9 + 2 + 3 + (3 * 4.5)) ","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-28","pattern":"(?:-?\\()((-?\\d*\\.*\\d*\\s*[-\\+\\*\/]?\\s*-?\\d*\\.*\\d*)+)(?:\\))","replace":"$1","state":"{\"substEnabled\":true}"}

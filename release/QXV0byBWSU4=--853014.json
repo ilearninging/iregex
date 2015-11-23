@@ -1,0 +1,1 @@
+{"id":"158661","urlID":"3a2gf","name":"Auto VIN","description":"Verifies that text entered is a legitimate VIN","content":"5","weightedVote":"2.5","numVotes":"0","author":"Kevin Brown","community":"1","dateAdded":"2014-12-11","pattern":"([0-9]{1})+([A-Z]{4})+([0-9]{2})+([A-Z]{2})+([0-9]{6})\/i","replace":"","state":""}

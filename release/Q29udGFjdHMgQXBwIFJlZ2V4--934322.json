@@ -1,0 +1,1 @@
+{"id":"152144","urlID":"39fdg","name":"Contacts App Regex","description":"This is a regex used to search through contact information.","content":"(555) 867-5309\nandy@email.com\nMy First Project\nAndy Mercer","weightedVote":"2.5","numVotes":"0","author":"Andy Mercer","community":"1","dateAdded":"2014-09-09","pattern":"(^| |@|\\(|-)+\/im","replace":"","state":""}

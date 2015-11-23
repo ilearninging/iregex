@@ -1,0 +1,1 @@
+{"id":"4989","urlID":"2s09n","name":"Comma seperate large number","description":"Comma seperates larges numbers, like\r100000 => 100,000","content":"","weightedVote":"2.88194","numVotes":"1","author":"Kenny","community":"1","dateAdded":"2010-08-18","pattern":"(\\d)(?=(\\d{3})+$)\/gixsm","replace":"$1,","state":""}

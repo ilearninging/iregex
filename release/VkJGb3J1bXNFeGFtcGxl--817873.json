@@ -1,0 +1,1 @@
+{"id":"144971","urlID":"38qd1","name":"VBForumsExample","description":"","content":"PR BUREAU OF LAND DES:INTR DR ID:1111111111 INDN:VBA FORUM CO ID:A222222222 CCD","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-05-07","pattern":".*ID:.+ID:([A-Z0-9]{10})","replace":"","state":""}

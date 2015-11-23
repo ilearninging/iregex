@@ -1,0 +1,1 @@
+{"id":"165401","urlID":"3am8b","name":"fqdn tester","description":"","content":"foobar\nfoobar.example.com\nfoobar123.example.com\nfoo-bar.example.com","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-25","pattern":"([a-z0-9-]+\\.){2}com","replace":"","state":"{\"substEnabled\":false}"}

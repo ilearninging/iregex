@@ -1,0 +1,1 @@
+{"id":"160395","urlID":"3a7j1","name":"UK Postcode","description":"","content":"  A9 9AA\n A9A 9AA\n A99 9AA\n AA9 9AA\nAA9A 9AA\nAA99 9AA","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-15","pattern":"([A-Z]{1,2}[0-9][0-9A-Z]?)\\s?([0-9][A-Z]{2})\/ig","replace":"","state":""}

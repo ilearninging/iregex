@@ -1,0 +1,1 @@
+{"id":"173984","urlID":"3bfd0","name":"reg3","description":"","content":"1111 2222 3333 4444","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-25","pattern":"^\\d{4} ?\\d{4} ? \\d{4} ?\\d{4}$","replace":"","state":"{\"substEnabled\":false}"}

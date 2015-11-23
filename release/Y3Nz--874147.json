@@ -1,0 +1,1 @@
+{"id":"172210","urlID":"3ba6m","name":"css","description":"","content":"color: #777;","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-30","pattern":"([\\w-]+)\\s*:\\s*([^;]+)\\s*;?\/","replace":"","state":"{\"substEnabled\":false}"}

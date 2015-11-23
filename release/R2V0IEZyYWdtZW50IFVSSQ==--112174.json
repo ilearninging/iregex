@@ -1,0 +1,1 @@
+{"id":"163908","urlID":"3ahsc","name":"Get Fragment URI","description":"","content":"de\/#fe\n#fe\n#\n","weightedVote":"2.5","numVotes":"0","author":"KyleMit","community":"1","dateAdded":"2015-03-04","pattern":"#.+","replace":"\\n# $&:\\n\\t","state":"{\"substEnabled\":true}"}

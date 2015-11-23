@@ -1,0 +1,1 @@
+{"id":"71491","urlID":"32349","name":"email address validator","description":"email address validator","content":"","weightedVote":"2.5","numVotes":"0","author":"Errandir","community":"1","dateAdded":"2012-09-07","pattern":"^[a-z0-9]+(?:[-\\._]?[a-z0-9]+)*@(?:[a-z0-9]+(?:-?[a-z0-9]+)*\\.)+[a-z]+$\/i","replace":"","state":""}

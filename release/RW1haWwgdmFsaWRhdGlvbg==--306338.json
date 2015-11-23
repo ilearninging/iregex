@@ -1,0 +1,1 @@
+{"id":"144575","urlID":"38p7t","name":"Email validation","description":"a.-a@aa.aaa","content":"a@bb.com\naa@bn.cm\ns.paperino@pippo.mm.nm\na@b.com\na.-b@aa.com","weightedVote":"2.5","numVotes":"0","author":"sajrus","community":"1","dateAdded":"2014-04-29","pattern":"^([0-9a-zA-Z]([-_.\\w]*[0-9a-zA-Z])*@([0-9a-zA-Z][-\\w]*[0-9a-zA-Z]\\.)+[a-zA-Z]{2,9})$","replace":"","state":""}

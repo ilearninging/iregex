@@ -1,0 +1,1 @@
+{"id":"173201","urlID":"3bd3j","name":"Old Joomla regular expression","description":"","content":"DECIMAL(8,2)\nINT(11)","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-15","pattern":"[(0-9)]","replace":"","state":"{\"substEnabled\":false}"}

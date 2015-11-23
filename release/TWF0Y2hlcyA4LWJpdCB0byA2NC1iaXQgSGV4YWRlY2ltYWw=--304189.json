@@ -1,0 +1,1 @@
+{"id":"31899","urlID":"2uf4h","name":"Matches 8-bit to 64-bit Hexadecimal","description":"Matches valid Hex values, from 8-bit to 64-bit values, case insensitive.","content":"","weightedVote":"3.26389","numVotes":"1","author":"Rodrigo Louren\u00e7o","community":"1","dateAdded":"2011-08-15","pattern":"(#|&H|0x)([a-fA-F0-9]{2}){1,8}","replace":"","state":""}

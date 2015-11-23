@@ -1,0 +1,1 @@
+{"id":"45315","urlID":"2vme9","name":"Twitter Hash Tag Extracter","description":"Matches Twitter hash tags e.g.\r\rWill match #home (hashtag) but not home#index (url fragment)","content":"","weightedVote":"3.26389","numVotes":"1","author":"Kevin Sheppard","community":"1","dateAdded":"2012-01-10","pattern":"\\B#\\w+\/gi","replace":"","state":""}

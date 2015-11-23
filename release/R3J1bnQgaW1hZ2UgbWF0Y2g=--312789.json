@@ -1,0 +1,1 @@
+{"id":"144560","urlID":"38p6g","name":"Grunt image match","description":"match all images for a grunt task","content":"img\/file.png\nfile.png\n.\/files.1.png\nfile-on-e.2.png\n","weightedVote":"2.5","numVotes":"0","author":"airtonix","community":"1","dateAdded":"2014-04-28","pattern":"([\\w\\d\\-\\.]*\\.(png|jpg|jpeg|gif))\/ig","replace":"<$1>","state":""}

@@ -1,0 +1,1 @@
+{"id":"148075","urlID":"393g1","name":"regex","description":"","content":"1,Eddie,Tarroza,Male,2\n\n1,ALLY,QuITAY,FEMALE,2\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-07-02","pattern":"([0-9],)([\\w\\s]+,)([\\w\\s]+,)([\\w\\s]+,)([0-9])\/ig","replace":"\\n# $&:\\n\\t","state":""}

@@ -1,0 +1,1 @@
+{"id":"28256","urlID":"2u4f0","name":"Remove unnecessary CSS whitespaces","description":"Use this pattern to remove unnecessary whitespaces in CSS.\r","content":"","weightedVote":"3.26389","numVotes":"1","author":"Timm\u00e4h!","community":"1","dateAdded":"2011-07-01","pattern":"(\\{|;|:)( |\\r)","replace":"$1","state":""}

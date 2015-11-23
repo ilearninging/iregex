@@ -1,0 +1,1 @@
+{"id":"179728","urlID":"3c07g","name":"start end commas","description":"","content":",mon,,tue,wed,,,thu,","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-15","pattern":"^,|,$","replace":"","state":"{\"substEnabled\":false}"}

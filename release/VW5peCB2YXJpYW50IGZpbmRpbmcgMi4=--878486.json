@@ -1,0 +1,1 @@
+{"id":"157871","urlID":"3a06d","name":"Unix variant finding 2.","description":"It is the same as unix vaiant finding, but non-greedy!","content":"unix BSD FreeBSD and me","weightedVote":"2.5","numVotes":"0","author":"Hipe","community":"1","dateAdded":"2014-11-30","pattern":"(.*?n.??x|.*?BSD|Solaris)\/ig","replace":"","state":""}

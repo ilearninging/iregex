@@ -1,0 +1,1 @@
+{"id":"146650","urlID":"38vae","name":"Shit bags","description":"","content":"\/zone\/{#\/definitions\/identifier}\/sometag\/{#\/definitions\/another}","weightedVote":"2.5","numVotes":"0","author":"Tony","community":"1","dateAdded":"2014-06-06","pattern":"(?:{(?:#?(\\\/[\\w\/]+))})+","replace":"{zone_id}","state":""}

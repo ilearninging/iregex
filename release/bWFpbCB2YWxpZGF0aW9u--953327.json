@@ -1,0 +1,1 @@
+{"id":"180905","urlID":"3c3lr","name":"mail validation","description":"email address validation","content":"giray_34sam@gmail.web.tr","weightedVote":"3.26389","numVotes":"1","author":"giraysam","community":"1","dateAdded":"2015-10-30","pattern":"([a-z][a-z0-9\\._-]+)@([a-z-_]+)\\.([a-z\\.]{2,6})","replace":"","state":"{\"substEnabled\":false}"}

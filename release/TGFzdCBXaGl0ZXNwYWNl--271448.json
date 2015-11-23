@@ -1,0 +1,1 @@
+{"id":"151539","urlID":"39dkp","name":"Last Whitespace","description":"Match the last whitespace","content":"Dateisysteme mit Bereichen","weightedVote":"3.21094","numVotes":"3","author":"Florian Pircher","community":"1","dateAdded":"2014-08-29","pattern":"\\s(?=\\S*?$)","replace":"&nbsp;","state":""}

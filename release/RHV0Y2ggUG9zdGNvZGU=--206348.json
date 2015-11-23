@@ -1,0 +1,1 @@
+{"id":"43538","urlID":"2vh7m","name":"Dutch Postcode","description":"Dutch postcode","content":"","weightedVote":"2.5","numVotes":"0","author":"Alexander Binas","community":"1","dateAdded":"2011-12-20","pattern":"\\d{4}\\s?[a-z]{2}\/ig","replace":"","state":""}

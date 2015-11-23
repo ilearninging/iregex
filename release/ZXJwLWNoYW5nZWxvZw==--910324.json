@@ -1,0 +1,1 @@
+{"id":"146783","urlID":"38vmt","name":"erp-changelog","description":"","content":"","weightedVote":"2.5","numVotes":"0","author":"csi","community":"1","dateAdded":"2014-06-10","pattern":".+\\. (.*) Zg\u0142oszenie (.*)\\.","replace":"  - [[syrop>$2]] $1","state":""}

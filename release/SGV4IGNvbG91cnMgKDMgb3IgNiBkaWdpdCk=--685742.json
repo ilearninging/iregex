@@ -1,0 +1,1 @@
+{"id":"72","urlID":"2rhso","name":"Hex colours (3 or 6 digit)","description":"Matches a hex colour in format #FFF or #FFFFFF","content":"","weightedVote":"3.26389","numVotes":"1","author":"Stephen \"totov\" Hamilton","community":"1","dateAdded":"2009-06-30","pattern":"#([0-9A-Fa-f]{3})?([0-9A-Fa-f]{3})","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"178738","urlID":"3btam","name":"Url","description":"match Url ","content":"https:\/\/es.linkedin.com\/pub\/\u2605-francisco-serrano-rodr\u00edguez\/45\/488\/7a6","weightedVote":"2.5","numVotes":"0","author":"hiunkeru","community":"1","dateAdded":"2015-10-01","pattern":"([\\w-]+:\/\/?|www[.])[^\\s()<>]+(?:\\([\\w\\d]+\\)|)\/","replace":"","state":"{\"substEnabled\":false}"}

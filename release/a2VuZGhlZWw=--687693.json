@@ -1,0 +1,1 @@
+{"id":"282","urlID":"2rige","name":"kendheel","description":"this from kohana where query builder","content":"","weightedVote":"2.5","numVotes":"0","author":"joko_kendheel","community":"1","dateAdded":"2009-12-13","pattern":"^(.+?)([<>!=]+|\\bIS(?:\\s+NULL))\\s*$\/i","replace":"","state":""}

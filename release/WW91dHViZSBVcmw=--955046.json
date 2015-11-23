@@ -1,0 +1,1 @@
+{"id":"142534","urlID":"38j8i","name":"Youtube Url","description":"validate youtube url's","content":"","weightedVote":"2.5","numVotes":"0","author":"Adriano Nunes","community":"1","dateAdded":"2014-03-21","pattern":"(http(s)?:\\\/\\\/(www\\.)?)(youtube\\.com|youtu\\.be)\\\/(watch\\?v=|w\\\/)?[%&=#\\w-]*\/gixsm","replace":"","state":""}

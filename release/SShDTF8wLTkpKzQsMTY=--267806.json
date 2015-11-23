@@ -1,0 +1,1 @@
+{"id":"170097","urlID":"3b40j","name":"I(CL_0-9)+4,16","description":"","content":"N2asd@w","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-30","pattern":"^(?=.*\\d)(?=.*[A-Z]).{4,16}$","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,0 +1,1 @@
+{"id":"130848","urlID":"37h10","name":"find string %123 or (%123)","description":"sample text :\r1. %123\r2. (%123)","content":"","weightedVote":"2.5","numVotes":"0","author":"penjepitkertasku@gmail.com","community":"1","dateAdded":"2013-12-05","pattern":"^[%][0-9]+|^[(][%][0-9]+[)]","replace":"x","state":""}

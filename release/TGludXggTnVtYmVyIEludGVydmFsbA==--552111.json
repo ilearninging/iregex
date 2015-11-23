@@ -1,0 +1,1 @@
+{"id":"149025","urlID":"39693","name":"Linux Number Intervall","description":"Check if a string conforms the Linux \/sys intervall format: \/sys\/devices\/system\/cpu\/online","content":"1,2-4,5-234","weightedVote":"2.5","numVotes":"0","author":"sagat","community":"1","dateAdded":"2014-07-18","pattern":"^\\d+(?:-\\d+)?(?:,\\d+(?:-\\d+)?)*$","replace":"","state":""}

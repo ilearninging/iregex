@@ -1,0 +1,1 @@
+{"id":"165337","urlID":"3am2b","name":"Find blank td cell","description":"","content":"<table>\n<tr>\n<td>sdsd<\/td>\n<td><\/td>\n<td> <\/td>\n<\/tr>\n<\/table>","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-24","pattern":"<td\\b[^>]*>\\s*<\\\/td>","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,0 +1,1 @@
+{"id":"179988","urlID":"3c0vs","name":"line numbers","description":"","content":"1: var myObj = {\n2:    prop: propAssignment\n3: }","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-19","pattern":"^[0-9]*:\\s","replace":"","state":"{\"substEnabled\":false}"}

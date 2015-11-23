@@ -1,0 +1,1 @@
+{"id":"15253","urlID":"2subv","name":"Joomla {}","description":"Removes the {something} from joomla articles for example.\r\r{loadposition pos_foty_countdown}\rHeres is some other data\rMore data :D\r","content":"","weightedVote":"2.5","numVotes":"0","author":"Liam Mitchell","community":"1","dateAdded":"2011-01-20","pattern":"\\{([a-zA-Z].+)\\}","replace":"","state":""}

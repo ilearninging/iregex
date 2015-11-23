@@ -1,0 +1,1 @@
+{"id":"34194","urlID":"2ulrm","name":"Filtro2 - Tesauro","description":"Elimina el prefijo NT (Narrow Term) de los t\u00e9rminos del tesauro","content":"","weightedVote":"3.52041","numVotes":"2","author":"Manuel Bl\u00e1zquez Ochando","community":"1","dateAdded":"2011-09-12","pattern":"NT[1-6] ","replace":"","state":""}

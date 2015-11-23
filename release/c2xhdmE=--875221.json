@@ -1,0 +1,1 @@
+{"id":"165979","urlID":"3anuh","name":"slava","description":"","content":"You currently have 81 SUBSCRIPTIONSfdfd","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-01","pattern":"(You currently have )[0-9]*( SUBSCRIPTIONS)\/","replace":"","state":"{\"substEnabled\":false}"}

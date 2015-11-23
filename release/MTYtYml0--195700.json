@@ -1,0 +1,1 @@
+{"id":"177742","urlID":"3bqda","name":"16-bit","description":"Checks for a 16-bit integer (no higher than 65535)","content":"","weightedVote":"2.5","numVotes":"0","author":"Simon","community":"1","dateAdded":"2015-09-17","pattern":"(6[0-4]\\d{3}|65[0-4]\\d\\d|655[0-2]\\d|6553[0-5]|[0-5]\\d{4}|\\d{1,4})(?!\\d)","replace":"","state":"{\"substEnabled\":false}"}
