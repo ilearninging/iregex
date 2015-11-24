@@ -1,0 +1,1 @@
+{"id":"73832","urlID":"329vo","name":"C\\C++ only comment in line","description":"Will work with:\r\/* *\/\r\r\/*\r\r*\/\r\r\/\/\r\rDoesn't work with:\r\rint x; \/\/\rint x; \/* *\/","content":"","weightedVote":"3.26389","numVotes":"1","author":"ximerus","community":"1","dateAdded":"2012-09-27","pattern":"^\\\/\\*[\\s\\S]*?\\*\\\/|^\\\/\\\/","replace":"","state":""}

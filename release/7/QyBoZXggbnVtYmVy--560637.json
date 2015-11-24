@@ -1,0 +1,1 @@
+{"id":"151469","urlID":"39de7","name":"C hex number","description":"Simple rule to match C\/C++ hexadecimal numbers.","content":"[0x1,0x2,0x0014]\n(0xff+0xFF)!=0XFf*2\n0xffa8^0x7f\n0x00ff4512, 0x12\n0xFF7\n0x7af8","weightedVote":"3.26389","numVotes":"1","author":"barr","community":"1","dateAdded":"2014-08-28","pattern":"0x([0-9]|[a-f])+","replace":"","state":""}

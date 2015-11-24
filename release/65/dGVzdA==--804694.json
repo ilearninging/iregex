@@ -1,0 +1,1 @@
+{"id":"176838","urlID":"3bnoi","name":"test","description":"111","content":"she sells seashells","weightedVote":"2.5","numVotes":"0","author":"Sky","community":"1","dateAdded":"2015-09-05","pattern":"\\w+$","replace":"\\n# $&:\\n\\t","state":"{\"substEnabled\":true}"}

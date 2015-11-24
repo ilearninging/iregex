@@ -1,0 +1,1 @@
+{"id":"2","urlID":"2rhm6","name":"0x HexColor","description":"Matches a 24 or 32 bit hex color in the format 0xFFFFFF or 0xFFFFFFFF.","content":"","weightedVote":"4.02658","numVotes":"23","author":"Grant Skinner","community":"1","dateAdded":"2009-05-26","pattern":"\\b0x(?:[0-9A-Fa-f]{6}|0-9A-Fa-f]{8})\\b","replace":"","state":""}

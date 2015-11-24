@@ -1,0 +1,1 @@
+{"id":"150857","urlID":"39bkr","name":"Fastway Label","description":"Regex to test whether a label is a Fastway Label","content":"AA000000\nAA0000000000\nAA0000000\nAA0","weightedVote":"2.5","numVotes":"0","author":"Fabian Cook","community":"1","dateAdded":"2014-08-19","pattern":"(\\b\\w{2}\\d{10}\\b)|(\\b\\w{2}\\d{6}\\b)","replace":"","state":""}

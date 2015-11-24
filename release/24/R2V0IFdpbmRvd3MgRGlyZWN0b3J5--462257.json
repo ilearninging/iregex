@@ -1,0 +1,1 @@
+{"id":"143974","urlID":"38nfi","name":"Get Windows Directory","description":"Identifies the directory in a given windows path","content":"Desktop\\Sempra.Desktop\\IAssetWoExtension.cs\n","weightedVote":"2.5","numVotes":"0","author":"Jumpercables","community":"1","dateAdded":"2014-04-16","pattern":"^.*[\\\/\\\\]\/","replace":"","state":""}

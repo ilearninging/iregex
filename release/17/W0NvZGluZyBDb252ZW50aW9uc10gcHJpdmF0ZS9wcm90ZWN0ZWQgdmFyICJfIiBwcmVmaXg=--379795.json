@@ -1,0 +1,1 @@
+{"id":"30753","urlID":"2ubp3","name":"[Coding Conventions] private\/protected var \"_\" prefix","description":"will add \"_\" prefix for private\/protected var","content":"","weightedVote":"2.5","numVotes":"0","author":"katopz","community":"1","dateAdded":"2011-08-01","pattern":"(private var )(?=[^_])|(protected var )(?=[^_])","replace":"$&_","state":""}

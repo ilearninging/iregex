@@ -1,0 +1,1 @@
+{"id":"16308","urlID":"2t1es","name":"Ignore Invalid Chars","description":"Filter out the input strings having invalid characters","content":"","weightedVote":"2.5","numVotes":"0","author":"Mahesh","community":"1","dateAdded":"2011-02-03","pattern":"^[^<>`~!\/@\\#}$%:;)(_^{&*=|'+]+$","replace":"@$adsad","state":""}

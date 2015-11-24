@@ -1,0 +1,1 @@
+{"id":"90957","urlID":"33s57","name":"prob3","description":"pr\u00f3ba trzecia","content":"","weightedVote":"2.5","numVotes":"0","author":"Anatholius","community":"1","dateAdded":"2013-02-21","pattern":"[.+]?((?:(?:([\\d]+))?([^s]\\.[^.]+))?[.+]*(?:(?:([\\d]+))?((s{1}\\d_v[\\d]{1})\\.[^.]+))?[.+]*)[.+]*$","replace":"$1-|-$2-|-$3-|-$4","state":""}

@@ -1,0 +1,1 @@
+{"id":"159402","urlID":"3a4lu","name":"Sql Parameter with no escape","description":"This regex match sql parameter like @userId with no escape","content":"select * from table\nwhere id = @id","weightedVote":"2.5","numVotes":"0","author":"Yoza Wiratama","community":"1","dateAdded":"2014-12-25","pattern":"\\@([\\w]+)","replace":"","state":""}

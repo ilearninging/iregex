@@ -1,0 +1,1 @@
+{"id":"28019","urlID":"2u3op","name":"111","description":"11","content":"","weightedVote":"1.73611","numVotes":"1","author":"11","community":"1","dateAdded":"2011-06-28","pattern":"[ABC][^f-m]\\be(\\w*)s\\b","replace":"[[$&$&]]","state":""}

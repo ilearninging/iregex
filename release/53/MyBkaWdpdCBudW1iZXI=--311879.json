@@ -1,0 +1,1 @@
+{"id":"167554","urlID":"3asi6","name":"3 digit number","description":"3 digit number between 300 and 999","content":"85\n215\n300\n999\n555","weightedVote":"2.5","numVotes":"0","author":"Mark Bullock","community":"1","dateAdded":"2015-04-23","pattern":"[3-9]\\d\\d","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,0 +1,1 @@
+{"id":"95099","urlID":"3489h","name":"kk","description":"padrao de hora","content":"","weightedVote":"2.5","numVotes":"0","author":"julio","community":"1","dateAdded":"2013-03-22","pattern":"((bom +(dia|fim +de +semana))|boa +(tarde|noite)) +(A-Z)(a-z| )*","replace":"","state":""}

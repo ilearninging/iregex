@@ -1,0 +1,1 @@
+{"id":"59067","urlID":"30unh","name":"Javascript Function","description":"as simple  as possible","content":"","weightedVote":"2.88194","numVotes":"1","author":"Kingfo","community":"1","dateAdded":"2012-05-14","pattern":"function\\s*\\(([\\w\\d_,]*)\\)\\s*\\{([^}]*)\\}","replace":"","state":""}

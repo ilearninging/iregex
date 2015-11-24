@@ -1,0 +1,1 @@
+{"id":"66260","urlID":"31jps","name":"Youtube new embed width property","description":"Reads the width value of an embedded Youtube video (using the new code).","content":"","weightedVote":"3.26389","numVotes":"1","author":"Valandis","community":"1","dateAdded":"2012-07-22","pattern":"<iframe.*width=[\"\\'](.*?)[\"\\'].*<\/iframe>","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"9388","urlID":"2sd64","name":"chinese character","description":"Match chinese character","content":"","weightedVote":"3.87216","numVotes":"37","author":"Tom Liu","community":"1","dateAdded":"2010-10-20","pattern":"[^\\x00-\\xff]","replace":"","state":""}

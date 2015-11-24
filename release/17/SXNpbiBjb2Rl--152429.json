@@ -1,0 +1,1 @@
+{"id":"33799","urlID":"2ukml","name":"Isin code","description":"Isin code regex pattern \/ see http:\/\/en.wikipedia.org\/wiki\/International_Securities_Identification_Number for more informations","content":"","weightedVote":"2.5","numVotes":"0","author":"sebastien BOGAT","community":"1","dateAdded":"2011-09-07","pattern":"[a-zA-Z]{2}[0-9]{10}","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"173512","urlID":"3be0o","name":"rp","description":"","content":"xyz=abcdef|abcdef||abc=123456|123456||cat=dog|dog||foo=bar|bar||","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-20","pattern":"([a-zA-Z0-9]+)=.+?(&{2}|\\|{2})","replace":"","state":"{\"substEnabled\":false}"}

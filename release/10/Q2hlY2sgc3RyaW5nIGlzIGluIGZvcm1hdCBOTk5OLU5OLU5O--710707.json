@@ -1,0 +1,1 @@
+{"id":"100220","urlID":"34n9k","name":"Check string is in format NNNN-NN-NN","description":"Check string is in format NNNN-NN-NN.\rE.g. for date format validation 2014-04-19","content":"","weightedVote":"3.21094","numVotes":"3","author":"Mohsan Khan","community":"1","dateAdded":"2013-04-29","pattern":"^\\d\\d\\d\\d\\\/\\d\\d\\\/\\d\\d$","replace":"","state":""}

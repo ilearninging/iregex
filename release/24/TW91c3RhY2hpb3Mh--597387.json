@@ -1,0 +1,1 @@
+{"id":"143536","urlID":"38m6g","name":"Moustachios!","description":"Moustache mustache.","content":"I like my moustash better than his mustache, but Patrick's stache is a true moustachio!","weightedVote":"2.5","numVotes":"0","author":"gskinner & hoverbird","community":"1","dateAdded":"2014-04-08","pattern":"(?:mo?u)?sta(?:s|c)h(e|io)?","replace":"{{$&}}","state":""}

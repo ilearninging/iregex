@@ -1,0 +1,1 @@
+{"id":"160665","urlID":"3a8cb","name":"no-match","description":"","content":"<div class=\"test-2\">this is the content<\/div>","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-20","pattern":"<div class=\"((?!not-match-1)|(?!not-match-2)|(?!not-match-3)[\\w-]+)\">(.+?)<\\\/div>","replace":"","state":""}

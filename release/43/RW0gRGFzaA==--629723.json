@@ -1,0 +1,1 @@
+{"id":"159478","urlID":"3a4t2","name":"Em Dash","description":"Beautifies dashes using the &mdash; and &ndash; entities.","content":"This is not the correct--dash. \nThis is not the correct-dash either.","weightedVote":"2.5","numVotes":"0","author":"JP DeVries","community":"1","dateAdded":"2014-12-28","pattern":"-+","replace":"","state":""}

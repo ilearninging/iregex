@@ -1,0 +1,1 @@
+{"id":"179307","urlID":"3bv01","name":"find number cpacha ","description":"find cpacha which like this\n7 + 6","content":"8 + 8 \u0639\u0631\u0628\u064a","weightedVote":"2.5","numVotes":"0","author":"Abdul202","community":"1","dateAdded":"2015-10-09","pattern":"(\\d{1,3})\\s{1,3}\\+\\s{1,3}(\\d{1,3})\/","replace":"","state":"{\"substEnabled\":false}"}

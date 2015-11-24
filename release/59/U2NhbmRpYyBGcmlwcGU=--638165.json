@@ -1,0 +1,1 @@
+{"id":"172264","urlID":"3babo","name":"Scandic Frippe","description":"","content":"scandic.com\/se\/foo\/asd?asd\nscandic.com\/fi\/foo\/asd\nscandic.com\/bar\/foo","weightedVote":"2.5","numVotes":"0","author":"Jon","community":"1","dateAdded":"2015-07-01","pattern":"scandic.com\\\/(se|fi)((?:\\\/*\\w*)*)","replace":"","state":"{\"substEnabled\":false}"}

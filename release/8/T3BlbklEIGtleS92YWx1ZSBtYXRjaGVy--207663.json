@@ -1,0 +1,1 @@
+{"id":"157487","urlID":"39v2d","name":"OpenID key\/value matcher","description":"Matches multiline key\/value pairs in an OpenID verify response","content":"ns:http:\/\/specs.openid.net\/auth\/2.0\nis_valid:true\n","weightedVote":"3.26389","numVotes":"1","author":"Falken","community":"1","dateAdded":"2014-11-24","pattern":"^\\s*([^:]+):([^\\n]+)$","replace":"","state":""}

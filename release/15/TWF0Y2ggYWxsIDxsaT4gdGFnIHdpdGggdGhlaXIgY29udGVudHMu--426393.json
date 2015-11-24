@@ -1,0 +1,1 @@
+{"id":"3826","urlID":"2rssm","name":"Match all <li> tag with their contents.","description":"Selec all <li>...<\/li> tags with their contents.","content":"","weightedVote":"2.5","numVotes":"0","author":"Zoltan Koszegi","community":"1","dateAdded":"2010-08-02","pattern":"<li\\s*>(.*?|[^>\\s]+)<\/li\\s*>","replace":"","state":""}

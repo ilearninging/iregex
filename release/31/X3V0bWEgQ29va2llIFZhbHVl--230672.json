@@ -1,0 +1,1 @@
+{"id":"149358","urlID":"3978a","name":"_utma Cookie Value","description":"Parses the _utma Google Analytics cookie value","content":"1386227.2031764986.1404661485.1404661485.1404661485.1","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-07-24","pattern":"^(\\d*)\\.(\\d*)\\.(\\d*)\\.(\\d*)\\.(\\d*)\\.(\\d*)$","replace":"","state":""}

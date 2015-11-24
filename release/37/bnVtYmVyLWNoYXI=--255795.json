@@ -1,0 +1,1 @@
+{"id":"154985","urlID":"39nnr","name":"number-char","description":"","content":"0001-A\n0001-B\n0001-c\n0001-D\n0001-3\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-10-14","pattern":"[0-9]{4}-[a-zA-Z]{1}","replace":"","state":""}

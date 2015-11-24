@@ -1,0 +1,1 @@
+{"id":"180577","urlID":"3c2n3","name":"resizer","description":"","content":"500_file.jpeg\ntest.jpeg\nx500_file.jpeg\nflurh.jpeg\n500x200_file.jpeg\n\t\t\t\n\t\t\t","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-27","pattern":"([0-9])*(x[0-9]+)?_.*","replace":"","state":"{\"substEnabled\":false}"}

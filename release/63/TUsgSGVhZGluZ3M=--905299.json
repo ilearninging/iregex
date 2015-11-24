@@ -1,0 +1,1 @@
+{"id":"175125","urlID":"3binv","name":"MK Headings","description":"","content":"# H1 #\n## H2 ##\n### H3 ###\n#### H4 ####\n##### H5 #####\n###### H6 ######\n","weightedVote":"2.5","numVotes":"0","author":"IbrahimIslam","community":"1","dateAdded":"2015-08-12","pattern":"^\\#{1,6}\\s*([^\\#]*)\\s*(\\#{1,6})$","replace":"","state":"{\"substEnabled\":false}"}

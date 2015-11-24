@@ -1,0 +1,1 @@
+{"id":"71482","urlID":"3233e","name":"Strict Canadian Postal Code ","description":"Strict Canadian Postal Code ","content":"","weightedVote":"2.5","numVotes":"0","author":"Brendon","community":"1","dateAdded":"2012-09-07","pattern":"([a-z])\\d([a-z])(.?)\\d([a-z])\\d","replace":"","state":""}

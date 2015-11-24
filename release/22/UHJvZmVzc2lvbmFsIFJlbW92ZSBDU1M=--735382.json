@@ -1,0 +1,1 @@
+{"id":"107000","urlID":"35b58","name":"Professional Remove CSS","description":"Remove all CSS in the HTML code","content":"","weightedVote":"2.5","numVotes":"0","author":"Manuel Bl\u00e1zquez Ochando","community":"1","dateAdded":"2013-06-24","pattern":"<style.*[\\r\\n\\t]*.*([\\r\\n\\t]*|[\\r\\n]*|[\\t]*).*<\\\/style>","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"8891","urlID":"2sbnh","name":"MAC Address Match (alternative)","description":"Pattern matches MAC with 6 octets","content":"","weightedVote":"2.11806","numVotes":"1","author":"Ganiev Rim","community":"1","dateAdded":"2010-10-14","pattern":"^([[:xdigit:]]{2}[-: ]){5}[[:xdigit:]]{2}$","replace":"","state":""}

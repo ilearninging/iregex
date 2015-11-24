@@ -1,0 +1,1 @@
+{"id":"181734","urlID":"3c63i","name":"Regex for work","description":"","content":"&#hello world  this is a text message from me. 100012323v@ hotmail.com -+eerwerwejroiweorij &#12313123 Hello","weightedVote":"2.5","numVotes":"0","author":"Zee","community":"1","dateAdded":"2015-11-11","pattern":"[^&#\\w\\d]+[\\w\\d\\s]+","replace":"","state":"{\"substEnabled\":false}"}

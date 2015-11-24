@@ -1,0 +1,1 @@
+{"id":"68821","urlID":"31r9v","name":"multiline based on 1st character","description":"Multiline match based on starting character.  \r\rExample matches each line that starts with \"*\".\r\r* Line 1\r* Line 2\r* Line 3","content":"","weightedVote":"2.5","numVotes":"0","author":"oldno7","community":"1","dateAdded":"2012-08-14","pattern":"\\*.*\\w","replace":"","state":""}

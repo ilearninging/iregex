@@ -1,0 +1,1 @@
+{"id":"146271","urlID":"38u6t","name":"opening double quote","description":"opening double quote with support for markdown underscore and asterix ","content":"hello _\"hi\"_  \"hello\"","weightedVote":"2.5","numVotes":"0","author":"nickkircos","community":"1","dateAdded":"2014-05-31","pattern":"(^|[-\\u2014\/\\[(\\u2018\\s_])\"","replace":"","state":""}

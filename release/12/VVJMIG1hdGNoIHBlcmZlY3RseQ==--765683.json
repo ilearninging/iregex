@@ -1,0 +1,1 @@
+{"id":"55394","urlID":"30jv6","name":"URL match perfectly","description":"To match URL, Short and simple regex is\r\r\/(((f|ht){1}(tp|tps):\/\/)[\\w\\d\\S]+)\/gi\r\r","content":"","weightedVote":"2.88194","numVotes":"1","author":"Vishal garg","community":"1","dateAdded":"2012-04-11","pattern":"(((f|ht){1}(tp|tps):\/\/)[\\w\\d\\S]+)","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"178349","urlID":"3bs67","name":"Money in Dollars and\/or cents","description":"","content":"123\n123.4\n123.56\n123456.789","weightedVote":"2.5","numVotes":"0","author":"phpguru","community":"1","dateAdded":"2015-09-25","pattern":"\\d{1,10}\\.?\\d{2}","replace":"","state":"{\"substEnabled\":false}"}

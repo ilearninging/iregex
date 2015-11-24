@@ -1,0 +1,1 @@
+{"id":"148392","urlID":"394do","name":"Danish postal code","description":"Matches 4 digits, whitespace and minimum 2 chars","content":"8888 zsfdsasadasdasd","weightedVote":"2.5","numVotes":"0","author":"Steen","community":"1","dateAdded":"2014-07-08","pattern":"\\d{4}\\s?[a-zA-Z]{2}","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"435","urlID":"2riup","name":"image extention validation","description":"This checks if the image is a valid image. It checks on jpg, jpeg, gif and png.","content":"","weightedVote":"2.5","numVotes":"0","author":"Luuk Bijveld","community":"1","dateAdded":"2010-03-29","pattern":"[.](jpeg)|(jpg)|(gif)|(png)$\/","replace":"","state":""}

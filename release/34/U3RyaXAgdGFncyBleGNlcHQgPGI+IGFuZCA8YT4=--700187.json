@@ -1,0 +1,1 @@
+{"id":"151775","urlID":"39eat","name":"Strip tags except <b> and <a>","description":"","content":"Test <b>test<\/b> lorem <i>ipsum<\/i> a odkaz <a href=\"\">zde<\/a>","weightedVote":"2.5","numVotes":"0","author":"peruginni","community":"1","dateAdded":"2014-09-03","pattern":"(?!<\/?[ba].*?>)<.*?>","replace":"","state":""}

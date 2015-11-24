@@ -1,0 +1,1 @@
+{"id":"16455","urlID":"2t1sl","name":"MegaUpload Download ID","description":"Returns the http:\/\/www.megaupload.com\/?d=%s part of a megaupload string.\r\r","content":"","weightedVote":"2.88194","numVotes":"1","author":"Bheesham Persaud","community":"1","dateAdded":"2011-02-06","pattern":"[^m]megaupload\\.com\/\\?d=(\\w+)","replace":"","state":""}

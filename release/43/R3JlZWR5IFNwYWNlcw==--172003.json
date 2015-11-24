@@ -1,0 +1,1 @@
+{"id":"159477","urlID":"3a4sv","name":"Greedy Spaces","description":"Replaces greedy spaces with the HTML &empsp; entity.","content":"Greedy        spaces can be expressed with the \u2018&emsp;\u2019 entity.","weightedVote":"2.5","numVotes":"0","author":"JP DeVries","community":"1","dateAdded":"2014-12-28","pattern":"  +","replace":"","state":""}

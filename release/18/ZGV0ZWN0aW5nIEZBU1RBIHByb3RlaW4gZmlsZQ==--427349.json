@@ -1,0 +1,1 @@
+{"id":"60487","urlID":"312sl","name":"detecting FASTA protein file","description":"C_*","content":"","weightedVote":"2.5","numVotes":"0","author":"shamanou van leeuwen","community":"1","dateAdded":"2012-05-26","pattern":">[a-zA-Z0-9|. ,\\[\\]]*[\\r\\n][ARNDCQEGHILKMFPSTWYVarndcqeghilkmfpstwyv\\r\\n]*\/","replace":"","state":""}

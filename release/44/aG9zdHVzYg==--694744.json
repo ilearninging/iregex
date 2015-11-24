@@ -1,0 +1,1 @@
+{"id":"160475","urlID":"3a7qh","name":"hostusb","description":"vdsm hook hostusb regex for oVirt","content":"0x1234:0xbeef;0x2345:0xabc1","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-15","pattern":"((0x\\w{4}):(0x\\w{4})(\\&{0,4})\\b){1,4}","replace":"","state":""}

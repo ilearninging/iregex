@@ -1,0 +1,1 @@
+{"id":"174406","urlID":"3bgki","name":"number list with dot","description":"","content":"1.2.3.4","weightedVote":"2.5","numVotes":"0","author":"Morgan","community":"1","dateAdded":"2015-07-31","pattern":"([0-9])?(.)*([0-9])","replace":"","state":"{\"substEnabled\":false}"}

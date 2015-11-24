@@ -1,0 +1,1 @@
+{"id":"157745","urlID":"39vqj","name":"MJP","description":"URL Validation","content":"http:\/\/google.com  wrong\n       google.com\/ wrong\n       google.com  correct","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-27","pattern":"([a-z])+\\.([a-z])+","replace":"","state":""}

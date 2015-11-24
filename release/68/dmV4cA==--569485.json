@@ -1,0 +1,1 @@
+{"id":"179165","urlID":"3buin","name":"vexp","description":"","content":"  someguy@usc.edu\n  veena@ucla.edu","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-07","pattern":"@(usc|ucla)\\.edu$","replace":"","state":"{\"substEnabled\":false}"}

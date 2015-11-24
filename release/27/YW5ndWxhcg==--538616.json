@@ -1,0 +1,1 @@
+{"id":"146181","urlID":"38tuf","name":"angular","description":"ng-repeat","content":"item in items | filter:searchText track by item.id","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-05-29","pattern":"^([\\w]+)\\s+in([\\S\\s]+?)(track\\s+by\\s+[\\w]+\\.([\\w]+))?$\/","replace":"","state":""}

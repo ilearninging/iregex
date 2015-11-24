@@ -1,0 +1,1 @@
+{"id":"228","urlID":"2ribc","name":"India Phone number","description":"India Phone number expression","content":"","weightedVote":"2.88194","numVotes":"1","author":"Paul Groothuijsen","community":"1","dateAdded":"2009-11-10","pattern":"^0{0,1}[1-9]{1}[0-9]{2}[\\s]{0,1}[\\-]{0,1}[\\s]{0,1}[1-9]{1}[0-9]{6}$","replace":"","state":""}

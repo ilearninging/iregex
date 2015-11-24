@@ -1,0 +1,1 @@
+{"id":"155214","urlID":"39oda","name":"Decimal Numbers in BrReal","description":"Decimal Numbers in Brazilian Real","content":"R$1.000,00","weightedVote":"2.5","numVotes":"0","author":"Cigano Morrison","community":"1","dateAdded":"2014-10-16","pattern":"[0-9]*(\\.[0-9]{3})*,([0-9]{2})?","replace":"","state":""}

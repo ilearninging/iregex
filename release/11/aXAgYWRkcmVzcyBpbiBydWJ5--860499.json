@@ -1,0 +1,1 @@
+{"id":"3145","urlID":"2rqsr","name":"ip address in ruby","description":"straight forward regex for ip addresses","content":"","weightedVote":"2.90817","numVotes":"2","author":"Anhang Zhu","community":"1","dateAdded":"2010-07-21","pattern":"(\\d{0,3}\\.){3}\\d{0,3}","replace":"","state":""}

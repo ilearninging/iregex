@@ -1,0 +1,1 @@
+{"id":"17232","urlID":"2t45g","name":"replace (at) in emails","description":"Replace emails like me (at) example.org","content":"","weightedVote":"2.11806","numVotes":"1","author":"ojconcentrate","community":"1","dateAdded":"2011-02-16","pattern":" *\\( *at *\\) *","replace":"","state":""}

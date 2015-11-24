@@ -1,0 +1,1 @@
+{"id":"169709","urlID":"3b2s7","name":"equals","description":"","content":"123.XY12345.123\n123.XY12345.321","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-26","pattern":"^([0-9]{3})[\/.][a-zA-Z]{2}[0-9]{5}[\/.]\\1$","replace":"","state":"{\"substEnabled\":false}"}

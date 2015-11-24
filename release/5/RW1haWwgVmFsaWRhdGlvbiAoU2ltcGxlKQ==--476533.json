@@ -1,0 +1,1 @@
+{"id":"29795","urlID":"2u8v9","name":"Email Validation (Simple)","description":"I like this one for a simple check. Some other ones fail on multiple dots. \r\rExample: a.a.a@gmail.nospam.com","content":"","weightedVote":"3.26389","numVotes":"1","author":"Level32","community":"1","dateAdded":"2011-07-19","pattern":".+@.+\\.+.+","replace":"","state":""}

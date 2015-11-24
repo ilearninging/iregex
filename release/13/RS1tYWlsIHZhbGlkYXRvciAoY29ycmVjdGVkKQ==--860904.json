@@ -1,0 +1,1 @@
+{"id":"131848","urlID":"37juo","name":"E-mail validator (corrected)","description":"E-Mail validator with correction (added symbol \"_\")","content":"","weightedVote":"2.88194","numVotes":"1","author":"Yurii Rusakov","community":"1","dateAdded":"2013-12-11","pattern":"[a-zA-Z0-9-_]{1,}@([a-zA-Z\\.])?[a-zA-Z]{1,}\\.[a-zA-Z]{1,4}","replace":"","state":""}

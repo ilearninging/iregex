@@ -1,0 +1,1 @@
+{"id":"360","urlID":"2rino","name":"WithoutQuotes","description":"Spike's vB linkfix for links without quotation marks","content":"","weightedVote":"2.5","numVotes":"0","author":"D","community":"1","dateAdded":"2010-02-15","pattern":"(showpost.php\\?p=)([0-9]+)(&postcount=[0-9]+)","replace":"$1$2$3#post$2","state":""}

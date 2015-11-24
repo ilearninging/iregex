@@ -1,0 +1,1 @@
+{"id":"41889","urlID":"2vcd3","name":"Split String at \" - \"","description":"((?!-\\s).)+\rSplit a String at \" - \"","content":"","weightedVote":"2.88194","numVotes":"1","author":"Lars A.","community":"1","dateAdded":"2011-12-02","pattern":"((?!-\\s).)+","replace":"","state":""}

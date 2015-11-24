@@ -1,0 +1,1 @@
+{"id":"177183","urlID":"3boot","name":"tabs matching","description":"","content":"[[[tab name=dog content=cat|tab name=dog2 content=cat2]]]","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-09-10","pattern":"tab name=([a-z0-9]+) content=([a-z0-9]+)(\\||])","replace":"","state":"{\"substEnabled\":false}"}

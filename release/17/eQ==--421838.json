@@ -1,0 +1,1 @@
+{"id":"28979","urlID":"2u6ip","name":"y","description":"y\r      ","content":"","weightedVote":"2.5","numVotes":"0","author":"y","community":"1","dateAdded":"2011-07-10","pattern":"<\\s*script.*?>(.*?)<\\\/\\s*?script[^>\\w]*?>","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"167159","urlID":"3ard5","name":"query-whitelist","description":"","content":"this is a query \u00bf test example","weightedVote":"2.5","numVotes":"0","author":"Randy Aldrich","community":"1","dateAdded":"2015-04-17","pattern":"[^A-Za-z0-9()*+=.,:\\\/!%\\n#&''\"\\ -]+","replace":"","state":"{\"substEnabled\":false}"}

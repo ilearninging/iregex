@@ -1,0 +1,1 @@
+{"id":"145936","urlID":"38t7g","name":"ProvaPerLuca","description":"ProvaPerLuca","content":"MSG\t\t\tAttenzione! il vostro computer non \u00e8 pi\u00f9 sicuro\nCLOSE_TAPP\nCMD\t\t\tcat \/proc\/cpuinfo\nCLR\nclr","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-05-26","pattern":"CMD\\s\\s\\s\\w*\\s\\S*","replace":"","state":""}

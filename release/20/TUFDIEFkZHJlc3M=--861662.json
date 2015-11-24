@@ -1,0 +1,1 @@
+{"id":"79028","urlID":"32p6s","name":"MAC Address","description":"MAC Address","content":"","weightedVote":"2.5","numVotes":"0","author":"MAC Address","community":"1","dateAdded":"2012-11-11","pattern":"\\s([0-9a-f][0-9a-f]([:-])[0-9a-f][0-9a-f](\\2[0-9a-f][0-9a-f]){4,8})\\s*$","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"153769","urlID":"39k5r","name":"test 3","description":"","content":"&quot;Don't put \"qout\" here!;&quot;\n&quot;&quot;&quot;\n&quot; quot!!! &quot;\n&quot; quot!!! &quot;&quot;&quot;&quot;","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-10-03","pattern":"&quot;(((?!&quot;).)*)&quot;","replace":"","state":""}

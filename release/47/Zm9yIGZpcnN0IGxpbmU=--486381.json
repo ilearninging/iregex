@@ -1,0 +1,1 @@
+{"id":"162793","urlID":"3aejr","name":"for first line","description":"A","content":"for(int i=0;i<5;i++)\nf0r(int i=0;i<=10;i++)\n\n\n\n","weightedVote":"2.5","numVotes":"0","author":"DD","community":"1","dateAdded":"2015-02-17","pattern":"[for]+[(][int]+[A-za-a]+=[0-9][;]+[A-Za-z]+[<|>|<=|>=|==]+[0-9]+[;]+[A-Za-a][+]+[)]+","replace":"","state":""}

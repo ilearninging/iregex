@@ -1,0 +1,1 @@
+{"id":"38218","urlID":"2v1ku","name":"Crystal Report Field","description":"Matches all Crystal Reports field types in flow text.\r(Used to find fields from CR-export.)","content":"","weightedVote":"3.26389","numVotes":"1","author":"Gregi Pow","community":"1","dateAdded":"2011-10-27","pattern":"(\\{(@|\\?|#)?[A-Za-z][\\w\\.-]*\\})","replace":"","state":""}

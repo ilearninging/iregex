@@ -1,0 +1,1 @@
+{"id":"140937","urlID":"38eir","name":"Australian Phone Numbers + Mobiles","description":"All Phones","content":"","weightedVote":"1.76531","numVotes":"2","author":"Thomas Albrighton","community":"1","dateAdded":"2014-03-05","pattern":"^(\\((0|61|\\+61)[23478]\\)|(0|61|\\+61)[2378])?([\\s-]*[1-9]([\\s-]*\\d{1}){7})$\/","replace":"","state":""}

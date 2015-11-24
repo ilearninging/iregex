@@ -1,0 +1,1 @@
+{"id":"173215","urlID":"3bd4t","name":"3 digits then Space then Any","description":"3 digits then Space then Any","content":"0157 teste","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-15","pattern":"^\\d{3,}\\ [\\s\\S]*","replace":"","state":"{\"substEnabled\":false}"}

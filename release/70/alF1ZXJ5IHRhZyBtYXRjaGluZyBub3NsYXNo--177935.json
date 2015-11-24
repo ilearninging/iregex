@@ -1,0 +1,1 @@
+{"id":"180509","urlID":"3c2gn","name":"jQuery tag matching noslash","description":"","content":"<div>","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-26","pattern":"^<(\\w+)\\s*\\\/?>(?:<\\\/\\1>)?$\/","replace":"$1","state":"{\"substEnabled\":true}"}

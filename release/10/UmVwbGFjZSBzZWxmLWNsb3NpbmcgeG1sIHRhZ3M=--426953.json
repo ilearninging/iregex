@@ -1,0 +1,1 @@
+{"id":"2304","urlID":"2roe0","name":"Replace self-closing xml tags","description":"Replaces a self-closing tag (<img\/>) with a closing tag (<img><\/img>), including attributes.","content":"","weightedVote":"3.07292","numVotes":"1","author":"Ryan Matsikas","community":"1","dateAdded":"2010-07-08","pattern":"(<(TAG)\\s[^>]+?)\/>","replace":"$1><\/$2>","state":""}

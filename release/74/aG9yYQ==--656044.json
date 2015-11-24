@@ -1,0 +1,1 @@
+{"id":"92778","urlID":"341fu","name":"hora","description":"formato de hora","content":"","weightedVote":"2.11806","numVotes":"1","author":"j","community":"1","dateAdded":"2013-03-06","pattern":"^(0[1-9]|1\\d|2[0-3]):([0-5]\\d):([0-5]\\d)$","replace":"","state":""}

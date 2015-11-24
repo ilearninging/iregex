@@ -1,0 +1,1 @@
+{"id":"144859","urlID":"38q2h","name":"Lookahead Example","description":"","content":"ffd34csD","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-05-06","pattern":"(?=^\\w{6,8}$)(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])\\w+","replace":"\\n# $&:\\n\\t","state":""}

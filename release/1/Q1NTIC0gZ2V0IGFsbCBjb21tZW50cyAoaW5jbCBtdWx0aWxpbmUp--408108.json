@@ -1,0 +1,1 @@
+{"id":"46359","urlID":"2vpg5","name":"CSS - get all comments (incl multiline)","description":"Use this pattern if you want get all comment blocks, even multiline","content":"","weightedVote":"4.16062","numVotes":"16","author":"Tomasz Cieloszyk","community":"1","dateAdded":"2012-01-20","pattern":"(\\\/\\*)(.|\\r|\\n)*?(\\*\\\/)","replace":"","state":""}

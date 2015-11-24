@@ -1,0 +1,1 @@
+{"id":"143762","urlID":"38mrm","name":"NOT contains (negative lookahe","description":"Way to implement \"does not contain\" with negative lookahead.","content":"\/asdasdas\/asdas\/asdas\n\/api\/status\/ads\n\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-04-13","pattern":"^(.(?!\\\/status))*$","replace":"","state":""}

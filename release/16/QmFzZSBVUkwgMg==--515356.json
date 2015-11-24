@@ -1,0 +1,1 @@
+{"id":"7652","urlID":"2s83c","name":"Base URL 2","description":"Find base URLs upto 1st \/","content":"","weightedVote":"2.5","numVotes":"0","author":"Daniel Azulay","community":"1","dateAdded":"2010-09-28","pattern":"(http:\/\/)([a-zA-Z0-9\\.\\-]*\\\/)","replace":"","state":""}

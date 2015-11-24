@@ -1,0 +1,1 @@
+{"id":"164146","urlID":"3aiim","name":"irly","description":"start with invoice and finish fare","content":"Invoice:# 6025493 Miles:21.8 mi Trip: ST --- Passenger(s):1 Day&Time:2015\/03\/10 09:19 Fare  ","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-08","pattern":"([A-Z])\\w+","replace":"","state":"{\"substEnabled\":false}"}

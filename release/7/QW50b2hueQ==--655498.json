@@ -1,0 +1,1 @@
+{"id":"145115","urlID":"38qqh","name":"Antohny","description":"Get parameters from URL","content":"\nhttp:\/\/regexr.com\/foo.html?q=bar&as=bed","weightedVote":"3.26389","numVotes":"1","author":"211:Anthony","community":"1","dateAdded":"2014-05-09","pattern":"(\\?|\\&)([^=]+)\\=([^&]+)","replace":"\\n# $&:\\n\\t","state":""}

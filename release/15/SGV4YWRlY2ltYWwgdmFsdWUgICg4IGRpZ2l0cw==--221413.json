@@ -1,0 +1,1 @@
+{"id":"423","urlID":"2ritl","name":"Hexadecimal value  (8 digits","description":"Matches an Hexadecimal value starting from 0x or 0X and following by eight alphanumerical chars","content":"","weightedVote":"2.5","numVotes":"0","author":"Roger Baldom\u00e0","community":"1","dateAdded":"2010-03-21","pattern":"\\b0x([0-9A-Fa-f]{8})\\b","replace":"","state":""}

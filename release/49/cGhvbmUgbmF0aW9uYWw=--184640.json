@@ -1,0 +1,1 @@
+{"id":"164908","urlID":"3akq4","name":"phone national","description":"","content":"+88625161110","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-19","pattern":"[+][0-9]{3}[0-9]{8}","replace":"","state":"{\"substEnabled\":false}"}

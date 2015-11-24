@@ -1,0 +1,1 @@
+{"id":"6784","urlID":"2s5i0","name":"isValid SA phone number","description":"Checks for a valid south african cell phone number","content":"","weightedVote":"3.26389","numVotes":"1","author":"Neil Hogg","community":"1","dateAdded":"2010-09-15","pattern":"^(\\+?27|0)[6-9][1-7][0-9]{7}$","replace":"","state":""}

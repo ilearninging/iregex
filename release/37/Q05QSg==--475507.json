@@ -1,0 +1,1 @@
+{"id":"154713","urlID":"39mub","name":"CNPJ","description":"","content":"82.360.227\/0001-02\n82.360.227\/000102\n82.360.227000102\n82.360227000102\n82360227000102\n\n\n","weightedVote":"2.5","numVotes":"0","author":"johnathan","community":"1","dateAdded":"2014-10-13","pattern":"(\\d{2}\\.?\\d{3}\\.?\\d{3}\\\/?\\d{4}-?\\d{2})","replace":"","state":""}

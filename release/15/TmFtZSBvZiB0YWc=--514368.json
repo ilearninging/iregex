@@ -1,0 +1,1 @@
+{"id":"398","urlID":"2rira","name":"Name of tag","description":"This pattern takes the name of a tag from a kind line <tag> <\/tag> ","content":"","weightedVote":"2.5","numVotes":"0","author":"MXPain","community":"1","dateAdded":"2010-03-09","pattern":"[^<|(?!\/)]+(?=>) \/[^<|(?!\/)]+(?=>)","replace":"","state":""}

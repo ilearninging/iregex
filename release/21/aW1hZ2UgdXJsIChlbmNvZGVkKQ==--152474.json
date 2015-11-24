@@ -1,0 +1,1 @@
+{"id":"96466","urlID":"34c9m","name":"image url (encoded)","description":"match image url (encoded)","content":"","weightedVote":"2.5","numVotes":"0","author":"Ali Mohamed","community":"1","dateAdded":"2013-04-02","pattern":"(http)([^\/]+).(jpg|bmp|jpeg|gif|png|tif)","replace":"","state":""}

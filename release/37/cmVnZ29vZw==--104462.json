@@ -1,0 +1,1 @@
+{"id":"154989","urlID":"39no7","name":"reggoog","description":"","content":"http:\/\/google.com\nhttp:\/\/google.ca\nhttp:\/\/google.co.uk\nhttps:\/\/google.co.uk\nhttp:\/\/google.co.uk\nhttps:\/\/\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-10-14","pattern":"((ht|f)tp(s?)):\/\/google.\\w\\w.{0,1}\\w{0,1}\\w{0,1}","replace":"","state":""}

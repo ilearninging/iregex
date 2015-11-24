@@ -1,0 +1,1 @@
+{"id":"80144","urlID":"32sfg","name":"URL to DomainName","description":"converts specified url to a DomainName\r\rexample\rinput:https:\/\/api.facebook.com\/connect\/url?a=bb\routput: api.facebook.com","content":"","weightedVote":"3.26389","numVotes":"1","author":"d1t1","community":"1","dateAdded":"2012-11-20","pattern":"^(?:http[s]*:\/\/)?([^\/]+)","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"172011","urlID":"3b9k1","name":"Voiski Email Addresses","description":"Simple with bundle of rules","content":"alan@hotmail.com.adsd","weightedVote":"2.5","numVotes":"0","author":"Alan Voiski","community":"1","dateAdded":"2015-06-26","pattern":"^[^\\W_][\\w\\.-]+@[^\\W_]([\\w-]*[^\\W_]\\.)+[A-Za-z]{2,4}$","replace":"","state":"{\"substEnabled\":false}"}

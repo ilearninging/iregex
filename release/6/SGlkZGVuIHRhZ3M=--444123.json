@@ -1,0 +1,1 @@
+{"id":"66007","urlID":"31j25","name":"Hidden tags","description":"Finds hidden rows in tables. Not well made. Customise to fit.","content":"","weightedVote":"3.26389","numVotes":"1","author":"Bonzo","community":"1","dateAdded":"2012-07-19","pattern":"<tr style=\"display:none\">[^]*<\/tr>","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"159982","urlID":"3a6ca","name":"UK Telephone Number","description":"","content":"07832141960","weightedVote":"2.5","numVotes":"0","author":"Chris Allen","community":"1","dateAdded":"2015-01-08","pattern":"^((?:(\\+(\\s+)?)(44(\\s+)?))|(?:(00(\\s+)?44(\\s+)?)|(44(\\s+)?)|(0(\\s+)?)))(\\s+)?((\\d(\\s+)?){10})$","replace":"","state":""}

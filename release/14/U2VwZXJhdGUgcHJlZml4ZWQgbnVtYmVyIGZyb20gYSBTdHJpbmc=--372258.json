@@ -1,0 +1,1 @@
+{"id":"256","urlID":"2rie0","name":"Seperate prefixed number from a String","description":"Creates two groups from a String that is prefixed with a number. First being the number, the second the remainder","content":"","weightedVote":"2.5","numVotes":"0","author":"Biffer","community":"1","dateAdded":"2009-11-25","pattern":"^(\\d*)(.*)$","replace":"","state":""}

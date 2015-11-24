@@ -1,0 +1,1 @@
+{"id":"33721","urlID":"2ukfb","name":"Get JPG\/PNG images from anything","description":"Get PNG\/JPG links from any kind of text","content":"","weightedVote":"3.26389","numVotes":"1","author":"noCreativity","community":"1","dateAdded":"2011-09-06","pattern":"(http:\\\/\\\/[0-9a-zA-Z\\.\\\/_-]+.png|http:\\\/\\\/[0-9a-zA-Z\\.\\\/_-]+.jpg)","replace":"","state":""}

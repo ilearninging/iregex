@@ -1,0 +1,1 @@
+{"id":"146022","urlID":"38tfi","name":"Url Query String","description":"Match key\/value of url query string","content":"http:\/\/regexr.com\/foo.html?q=bar&aaa=bv123d","weightedVote":"3.58247","numVotes":"19","author":"nc","community":"1","dateAdded":"2014-05-27","pattern":"[\\?&](\\w+)=(\\w+)","replace":"","state":""}

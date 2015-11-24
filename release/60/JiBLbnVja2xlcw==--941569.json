@@ -1,0 +1,1 @@
+{"id":"173143","urlID":"3bcu5","name":"& Knuckles","description":"A regex that matches the \"& Knuckles\" meme.","content":"aaa & Knuckles","weightedVote":"2.5","numVotes":"0","author":"Simon","community":"1","dateAdded":"2015-07-14","pattern":"[\\w\\d \\-]+ & Knuckles","replace":"","state":"{\"substEnabled\":false}"}

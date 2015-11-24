@@ -1,0 +1,1 @@
+{"id":"151557","urlID":"39dmf","name":"Thousands dot separator ","description":"Regexp function to match numbers with dot thousands separator","content":"100.000.000\n1.000\n2.786\n2.010\n100.000","weightedVote":"2.5","numVotes":"0","author":"Alexandru Popa","community":"1","dateAdded":"2014-08-29","pattern":"([1-9][0-9]?|100)(\\.\\d{3})+","replace":"","state":""}

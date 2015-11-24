@@ -1,0 +1,1 @@
+{"id":"86926","urlID":"33gba","name":"Remove XML Header Tag (version & encoding)","description":"Elimina el encabezado del HTML o XML; las etiquedas de la versi\u00f3n y encoding","content":"","weightedVote":"3.07292","numVotes":"1","author":"Jorge Villamil","community":"1","dateAdded":"2013-01-22","pattern":"(<\\?[\\s\\S]*?\\?>)","replace":"","state":""}

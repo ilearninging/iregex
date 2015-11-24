@@ -1,0 +1,1 @@
+{"id":"157793","urlID":"39vv3","name":"tags strip out","description":"","content":"\n<img src='hello' border=\"0\"\/>\n<div style=\"margin-left:10px\">text<\/div>\n<img src='sss\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-28","pattern":"<[^>]*(>|$)","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"166998","urlID":"3aqu2","name":"Khue Pham","description":"select all string if have word in string","content":"high ffdfdf pass h3","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-15","pattern":"^(.*?(\\bpass\\b)[^$]*)$","replace":"$&$&$&$&$&\\n# $&:\\n\\t","state":"{\"substEnabled\":true}"}

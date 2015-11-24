@@ -1,0 +1,1 @@
+{"id":"147995","urlID":"3938h","name":"linkextract","description":"","content":"http:\/\/linkcrypt.ws\/dir\/68l89n69r3555f4\" target=\"_blank\"&gt;","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-07-01","pattern":"(.*)(\\\"\\s[^\/\\n\\r]+)","replace":"Link:\\t\\t\\t$1\\nextra:\\t\\t\\t$2","state":""}

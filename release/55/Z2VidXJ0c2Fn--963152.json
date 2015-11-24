@@ -1,0 +1,1 @@
+{"id":"169312","urlID":"3b1n0","name":"geburtsag","description":"","content":"geburtstag.(*d).zusatz\n\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-20","pattern":"^(geburtstag[.]\\(\\\\*d\\)[.]zusatz|geburtstag[.]d->zusatz)","replace":"","state":"{\"substEnabled\":false}"}

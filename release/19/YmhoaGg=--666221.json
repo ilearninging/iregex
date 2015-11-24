@@ -1,0 +1,1 @@
+{"id":"71553","urlID":"323a3","name":"bhhhh","description":"tteee","content":"","weightedVote":"2.5","numVotes":"0","author":"mjgg","community":"1","dateAdded":"2012-09-08","pattern":"(r'<a href=\"\/(.*)\/\">(.*)<\/a>',page)","replace":"","state":""}

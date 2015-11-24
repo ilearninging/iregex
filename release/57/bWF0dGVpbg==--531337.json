@@ -1,0 +1,1 @@
+{"id":"171149","urlID":"3b737","name":"mattein","description":"","content":"Match\no.abcd.Equals(\no.defg.Equals(\n\n\/\/No match\no..Equals(\no.Equals(\no.abcd.Equals\no.EqualsNOT\nEquals\n.Equa\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-15","pattern":"o\\..+\\.Equals\\(","replace":"","state":"{\"substEnabled\":false}"}

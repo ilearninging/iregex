@@ -1,0 +1,1 @@
+{"id":"174036","urlID":"3bfhs","name":"nithin","description":"Comma seperated stringd","content":"firstName,lastName","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-27","pattern":"([^,]+)","replace":"","state":"{\"substEnabled\":false}"}

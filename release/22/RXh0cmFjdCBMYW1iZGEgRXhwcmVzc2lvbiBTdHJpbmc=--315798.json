@@ -1,0 +1,1 @@
+{"id":"110505","urlID":"35ldr","name":"Extract Lambda Expression String","description":"Extract left and right in lambda expression string.","content":"","weightedVote":"2.5","numVotes":"0","author":"Junil Um","community":"1","dateAdded":"2013-07-21","pattern":"[\\(^\\)]?([\\w,\\s]*)[\\)^\\(]?\\s=>\\s[\\{^\\}]?(.+)[\\s\\}^\\{]?","replace":"","state":""}

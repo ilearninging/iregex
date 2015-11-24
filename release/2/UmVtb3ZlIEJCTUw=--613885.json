@@ -1,0 +1,1 @@
+{"id":"14003","urlID":"2sqmp","name":"Remove BBML","description":"Remove BBML (Bulletin Board Markup Language)","content":"","weightedVote":"3.75098","numVotes":"11","author":"Irfan","community":"1","dateAdded":"2011-01-01","pattern":"\\[.*?\\]","replace":"","state":""}

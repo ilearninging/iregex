@@ -1,0 +1,1 @@
+{"id":"159025","urlID":"3a3ij","name":"SSN and EIN","description":"Simple expression to validate SSN and EIN","content":"12-3456789\n123456789\n123-45-6789","weightedVote":"2.5","numVotes":"0","author":"Moorthy","community":"1","dateAdded":"2014-12-17","pattern":"([0-9]{9})|([0-9]{3}-[0-9]{2}-[0-9]{4})|([0-9]{2}-[0-9]{7})","replace":"","state":""}

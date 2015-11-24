@@ -1,0 +1,1 @@
+{"id":"38099","urlID":"2v19p","name":"google maps","description":"google maps","content":"","weightedVote":"2.5","numVotes":"0","author":"gro","community":"1","dateAdded":"2011-10-26","pattern":"\\\/maps\\\/ms\\?hl=fr.*msid=[.a-z0-9]{43}(?=\">\\s<)","replace":"","state":""}

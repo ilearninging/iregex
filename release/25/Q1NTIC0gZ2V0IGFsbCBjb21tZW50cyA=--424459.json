@@ -1,0 +1,1 @@
+{"id":"144150","urlID":"38o02","name":"CSS - get all comments ","description":"","content":"\n\/*asdf\n\n\n*\/\nsadfd\n\nfsdaf\nsda\nfsda\nfds\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-04-21","pattern":"\\\/\\*[\\s\\S]+\\*\\\/","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"170764","urlID":"3b5v4","name":"Allowed Mime Types","description":"Exclude all applications with a few exceptions","content":"","weightedVote":"2.5","numVotes":"0","author":"C Evans","community":"1","dateAdded":"2015-06-09","pattern":"((application\\\/msword)|(application\\\/excel)|(((?!application\\\/)(\\b.*\\\/.*))*))","replace":"","state":"{\"substEnabled\":false}"}

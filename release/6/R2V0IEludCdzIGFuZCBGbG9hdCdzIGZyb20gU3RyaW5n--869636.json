@@ -1,0 +1,1 @@
+{"id":"106800","urlID":"35aig","name":"Get Int's and Float's from String","description":"Match all float's and int's, including negative values.\rUses \".\" and \",\" as a separator.","content":"","weightedVote":"3.26389","numVotes":"1","author":"Ryan Amaral","community":"1","dateAdded":"2013-06-21","pattern":"[-]?[0-9]*\\.?,?[0-9]+","replace":"","state":""}

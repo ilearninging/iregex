@@ -1,0 +1,1 @@
+{"id":"173264","urlID":"3bd9g","name":"zm","description":"","content":"1.2.3.30\n1.2.3.40\n1.2.1.1\n","weightedVote":"2.5","numVotes":"0","author":"zm","community":"1","dateAdded":"2015-07-16","pattern":".+\\.([1-2][0-9]|30)","replace":"","state":"{\"substEnabled\":false}"}

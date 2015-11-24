@@ -1,0 +1,1 @@
+{"id":"181133","urlID":"3c4b7","name":"\"Assignment referencing\"","description":"","content":"Here it is: <Assignment: test_test !test>","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-11-03","pattern":"(<Assignment: ?[A-Za-z0-9 !.\\-_]+>)","replace":"","state":"{\"substEnabled\":false}"}

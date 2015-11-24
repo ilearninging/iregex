@@ -1,0 +1,1 @@
+{"id":"114817","urlID":"36223","name":"td contents","description":"Get all TD Tags","content":"","weightedVote":"2.5","numVotes":"0","author":"FabioTNT","community":"1","dateAdded":"2013-08-21","pattern":"<td[^<>]*?>(.*?)<\\\/td>","replace":"","state":""}

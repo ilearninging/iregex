@@ -1,0 +1,1 @@
+{"id":"4857","urlID":"2rvtb","name":"ID attrib and it's value","description":"fetch the ID and it's value from within HTML document, useful to remove the auto generated ID's from ASP","content":"","weightedVote":"3.52041","numVotes":"2","author":"Mancy","community":"1","dateAdded":"2010-08-17","pattern":"id=['\"][\\d\\s\\D]+?['\"]","replace":"","state":""}

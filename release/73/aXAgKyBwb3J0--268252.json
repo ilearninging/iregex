@@ -1,0 +1,1 @@
+{"id":"59433","urlID":"30vpr","name":"ip + port","description":"ip + port","content":"","weightedVote":"2.11806","numVotes":"1","author":"robbinhan","community":"1","dateAdded":"2012-05-16","pattern":"((2[0-4]\\d|25[0-5]|[01]?\\d\\d?)\\.){3}(2[0-4]\\d|25[0-5]|[01]?\\d\\d?):\\d{4}\/","replace":"","state":""}

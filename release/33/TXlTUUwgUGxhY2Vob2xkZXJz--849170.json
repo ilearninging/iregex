@@ -1,0 +1,1 @@
+{"id":"150933","urlID":"39brv","name":"MySQL Placeholders","description":"","content":"SELECT * \nFROM foo \nWHERE bar = :baz && (qux IN(:Garply) || waldo != :fred2)","weightedVote":"2.5","numVotes":"0","author":"Jake A. Smith","community":"1","dateAdded":"2014-08-20","pattern":":[a-zA-Z0-9]+","replace":"","state":""}

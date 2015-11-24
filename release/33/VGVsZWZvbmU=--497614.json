@@ -1,0 +1,1 @@
+{"id":"150926","urlID":"39bra","name":"Telefone","description":"","content":"11111-1111\n1111-1111\n11111111\n99999-9999\n00000-0000\n09999-9999\n09123-3232\n9123-4555\n99208-4635","weightedVote":"2.5","numVotes":"0","author":"fhferreira","community":"1","dateAdded":"2014-08-20","pattern":"^[1-9]{1}[0-9]{3,4}([\\-]?)[0-9]{4}$","replace":"","state":""}

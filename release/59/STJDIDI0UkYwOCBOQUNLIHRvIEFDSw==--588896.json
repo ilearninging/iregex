@@ -1,0 +1,1 @@
+{"id":"172056","urlID":"3b9o8","name":"I2C 24RF08 NACK to ACK","description":"Brings the NACK to the previous line and makes it an ACK (substitution ACK)","content":"","weightedVote":"2.5","numVotes":"0","author":"betame6","community":"1","dateAdded":"2015-06-28","pattern":"^(I2C).+|(WRITE).+\\n|(READ: )","replace":"","state":"{\"substEnabled\":true}"}

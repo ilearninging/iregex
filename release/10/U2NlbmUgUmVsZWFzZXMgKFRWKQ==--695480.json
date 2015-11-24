@@ -1,0 +1,1 @@
+{"id":"1415","urlID":"2rlql","name":"Scene Releases (TV)","description":"Extracts title, season and episode from release names.","content":"","weightedVote":"3.07292","numVotes":"1","author":"mofo","community":"1","dateAdded":"2010-06-27","pattern":"^([a-zA-Z0-9\\.]+)\\.S?(\\d+)E?x?(\\d+)\\.(.*)$","replace":"","state":""}

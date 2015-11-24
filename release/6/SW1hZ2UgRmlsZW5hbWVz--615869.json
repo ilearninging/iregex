@@ -1,0 +1,1 @@
+{"id":"98841","urlID":"34j8b","name":"Image Filenames","description":"Match .png, .jpg and .gif filenames only.","content":"","weightedVote":"3.26389","numVotes":"1","author":"gvdh","community":"1","dateAdded":"2013-04-18","pattern":"([0-9a-zA-Z\\._-]+.(png|PNG|gif|GIF|jp[e]?g|JP[E]?G))","replace":"","state":""}

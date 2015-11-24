@@ -1,0 +1,1 @@
+{"id":"157973","urlID":"3a0fv","name":"location","description":"locations","content":"\/app\/userprofile\/","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-12-02","pattern":"^\\\/app\\\/userprofile\\\/([a-z,0-9,A-Z]+(?:\\\/[a-z]+)*)$","replace":"","state":""}

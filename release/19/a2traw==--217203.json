@@ -1,0 +1,1 @@
+{"id":"71554","urlID":"323a6","name":"kkkk","description":"55ttt","content":"","weightedVote":"2.5","numVotes":"0","author":"ggui","community":"1","dateAdded":"2012-09-08","pattern":"(r'<a href=\"\/(.*)\/\">(.*)<\/a>',page)","replace":"","state":""}

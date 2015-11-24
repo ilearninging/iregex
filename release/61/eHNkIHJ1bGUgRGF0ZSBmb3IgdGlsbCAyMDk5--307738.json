@@ -1,0 +1,1 @@
+{"id":"173583","urlID":"3be7d","name":"xsd rule Date for till 2099","description":"","content":"20012010\n201215\n20150515\n14112015\n\n12520510\n\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-21","pattern":"(20[0-9][0-9])(0[1-9]|1[012])(0[1-9]|[12][0-9]|3[01])","replace":"","state":"{\"substEnabled\":false}"}

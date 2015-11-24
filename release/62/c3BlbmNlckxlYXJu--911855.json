@@ -1,0 +1,1 @@
+{"id":"174176","urlID":"3bfv0","name":"spencerLearn","description":"experiment with borders","content":"This is Railroad Earth important example about regex 333 my work and for me","weightedVote":"2.5","numVotes":"0","author":"Spencer B","community":"1","dateAdded":"2015-07-28","pattern":"\\bRailroad\\b.*\\B\\d","replace":"","state":"{\"substEnabled\":false}"}

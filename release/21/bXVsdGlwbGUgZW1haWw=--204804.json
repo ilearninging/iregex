@@ -1,0 +1,1 @@
+{"id":"106509","urlID":"359n7","name":"multiple email","description":"Validate string with multiple email address separate for ; or ,","content":"","weightedVote":"2.5","numVotes":"0","author":"RommelJ","community":"1","dateAdded":"2013-06-19","pattern":"^([\\w\\.\\-]+@[a-zA-Z0-9\\-]+(\\.[a-zA-Z0-9\\-]{1,})*(\\.[a-zA-Z]{2,4}){1,2}(;|,)?)+$","replace":"","state":""}

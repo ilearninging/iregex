@@ -1,0 +1,1 @@
+{"id":"118884","urlID":"36dvc","name":"trail between tags value","description":"trying to fetch value between two tags\r\re.g <xyz a=\"abc\">HELLO<\/xyz>\r\rI want to fetch HELLO but this exp gives o\/p >HELLO<","content":"","weightedVote":"2.5","numVotes":"0","author":"zidane","community":"1","dateAdded":"2013-09-20","pattern":">[^<]+?<","replace":"","state":""}

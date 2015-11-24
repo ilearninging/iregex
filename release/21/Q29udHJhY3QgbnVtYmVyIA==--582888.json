@@ -1,0 +1,1 @@
+{"id":"105515","urlID":"356q1","name":"Contract number ","description":"Contract number format","content":"","weightedVote":"2.5","numVotes":"0","author":"Behruz","community":"1","dateAdded":"2013-06-11","pattern":"[0-9](\/|-)([0-9]{1}|[0-9]{2})-[0-9]{5}(s|S)","replace":"","state":""}

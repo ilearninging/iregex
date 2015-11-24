@@ -1,0 +1,1 @@
+{"id":"499","urlID":"2rj4p","name":"nUmber with 2 deci","description":"d","content":"","weightedVote":"2.5","numVotes":"0","author":"sudha","community":"1","dateAdded":"2010-05-05","pattern":"[\\d]{1,99}([.]\\d{1,2})","replace":"23.3434","state":""}

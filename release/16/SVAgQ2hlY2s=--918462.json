@@ -1,0 +1,1 @@
+{"id":"6473","urlID":"2s4kr","name":"IP Check","description":"Test","content":"","weightedVote":"2.5","numVotes":"0","author":"DSE","community":"1","dateAdded":"2010-09-11","pattern":"\\b(?:\\d{1,3}\\.){3}\\d{1,3}\\b ","replace":"[[$&$&]] ","state":""}

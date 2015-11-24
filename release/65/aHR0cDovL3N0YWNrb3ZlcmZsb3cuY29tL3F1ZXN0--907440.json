@@ -1,0 +1,1 @@
+{"id":"176876","urlID":"3bns4","name":"http:\/\/stackoverflow.com\/quest","description":"","content":"Something {{some key}} another {{another value}} another {{Something {another} value}}","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-09-06","pattern":"{{(.*?)}}","replace":"","state":"{\"substEnabled\":false}"}

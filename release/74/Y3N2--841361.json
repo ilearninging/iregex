@@ -1,0 +1,1 @@
+{"id":"29987","urlID":"2u9h9","name":"csv","description":"XA","content":"","weightedVote":"1.73611","numVotes":"1","author":"as","community":"1","dateAdded":"2011-07-21","pattern":"(?:,|^)([^\",]+|\"(?:[^\"]|\"\")*\")?","replace":"","state":""}

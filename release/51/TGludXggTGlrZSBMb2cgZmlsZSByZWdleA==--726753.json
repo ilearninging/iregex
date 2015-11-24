@@ -1,0 +1,1 @@
+{"id":"165940","urlID":"3anqs","name":"Linux Like Log file regex","description":"Finds file that have format like the linux log format (device.log, device.log.0, eg)","content":"234.log.2","weightedVote":"2.5","numVotes":"0","author":"Ruraj Joshi","community":"1","dateAdded":"2015-03-31","pattern":"^[\\w]+\\.log.[0-9]$","replace":"","state":"{\"substEnabled\":false}"}

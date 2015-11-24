@@ -1,0 +1,1 @@
+{"id":"155943","urlID":"39qhl","name":"Saraf Decimal Only","description":"Matches Decimal only with intermediate - or . characters","content":"","weightedVote":"2.5","numVotes":"0","author":"Saraf Talukder","community":"1","dateAdded":"2014-10-29","pattern":"[-]?[0-9]*([.][0-9]{0,4})?$","replace":"","state":""}

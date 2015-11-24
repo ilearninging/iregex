@@ -1,0 +1,1 @@
+{"id":"167079","urlID":"3ar5l","name":"Example 1","description":"","content":"1 potato","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-16","pattern":"(0-9)* (\\w)+","replace":"","state":"{\"substEnabled\":false}"}

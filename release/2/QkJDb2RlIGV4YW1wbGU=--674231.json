@@ -1,0 +1,1 @@
+{"id":"163982","urlID":"3ai3a","name":"BBCode example","description":"","content":"[value=\"value_param\"]value[\/value] asdfqerewrdttt","weightedVote":"3.72449","numVotes":"2","author":"JFK","community":"1","dateAdded":"2015-03-05","pattern":"\\[value\\=(.+)\\](.*)\\[\\\/value\\]","replace":"","state":"{\"substEnabled\":false}"}

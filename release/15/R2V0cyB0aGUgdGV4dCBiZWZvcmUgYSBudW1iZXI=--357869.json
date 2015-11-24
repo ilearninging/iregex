@@ -1,0 +1,1 @@
+{"id":"4052","urlID":"2rths","name":"Gets the text before a number","description":"You can extract the street name without the house number.","content":"","weightedVote":"2.5","numVotes":"0","author":"D. Sprich","community":"1","dateAdded":"2010-08-05","pattern":"^((?!([0-9])).)*","replace":"","state":""}

@@ -1,0 +1,1 @@
+{"id":"102314","urlID":"34tdu","name":"MM\/YYYY","description":"Recognizes a month\/year date format.","content":"","weightedVote":"2.5","numVotes":"0","author":"Tim De Graeve","community":"1","dateAdded":"2013-05-17","pattern":"\\b(1[0-2]|0[1-9]|[1-9])\/[0-9]{4}","replace":"","state":""}

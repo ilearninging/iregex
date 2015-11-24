@@ -1,0 +1,1 @@
+{"id":"13080","urlID":"2so08","name":"replace links by google","description":"replace links by google search link","content":"","weightedVote":"1.73611","numVotes":"1","author":"Gerard","community":"1","dateAdded":"2010-12-14","pattern":"\\be(\\w*)s\\b|\\bs(\\w*)\\b","replace":"[[<a href=\"http:\/\/google.be\">$&<\/a>]]","state":""}

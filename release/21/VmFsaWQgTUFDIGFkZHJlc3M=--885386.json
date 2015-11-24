@@ -1,0 +1,1 @@
+{"id":"97111","urlID":"34e65","name":"Valid MAC address","description":"MAC address paterns:\r00-00-00-00-00-00\r00:00:00:00:00:00\r000000000000","content":"","weightedVote":"2.5","numVotes":"1","author":"TD","community":"1","dateAdded":"2013-04-07","pattern":"([0-9a-fA-F]{2}[:-]{0,1}){5}[0-9a-fA-F]{2}","replace":"","state":""}

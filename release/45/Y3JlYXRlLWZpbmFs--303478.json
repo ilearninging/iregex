@@ -1,0 +1,1 @@
+{"id":"161078","urlID":"3a9j2","name":"create-final","description":"","content":"create\ncreate 5 pages\ncreate 5","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-25","pattern":"[create|lorem|generate|make|fake].\\s+^\\d|([1-9]{1,3}) ?([^s\\s]+)?","replace":"\\n--\\nAmount: \"$1\"   \\nPost type: \"$2\"      \\n----\\n","state":""}

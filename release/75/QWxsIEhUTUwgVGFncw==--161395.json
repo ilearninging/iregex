@@ -1,0 +1,1 @@
+{"id":"18416","urlID":"2t7kg","name":"All HTML Tags","description":"Extract all HTML tags from a given sting","content":"","weightedVote":"1.47959","numVotes":"2","author":"Roy Osherove","community":"1","dateAdded":"2011-03-03","pattern":"<(.|\\n)*?>","replace":"","state":""}

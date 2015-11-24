@@ -1,0 +1,1 @@
+{"id":"154548","urlID":"39mes","name":"Broken Capture Group","description":"This valid regex is broken in v2 of regexr.com, but works fine in v1.","content":"'1.2.3.4'","weightedVote":"2.5","numVotes":"0","author":"deadlydog","community":"1","dateAdded":"2014-10-10","pattern":"'(?<VersionNumber>.*?)'\/","replace":"","state":""}

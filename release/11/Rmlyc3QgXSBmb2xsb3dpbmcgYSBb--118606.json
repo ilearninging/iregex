@@ -1,0 +1,1 @@
+{"id":"130","urlID":"2ri26","name":"First ] following a [","description":"Returns the first occurance of a closing square braket ']' found after an opening square braket '['","content":"","weightedVote":"2.90817","numVotes":"2","author":"Barking_Mad","community":"1","dateAdded":"2009-08-10","pattern":"\\[?\\]","replace":"","state":""}

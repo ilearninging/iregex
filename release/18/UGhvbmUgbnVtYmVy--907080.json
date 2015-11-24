@@ -1,0 +1,1 @@
+{"id":"45502","urlID":"2vmvq","name":"Phone number","description":"Match the phone number in 000-000-0000 formate","content":"","weightedVote":"2.5","numVotes":"0","author":"Sohail Ahmad","community":"1","dateAdded":"2012-01-12","pattern":"\\d{3}-\\d{3}-\\d{4}$\/","replace":"","state":""}

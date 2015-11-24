@@ -1,0 +1,1 @@
+{"id":"169925","urlID":"3b3gf","name":"file extension stuff","description":"","content":"a.png\nhello.png\nexpected.jpg\nexpected.jPeG\nexpected.JPEG\nyo.PNG\nhi.a.goobye.png","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-28","pattern":"expected\\.[a-z]+","replace":"","state":"{\"substEnabled\":false}"}

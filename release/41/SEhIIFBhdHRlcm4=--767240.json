@@ -1,0 +1,1 @@
+{"id":"158205","urlID":"3a15n","name":"HHH Pattern","description":"","content":"(com.swisslog.wm6.autostore.impl.acs.AcsServiceImpl)","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-12-04","pattern":"\\(com\\.[A-Za-z0-9\\.]*\\.acs\\.[A-Za-z0-9]*\\)\/","replace":"","state":""}

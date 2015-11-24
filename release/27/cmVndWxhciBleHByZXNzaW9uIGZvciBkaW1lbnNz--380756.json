@@ -1,0 +1,1 @@
+{"id":"146632","urlID":"38v8o","name":"regular expression for dimenss","description":"For Matching Dimenssion in an input field ","content":"8*78*8","weightedVote":"2.5","numVotes":"0","author":"Abid Ali","community":"1","dateAdded":"2014-06-06","pattern":"(\\d+\\.?\\d*)(\\*)(\\d+\\.?\\d*)(\\*)(\\d+\\.?\\d*)","replace":"","state":""}

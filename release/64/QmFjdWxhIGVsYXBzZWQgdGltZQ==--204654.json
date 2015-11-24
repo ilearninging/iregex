@@ -1,0 +1,1 @@
+{"id":"175510","urlID":"3bjs2","name":"Bacula elapsed time","description":"Run time for a bacula job","content":"  Elapsed time:           0 secs\n","weightedVote":"2.5","numVotes":"0","author":"geekatcmu","community":"1","dateAdded":"2015-08-17","pattern":"^\\s*Elapsed time:\\s*(?:([0-9,])+[^0-9,]+)+\/","replace":"","state":"{\"substEnabled\":false}"}

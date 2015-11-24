@@ -1,0 +1,1 @@
+{"id":"11840","urlID":"2skc0","name":"Time (format HH:MM:SS","description":"Validates time written with following format \r\rHH:MM:SS","content":"","weightedVote":"3.26389","numVotes":"1","author":"Ma\u00ebl Boutin","community":"1","dateAdded":"2010-11-25","pattern":"^(0[0-9]|1[0-9]|2[0-3])(:[0-5]\\d)(:[0-5]\\d)\/","replace":"","state":""}

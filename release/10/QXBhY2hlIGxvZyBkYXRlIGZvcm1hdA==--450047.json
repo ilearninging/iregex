@@ -1,0 +1,1 @@
+{"id":"1263","urlID":"2rlcd","name":"Apache log date format","description":"For parsing apache logs","content":"","weightedVote":"3.07292","numVotes":"1","author":"Ethan","community":"1","dateAdded":"2010-06-24","pattern":"[0-3][0-9]\/[a-z]{3}\/[0-9]{4}:[1-2][0-9]:[0-9][0-9]:[0-9][0-9]","replace":"","state":""}

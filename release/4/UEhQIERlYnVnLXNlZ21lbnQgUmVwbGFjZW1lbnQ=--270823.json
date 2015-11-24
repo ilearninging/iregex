@@ -1,0 +1,1 @@
+{"id":"380","urlID":"2ripk","name":"PHP Debug-segment Replacement","description":"Replaces:\r\r#DEBUG>>\rSOME_DEBUG STUFF\r#<<DEBUG","content":"","weightedVote":"3.26531","numVotes":"2","author":"Maik Nowak","community":"1","dateAdded":"2010-02-25","pattern":"([#]DEBUG\\>\\>(.|\\r|\\n)*?[#]\\<\\<DEBUG){1,}","replace":"#DEBUG REPLACED","state":""}

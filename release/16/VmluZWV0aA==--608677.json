@@ -1,0 +1,1 @@
+{"id":"5312","urlID":"2s180","name":"Vineeth","description":"First Try","content":"","weightedVote":"2.5","numVotes":"0","author":"Vineeth","community":"1","dateAdded":"2010-08-24","pattern":"\\be(\\w*)s\\b","replace":"[[$&$&]]","state":""}

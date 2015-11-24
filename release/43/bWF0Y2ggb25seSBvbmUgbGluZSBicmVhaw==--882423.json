@@ -1,0 +1,1 @@
+{"id":"159424","urlID":"3a4o0","name":"match only one line break","description":"","content":"test\n\ntest","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-12-26","pattern":"[\\s\\S]*|\\n?","replace":"","state":""}

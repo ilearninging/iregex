@@ -1,0 +1,1 @@
+{"id":"97802","urlID":"34g6u","name":"teste","description":"787","content":"","weightedVote":"2.5","numVotes":"0","author":"teste","community":"1","dateAdded":"2013-04-11","pattern":"\\be(\\w*)s\\b","replace":"[[$&$&]]","state":""}
