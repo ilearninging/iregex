@@ -1,1 +1,0 @@
-{"id":"165963","urlID":"3ant1","name":"simple IP","description":"Ip detection","content":"","weightedVote":"2.5","numVotes":"0","author":"Me104","community":"1","dateAdded":"2015-04-01","pattern":"(((2([0-4][0-9]|5[0-5]))|1?([0-9]{1,2}))\\.){3}((2([0-4][0-9]|5[0-5]))|1?([0-9]{1,2}))","replace":"","state":"{\"substEnabled\":false}"}

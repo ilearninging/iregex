@@ -1,1 +1,0 @@
-{"id":"30987","urlID":"2ucf1","name":"6 Digit India Postal\/Zip Code match","description":"Can match simple 6 digit India Post\/Zip Codes - will also work for a few Middle East regions","content":"","weightedVote":"3.26389","numVotes":"1","author":"datamunkey","community":"1","dateAdded":"2011-08-03","pattern":"\\d{3}\\s?\\d{3}(?=[\\s\\.\\,])","replace":"","state":""}

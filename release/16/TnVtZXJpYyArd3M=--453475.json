@@ -1,1 +1,0 @@
-{"id":"14340","urlID":"2srmc","name":"Numeric +ws","description":"Matches numbers and whitespaces. \r\rUse for i.g. misc. zip-codes, phone-numbers, and other..  where you may not completely know the format.","content":"","weightedVote":"2.5","numVotes":"0","author":"Steen N.","community":"1","dateAdded":"2011-01-07","pattern":"^[\\s0-9]+$\/","replace":"","state":""}

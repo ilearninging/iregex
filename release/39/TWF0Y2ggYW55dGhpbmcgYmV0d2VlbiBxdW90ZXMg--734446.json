@@ -1,1 +1,0 @@
-{"id":"156018","urlID":"39qom","name":"Match anything between quotes ","description":"","content":"\"aa'SO'MUCH'LOVE'aa\"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-10-30","pattern":"([\"'])((?:(?=(\\\\?))\\3.)*?)\\1","replace":"","state":""}

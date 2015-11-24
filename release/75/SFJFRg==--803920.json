@@ -1,1 +1,0 @@
-{"id":"134680","urlID":"37s88","name":"HREF","description":"Selects all hrefs..","content":"","weightedVote":"1.73611","numVotes":"1","author":"Gruppe 6","community":"1","dateAdded":"2014-01-04","pattern":"<a .*?href=.*?\"(.*?)\"(.|\\n)*?>((.|\\n)*?)<.*?\/a.*?>","replace":"","state":""}

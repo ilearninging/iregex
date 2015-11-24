@@ -1,1 +1,0 @@
-{"id":"160213","urlID":"3a71v","name":"FASTQ_qs_20","description":"FASTQ qual score >20","content":";<==9<<<;<;<6<<;;=@7<=9?","weightedVote":"2.5","numVotes":"0","author":"Aga","community":"1","dateAdded":"2015-01-12","pattern":"[56789:;<=>\\?\\@ABCDEFGHIJ]+","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"165887","urlID":"3anlt","name":"123","description":"","content":"1234AB\n\n1234ab\n\n123ABC\n\nfsdfafdasfs","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-31","pattern":"[0-9]{4}[A-z]{2}","replace":"test","state":"{\"substEnabled\":true}"}

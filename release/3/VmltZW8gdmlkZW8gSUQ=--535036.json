@@ -1,1 +1,0 @@
-{"id":"6319","urlID":"2s46d","name":"Vimeo video ID","description":"Grab the video URI and ID of vimeo video.","content":"","weightedVote":"3.51562","numVotes":"3","author":"Morten Hekkvang","community":"1","dateAdded":"2010-09-09","pattern":"vimeo\\.com\\\/(\\d+)","replace":"","state":""}

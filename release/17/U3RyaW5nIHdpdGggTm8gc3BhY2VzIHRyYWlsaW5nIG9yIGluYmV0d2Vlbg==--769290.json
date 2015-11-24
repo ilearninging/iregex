@@ -1,1 +1,0 @@
-{"id":"29308","urlID":"2u7hk","name":"String with No spaces trailing or inbetween","description":"This regex checks for a string which does not contain any space, trailing, in between or at the end. ","content":"","weightedVote":"2.5","numVotes":"0","author":"mftohfa","community":"1","dateAdded":"2011-07-13","pattern":"^\\S+$\/","replace":"","state":""}

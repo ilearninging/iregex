@@ -1,1 +1,0 @@
-{"id":"52067","urlID":"30a79","name":"Cron","description":"Validates cron entries. Supports a short form like *\/5.","content":"","weightedVote":"2.5","numVotes":"0","author":"rtmvnv","community":"1","dateAdded":"2012-03-13","pattern":"^((?:[*]|(\\*\\\/\\d+)?|(?:\\d+(?:-\\d+)?)(?:,\\d+(?:-\\d+)?)*)\\s){4}(?:[*]|(?:\\d+(?:-\\d+)?)(?:,\\d+(?:-\\d+)?)*)$","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"144952","urlID":"38qb8","name":"Function detector regex","description":"","content":"Any_function()\nbutnotthis() \/\/I don't want to match butnotthis(\n\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-05-07","pattern":"^(?!(butnotthis\\())([a-zA-Z_]+\\()","replace":"","state":""}

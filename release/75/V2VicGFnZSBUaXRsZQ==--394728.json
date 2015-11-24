@@ -1,1 +1,0 @@
-{"id":"299","urlID":"2rii1","name":"Webpage Title","description":"This simple regex gets the title from an HTML webpage.","content":"","weightedVote":"1.68367","numVotes":"2","author":"Twl","community":"1","dateAdded":"2009-12-22","pattern":"(\\<title.*?\\>)(.+)(\\<\\\/title.*?\\>)","replace":"","state":""}

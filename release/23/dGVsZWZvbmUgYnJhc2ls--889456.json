@@ -1,1 +1,0 @@
-{"id":"143132","urlID":"38l0k","name":"telefone brasil","description":"","content":"(31) 9633 - 9632\n(31) 9633-9632\n31996339632\n","weightedVote":"2.5","numVotes":"0","author":"@matheuseduardo","community":"1","dateAdded":"2014-03-29","pattern":"^[(]?(\\d{2})[)]?\\s?(\\d{4,5})\\s?-?\\s?(\\d{4})$","replace":"($1) $2-$3","state":""}

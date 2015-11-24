@@ -1,1 +1,0 @@
-{"id":"406","urlID":"2ris2","name":"Credit Card (0001 to 9999 valid range)","description":"Validate credit card number format separaded with spaces or dashes","content":"","weightedVote":"2.04167","numVotes":"1","author":"achen","community":"1","dateAdded":"2010-03-12","pattern":"((?!0000)\\d{4}[ -]){3}(?!0000)\\d{4}\/","replace":"","state":""}

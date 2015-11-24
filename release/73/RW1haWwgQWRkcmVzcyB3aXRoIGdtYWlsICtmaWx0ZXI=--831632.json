@@ -1,1 +1,0 @@
-{"id":"87275","urlID":"33hc1","name":"Email Address with gmail +filter","description":"Adds points, underscores, hyphens and plus signs to search","content":"","weightedVote":"2.30903","numVotes":"1","author":"BrnL","community":"1","dateAdded":"2013-01-24","pattern":"[\\w\\.\\-_\\+]+@[\\w\\-_\\+]+\\.\\w{2,4}","replace":"","state":""}

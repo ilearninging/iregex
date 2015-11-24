@@ -1,1 +1,0 @@
-{"id":"153863","urlID":"39kel","name":"javascript style identifier","description":"regex for javascript style identifier","content":"var 3332kkhffd\nvar i\n\nvar iia_886uwy\nvar _iiady876\n","weightedVote":"2.5","numVotes":"0","author":"cry0g3n","community":"1","dateAdded":"2014-10-05","pattern":"(var+\\s)[_a-zA-Z][_a-zA-Z0-9]{0,30}","replace":"","state":""}

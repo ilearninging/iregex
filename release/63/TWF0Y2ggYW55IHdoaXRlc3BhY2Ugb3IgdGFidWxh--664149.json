@@ -1,1 +1,0 @@
-{"id":"174836","urlID":"3bhss","name":"Match any whitespace or tabula","description":"","content":"All your favorite patterns will be saved in the favourites section.","weightedVote":"2.5","numVotes":"0","author":"3l3ctr0man","community":"1","dateAdded":"2015-08-07","pattern":"(?:(?!\\n)\\s)","replace":"$1$2$3","state":"{\"substEnabled\":true}"}

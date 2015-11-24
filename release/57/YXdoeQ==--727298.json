@@ -1,1 +1,0 @@
-{"id":"170918","urlID":"3b6di","name":"awhy","description":"","content":"why is this foo not working baz","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-11","pattern":"(?=.*foo)(?=.*baz)","replace":"","state":"{\"substEnabled\":false}"}

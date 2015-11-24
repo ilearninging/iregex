@@ -1,1 +1,0 @@
-{"id":"84648","urlID":"339lo","name":"Match any (x)HTML - XML Tag","description":"Match any (x)HTML - XML Like tags.\r\rhttp:\/\/www.web-resources.eu\/","content":"","weightedVote":"3.26389","numVotes":"1","author":"Merianos Nikos","community":"1","dateAdded":"2013-01-02","pattern":"\\<[^\\>]+\\>","replace":"","state":""}

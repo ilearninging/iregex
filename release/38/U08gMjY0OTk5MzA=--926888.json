@@ -1,1 +1,0 @@
-{"id":"155498","urlID":"39p7u","name":"SO 26499930","description":"http:\/\/stackoverflow.com\/questions\/26499930\/replace-text-with-matched-group","content":"Foo is better than Bar!","weightedVote":"2.5","numVotes":"0","author":"charries96","community":"1","dateAdded":"2014-10-21","pattern":"\\b(Connor|charries96|Foo|Bar)\\b","replace":"TEST$&","state":""}

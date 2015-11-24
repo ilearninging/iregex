@@ -1,1 +1,0 @@
-{"id":"161609","urlID":"3ab4r","name":"emailValdator","description":" validaitor for email","content":"RegEx is tough, but useful.","weightedVote":"2.5","numVotes":"0","author":"etrat","community":"1","dateAdded":"2015-02-02","pattern":"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+.[a-zA-Z]{2,4}","replace":"","state":""}

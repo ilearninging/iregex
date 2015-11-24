@@ -1,1 +1,0 @@
-{"id":"155712","urlID":"39ps0","name":"IPv6 checker","description":"An IPv6 address checker. Its almost perfect, except it matches more than 2 simultaneous colons","content":"a:a:a:a:a:a:a:a","weightedVote":"3.02893","numVotes":"6","author":"Zack Baker","community":"1","dateAdded":"2014-10-24","pattern":"(((([a-f]|[0-9]){1,4})|:):){7}\\2","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"77046","urlID":"32jd2","name":"exclude file base on their extension","description":"return filename, it it's extension does not match the given ones","content":"","weightedVote":"2.5","numVotes":"0","author":"ikkez","community":"1","dateAdded":"2012-10-25","pattern":"^(?!\\.htaccess|.*\\.php)(.*)","replace":"","state":""}

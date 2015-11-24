@@ -1,1 +1,0 @@
-{"id":"176131","urlID":"3blm9","name":"Names","description":"Org Names with limited special chars","content":"Test234","weightedVote":"2.5","numVotes":"0","author":"Jacob","community":"1","dateAdded":"2015-08-26","pattern":"^(?=.*[a-z0-9])[a-z0-9()\\-'*.]{1,}$","replace":"","state":"{\"substEnabled\":false}"}

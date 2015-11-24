@@ -1,1 +1,0 @@
-{"id":"181440","urlID":"3c580","name":"Filename Start-End match","description":"Filename start with string AND end with string extension.","content":"N8abcdNdg.pdf","weightedVote":"2.5","numVotes":"0","author":"M. Hansler","community":"1","dateAdded":"2015-11-06","pattern":"(^N8.*).pdf$\/","replace":"","state":"{\"substEnabled\":false}"}

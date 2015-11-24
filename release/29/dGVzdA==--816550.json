@@ -1,1 +1,0 @@
-{"id":"147460","urlID":"391mc","name":"test","description":"","content":"\/login\n\/login\/logout\n\/logout\n\/asdasd\/asdasd","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-22","pattern":"^\\\/(?!login)\\w+","replace":"","state":""}

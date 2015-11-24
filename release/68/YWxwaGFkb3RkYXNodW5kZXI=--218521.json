@@ -1,1 +1,0 @@
-{"id":"179069","urlID":"3bu9n","name":"alphadotdashunder","description":"letters, number, dot, dash, and underscore","content":"f1l3.SyS-tem_123","weightedVote":"2.5","numVotes":"0","author":"sbattin","community":"1","dateAdded":"2015-10-06","pattern":"^[A-Z0-9-_.]+$","replace":"","state":"{\"substEnabled\":false}"}

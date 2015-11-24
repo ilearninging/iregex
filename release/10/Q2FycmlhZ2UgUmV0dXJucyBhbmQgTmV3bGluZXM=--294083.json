@@ -1,1 +1,0 @@
-{"id":"24","urlID":"2rho8","name":"Carriage Returns and Newlines","description":"Perfect for making multiline strings into single line ones. ","content":"","weightedVote":"3.18555","numVotes":"3","author":"TK Kocheran","community":"1","dateAdded":"2009-05-29","pattern":"(\\r|\\n)","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"220","urlID":"2riak","name":"URL Match","description":"URL Match","content":"","weightedVote":"2.95918","numVotes":"2","author":"Hera","community":"1","dateAdded":"2009-10-30","pattern":"'?\\\"?(www|ftp:\\\/\\\/|http:\\\/\\\/|https:\\\/\\\/)([\\.[:alnum:]_-]){0,4}([[:alnum:]_-]+\\.)([[:alnum:]_-]\\.?)([[:alpha:]]){0,3}","replace":"","state":""}

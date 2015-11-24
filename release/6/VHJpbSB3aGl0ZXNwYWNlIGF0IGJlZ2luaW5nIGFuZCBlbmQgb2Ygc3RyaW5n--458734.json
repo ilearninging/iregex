@@ -1,1 +1,0 @@
-{"id":"135746","urlID":"37vc6","name":"Trim whitespace at begining and end of string","description":"Trim whitespace at begining and end of string","content":"","weightedVote":"3.26389","numVotes":"1","author":"Vijay Sharma","community":"1","dateAdded":"2014-01-12","pattern":"^\\s.?\\s|[\\s]{1,}$","replace":"","state":""}

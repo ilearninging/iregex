@@ -1,1 +1,0 @@
-{"id":"17368","urlID":"2t4i8","name":"Remove tabs and whitespace","description":"Removes tabs and whitespace from the end of a line, including lines that have nothing but tabs or whitespace","content":"","weightedVote":"2.5","numVotes":"0","author":"Cdef","community":"1","dateAdded":"2011-02-17","pattern":"[^\\r\\n\\d\\w+:*\/;.),|=(><%\"']{1,}$","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"32471","urlID":"2ugq5","name":"simple line 2","description":"sdfsdf","content":"","weightedVote":"2.90817","numVotes":"2","author":"green13","community":"1","dateAdded":"2011-08-22","pattern":"^[^|\\r|\\n](.)*$","replace":"\"$&\"","state":""}

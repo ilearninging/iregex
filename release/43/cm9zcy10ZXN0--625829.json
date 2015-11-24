@@ -1,1 +1,0 @@
-{"id":"159826","urlID":"3a5tm","name":"ross-test","description":"","content":"\\\\c0048558.itcs.com\\ISEE\\test.xls\n\\..\\test.xls\nC:\\test.xls\n\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-06","pattern":"\\\\(?:.+)\\\\(.+)\\.(.+)","replace":"\\n# $&:\\n\\t","state":""}

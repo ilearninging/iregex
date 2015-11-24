@@ -1,1 +1,0 @@
-{"id":"148822","urlID":"395m2","name":"Test","description":"\n","content":"resources.doctrine.dbal.connections.other.parameters.dbname   \t= \"toolbox_staging\"\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-07-15","pattern":"(dbname.+\\ \\\"[^\\\"]+)","replace":"$1_test","state":""}

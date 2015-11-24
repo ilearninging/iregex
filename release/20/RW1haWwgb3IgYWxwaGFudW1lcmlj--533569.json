@@ -1,1 +1,0 @@
-{"id":"94834","urlID":"347gm","name":"Email or alphanumeric","description":"validates Email or alphanumeric\r^\\w*@?\\w*\\.?\\w{1,3}","content":"","weightedVote":"2.5","numVotes":"0","author":"Rajesh Chary","community":"1","dateAdded":"2013-03-21","pattern":"^\\w*@?\\w*\\.?\\w{1,3}","replace":"","state":""}

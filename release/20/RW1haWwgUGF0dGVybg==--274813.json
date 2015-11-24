@@ -1,1 +1,0 @@
-{"id":"83254","urlID":"335j2","name":"Email Pattern","description":"Just a very basic email validation","content":"","weightedVote":"2.5","numVotes":"0","author":"Vijay Sharma","community":"1","dateAdded":"2012-12-17","pattern":"\\w.+?\\@\\w.+?\\.\\w{2,4}(\\.\\w{2})?","replace":"Basic Email Validation","state":""}

@@ -1,1 +1,0 @@
-{"id":"52990","urlID":"30ctq","name":"Domain only","description":"Selects only the protocol and the domain name from a URL.","content":"","weightedVote":"3.26531","numVotes":"2","author":"Fraser Crosbie","community":"1","dateAdded":"2012-03-20","pattern":"\\w+\\:\\\/\\\/[^\\\/]+\\\/","replace":"","state":""}

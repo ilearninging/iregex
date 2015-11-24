@@ -1,1 +1,0 @@
-{"id":"167250","urlID":"3arlm","name":"dsafsad","description":"","content":"myurl.com\/search\/nesto\/3","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-20","pattern":"search\/([^\/]*)\/([0-9]+)","replace":"search\/?query=$1&paged=$2","state":"{\"substEnabled\":true}"}

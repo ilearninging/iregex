@@ -1,1 +1,0 @@
-{"id":"11005","urlID":"2shtn","name":"Find repeated words","description":"Finds repeated words. ","content":"","weightedVote":"3.26389","numVotes":"1","author":"Pooya","community":"1","dateAdded":"2010-11-14","pattern":"\\b(\\w+)\\b\\s*\\1\\b","replace":"","state":""}

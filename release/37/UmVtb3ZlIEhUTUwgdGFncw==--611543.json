@@ -1,1 +1,0 @@
-{"id":"154384","urlID":"39lvg","name":"Remove HTML tags","description":"Removes html\/xml tags from a string.","content":"<html>this is a page <p> and this is a paragraph<\/p> <a>and this is alink<\/a><\/html>","weightedVote":"2.5","numVotes":"0","author":"m1dnight","community":"1","dateAdded":"2014-10-09","pattern":"<(.|\\n)+?>","replace":"","state":""}

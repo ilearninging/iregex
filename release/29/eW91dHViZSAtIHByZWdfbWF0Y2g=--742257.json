@@ -1,1 +1,0 @@
-{"id":"147666","urlID":"3929m","name":"youtube - preg_match","description":"","content":"https:\/\/www.youtube.com\/watch?v=Vpg9yizPP_g","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-06-25","pattern":"^(https?:\\\/\\\/)(:?www\\.)?(:?youtube\\.com\\\/watch|youtu\\.be\\\/)(\\S+)$","replace":"$&","state":""}

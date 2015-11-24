@@ -1,1 +1,0 @@
-{"id":"6740","urlID":"2s5ds","name":"Remove style attribute","description":"Removes the style attribute from any html tag","content":"","weightedVote":"2.04082","numVotes":"2","author":"Rishi Dev Gupta","community":"1","dateAdded":"2010-09-14","pattern":"style\\s*=\\s*[\"|']?\\w+[\"|']?","replace":"","state":""}

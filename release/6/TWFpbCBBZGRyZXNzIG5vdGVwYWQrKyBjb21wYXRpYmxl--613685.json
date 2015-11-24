@@ -1,1 +1,0 @@
-{"id":"87280","urlID":"33hcg","name":"Mail Address notepad++ compatible","description":"Built upon Paul Warren's version (RFC822)","content":"","weightedVote":"3.26389","numVotes":"1","author":"BrnL","community":"1","dateAdded":"2013-01-24","pattern":"[\\d\\w_-]+[\\.\\d\\w\\+_-]+@[\\d\\w][\\d\\w]*[\\d\\w]\\.[\\d\\w]([\\.\\d\\w]*[\\d\\w])","replace":"","state":""}

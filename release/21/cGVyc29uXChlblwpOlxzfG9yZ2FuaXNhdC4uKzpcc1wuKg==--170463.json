@@ -1,1 +1,0 @@
-{"id":"101853","urlID":"34s2n","name":"person\\(en\\):\\s|organisat..+:\\s\\.*","description":"b\u00fccher","content":"","weightedVote":"2.5","numVotes":"0","author":"claus","community":"1","dateAdded":"2013-05-14","pattern":"person\\(en\\):\\s|organisat..+:\\s\\.*","replace":"Autor: ..* ","state":""}

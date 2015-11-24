@@ -1,1 +1,0 @@
-{"id":"157531","urlID":"39v6h","name":"Test","description":"","content":"Depository Trust Company (DTC)","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-11-24","pattern":"\\b(Depository Trust Company \\(DTC\\)|Depository)\\b(?![^<]*>|[^<>]*<\/(a|button))","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"22582","urlID":"2tjr2","name":"Balance","description":"balance for card","content":"","weightedVote":"2.5","numVotes":"0","author":"slider","community":"1","dateAdded":"2011-04-21","pattern":"\\s([\\d\\s\\.,]+)\\s?(.{3})\\s","replace":"","state":""}

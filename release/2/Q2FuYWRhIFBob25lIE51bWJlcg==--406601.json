@@ -1,1 +1,0 @@
-{"id":"170297","urlID":"3b4jb","name":"Canada Phone Number","description":"only accepts\n1-204-123-1234\n204-123-1234","content":"p:444-555-1234 f:246.555.8888 m:1235554567","weightedVote":"3.72449","numVotes":"2","author":"Dud","community":"1","dateAdded":"2015-06-02","pattern":"^(?:\\d{1}[-])?(\\d{3})(?:[-])(\\d{3})[-](\\d{4})$","replace":"","state":"{\"substEnabled\":false}"}

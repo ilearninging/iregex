@@ -1,1 +1,0 @@
-{"id":"6291","urlID":"2s43p","name":"Alphabets","description":"Alphabets with one space in the middle and no leading or trailing spaces.","content":"","weightedVote":"2.5","numVotes":"0","author":"Ragav","community":"1","dateAdded":"2010-09-08","pattern":"^(([A-Za-z]+)(\\s[A-Za-z]+)?)$","replace":"","state":""}

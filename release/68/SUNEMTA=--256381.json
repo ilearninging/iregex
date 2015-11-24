@@ -1,1 +1,0 @@
-{"id":"179299","urlID":"3buv9","name":"ICD10","description":"validate ICD 10 Code","content":"","weightedVote":"2.5","numVotes":"0","author":"nikunj","community":"1","dateAdded":"2015-10-09","pattern":"^([a-zA-Z]\\d{1}[0-9a-zA-Z])(\\.([0-9a-zA-Z]{1,3})){0,1}$\/","replace":"","state":"{\"substEnabled\":false}"}

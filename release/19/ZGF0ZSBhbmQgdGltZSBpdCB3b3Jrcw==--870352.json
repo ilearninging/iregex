@@ -1,1 +1,0 @@
-{"id":"73375","urlID":"328kt","name":"date and time it works","description":"dd\/mm\/yyyy HH24:MI:SS\r","content":"","weightedVote":"2.5","numVotes":"0","author":"kypros","community":"1","dateAdded":"2012-09-24","pattern":"((0[1-9]|[1-9]|[12][0-9]|3[01])\/(0[1-9]|1[012]|[1-9])\/\\d{4}) (([0-1][0-9]|[2][0-3]):([0-5][0-9]):([0-5][0-9]))","replace":"","state":""}

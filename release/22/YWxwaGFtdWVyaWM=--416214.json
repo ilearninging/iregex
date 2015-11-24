@@ -1,1 +1,0 @@
-{"id":"116540","urlID":"3673k","name":"alphamueric","description":"Alphanumeric at least one alphabet and one numeric","content":"","weightedVote":"2.5","numVotes":"0","author":"Madhan Bhupathi","community":"1","dateAdded":"2013-09-04","pattern":"^.*((\\d.*[a-zA-Z])|([a-zA-Z].*\\d)).*$","replace":"","state":""}

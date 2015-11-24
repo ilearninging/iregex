@@ -1,1 +1,0 @@
-{"id":"177147","urlID":"3bolh","name":"Longitude","description":"Matches longitude","content":"","weightedVote":"2.5","numVotes":"0","author":"Nilesh","community":"1","dateAdded":"2015-09-10","pattern":"^-?([1]?[1-7][1-9]|[1]?[1-8][0]|[1-9]?[0-9])\\.{1}\\d{1,15}$","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,1 +1,0 @@
-{"id":"55801","urlID":"30l5b","name":"Get TV season \/ episode from filename","description":"Get the season \/ episode info stored in filename.","content":"","weightedVote":"3.07292","numVotes":"1","author":"Jakob Sternberg","community":"1","dateAdded":"2012-04-14","pattern":"[S,s][0-9]+[e,E][0-9]+","replace":"","state":""}

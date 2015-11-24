@@ -1,1 +1,0 @@
-{"id":"40325","urlID":"2v7qf","name":"Vimeo require .vimeo.com","description":"Vimeo Video Id, requires .vimeo.com\/","content":"","weightedVote":"2.5","numVotes":"0","author":"Hunden","community":"1","dateAdded":"2011-11-17","pattern":".(vimeo)\\.com\\\/(\\d+)","replace":"","state":""}

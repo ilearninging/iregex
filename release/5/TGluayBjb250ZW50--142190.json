@@ -1,1 +1,0 @@
-{"id":"28135","urlID":"2u43l","name":"Link content","description":"Matches the inner text of a link.","content":"","weightedVote":"3.26389","numVotes":"1","author":"Luensdorf","community":"1","dateAdded":"2011-06-30","pattern":"<a.*?>\\s*(.*?)\\s*<\/a>","replace":"$1","state":""}

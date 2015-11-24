@@ -1,1 +1,0 @@
-{"id":"100866","urlID":"34p66","name":"find adverbs","description":"for find adverbs in a text file.","content":"","weightedVote":"2.5","numVotes":"0","author":"$@E!D","community":"1","dateAdded":"2013-05-05","pattern":"[A-Za-z](ly)$\/","replace":"","state":""}

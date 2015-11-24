@@ -1,1 +1,0 @@
-{"id":"29577","urlID":"2u8ar","name":"base64","description":"Base64 regexp ","content":"","weightedVote":"3.26389","numVotes":"1","author":"oshimin","community":"1","dateAdded":"2011-07-17","pattern":"^(?:[A-Za-z0-9+\/]{4})*(?:[A-Za-z0-9+\/]{2}==|[A-Za-z0-9+\/]{3}=|[A-Za-z0-9+\/]{4})$","replace":"","state":""}

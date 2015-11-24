@@ -1,1 +1,0 @@
-{"id":"91887","urlID":"33usd","name":"BibTex pattern","description":"Matches the pattern of a BibTex output using php","content":"","weightedVote":"2.5","numVotes":"0","author":"Spurious","community":"1","dateAdded":"2013-02-28","pattern":"@(\\w+){(\\S+),(.*)}$\/ism","replace":"","state":""}

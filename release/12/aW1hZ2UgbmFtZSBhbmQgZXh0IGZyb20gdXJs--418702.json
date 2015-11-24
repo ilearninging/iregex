@@ -1,1 +1,0 @@
-{"id":"21120","urlID":"2tfi0","name":"image name and ext from url","description":"Matches an image name and its extension from a url","content":"","weightedVote":"2.88194","numVotes":"1","author":"Kyle Lamy","community":"1","dateAdded":"2011-04-05","pattern":"([^\/]+).(jpg|bmp|jpeg|gif|png|tif)\/gix","replace":"","state":""}

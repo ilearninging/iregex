@@ -1,1 +1,0 @@
-{"id":"139922","urlID":"38bjm","name":"Time","description":"Validate time in hour:minute:second format","content":"","weightedVote":"3.26389","numVotes":"1","author":"Sumanta Garai","community":"1","dateAdded":"2014-02-21","pattern":"^([01]?[0-9]|3[0-3]):[0-5][0-9]:[0-5][0-9]$","replace":"","state":""}

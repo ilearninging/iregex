@@ -1,1 +1,0 @@
-{"id":"544","urlID":"2rj90","name":"Any Price with $","description":"Matches any price with the $ sign at the end having , or . as separators.","content":"","weightedVote":"2.5","numVotes":"0","author":"Martin Eckardt","community":"1","dateAdded":"2010-05-28","pattern":"^(\\d|-)?(\\d|[\\.,]{1}\\d)*([\\.,]{1}?\\d+)?(\\s)?\\$$","replace":"","state":""}

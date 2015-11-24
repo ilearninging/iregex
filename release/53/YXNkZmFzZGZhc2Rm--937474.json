@@ -1,1 +1,0 @@
-{"id":"167749","urlID":"3at4f","name":"asdfasdfasdf","description":"","content":"<a href=\"\/research\/vpr\/rschadmin\/rschoversight\/animals\/newsletter.php?fn=March_2015\">","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-27","pattern":"href=\".*.php\\?fn=(.*)\"","replace":"href=\"docs\/$1.pdf\"","state":"{\"substEnabled\":true}"}

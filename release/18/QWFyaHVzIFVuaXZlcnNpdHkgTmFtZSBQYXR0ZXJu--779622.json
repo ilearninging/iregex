@@ -1,1 +1,0 @@
-{"id":"48322","urlID":"2vv86","name":"Aarhus University Name Pattern","description":"Aarhus University Name Pattern\r","content":"","weightedVote":"2.5","numVotes":"0","author":"Michael","community":"1","dateAdded":"2012-02-09","pattern":"(\\p{L}|\\p{N}|_|-|\\.)*","replace":"","state":""}

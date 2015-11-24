@@ -1,1 +1,0 @@
-{"id":"150375","urlID":"39a7l","name":"Episode Search","description":"Searching for an Episode ","content":"All your favorite patterns will be saved in the favourites section.\nEP 1\nEP 100\nEP 241\nEPK\nEp 2\u00ae","weightedVote":"2.5","numVotes":"0","author":"Strauss","community":"1","dateAdded":"2014-08-12","pattern":"EP ?(\\d{1})","replace":"$1$2$3","state":""}

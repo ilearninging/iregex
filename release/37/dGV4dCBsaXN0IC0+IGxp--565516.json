@@ -1,1 +1,0 @@
-{"id":"155230","urlID":"39oeq","name":"text list -> li","description":"","content":"revolutionary\ndry herb\ntrue convection\npure vapor\noptimum flavor\ndurable\nsophisticated\n","weightedVote":"2.5","numVotes":"0","author":"Grey Vugrin","community":"1","dateAdded":"2014-10-16","pattern":"(.*)\\n","replace":"<li>$1<\\\/li>\\n","state":""}

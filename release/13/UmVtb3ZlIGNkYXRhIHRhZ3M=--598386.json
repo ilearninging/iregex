@@ -1,1 +1,0 @@
-{"id":"2994","urlID":"2rqem","name":"Remove cdata tags","description":"Remove any html tag which starts with <![ and ends with ]>","content":"","weightedVote":"2.70408","numVotes":"2","author":"Minhaj","community":"1","dateAdded":"2010-07-19","pattern":"(\\<\\!\\[[a-zA-Z\\!?\\s?]{0,10}\\]\\>)","replace":"","state":""}

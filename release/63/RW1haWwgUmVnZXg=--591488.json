@@ -1,1 +1,0 @@
-{"id":"174981","urlID":"3biaf","name":"Email Regex","description":"Email Regex","content":"","weightedVote":"2.5","numVotes":"0","author":"CrazySpidy","community":"1","dateAdded":"2015-08-10","pattern":"\\b[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,4}\\b","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,1 +1,0 @@
-{"id":"179699","urlID":"3c04p","name":"specefic preceding match count","description":"","content":"quuxquux\nquux\nquuxquuxquux","weightedVote":"2.5","numVotes":"0","author":"mohamed4ch","community":"1","dateAdded":"2015-10-14","pattern":"(quux){2}","replace":"","state":"{\"substEnabled\":false}"}

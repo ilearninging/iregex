@@ -1,1 +1,0 @@
-{"id":"149176","urlID":"396n8","name":"Emails","description":"finds emails","content":"","weightedVote":"3.475","numVotes":"5","author":"Rebecca","community":"1","dateAdded":"2014-07-22","pattern":"\\b[a-zA-Z0-9][a-zA-Z0-9.-]+[a-zA-Z0-9][@][a-zA-Z0-9][a-zA-Z0-9.-]+[a-zA-Z0-9][.](com|org|edu|net|co)[.]?[a-zA-Z]{0,2}\\b","replace":"","state":""}

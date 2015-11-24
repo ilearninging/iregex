@@ -1,1 +1,0 @@
-{"id":"150166","urlID":"399k2","name":"urls","description":"","content":"http:\/\/www.google.com I want this to be highlighted, not the url","weightedVote":"2.5","numVotes":"0","author":"tstar","community":"1","dateAdded":"2014-08-07","pattern":"((ht|f)tp(s?)\\:\\\/\\\/|~\/|\/)?([w]{2}([\\w\\-]+\\.)+([\\w]{2,5}))(:[\\d]{1,5})?","replace":"","state":""}

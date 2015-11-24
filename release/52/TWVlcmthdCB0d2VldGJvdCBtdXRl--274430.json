@@ -1,1 +1,0 @@
-{"id":"167153","urlID":"3arcj","name":"Meerkat tweetbot mute","description":"","content":"Meerkat\nmeerkat\n#Meerkat","weightedVote":"2.5","numVotes":"0","author":"Seb","community":"1","dateAdded":"2015-04-17","pattern":"(#?(m|M)eerkat)\\b","replace":"","state":"{\"substEnabled\":false}"}

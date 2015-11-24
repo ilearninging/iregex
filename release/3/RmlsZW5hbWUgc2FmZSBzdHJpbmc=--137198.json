@@ -1,1 +1,0 @@
-{"id":"315","urlID":"2rijh","name":"Filename safe string","description":"Strip out non-safe characters from input string in order to generate a filename safe string.","content":"","weightedVote":"3.52041","numVotes":"2","author":"jfroom","community":"1","dateAdded":"2010-01-14","pattern":"[^a-z0-9]\/gis","replace":"","state":""}

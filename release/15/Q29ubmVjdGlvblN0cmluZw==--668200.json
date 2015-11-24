@@ -1,1 +1,0 @@
-{"id":"425","urlID":"2ritr","name":"ConnectionString","description":"This will track down anything between quotes which contains an = and a ;, which makes it likely to be a connectionstring.","content":"","weightedVote":"2.5","numVotes":"0","author":"Dan","community":"1","dateAdded":"2010-03-24","pattern":"\".+=.+;.*?\"","replace":"","state":""}

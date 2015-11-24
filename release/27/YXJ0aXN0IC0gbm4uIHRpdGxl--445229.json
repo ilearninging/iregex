@@ -1,1 +1,0 @@
-{"id":"146676","urlID":"38vcs","name":"artist - nn. title","description":"rename mp3 file","content":"Incognito - 09. I Hear Your Name.mp3","weightedVote":"2.5","numVotes":"0","author":"mwi","community":"1","dateAdded":"2014-06-08","pattern":"^([a-z,A-Z,\\s,\\,]*)(\\s-\\s)(\\d{2,2})(\\.\\s)(.*)","replace":"$3. $1 - $5","state":""}

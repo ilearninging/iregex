@@ -1,1 +1,0 @@
-{"id":"118","urlID":"2ri12","name":"Quick and Dirty Email","description":"Excludes a host of characters i've never seen anyone use. terrible attitude, but it'll work for my purposes.","content":"","weightedVote":"2.04082","numVotes":"2","author":"Joshua","community":"1","dateAdded":"2009-08-03","pattern":"((\\w|-)+(\\.\\w+)?)+@\\w+\\.\\w+","replace":"","state":""}

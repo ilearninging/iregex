@@ -1,1 +1,0 @@
-{"id":"144727","urlID":"38pm5","name":"simple version pattern ","description":"matches a version number like 1.2.3","content":"1.2.3\n1s2d3\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-05-01","pattern":"[0-9]\\.[0-9]\\.[0-9]","replace":"","state":""}

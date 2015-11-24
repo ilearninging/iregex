@@ -1,1 +1,0 @@
-{"id":"150103","urlID":"399e5","name":"metauri User Agent","description":"regex or finding metauri api useragent","content":"something MetaURI API\/2.0 +metauri.com","weightedVote":"2.5","numVotes":"0","author":"terriWillow","community":"1","dateAdded":"2014-08-06","pattern":"MetaURI\\sAPI\\\/2\\.0\\s\\+metauri\\.com$","replace":"","state":""}

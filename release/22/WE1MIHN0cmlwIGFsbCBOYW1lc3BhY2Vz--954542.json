@@ -1,1 +1,0 @@
-{"id":"123873","urlID":"36sj3","name":"XML strip all Namespaces","description":"XML strip all Namespaces","content":"","weightedVote":"2.5","numVotes":"0","author":"Fabio Caccamo","community":"1","dateAdded":"2013-10-23","pattern":"\\sxmlns[^\\\"]+[\\\"|\\']{1}[^\\\"]+[\\\"|\\']{1}|[\\w\\d]\\:+","replace":"","state":""}

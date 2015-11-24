@@ -1,1 +1,0 @@
-{"id":"131088","urlID":"37hng","name":"path components TT","description":"Attempts to group folders separated by a \/","content":"","weightedVote":"2.5","numVotes":"0","author":"TT","community":"1","dateAdded":"2013-12-06","pattern":".*?\\.([^\\.]*?)(\\?|\\\/$|$|#).*","replace":"$1","state":""}

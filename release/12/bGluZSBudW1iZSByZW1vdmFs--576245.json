@@ -1,1 +1,0 @@
-{"id":"41991","urlID":"2vcml","name":"line numbe removal","description":"remove line numbers on code\/script text","content":"","weightedVote":"2.88194","numVotes":"1","author":"R-E-Loko","community":"1","dateAdded":"2011-12-04","pattern":"^([0-9]){1,3}\\s+","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"178309","urlID":"3bs2f","name":"abc123","description":"exact 3 alpha 3 number","content":"abc123 ","weightedVote":"2.5","numVotes":"0","author":"imam","community":"1","dateAdded":"2015-09-24","pattern":"\\b[A-Za-z]{3}[1-9]{3}\\b\/","replace":"","state":"{\"substEnabled\":false}"}

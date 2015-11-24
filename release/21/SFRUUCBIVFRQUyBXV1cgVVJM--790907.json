@@ -1,1 +1,0 @@
-{"id":"106216","urlID":"358ro","name":"HTTP HTTPS WWW URL","description":"Mathes http, https and www urls","content":"","weightedVote":"2.5","numVotes":"0","author":"ME","community":"1","dateAdded":"2013-06-17","pattern":"((((f|ht){1}tp(s?):\/\/)|(www\\.))[-a-zA-Z0-9@:%_\\+.~#?&\/\/=]+)","replace":"","state":""}

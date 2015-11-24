@@ -1,1 +1,0 @@
-{"id":"144156","urlID":"38o0k","name":"Repeated letter 3 or more","description":"","content":"AAA CCC DDD","weightedVote":"2.5","numVotes":"0","author":"JBL2","community":"1","dateAdded":"2014-04-21","pattern":"^(\\w)\\1{2,}","replace":"","state":""}

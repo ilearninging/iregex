@@ -1,1 +1,0 @@
-{"id":"149597","urlID":"397un","name":"repeatingChar","description":"Match first set of repeating characters","content":"Goooogle","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-07-29","pattern":"([A-Za-z])\\1","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"7775","urlID":"2s8et","name":"Percentage with any number of decimals","description":"Mathches percentage values with any number of decimals.","content":"","weightedVote":"2.30903","numVotes":"1","author":"Dilanka Fernando","community":"1","dateAdded":"2010-09-29","pattern":"(^100(\\.0{1,2})?$)|(^([1-9]([0-9])?|0)(\\.[0-9]{1,})?$)","replace":"","state":""}

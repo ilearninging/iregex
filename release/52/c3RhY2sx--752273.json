@@ -1,1 +1,0 @@
-{"id":"167044","urlID":"3ar2c","name":"stack1","description":"","content":"mailto:email@online.com\ntel:06326598\nhttp:\/\/regexr.com\/foo.html?q=bar","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-04-16","pattern":"((mailto:\\w+)|(tel:\\w+)|(http:\/\/\\w+)).+","replace":"","state":"{\"substEnabled\":false}"}

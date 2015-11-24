@@ -1,1 +1,0 @@
-{"id":"170732","urlID":"3b5s4","name":"alpha numeric with space","description":"alpha numeric with space , start and end with alpha","content":"asdasdasdasd asasdasd AAA 3322sdsd","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-09","pattern":"^[a-zA-Z]+[a-zA-Z0-9\\s]+[a-zA-Z]$","replace":"","state":"{\"substEnabled\":false}"}

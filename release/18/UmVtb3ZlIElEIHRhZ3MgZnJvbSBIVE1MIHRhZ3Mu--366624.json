@@ -1,1 +1,0 @@
-{"id":"42062","urlID":"2vcta","name":"Remove ID tags from HTML tags.","description":"A simple adaptation of the example by Rishi Dev Gupta - this one removes ID tags from HTML tags.","content":"","weightedVote":"2.5","numVotes":"0","author":"Matt Bailey","community":"1","dateAdded":"2011-12-05","pattern":"id\\s*=\\s*[\"|']?\\w+[\"|']?","replace":"","state":""}

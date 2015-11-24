@@ -1,1 +1,0 @@
-{"id":"152493","urlID":"39ge7","name":"pd","description":"","content":" obj.delegate( \n.appendActor\n.moveDeadLine\n.setOne\n.getOne\n","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-09-15","pattern":".*\\.(?!get).+","replace":"\\n# $&:\\n\\t","state":""}

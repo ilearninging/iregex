@@ -1,1 +1,0 @@
-{"id":"174049","urlID":"3bfj3","name":"wrong_greed","description":"","content":"<a><i>HTML<\/i><\/a><a><i>PHP<\/i><\/a>","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-07-27","pattern":"<a>.*?PHP.*?<\\\/a>","replace":"","state":"{\"substEnabled\":false}"}

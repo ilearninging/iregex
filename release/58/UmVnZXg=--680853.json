@@ -1,1 +1,0 @@
-{"id":"171635","urlID":"3b8gp","name":"Regex","description":"","content":"$233\n48.23%\n278\n22.33\n45:23\n10,000\n,\n:\n","weightedVote":"2.5","numVotes":"0","author":"Tushar","community":"1","dateAdded":"2015-06-22","pattern":"^\\$?\\d*[.,:]*\\d*\\%?$","replace":"","state":"{\"substEnabled\":false}"}

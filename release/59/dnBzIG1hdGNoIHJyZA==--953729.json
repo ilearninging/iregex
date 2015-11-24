@@ -1,1 +1,0 @@
-{"id":"171961","urlID":"3b9fb","name":"vps match rrd","description":"","content":"vps0.pool99.transip.nl:davetest-vps10\nnl-vps0.pool99.transip.nl:davetest-vps10\nnl-davetest-vps10","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-06-26","pattern":"nl-[0-9 a-z A-Z]*-vps","replace":"","state":"{\"substEnabled\":false}"}

@@ -1,1 +1,0 @@
-{"id":"66","urlID":"2rhs6","name":"([a-zA-Z0-9-_]+\\.[a-zA-Z0-9]+)$","description":"Extarcts filename from absolute URI","content":"","weightedVote":"2.60204","numVotes":"2","author":"egeshi","community":"1","dateAdded":"2009-06-23","pattern":"([a-zA-Z0-9-_]+\\.[a-zA-Z0-9]+)$\/","replace":"$1","state":""}

@@ -1,1 +1,0 @@
-{"id":"121163","urlID":"36kl1","name":"url","description":"capture protocol (http, https, ftp...), ressource page (meow.com\/catdiner.php) and data (?cat=blue&fish=eated) of an url","content":"","weightedVote":"2.5","numVotes":"0","author":"Nepta","community":"1","dateAdded":"2013-10-07","pattern":"(\\w+):([\\w\\-\\+\\.\\\/]+)\\?(.+?=.+)","replace":"","state":""}

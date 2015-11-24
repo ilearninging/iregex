@@ -1,1 +1,0 @@
-{"id":"179318","urlID":"3bv12","name":"LookAhead","description":"","content":"string test(int t, string env, int j)\n{\n}\n\nstring test(int t, string env)\n{\n}","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-09","pattern":"(string env(?=,))|(string env(?=\\)))","replace":"","state":"{\"substEnabled\":false}"}

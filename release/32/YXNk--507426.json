@@ -1,1 +1,0 @@
-{"id":"150101","urlID":"399dv","name":"asd","description":"","content":"5+10\n10\n5*5+10\/2-3\n11**3+-4\n12+\n+13","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-08-06","pattern":"^(([0-9]+(([\\+\\-\\*\\\/][0-9])?)+)+)$","replace":"","state":""}

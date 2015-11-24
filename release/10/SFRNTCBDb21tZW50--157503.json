@@ -1,1 +1,0 @@
-{"id":"6","urlID":"2rhmi","name":"HTML Comment","description":"Will match any html style (<!-- .. -->) comment in a string.","content":"","weightedVote":"3.09245","numVotes":"3","author":"Ryan Matsikas","community":"1","dateAdded":"2009-05-26","pattern":"(\\<|<)!--\\s*.*?\\s*--(\\>|>)","replace":"","state":""}

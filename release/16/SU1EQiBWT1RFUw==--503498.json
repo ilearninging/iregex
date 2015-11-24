@@ -1,1 +1,0 @@
-{"id":"8418","urlID":"2sab6","name":"IMDB VOTES","description":"Captures number inside of paranthesis followed by votes","content":"","weightedVote":"2.5","numVotes":"0","author":"LB","community":"1","dateAdded":"2010-10-08","pattern":"\\((\\d+)(((.|,)\\d+)+)? votes\\)","replace":"","state":""}

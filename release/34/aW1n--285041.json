@@ -1,1 +1,0 @@
-{"id":"151747","urlID":"39e89","name":"img","description":"Some image tag fun","content":"<html><img src=\"a.test.net\/path\/file1234-N\"> abc <img src=\"b.test.net\/path\/file1234-N\">\n<\/html>","weightedVote":"2.5","numVotes":"0","author":"merlin","community":"1","dateAdded":"2014-09-02","pattern":"<img\\ssrc=\\\".*?test\\.net.*?-(.)\\\">","replace":"","state":""}

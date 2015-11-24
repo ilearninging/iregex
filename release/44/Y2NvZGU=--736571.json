@@ -1,1 +1,0 @@
-{"id":"160438","urlID":"3a7n2","name":"ccode","description":"","content":"99100,99200,99100\n99100","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-15","pattern":"^(\\d{5}(, ?\\d{5})\\n?)*$","replace":"","state":""}

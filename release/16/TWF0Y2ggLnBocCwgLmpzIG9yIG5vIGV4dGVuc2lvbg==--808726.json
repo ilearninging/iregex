@@ -1,1 +1,0 @@
-{"id":"6917","urlID":"2s5uf","name":"Match .php, .js or no extension","description":"Check that .php, .js or no extension is there","content":"","weightedVote":"2.5","numVotes":"0","author":"CaMer0n","community":"1","dateAdded":"2010-09-16","pattern":"^[\\w]+(\\.php|\\.js){0,1}$","replace":"","state":""}

@@ -1,1 +1,0 @@
-{"id":"144028","urlID":"38nkk","name":"cellphone France","description":"France phone","content":"+122(028)651-63-42\n0665214502\n0721542203","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-04-17","pattern":"([0]{1})([6]{1})[0-9]{8}","replace":"\\n# $&:\\n\\t","state":""}

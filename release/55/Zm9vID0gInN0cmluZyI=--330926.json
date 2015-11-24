@@ -1,1 +1,0 @@
-{"id":"169056","urlID":"3b0v0","name":"foo = \"string\"","description":"","content":"   foo_     =   \"Hello wasdas\"    ","weightedVote":"2.5","numVotes":"0","author":"germangb","community":"1","dateAdded":"2015-05-16","pattern":"\\s*\\w+\\s*=\\s*\"(\\w| )*\"\\s*","replace":"","state":"{\"substEnabled\":false}"}

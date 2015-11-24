@@ -1,1 +1,0 @@
-{"id":"180502","urlID":"3c2g2","name":"cornex","description":"","content":"[ml: -1]\n[ml: +3]\n\n[ML: -1]\n[ML: +3]\n\n[mL:-1]\n[Ml:+3]","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-10-26","pattern":"\\[ml:?(.*?)\\]","replace":"","state":"{\"substEnabled\":false}"}

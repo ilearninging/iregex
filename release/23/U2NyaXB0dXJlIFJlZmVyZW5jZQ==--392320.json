@@ -1,1 +1,0 @@
-{"id":"136615","urlID":"381tl","name":"Scripture Reference","description":"Get possible bible verses references","content":"","weightedVote":"2.5","numVotes":"0","author":"JD Gonzales","community":"1","dateAdded":"2014-01-17","pattern":"(matt( \\d*(\\:\\d*)?(\\-\\d*)?((, (\\d*\\-)?\\d*)?)+)?(?!\\w))","replace":"","state":""}

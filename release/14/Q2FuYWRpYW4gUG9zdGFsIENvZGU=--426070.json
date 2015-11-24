@@ -1,1 +1,0 @@
-{"id":"125","urlID":"2ri1n","name":"Canadian Postal Code","description":"Canadian Postal Code: A1A 1A1","content":"","weightedVote":"2.5","numVotes":"0","author":"Ram","community":"1","dateAdded":"2009-08-07","pattern":"\\A[A-Z]{1}[0-9]{1}[A-Z]{1}\\s*[0-9]{1}[A-Z]{1}[0-9]{1}\\Z\/","replace":"","state":""}

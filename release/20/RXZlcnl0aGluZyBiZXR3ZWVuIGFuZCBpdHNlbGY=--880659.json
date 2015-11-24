@@ -1,1 +1,0 @@
-{"id":"81724","urlID":"3313k","name":"Everything between and itself","description":"will match, everything between the comments + the comments itself","content":"","weightedVote":"2.5","numVotes":"0","author":"rayphi","community":"1","dateAdded":"2012-12-03","pattern":"<!-- ad -->(.|\\s)*?<!-- \/ad -->\/","replace":"","state":""}

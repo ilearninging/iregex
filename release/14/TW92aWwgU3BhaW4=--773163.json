@@ -1,1 +1,0 @@
-{"id":"226","urlID":"2rib6","name":"Movil Spain","description":"Validation of numper phone from Spain, is all number and star into 6","content":"","weightedVote":"2.5","numVotes":"0","author":"Alvaro Touzon","community":"1","dateAdded":"2009-11-05","pattern":"^6\\d{8}\/","replace":"","state":""}

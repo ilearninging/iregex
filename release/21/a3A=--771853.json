@@ -1,1 +1,0 @@
-{"id":"102004","urlID":"34sgs","name":"kp","description":"password policy","content":"","weightedVote":"2.5","numVotes":"0","author":"gt","community":"1","dateAdded":"2013-05-15","pattern":"(?=^.{10,50}$)(?=.*[a-zA-Z])(?=.*[0-9])(?=.*[~!@$^*()\/<>.?_-])(?!.*\\\\s)(?!(\\\\d)\\\\1)(?!(\\\\[a-zA-Z])\\\\1).*","replace":"","state":""}

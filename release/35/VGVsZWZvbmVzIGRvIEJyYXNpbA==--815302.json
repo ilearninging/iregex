@@ -1,1 +1,0 @@
-{"id":"152645","urlID":"39gsf","name":"Telefones do Brasil","description":"Checa os telefones do brasil com 3 ou 4 digitos (celular SP)","content":"(44)44355-1234","weightedVote":"2.5","numVotes":"0","author":"Raul Domingues Porto","community":"1","dateAdded":"2014-09-16","pattern":"^(\\(\\d{2}\\)?\\s?|\\d{2}(\\-|\\s))?\\d{4,5}(\\-|\\s)?\\d{4}$\/","replace":"","state":""}

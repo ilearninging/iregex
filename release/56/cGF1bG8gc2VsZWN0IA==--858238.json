@@ -1,1 +1,0 @@
-{"id":"169822","urlID":"3b36q","name":"paulo select ","description":"","content":"aluno:Paulo cesar silva santana ","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-27","pattern":"(\\aluno+\\:)+(.*)","replace":"","state":"{\"substEnabled\":false}"}

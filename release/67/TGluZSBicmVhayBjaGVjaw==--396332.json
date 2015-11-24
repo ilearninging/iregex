@@ -1,1 +1,0 @@
-{"id":"177759","urlID":"3bqet","name":"Line break check","description":"Line break check before currency","content":"stuff\n$7.39\nthings","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-09-17","pattern":"\\n(\\$\\d{1,4}.\\d{1,2})","replace":"","state":"{\"substEnabled\":false}"}

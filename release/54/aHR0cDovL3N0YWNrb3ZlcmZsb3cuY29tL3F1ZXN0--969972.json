@@ -1,1 +1,0 @@
-{"id":"168242","urlID":"3auim","name":"http:\/\/stackoverflow.com\/quest","description":"","content":"\"Foo tells bar that bar likes potato. Bar tells foo that bar does not like potato.\"","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-05-05","pattern":"bar.*?potato","replace":"","state":"{\"substEnabled\":false}"}

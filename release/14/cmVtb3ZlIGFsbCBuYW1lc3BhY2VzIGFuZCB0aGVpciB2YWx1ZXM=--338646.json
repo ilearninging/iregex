@@ -1,1 +1,0 @@
-{"id":"145","urlID":"2ri3j","name":"remove all namespaces and their values","description":"xmlns:test = \"test\"","content":"","weightedVote":"2.5","numVotes":"0","author":"flashblocks.com","community":"1","dateAdded":"2009-08-24","pattern":"_fb:[^\"]*\"[^\"]*\"","replace":"","state":""}

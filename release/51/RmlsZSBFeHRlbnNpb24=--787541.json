@@ -1,1 +1,0 @@
-{"id":"166226","urlID":"3aolm","name":"File Extension","description":"Simple file extension capturing pattern.","content":"foobar.css\nfoobar.js\nfoo.min.css\nblach.osx.js\nhmmm.","weightedVote":"2.5","numVotes":"0","author":"Jason Rose-Kuhrt","community":"1","dateAdded":"2015-04-04","pattern":"\\.([^.]+)$","replace":"","state":"{\"substEnabled\":false}"}

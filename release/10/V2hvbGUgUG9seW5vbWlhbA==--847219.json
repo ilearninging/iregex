@@ -1,1 +1,0 @@
-{"id":"67430","urlID":"31n7i","name":"Whole Polynomial","description":"Matches whole polynomial.","content":"","weightedVote":"3.07292","numVotes":"1","author":"Malcolm Chan","community":"1","dateAdded":"2012-08-01","pattern":"[+-]?\\d*(?:x(?:\\^\\d+)?)?(?:[+-]\\d*(?:x(?:\\^\\d+)?)?)*\/","replace":"","state":""}

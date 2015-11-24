@@ -1,1 +1,0 @@
-{"id":"167830","urlID":"3atc2","name":"phone","description":"","content":"920.7777","weightedVote":"2.5","numVotes":"0","author":"Kyle MacDonald","community":"1","dateAdded":"2015-04-28","pattern":"^(?:[(]?)(\\d{3})?(?:[)]?)(?:[-, ,.])?(\\d{3})(?:[-, ,.]?)(\\d{4})$\/","replace":"","state":"{\"substEnabled\":false}"}

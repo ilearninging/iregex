@@ -1,1 +1,0 @@
-{"id":"157031","urlID":"39tnl","name":"content type text\/ (not html)","description":"","content":"text\/html\ntext\/xml\ntext\/something\ntext\/*\n","weightedVote":"2.5","numVotes":"0","author":"Panthro","community":"1","dateAdded":"2014-11-16","pattern":"text\\\/(?!html)","replace":"","state":""}

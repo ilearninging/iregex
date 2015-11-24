@@ -1,1 +1,0 @@
-{"id":"172216","urlID":"3ba78","name":"Match hex","description":"","content":"#000\n#000000\n000\n000000","weightedVote":"2.5","numVotes":"0","author":"FireDart","community":"1","dateAdded":"2015-06-30","pattern":"^(?:#)|([a-fA-F0-9]{3}|[a-fA-F0-9]{6})$","replace":"","state":"{\"substEnabled\":false}"}

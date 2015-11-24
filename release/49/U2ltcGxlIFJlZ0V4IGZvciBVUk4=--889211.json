@@ -1,1 +1,0 @@
-{"id":"164463","urlID":"3ajgd","name":"Simple RegEx for URN","description":"","content":"urn:contoso","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-03-12","pattern":"^urn:(.+)$","replace":"","state":"{\"substEnabled\":false}"}

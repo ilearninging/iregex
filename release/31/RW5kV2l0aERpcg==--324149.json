@@ -1,1 +1,0 @@
-{"id":"149967","urlID":"3991d","name":"EndWithDir","description":"","content":"222 2ND STREET W","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-08-05","pattern":"([\\d]+)\\s+(.*?)\\s+(E|N|NE|NW|S|SE|SW|W)\\s*$","replace":"","state":""}

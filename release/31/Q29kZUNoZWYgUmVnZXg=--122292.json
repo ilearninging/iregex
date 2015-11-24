@@ -1,1 +1,0 @@
-{"id":"149752","urlID":"398d8","name":"CodeChef Regex","description":"CodeChef Username Registration Regular Expression","content":"user_1","weightedVote":"2.5","numVotes":"0","author":"CodeChef Admin","community":"1","dateAdded":"2014-07-31","pattern":"^[a-z]{1}[a-z0-9_]{3,13}$\/","replace":"","state":""}

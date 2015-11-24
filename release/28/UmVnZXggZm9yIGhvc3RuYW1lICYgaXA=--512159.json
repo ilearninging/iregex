@@ -1,1 +1,0 @@
-{"id":"147085","urlID":"390j7","name":"Regex for hostname & ip","description":"All[A-Z|a-z|0-9|.|-] \nFirst\/Last [A-Z|a-z|0-9] \nNo underscore (_)\n","content":"","weightedVote":"2.5","numVotes":"0","author":"akv","community":"1","dateAdded":"2014-06-16","pattern":"^([A-Za-z0-9][A-Za-z0-9.-]*)*[A-Za-z0-9]+$","replace":"","state":""}

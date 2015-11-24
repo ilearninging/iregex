@@ -1,1 +1,0 @@
-{"id":"162426","urlID":"3adhe","name":"File Extension","description":"Change File Extension from .abc to .xyz","content":"<img src=\"http:\/\/server\/img.jpg\" alt=\"example\" class=\"example\"\/>","weightedVote":"3.26389","numVotes":"1","author":"Frontend-Head","community":"1","dateAdded":"2015-02-12","pattern":"(src=\")(http[^\"]*)(.jpg)(\")","replace":"$1$2.png$4","state":""}

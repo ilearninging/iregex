@@ -1,1 +1,0 @@
-{"id":"154103","urlID":"39l55","name":"Urls with at least 10 chars","description":"Urls with at least 10 chars in length","content":"http:\/\/192.168.0.33\nhttps:\/\/abcdefghijk\n1234567890\n","weightedVote":"2.5","numVotes":"0","author":"Toby Richards","community":"1","dateAdded":"2014-10-07","pattern":"(^(http(s)?:\\\/\\\/[a-zA-Z0-9\\-_]+(.)+))+.{10,}","replace":"","state":""}

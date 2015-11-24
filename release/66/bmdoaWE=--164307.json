@@ -1,1 +1,0 @@
-{"id":"177669","urlID":"3bq6f","name":"nghia","description":"","content":"<li>a1<strong>a2<\/strong><p>a3<\/p>a4<em>a5<\/em><\/li>","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-09-16","pattern":"<li>(.+?(?=<p>))<p>(.+?(?=<\\\/p>))<\\\/p>(.+?(?=<\\\/li>))<\\\/li>","replace":"","state":"{\"substEnabled\":false}"}

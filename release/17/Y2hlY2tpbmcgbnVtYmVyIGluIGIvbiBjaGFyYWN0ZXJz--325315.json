@@ -1,1 +1,0 @@
-{"id":"29450","urlID":"2u7uu","name":"checking number in b\/n characters","description":"checking number in b\/n characters","content":"","weightedVote":"2.5","numVotes":"0","author":"Harikrishnaa","community":"1","dateAdded":"2011-07-15","pattern":"(Wire from\\s?[\/:]\\s?[[a-zA-Z]*\\s?]*)([0-9]*)","replace":"","state":""}

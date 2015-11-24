@@ -1,1 +1,0 @@
-{"id":"171402","urlID":"3b7qu","name":"Text","description":"remove dots dashes underscores","content":"Welcome.to-RegEx_r.v2.0.03.by.gski.v2.0.03 danner.com!bla-la_122.232-13!","weightedVote":"2.5","numVotes":"0","author":"Noname","community":"1","dateAdded":"2015-06-18","pattern":"([\\.\\-\\_])(?![\\d])","replace":"","state":"{\"substEnabled\":false}"}

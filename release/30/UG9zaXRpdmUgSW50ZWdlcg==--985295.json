@@ -1,1 +1,0 @@
-{"id":"148550","urlID":"394si","name":"Positive Integer","description":"Finds single match of any integer greater than or equal to zero.","content":"123153","weightedVote":"2.5","numVotes":"0","author":"Joe C","community":"1","dateAdded":"2014-07-10","pattern":"^(([0-9])+)$","replace":"","state":""}

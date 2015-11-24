@@ -1,1 +1,0 @@
-{"id":"158648","urlID":"3a2f8","name":"delete last name","description":"delete last name from string","content":"voornaam achternaam","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2014-12-11","pattern":"\\s.*$","replace":"","state":""}

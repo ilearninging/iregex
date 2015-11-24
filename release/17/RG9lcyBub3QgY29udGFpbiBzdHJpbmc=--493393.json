@@ -1,1 +1,0 @@
-{"id":"32888","urlID":"2ui18","name":"Does not contain string","description":"Regular expression that doesn't contain certain string","content":"","weightedVote":"2.5","numVotes":"0","author":"John ","community":"1","dateAdded":"2011-08-25","pattern":"^((?!my string).)*$","replace":"","state":""}

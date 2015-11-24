@@ -1,1 +1,0 @@
-{"id":"64251","urlID":"31dth","name":"Date DD\/MM\/YYYY","description":"Validates date in format DD\/MM\/YYYY.\rDD must be 1-31, MM 1-12 and YYYY a 4 digit num.","content":"","weightedVote":"3.26389","numVotes":"1","author":"R3g3x","community":"1","dateAdded":"2012-07-02","pattern":"(([1-2][0-9])|([1-9])|(3[0-1]))\/((1[0-2])|([1-9]))\/[0-9]{4}","replace":"","state":""}

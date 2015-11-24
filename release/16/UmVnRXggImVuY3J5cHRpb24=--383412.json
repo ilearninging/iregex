@@ -1,1 +1,0 @@
-{"id":"6786","urlID":"2s5i6","name":"RegEx \"encryption","description":"Manipulates text so that it seems encrypted","content":"","weightedVote":"2.5","numVotes":"0","author":"Neil","community":"1","dateAdded":"2010-09-15","pattern":"\\w{1,2}(?=([a-z]{1})+(?!\\[a-z]))","replace":"$&a4s $& 4453fkd","state":""}

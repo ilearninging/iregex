@@ -1,1 +1,0 @@
-{"id":"108386","urlID":"35f76","name":"Colombian NIT","description":"Colombian tax identification number","content":"","weightedVote":"2.5","numVotes":"0","author":"jcostero","community":"1","dateAdded":"2013-07-04","pattern":"([0-9]{3}\\.[0-9]{3}\\.[0-9]{3}-\\d)","replace":"","state":""}

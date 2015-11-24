@@ -1,1 +1,0 @@
-{"id":"136255","urlID":"380rt","name":"Twitter Hash Tags","description":"Simple regex that will match multiple #hashtags from a given string.","content":"","weightedVote":"2.5","numVotes":"0","author":"Paul C.","community":"1","dateAdded":"2014-01-15","pattern":"#[\\w'-]*","replace":"","state":""}

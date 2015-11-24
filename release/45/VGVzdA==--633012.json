@@ -1,1 +1,0 @@
-{"id":"161175","urlID":"3a9s5","name":"Test","description":"","content":"PersistViewModelBase<PessoaModel, EntityCollection<PessoaModel>>","weightedVote":"2.5","numVotes":"0","author":"","community":"1","dateAdded":"2015-01-26","pattern":"(?s)(?<=This is).*?(?=sentence)","replace":"","state":""}

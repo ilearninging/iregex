@@ -1,1 +1,0 @@
-{"id":"179697","urlID":"3c04j","name":"non-capturing groupe","description":"","content":"quux:foo:bar:baz","weightedVote":"2.5","numVotes":"0","author":"mohamed4ch","community":"1","dateAdded":"2015-10-14","pattern":"quux:(.*?):(?:.*?):(.*)","replace":"","state":"{\"substEnabled\":false}"}

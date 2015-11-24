@@ -1,1 +1,0 @@
-{"id":"4049","urlID":"2rthj","name":"Find text between curly braces","description":"It finds text between curly braces. It is functional though it needs some more work.","content":"","weightedVote":"1.39796","numVotes":"2","author":"Macabre Sunsets","community":"1","dateAdded":"2010-08-05","pattern":"^.*?(?==)=.*?(?=\\{)\\{.*\\}","replace":"","state":""}

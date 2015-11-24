@@ -1,1 +1,0 @@
-{"id":"19778","urlID":"2tbk6","name":"Domain From any URL","description":"Found this on stackoverflow website, it works perfectly well.","content":"","weightedVote":"3.53704","numVotes":"4","author":"FlashUser","community":"1","dateAdded":"2011-03-21","pattern":"http(s?):\/\/([\\w]+\\.){1}([\\w]+\\.?)+","replace":"","state":""}

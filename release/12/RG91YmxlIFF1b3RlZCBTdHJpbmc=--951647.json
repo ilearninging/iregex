@@ -1,1 +1,0 @@
-{"id":"365","urlID":"2rio7","name":"Double Quoted String","description":"Will match any string in double quotes","content":"","weightedVote":"2.88194","numVotes":"1","author":"Ryan Matsikas","community":"1","dateAdded":"2010-02-19","pattern":"\"(?:\\.|(\\\\\\\")|[^\\\"\"\\n])*\"","replace":"","state":""}

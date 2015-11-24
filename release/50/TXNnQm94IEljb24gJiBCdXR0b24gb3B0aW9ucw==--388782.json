@@ -1,1 +1,0 @@
-{"id":"165037","urlID":"3al67","name":"MsgBox Icon & Button options","description":"","content":"btn:!","weightedVote":"2.5","numVotes":"0","author":"WSNHapps","community":"1","dateAdded":"2015-03-20","pattern":"(?:ico:(x|\\?|\\!|i)|btn:(c|\\w{2,3}))","replace":"$1$2","state":"{\"substEnabled\":true}"}
