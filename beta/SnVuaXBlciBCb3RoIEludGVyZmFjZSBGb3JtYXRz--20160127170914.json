@@ -1,0 +1,12 @@
+{
+  "author" : null,
+  "content" : "ge-0\/0\/0.100\nge-0\/0\/0 unit 100",
+  "numVotes" : 0,
+  "id" : 0,
+  "weightedVote" : 0,
+  "replace" : "",
+  "pattern" : "ge-0\/0\/0(.{1,6}100)",
+  "sha" : null,
+  "description" : "Match both variants",
+  "name" : "Juniper Both Interface Formats"
+}
