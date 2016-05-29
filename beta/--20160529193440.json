@@ -1,0 +1,12 @@
+{
+  "author" : null,
+  "content" : "apple banana orange cheery",
+  "numVotes" : 0,
+  "id" : 0,
+  "weightedVote" : 0,
+  "pattern" : "\\w+",
+  "replace" : "\\n \\1 is delicious!",
+  "sha" : null,
+  "description" : "word, digit, whitespace\n",
+  "name" : ""
+}
