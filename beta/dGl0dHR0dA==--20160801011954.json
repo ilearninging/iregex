@@ -1,0 +1,12 @@
+{
+  "author" : null,
+  "content" : "",
+  "numVotes" : 0,
+  "id" : 0,
+  "weightedVote" : 0,
+  "pattern" : "^abc$",
+  "replace" : "",
+  "sha" : null,
+  "description" : "start \/ end of the string",
+  "name" : "tittttt"
+}
