@@ -1,0 +1,12 @@
+{
+  "description" : "iRegEx provides real-time visual results, syntax highlighting, tooltips  so it's easy and fun to explore Regular Expressions.Browse through the Reference and test different tokens to see what they do, then check out the Examples to see how tokens work together.",
+  "id" : 0,
+  "name" : "title",
+  "author" : null,
+  "numVotes" : 0,
+  "content" : "iRegEx provides real-time visual results, syntax highlighting, tooltips  so it's easy and fun to explore Regular Expressions.Browse through the Library and test different tokens to see what they do, then check out the Examples to see how tokens work together.",
+  "sha" : null,
+  "pattern" : "(iRegEx)",
+  "replace" : "iLoveU $1",
+  "weightedVote" : 0
+}
