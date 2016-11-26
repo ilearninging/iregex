@@ -1,0 +1,12 @@
+{
+  "author" : null,
+  "content" : "29\/8\/2016, 13:35:04: Anna 詩韻 梁: sept 21-23 其中一日拍幸福，okay?\n29\/8\/2016, 13:35:20: Gregory 河國榮: 可以\n29\/8\/2016, 13:35:26: Gregory 河國榮: 確實？\n29\/8\/2016, 13:36:50: Anna 詩韻 梁: 未簽\n29\/8\/2016, 14:19:44: Anna 詩韻 梁: 穩陣Ｄ，我想在簽約前把品牌名字也告訴幸福一聲\n29\/8\/2016, 14:20:01: Anna 詩韻 梁: 保健產品的名字\n29\/8\/2016, 14:20:19: Gregory 河國榮: 新嘅。無人識。\n29\/8\/2016, 13:39:53: Anna 詩韻 梁: 爸爸這星期的schedule如何\n29\/8\/2016, 13:45:34: Gregory 河國榮: 聽日拍廣告。跟住得閒。",
+  "numVotes" : 0,
+  "id" : 0,
+  "weightedVote" : 0,
+  "replace" : "$1\/r",
+  "pattern" : "([0-9:]{9}) ",
+  "sha" : null,
+  "description" : "iRegEx provides real-time visual results, syntax highlighting, tooltips  so it's easy and fun to explore Regular Expressions.Browse through the Reference and test different tokens to see what they do, then check out the Examples to see how tokens work together.",
+  "name" : "WhatsApp Text Formatter"
+}
