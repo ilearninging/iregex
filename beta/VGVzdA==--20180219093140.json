@@ -1,0 +1,12 @@
+{
+  "author" : null,
+  "content" : "",
+  "numVotes" : 0,
+  "id" : 0,
+  "weightedVote" : 0,
+  "replace" : "",
+  "pattern" : "LIN[E|K]",
+  "sha" : null,
+  "description" : "",
+  "name" : "Test"
+}
